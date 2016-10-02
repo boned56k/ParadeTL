@@ -38,7 +38,7 @@ Here is an example of what you will see in the translation patch **.txt** files.
 
 >\> END STRING
 
-The bold text is the added translation. It is very bad but it will work for this example. You do not need to remove the "**< UNTRANSLATED**" part of the metadata. Note that the weird **\\\c[3]** stuff is still in-tact. The game engine does stuff like replace it with an item or player name so keep it in the translation.
+The bold text is the added translation. It is very bad but it will work for this example. Note that the weird **\\\c[3]** stuff is still in-tact. The game engine needs it so stay in the translation for name or item text replacement.
 > **After:**
 
 > \> BEGIN STRING  
