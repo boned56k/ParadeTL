@@ -3,14 +3,15 @@
 > BEGIN STRING
 \\f[20]チュートリアル
 \\f[16]Tutorial
-> CONTEXT COMMONEVENT:357/25/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:357/25/Picture
+\\f[20]
+\\f[16]Tutorial
 > END STRING
 
 > BEGIN STRING
 チュートリアルを行いますか？
-> CONTEXT COMMONEVENT:357/26/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:357/26/Message
+Would you like to do the tutorial?
 > END STRING
 
 > BEGIN STRING

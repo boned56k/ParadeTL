@@ -2,20 +2,20 @@
 
 > BEGIN STRING
 ダガー
-> CONTEXT DB:DataBase/[3]武器/[0]ダガー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[0]ダガー/[0]武器の名前
+Dagger
 > END STRING
 
 > BEGIN STRING
 ハルバード
-> CONTEXT DB:DataBase/[3]武器/[1]ハルバード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[1]ハルバード/[0]武器の名前
+Halberd
 > END STRING
 
 > BEGIN STRING
 アイアンソード
-> CONTEXT DB:DataBase/[3]武器/[2]アイアンソード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[2]アイアンソード/[0]武器の名前
+Iron Sword
 > END STRING
 
 > BEGIN STRING
@@ -26,14 +26,14 @@
 
 > BEGIN STRING
 バトルアックス
-> CONTEXT DB:DataBase/[3]武器/[4]バトルアックス/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[4]バトルアックス/[0]武器の名前
+Battle Axe
 > END STRING
 
 > BEGIN STRING
 素手
-> CONTEXT DB:DataBase/[3]武器/[5]素手/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[5]素手/[0]武器の名前
+Unarmed
 > END STRING
 
 > BEGIN STRING
@@ -44,9 +44,9 @@
 
 > BEGIN STRING
 ロングボウ
-> CONTEXT DB:DataBase/[3]武器/[6]ロングボウ/[0]武器の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[3]武器/[27]ロングボウ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[6]ロングボウ/[0]武器の名前
+> CONTEXT DB:DataBase/[3]武器/[27]ロングボウ/[0]武器の名前
+Longbow
 > END STRING
 
 > BEGIN STRING
@@ -71,14 +71,14 @@
 
 > BEGIN STRING
 ショートスピア＆シールド
-> CONTEXT DB:DataBase/[3]武器/[9]ショートスピア＆シールド/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[9]ショートスピア＆シールド/[0]武器の名前
+Short spear & Shield
 > END STRING
 
 > BEGIN STRING
 ◆◆◆武器無し◆◆◆
-> CONTEXT DB:DataBase/[3]武器/[10]◆◆◆武器無し◆◆◆/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[10]◆◆◆武器無し◆◆◆/[0]武器の名前
+◆◆◆No Weapon◆◆◆
 > END STRING
 
 > BEGIN STRING
@@ -95,8 +95,8 @@
 
 > BEGIN STRING
 テスト用
-> CONTEXT DB:DataBase/[3]武器/[11]脱力剣/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[11]脱力剣/[1]武器の説明[2行まで可]
+For testing
 > END STRING
 
 > BEGIN STRING
@@ -107,14 +107,14 @@
 
 > BEGIN STRING
 ツインソード
-> CONTEXT DB:DataBase/[3]武器/[13]ツインソード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[13]ツインソード/[0]武器の名前
+Twinsword
 > END STRING
 
 > BEGIN STRING
 プラズマファング
-> CONTEXT DB:DataBase/[3]武器/[14]プラズマファング/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[14]プラズマファング/[0]武器の名前
+Plasma Fang
 > END STRING
 
 > BEGIN STRING
@@ -143,8 +143,8 @@
 
 > BEGIN STRING
 ウォーハンマー
-> CONTEXT DB:DataBase/[3]武器/[24]ウォーハンマー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[24]ウォーハンマー/[0]武器の名前
+War Hammer
 > END STRING
 
 > BEGIN STRING
@@ -173,20 +173,20 @@
 
 > BEGIN STRING
 チェーンソード
-> CONTEXT DB:DataBase/[3]武器/[29]チェーンソード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[29]チェーンソード/[0]武器の名前
+Chain Sword
 > END STRING
 
 > BEGIN STRING
 エストック
-> CONTEXT DB:DataBase/[3]武器/[35]エストック/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[35]エストック/[0]武器の名前
+Estoc
 > END STRING
 
 > BEGIN STRING
 ニンジャソード
-> CONTEXT DB:DataBase/[3]武器/[36]ニンジャソード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[36]ニンジャソード/[0]武器の名前
+Ninja Sword
 > END STRING
 
 > BEGIN STRING
@@ -197,8 +197,8 @@
 
 > BEGIN STRING
 ツインスピア
-> CONTEXT DB:DataBase/[3]武器/[37]ツインスピア/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[37]ツインスピア/[0]武器の名前
+Twin Spear
 > END STRING
 
 > BEGIN STRING
@@ -221,8 +221,8 @@
 
 > BEGIN STRING
 モーニングスター
-> CONTEXT DB:DataBase/[3]武器/[40]モーニングスター/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[40]モーニングスター/[0]武器の名前
+Morning star
 > END STRING
 
 > BEGIN STRING
@@ -239,26 +239,26 @@
 
 > BEGIN STRING
 ホーリィスタッフ
-> CONTEXT DB:DataBase/[3]武器/[43]ホーリィスタッフ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[43]ホーリィスタッフ/[0]武器の名前
+Holy Staff
 > END STRING
 
 > BEGIN STRING
 ビッグブーメラン
-> CONTEXT DB:DataBase/[3]武器/[45]ビッグブーメラン/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[45]ビッグブーメラン/[0]武器の名前
+Big Boomerang
 > END STRING
 
 > BEGIN STRING
 ブラックブック
-> CONTEXT DB:DataBase/[3]武器/[46]ブラックブック/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[46]ブラックブック/[0]武器の名前
+Black Book
 > END STRING
 
 > BEGIN STRING
 スカルハンマー
-> CONTEXT DB:DataBase/[3]武器/[47]スカルハンマー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[47]スカルハンマー/[0]武器の名前
+Skull Hammer
 > END STRING
 
 > BEGIN STRING
@@ -269,8 +269,8 @@
 
 > BEGIN STRING
 ジュウト
-> CONTEXT DB:DataBase/[3]武器/[50]ジュウト/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[50]ジュウト/[0]武器の名前
+Jitte
 > END STRING
 
 > BEGIN STRING
@@ -281,8 +281,8 @@
 
 > BEGIN STRING
 ジェミニアックス
-> CONTEXT DB:DataBase/[3]武器/[52]ジェミニアックス/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[52]ジェミニアックス/[0]武器の名前
+Gemini Axe
 > END STRING
 
 > BEGIN STRING
@@ -299,26 +299,26 @@
 
 > BEGIN STRING
 デュアルスタッフ
-> CONTEXT DB:DataBase/[3]武器/[54]デュアルスタッフ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[54]デュアルスタッフ/[0]武器の名前
+Dual Staff
 > END STRING
 
 > BEGIN STRING
 ブレードクロ―
-> CONTEXT DB:DataBase/[3]武器/[55]ブレードクロ―/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[55]ブレードクロ―/[0]武器の名前
+Black Blade
 > END STRING
 
 > BEGIN STRING
 バスターシールド
-> CONTEXT DB:DataBase/[3]武器/[56]バスターシールド/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[56]バスターシールド/[0]武器の名前
+Buster Shield
 > END STRING
 
 > BEGIN STRING
 スパイダーソード
-> CONTEXT DB:DataBase/[3]武器/[57]スパイダーソード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[57]スパイダーソード/[0]武器の名前
+Spider Sword
 > END STRING
 
 > BEGIN STRING
@@ -329,8 +329,8 @@
 
 > BEGIN STRING
 ロイヤルアンブレラ
-> CONTEXT DB:DataBase/[3]武器/[58]ロイヤルアンブレラ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[58]ロイヤルアンブレラ/[0]武器の名前
+Royal Umbrella
 > END STRING
 
 > BEGIN STRING
@@ -341,8 +341,8 @@
 
 > BEGIN STRING
 イージーボウガン
-> CONTEXT DB:DataBase/[3]武器/[59]イージーボウガン/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[59]イージーボウガン/[0]武器の名前
+Easy Crossbow
 > END STRING
 
 > BEGIN STRING
@@ -359,32 +359,32 @@
 
 > BEGIN STRING
 アイスブレード
-> CONTEXT DB:DataBase/[3]武器/[61]アイスブレード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[61]アイスブレード/[0]武器の名前
+Ice Blade
 > END STRING
 
 > BEGIN STRING
 ミスリルソード
-> CONTEXT DB:DataBase/[3]武器/[63]ミスリルソード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[63]ミスリルソード/[0]武器の名前
+Mithril Sword
 > END STRING
 
 > BEGIN STRING
 ユニコーンランス
-> CONTEXT DB:DataBase/[3]武器/[64]ユニコーンランス/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[64]ユニコーンランス/[0]武器の名前
+Unicorn Lance
 > END STRING
 
 > BEGIN STRING
 バスタードルヒ
-> CONTEXT DB:DataBase/[3]武器/[65]バスタードルヒ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[65]バスタードルヒ/[0]武器の名前
+Bastard Ruhi
 > END STRING
 
 > BEGIN STRING
 プライドクラッシャ
-> CONTEXT DB:DataBase/[3]武器/[66]プライドクラッシャ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[66]プライドクラッシャ/[0]武器の名前
+Pride Crusher
 > END STRING
 
 > BEGIN STRING
@@ -395,26 +395,26 @@
 
 > BEGIN STRING
 ロックレイジ
-> CONTEXT DB:DataBase/[3]武器/[67]ロックレイジ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[67]ロックレイジ/[0]武器の名前
+Rock Rage
 > END STRING
 
 > BEGIN STRING
 ダブルブレード
-> CONTEXT DB:DataBase/[3]武器/[68]ダブルブレード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[68]ダブルブレード/[0]武器の名前
+Double Blade
 > END STRING
 
 > BEGIN STRING
 シーフズツール
-> CONTEXT DB:DataBase/[3]武器/[69]シーフズツール/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[69]シーフズツール/[0]武器の名前
+Thief's Tools
 > END STRING
 
 > BEGIN STRING
 テン・スラッシャー
-> CONTEXT DB:DataBase/[3]武器/[70]テン・スラッシャー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[70]テン・スラッシャー/[0]武器の名前
+Ten Thrasher
 > END STRING
 
 > BEGIN STRING
@@ -425,14 +425,14 @@
 
 > BEGIN STRING
 ハイスピードチャージ
-> CONTEXT DB:DataBase/[3]武器/[72]ハイスピードチャージ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[72]ハイスピードチャージ/[0]武器の名前
+High-speed Charge
 > END STRING
 
 > BEGIN STRING
 スティンガースピア
-> CONTEXT DB:DataBase/[3]武器/[73]スティンガースピア/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[73]スティンガースピア/[0]武器の名前
+Stinger Spear
 > END STRING
 
 > BEGIN STRING
@@ -443,8 +443,8 @@
 
 > BEGIN STRING
 カーブドブレード
-> CONTEXT DB:DataBase/[3]武器/[75]カーブドブレード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[75]カーブドブレード/[0]武器の名前
+Curved Blade
 > END STRING
 
 > BEGIN STRING
@@ -461,8 +461,8 @@
 
 > BEGIN STRING
 日本刀
-> CONTEXT DB:DataBase/[3]武器/[78]日本刀/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[78]日本刀/[0]武器の名前
+Japanese Sword
 > END STRING
 
 > BEGIN STRING

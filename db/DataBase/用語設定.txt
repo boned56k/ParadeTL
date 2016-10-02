@@ -9,9 +9,9 @@
 
 > BEGIN STRING
 システム
-> CONTEXT COMMONEVENT:356/87/Choices < UNTRANSLATED
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[4][ﾒﾆｭｰ]システム < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/87/Choices
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[4][ﾒﾆｭｰ]システム
+System
 > END STRING
 
 > BEGIN STRING
@@ -30,8 +30,8 @@
 
 > BEGIN STRING
 Lv
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[5][ｽﾃｰﾀｽ]レベル < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[5][ｽﾃｰﾀｽ]レベル
+Lv
 > END STRING
 
 > BEGIN STRING
@@ -42,14 +42,14 @@ Lv
 
 > BEGIN STRING
 HP
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[7][ｽﾃｰﾀｽ]HP名称 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[7][ｽﾃｰﾀｽ]HP名称
+HP
 > END STRING
 
 > BEGIN STRING
 SP
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[8][ｽﾃｰﾀｽ]SP名称 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[8][ｽﾃｰﾀｽ]SP名称
+SP
 > END STRING
 
 > BEGIN STRING
@@ -96,8 +96,8 @@ SP
 
 > BEGIN STRING
 ｸﾘﾃｨｶﾙ
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[16][ｽﾃｰﾀｽ]クリティカル率 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[16][ｽﾃｰﾀｽ]クリティカル率
+Critical
 > END STRING
 
 > BEGIN STRING
@@ -108,8 +108,8 @@ SP
 
 > BEGIN STRING
 G
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[18][ｽﾃｰﾀｽ]お金の単位 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[18][ｽﾃｰﾀｽ]お金の単位
+G
 > END STRING
 
 > BEGIN STRING
@@ -150,20 +150,20 @@ G
 
 > BEGIN STRING
 セーブしたいデータを選んで下さい。
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[27][セーブ]セーブ時メッセージ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[27][セーブ]セーブ時メッセージ
+Please choose the saved data。
 > END STRING
 
 > BEGIN STRING
 ロードしたいデータを選んで下さい。
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[28][セーブ]ロード時メッセージ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[28][セーブ]ロード時メッセージ
+Please choose the data you would like to load。
 > END STRING
 
 > BEGIN STRING
 データ
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[29][セーブ]セーブデータ名称 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[29][セーブ]セーブデータ名称
+Data
 > END STRING
 
 > BEGIN STRING
@@ -192,6 +192,6 @@ G
 
 > BEGIN STRING
 分類
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[34]装備分類 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[34]装備分類
+Guard endurance
 > END STRING
