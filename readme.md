@@ -5,7 +5,7 @@ ParadeBuster translation project
 This project is the in-progress translation of the output of arc_converter + wolftrans.
 
 ----------
-
+![Example](http://i.imgur.com/QIUMZKN.png)
 
 Contributing
 -------------
