@@ -11,7 +11,7 @@ Contributing
 -------------
 
 Find a .txt file that needs some translations and then do the following:
-![Howto](http://i.imgur.com/BMlcZTE.png)
+![Howto](http://i.imgur.com/R1JG2QZ.png)
 
 Or if you know how to use Git
 
