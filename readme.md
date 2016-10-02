@@ -10,18 +10,12 @@ This project is the in-progress translation of the output of arc_converter + wol
 Contributing
 -------------
 
+Find a .txt file that needs some translations and then do the following:
+![Howto](http://i.imgur.com/BMlcZTE.png)
+
+Or if you know how to use Git
+
 Clone this repository and begin modifying the translation text files. I've added an example of a before and after below. Once you have completed some translations, submit a github pull request (pull request guide: https://help.github.com/articles/creating-a-pull-request/). I will merge it into the main branch after quality checking it ASAP.
-
-
-I don't know shit about Git
--------------
-
-OK  
-1) https://git-scm.com/download  
-2) use the green clone with HTTPS button in top right  
-3) do some translations  
-4) use this guide maybe http://rogerdudler.github.io/git-guide/  
-5) **finally** create a pull request https://help.github.com/articles/creating-a-pull-request/  
 
 How do I apply the translation patch?
 -------------
