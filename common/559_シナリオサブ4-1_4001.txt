@@ -1,0 +1,333 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@4
+ここが依頼者さんの家か…
+すごい屋敷だな。
+> CONTEXT COMMONEVENT:559/21/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+おお、あなたが万能剣士どのですか…
+どうか私の願いをお聞き届けくだされ。
+> CONTEXT COMMONEVENT:559/22/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+実は…私の娘は重い病に
+かかっておりまして…その病を癒やすには
+大金が要るのです。
+> CONTEXT COMMONEVENT:559/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+私はどうしても金がほしい…
+そこで今度開かれる\\c[3]闘技大会\\c[0]の話を
+聞きました。
+> CONTEXT COMMONEVENT:559/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+闘技大会で優勝した者には景品と、
+莫大な賞金が与えられるらしいのです。
+> CONTEXT COMMONEVENT:559/27/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+そこであなたにこの闘技大会に
+出ていただき、優勝した暁には
+賞金をすこし頂きたい…それが私の依頼です。
+> CONTEXT COMMONEVENT:559/28/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+お願いします！愛しの娘を助けるためにも
+どうか…\\f[32]どうかお願いいたします！！
+\\f[40]どうか！！
+> CONTEXT COMMONEVENT:559/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+わ、わかりました…落ち着いてください。
+> CONTEXT COMMONEVENT:559/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+おおお…！ありがとうございます！
+あなたに頼んでよかった…！
+> CONTEXT COMMONEVENT:559/32/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（娘さんを助けるため、と言われると
+　無碍に断るわけにもいかないな…）
+> CONTEXT COMMONEVENT:559/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（それに闘技大会とくれば日頃の訓練の
+　成果を試すいい機会だ）
+> CONTEXT COMMONEVENT:559/34/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+では、衣装を用意しております。
+こちらへどうぞ…。
+> CONTEXT COMMONEVENT:559/35/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+衣装…？
+衣装って何ですか？
+> CONTEXT COMMONEVENT:559/38/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+あ、その闘技大会\\c[3]女性限定\\c[0]なんですよ。
+> CONTEXT COMMONEVENT:559/39/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+\\f[40]女性限定！？
+> CONTEXT COMMONEVENT:559/40/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+ええ、だからあなたには女性の
+格好をしていただいて
+大会に出てもらう事になります。
+> CONTEXT COMMONEVENT:559/41/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+服だけ女の人のものを着たって
+バレるに決まってますよ！
+無茶言わないでください！
+> CONTEXT COMMONEVENT:559/43/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+娘のためなんです！
+どうかお願いします！
+> CONTEXT COMMONEVENT:559/44/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+あなたが戦ってくれなかったら
+娘はこのまま…
+そうなったら私も…ううっ…
+> CONTEXT COMMONEVENT:559/45/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+う…
+> CONTEXT COMMONEVENT:559/46/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@62
+…
+> CONTEXT COMMONEVENT:559/57/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+おお～っ！完璧だ！
+どこからどう見ても普通の
+女の子です！
+> CONTEXT COMMONEVENT:559/58/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@62
+あの…この傘は？
+> CONTEXT COMMONEVENT:559/61/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+女性らしさをさらにアップさせるためです。
+武器もそれを使ってください。
+> CONTEXT COMMONEVENT:559/62/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+中に硬い鉄棒を仕込んでありますから…
+万能剣士さんなら余裕でしょう！
+> CONTEXT COMMONEVENT:559/63/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@62
+は、はあ…
+> CONTEXT COMMONEVENT:559/64/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そして、闘技大会当日…
+> CONTEXT COMMONEVENT:559/70/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:616/94/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:709/62/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+さあ、最強の女性を決める
+エスラ大闘技会がついに開催されます！
+> CONTEXT COMMONEVENT:559/81/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+我こそは最強の乙女なりと世界各地から
+腕自慢の女性たちが集まった本大会！
+> CONTEXT COMMONEVENT:559/82/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+果たして最強の座を奪い取り、
+豪華景品を手にするのは誰なのか！？
+> CONTEXT COMMONEVENT:559/83/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+さっそく第1試合！
+> CONTEXT COMMONEVENT:559/84/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+西、レスティーナ選手の入場です！
+> CONTEXT COMMONEVENT:559/85/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+一見戦いとは無縁そうな彼女がどんな
+攻撃を繰り出すのか！？
+意外性を秘めた期待の新人だ！
+> CONTEXT COMMONEVENT:559/88/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@5
+\\f[40]ウオオオオーッ！
+レスティーナ、
+頑張れーーっ！！
+> CONTEXT COMMONEVENT:559/90/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+おおっと、一部観客から早くも熱い声援だ！
+> CONTEXT COMMONEVENT:559/91/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+では東…チーム「守備絶対主義」の入場です！
+> CONTEXT COMMONEVENT:559/92/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@62
+ちょ、ちょっと待って！
+> CONTEXT COMMONEVENT:559/95/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+どうしましたかレスティーナ選手？
+> CONTEXT COMMONEVENT:559/96/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@62
+チーム？これって1対1の試合なんじゃ…
+なんじゃ、ありません…の？
+> CONTEXT COMMONEVENT:559/97/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+参加要項にチームでの出場も大丈夫と
+書いてありま～す\\i[200]
+> CONTEXT COMMONEVENT:559/98/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@62
+あら…そ、そう…ですの…
+> CONTEXT COMMONEVENT:559/99/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+さあ、分かったら試合開始だ！！
+> CONTEXT COMMONEVENT:559/101/Message < UNTRANSLATED
+
+> END STRING

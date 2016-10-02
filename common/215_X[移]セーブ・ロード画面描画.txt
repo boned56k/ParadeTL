@@ -1,0 +1,7 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\f[\\cself[19]]\\cself[6]　　\\my[5]\\f[\\cself[18]]R:ラベル設置
+> CONTEXT COMMONEVENT:215/164/Picture < UNTRANSLATED
+
+> END STRING

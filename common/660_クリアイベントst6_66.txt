@@ -1,0 +1,161 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@52
+ごめんなさい…私、またあなたに
+迷惑をかけてしまって。
+> CONTEXT COMMONEVENT:660/23/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+私が油断したのが悪いんです。
+お怪我はありませんか？
+> CONTEXT COMMONEVENT:660/24/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+ええ、私は大丈夫…。
+> CONTEXT COMMONEVENT:660/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+本当にありがとう…
+> CONTEXT COMMONEVENT:660/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+ひ、姫…
+> CONTEXT COMMONEVENT:660/27/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+さあ、行きましょう。
+> CONTEXT COMMONEVENT:660/28/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@55
+\\cdb[0:0:0]様！先ほど娘が帰ってきました…
+本当にありがとうございました！
+> CONTEXT COMMONEVENT:660/40/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@57
+おかげさまで助かりました！
+なんとお礼を言ったら良いか…！
+> CONTEXT COMMONEVENT:660/41/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+商人さん。領主は二度と町のみなさんを
+困らせるような事はしないと約束してくれました。
+> CONTEXT COMMONEVENT:660/42/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+きっともう大丈夫でしょう。
+> CONTEXT COMMONEVENT:660/43/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@55
+おお…ありがとうございます！
+あなたがこの町に来てくれて本当に良かった…！
+> CONTEXT COMMONEVENT:660/44/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+それでは、先を急ぎますので
+これで…
+> CONTEXT COMMONEVENT:660/45/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+そっか…それで町には女の人が
+全然いなかったのね。
+> CONTEXT COMMONEVENT:660/56/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+でもあなたのおかげで
+元の町に戻ったみたいで本当に良かった。
+> CONTEXT COMMONEVENT:660/57/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+\\cdb[0:0:0]くん…本当に優しいのね。
+> CONTEXT COMMONEVENT:660/58/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+そ、そんなことは…
+> CONTEXT COMMONEVENT:660/59/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+さあ、ワラート城はもうすぐです。
+行きましょう！
+> CONTEXT COMMONEVENT:660/60/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+二人は船でさらに南下、
+ついにワラートの城下町にたどりついた。
+> CONTEXT COMMONEVENT:660/64/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+ついにここまで来られたね…。
+> CONTEXT COMMONEVENT:660/73/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+ええ。
+これもワラート王があの時身を挺して
+敵を食い止めてくださったおかげです。
+> CONTEXT COMMONEVENT:660/74/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+お父様…。どうか見守っていてください！
+> CONTEXT COMMONEVENT:660/75/Message < UNTRANSLATED
+
+> END STRING

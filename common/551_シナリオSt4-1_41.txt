@@ -1,0 +1,1525 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@4
+色々あったけど
+なんとかエスラに来ることができた…
+> CONTEXT COMMONEVENT:551/20/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+鎧の男、エスラの城下町で待つと
+言っていたけど一体どこにいるのか…
+> CONTEXT COMMONEVENT:551/21/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+待っていたぞ。
+> CONTEXT COMMONEVENT:551/22/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+うわ！？
+> CONTEXT COMMONEVENT:551/23/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+い、いつのまに…！
+> CONTEXT COMMONEVENT:551/24/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+宝玉は無事なようだな…
+> CONTEXT COMMONEVENT:551/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+ここでは人目に付く。
+こっちに…。
+> CONTEXT COMMONEVENT:551/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+では、教えよう。
+> CONTEXT COMMONEVENT:551/37/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+なぜ私がその宝玉を必要としているか、
+> CONTEXT COMMONEVENT:551/38/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+なぜエスラ城の者に渡るのを阻止したいかを…
+> CONTEXT COMMONEVENT:551/39/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+その宝玉は…パックジュエルになっている。
+> CONTEXT COMMONEVENT:551/48/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+え…！？
+> CONTEXT COMMONEVENT:551/49/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+ワラート国の女王マーチがエスラに届けたかったのは
+宝玉そのものではなく、その中身だ。
+> CONTEXT COMMONEVENT:551/50/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+ほ、宝玉の中に一体何を
+入れているっていうんです？
+> CONTEXT COMMONEVENT:551/51/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+何を…というより誰をと言ったほうが
+合っているな。
+> CONTEXT COMMONEVENT:551/52/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+宝玉の中に閉じ込められているのは…
+姿を眩ませたリチア姫だ。
+> CONTEXT COMMONEVENT:551/54/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+リチア姫が！？
+> CONTEXT COMMONEVENT:551/56/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（…めちゃくちゃな話だけど
+　この男は僕を…というより
+　宝玉を一度助けてくれた）
+> CONTEXT COMMONEVENT:551/57/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（宝玉に関しては彼が
+　偽りを言うことは無いのか…？）
+> CONTEXT COMMONEVENT:551/58/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+人をパックジュエルに閉じ込めるなんて…
+そんなことができるんですか？
+> CONTEXT COMMONEVENT:551/59/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+可能だろう…だがそれは
+人の道に反する行いだ。
+> CONTEXT COMMONEVENT:551/60/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+今のマーチは実の娘を
+宝玉の中に封じ込め、送り出すことをした。
+> CONTEXT COMMONEVENT:551/61/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+そんな…
+> CONTEXT COMMONEVENT:551/62/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+もし今の話を信じ、
+リチアを助け出したい気持ちがあるなら
+君自身がその宝玉を断ち切ってくれ。
+> CONTEXT COMMONEVENT:551/63/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+パックジュエルが破壊されれば
+その中に入っている者は解放される…。
+> CONTEXT COMMONEVENT:551/64/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+この宝玉を…！？
+> CONTEXT COMMONEVENT:551/65/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（それが本当なら…）
+> CONTEXT COMMONEVENT:551/66/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（本当ならリチア姫を
+　お救いしたい…）
+> CONTEXT COMMONEVENT:551/67/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（だがこの宝玉はワラートとエスラの国同士の
+　関係良化がかかった代物…）
+> CONTEXT COMMONEVENT:551/68/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（…僕は…）
+> CONTEXT COMMONEVENT:551/70/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+僕は…あなたを信じます！
+> CONTEXT COMMONEVENT:551/72/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+だああーッ！！
+> CONTEXT COMMONEVENT:551/75/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+うっ！？
+> CONTEXT COMMONEVENT:551/90/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+んっ…
+> CONTEXT COMMONEVENT:551/99/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+り…リチア姫！！
+> CONTEXT COMMONEVENT:551/100/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+レストくん…助けてくれてありがとう。
+> CONTEXT COMMONEVENT:551/102/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+そして…お父様も。
+> CONTEXT COMMONEVENT:551/103/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（なんだって！？）
+> CONTEXT COMMONEVENT:551/104/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+お父様ってまさか…！？
+> CONTEXT COMMONEVENT:551/115/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+…何のことかな？
+私はお前とは何も関係の無い…
+> CONTEXT COMMONEVENT:551/116/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+とぼけないでください！
+そんな鎧を身につけていたって
+すぐに分かります。
+> CONTEXT COMMONEVENT:551/117/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（お父様という事は…）
+> CONTEXT COMMONEVENT:551/118/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+じゃあ、あなたは1年前に失踪した
+ワラート王…？
+> CONTEXT COMMONEVENT:551/119/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（宝玉の中にはリチア姫が入っていて
+　鎧の男はワラート王で…？？？）
+> CONTEXT COMMONEVENT:551/121/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+わ、ワラート王…数々の無礼を
+働いてしまい申し訳ありません！
+> CONTEXT COMMONEVENT:551/122/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+よしてくれ…
+私はもう王ではない。
+> CONTEXT COMMONEVENT:551/123/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+今ワラートを治めているのは
+私ではなくマーチなのだからな。
+> CONTEXT COMMONEVENT:551/124/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+マーチ女王…
+> CONTEXT COMMONEVENT:551/125/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+マーチ女王はなぜこんなことを？
+> CONTEXT COMMONEVENT:551/126/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+それは私がお話します。
+> CONTEXT COMMONEVENT:551/127/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+母は…私をエスラ国の王子、カーヌーン様と
+結婚させようとしていたの。
+> CONTEXT COMMONEVENT:551/129/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+それが国同士の関係を
+良くする最良の方法だと…。
+> CONTEXT COMMONEVENT:551/130/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+でも私は反対した。
+昔カーヌーン王子とお会いした時、
+彼が残忍で陰惨な心の持ち主だと
+分かったから…。
+> CONTEXT COMMONEVENT:551/131/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+母も昔は例え結婚を迫られても
+断固として反対してくれていたのに…
+ある時を境に変わってしまって…。
+> CONTEXT COMMONEVENT:551/132/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+そして私を無理やりこのエスラに
+送り届ける手段に出たの。
+> CONTEXT COMMONEVENT:551/133/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+一度目は籠で私を運んでの
+護送だったけど、賊徒の襲撃に遭い失敗したわ。
+> CONTEXT COMMONEVENT:551/134/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+そこで今度はパックジュエルに私を
+封じ込めて…あなたに
+運ばせる方法を試みたの。
+> CONTEXT COMMONEVENT:551/135/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+レストくん…
+あなたが宝玉を壊してくれなかったら
+私は今頃あの男に…
+> CONTEXT COMMONEVENT:551/137/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+父を信じてくれて…ありがとう。
+> CONTEXT COMMONEVENT:551/138/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+お父様…お母様が豹変してしまったのはお父様が
+姿を消してからのことです。
+> CONTEXT COMMONEVENT:551/140/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+お母様からはお父様が亡くなられたと
+聞かされていましたがどうしても
+信じられませんでした。
+> CONTEXT COMMONEVENT:551/141/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+お父様は絶対生きていて、
+どこかにいるって…
+> CONTEXT COMMONEVENT:551/142/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+ご無事でよかった…
+お父様っ…！
+> CONTEXT COMMONEVENT:551/143/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+リチア…私はそなたを放り出して
+ワラートから逃げたのだ。
+そなたを抱きとめる資格など…
+> CONTEXT COMMONEVENT:551/144/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+逃げた…？
+> CONTEXT COMMONEVENT:551/145/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+お父様…一体何があったのですか？
+> CONTEXT COMMONEVENT:551/146/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+…あれは
+何の物音も無い静かな夜のことだった。
+> CONTEXT COMMONEVENT:551/149/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+私はマーチに話があると
+言われ、彼女のもとを訪れた。
+> CONTEXT COMMONEVENT:551/159/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+突然彼女はリチアを
+エスラの王子と結婚させると言い出したのだ。
+> CONTEXT COMMONEVENT:551/160/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@53
+いきなり何を言い出すんだ！
+お前、反対していたではないか…？
+> CONTEXT COMMONEVENT:551/162/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@44
+実際に結婚、となるのは
+もう少し先の話になりますけどね…。
+> CONTEXT COMMONEVENT:551/163/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@44
+これは国同士で友好関係を
+築くために必要な儀式…。
+> CONTEXT COMMONEVENT:551/164/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@44
+そのためにはリチアを向こうへ
+送り出すのが一番手っ取り早いのです。
+> CONTEXT COMMONEVENT:551/165/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@53
+ならん！
+何よりリチア本人が望まぬことだ…
+私は反対だ。
+> CONTEXT COMMONEVENT:551/166/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@44
+そう…それなら残念ですけど、あなた。
+> CONTEXT COMMONEVENT:551/167/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@59
+死んでいただくしかないようね…
+> CONTEXT COMMONEVENT:551/170/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@53
+！
+> CONTEXT COMMONEVENT:551/171/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+その時、私はマーチの背後に
+おぞましい魔物の影を見た。
+> CONTEXT COMMONEVENT:551/176/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+あの魔物は…翼を持っていた。
+> CONTEXT COMMONEVENT:551/177/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@53
+ぐお！？
+> CONTEXT COMMONEVENT:551/185/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@53
+こ…この力は…マーチお前…？
+> CONTEXT COMMONEVENT:551/186/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@59
+我が愉しみを邪魔する者には
+制裁を…
+> CONTEXT COMMONEVENT:551/187/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@53
+くっ！
+> CONTEXT COMMONEVENT:551/189/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+私は窓を突き破って飛び降り、
+命からがら城から逃げ出した…。
+> CONTEXT COMMONEVENT:551/198/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+逃げた私は近辺で傷を癒し、
+ルシマ親衛隊長と会うために
+再び城に向かった…。
+> CONTEXT COMMONEVENT:551/208/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ワラート軍の皆でマーチの背後にいた
+あの魔物を何とかしようと考えたのだ。
+> CONTEXT COMMONEVENT:551/209/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@53
+ルシマ親衛隊長はいるか？
+> CONTEXT COMMONEVENT:551/210/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@37
+あっ…ワラート王！
+> CONTEXT COMMONEVENT:551/211/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@40
+…！
+> CONTEXT COMMONEVENT:551/213/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@53
+おお！親衛隊長、いいところに。
+そなたに用があるのだ。
+> CONTEXT COMMONEVENT:551/214/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@40
+…ワラート王は城から飛び降り、
+亡くなられた。
+> CONTEXT COMMONEVENT:551/216/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@40
+この者は偽者だ！捕らえよ！
+> CONTEXT COMMONEVENT:551/217/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@53
+な、何を申す！
+長年我が国に仕えてきてくれた者が
+いう事か！
+> CONTEXT COMMONEVENT:551/218/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@40
+黙れ！不届き者め…！
+マーチ女王が仰られたのだ。
+近いうちにワラート王が姿を
+現すが、それは偽者だとな。
+> CONTEXT COMMONEVENT:551/219/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@40
+そして偽者が現れたら捕らえるか、斬れと
+命令された。
+> CONTEXT COMMONEVENT:551/220/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@40
+今この国を治めておられるのは
+マーチ女王だ！私はその命令に従うのみ！
+> CONTEXT COMMONEVENT:551/221/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@53
+くっ…
+> CONTEXT COMMONEVENT:551/222/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+私はそこからもかろうじて
+逃げ、このままではワラート城に
+近づく事すらできないと悟った。
+> CONTEXT COMMONEVENT:551/224/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+…その後、マーチの背後にいた
+魔物のことが気になり色々と調べた。
+> CONTEXT COMMONEVENT:551/234/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そしてあれが有翼魔だと分かり、
+やつらは人に取り憑き心を惑わせる術を
+持っていることを知った。
+> CONTEXT COMMONEVENT:551/235/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+私はマーチに取り憑いた彼奴を
+倒す方法はないかを考えた。
+> CONTEXT COMMONEVENT:551/236/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+有翼魔を倒すには有翼魔の力を…
+
+そう結論づけた私は世界中を
+まわり有翼魔を探した。
+> CONTEXT COMMONEVENT:551/237/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+…そして私は彼奴とは別の有翼魔から
+力を借りる事に成功し、この魔の力を持つ
+甲冑に身を包んだ…。
+> CONTEXT COMMONEVENT:551/248/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+そして打倒のためにワラート国へ行こうとしたところ
+レスト…そなたがエスラ城へ宝玉を送り届けようと
+していることを知った。
+> CONTEXT COMMONEVENT:551/249/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+宝玉はほぼ間違いなくパックジュエルだろうと
+考えた私はあそこで接触を図ったのだ。
+> CONTEXT COMMONEVENT:551/250/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+お母様に有翼魔が…
+> CONTEXT COMMONEVENT:551/253/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+そういえば王様と
+初めて会った後にも2人組の有翼魔が
+現れました。
+> CONTEXT COMMONEVENT:551/254/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+やはり宝玉のことを知っている
+ようでしたが…
+> CONTEXT COMMONEVENT:551/255/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+…おそらくマーチに取り憑いていた
+有翼魔の仲間だろう。
+> CONTEXT COMMONEVENT:551/256/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+じゃあ、マーチ女王を操っている
+有翼魔を倒せば元の平和な
+家族に戻れるということですか？
+> CONTEXT COMMONEVENT:551/258/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+戻りましょう、ワラートに！
+> CONTEXT COMMONEVENT:551/259/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+…今のあなたがワラートに戻るのは
+難しいかも…
+> CONTEXT COMMONEVENT:551/260/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+どういうことです？
+> CONTEXT COMMONEVENT:551/261/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+おそらくマーチは…いや、あの有翼魔は
+こうなることも見越していたのだろう。
+> CONTEXT COMMONEVENT:551/262/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+姿を消していたリチアが
+見つかって、そなたのもとにいる…
+> CONTEXT COMMONEVENT:551/263/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+そなたがリチアを誘拐したという
+筋書きを作れる状況なのだ。
+> CONTEXT COMMONEVENT:551/264/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+うかつに戻ったりしたら
+処刑されかねん…
+> CONTEXT COMMONEVENT:551/266/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+それだけではない…
+エスラ城に宝玉を届ける任務を
+放棄したことにもなるのだ。
+> CONTEXT COMMONEVENT:551/267/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+その咎で罰を受けることも
+考えられる。
+> CONTEXT COMMONEVENT:551/268/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+おかげで娘は助かったが…
+レスト。そなたがワラートに戻るのは
+それほど危険な事なのだ。
+> CONTEXT COMMONEVENT:551/269/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+だから…この件は私に任せてはくれぬか。
+> CONTEXT COMMONEVENT:551/271/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+いえ…私もワラートに行かせてください、
+お願いします！
+> CONTEXT COMMONEVENT:551/273/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+ワラート国には
+大恩を受けてきました。
+> CONTEXT COMMONEVENT:551/274/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+だから女王が心を囚われ、操られているなら
+この手で正気に戻してさしあげたい…！
+> CONTEXT COMMONEVENT:551/275/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+お父様…私からもお願いします。
+> CONTEXT COMMONEVENT:551/278/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+リチア…！
+> CONTEXT COMMONEVENT:551/279/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+レストくんはワラートからここまで、
+あらゆる脅威を打ち払って
+たどり着いてくれました。
+> CONTEXT COMMONEVENT:551/280/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+彼が一緒にいてくれたら
+私はどんなに頼もしいか…
+> CONTEXT COMMONEVENT:551/281/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+レストくん。あなたを危険に晒すことを
+承知であえて言います。
+> CONTEXT COMMONEVENT:551/282/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+私と一緒に来て。
+お願い…！
+> CONTEXT COMMONEVENT:551/283/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+レスト…娘の願いを聞いてやってくれ。
+> CONTEXT COMMONEVENT:551/286/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+それに、私はあの有翼魔を討つために
+この鎧と魔剣を手に入れたが
+> CONTEXT COMMONEVENT:551/287/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+この力をもってしても彼奴を倒せるという
+確証はない…。
+> CONTEXT COMMONEVENT:551/288/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+そなたが味方でいてくれるのは、
+私としても心強い。
+> CONTEXT COMMONEVENT:551/289/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+ワラート王…！
+> CONTEXT COMMONEVENT:551/290/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+微力ながら、お手伝いいたします！
+> CONTEXT COMMONEVENT:551/291/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+レストくん…本当にありがとう。
+> CONTEXT COMMONEVENT:551/293/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+じゃあ、
+ワラート目指して行きましょう！
+> CONTEXT COMMONEVENT:551/294/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+でも…どういう経路で
+帰りましょうか？
+> CONTEXT COMMONEVENT:551/295/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+…来た道をそのまま戻るのは
+危険かもしれん。
+> CONTEXT COMMONEVENT:551/296/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+リチアが期せずして解放された場合を
+考えてこちらに追手を
+寄越している可能性もある。
+> CONTEXT COMMONEVENT:551/297/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+じゃあ西側からまわりこんで、船で
+ワラート城に行く経路になりますか…
+> CONTEXT COMMONEVENT:551/304/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+多少遠回りにはなるが、仕方あるまい。
+> CONTEXT COMMONEVENT:551/305/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+…
+> CONTEXT COMMONEVENT:551/309/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:605/63/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+姫…どうかしましたか？
+> CONTEXT COMMONEVENT:551/310/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+あの…このままここを去ったら
+エスラの人達からも追われたり
+しないかしら。
+> CONTEXT COMMONEVENT:551/311/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+兵数の規模だけで言うなら
+エスラはワラートを大きく上回る。
+> CONTEXT COMMONEVENT:551/312/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@50
+膨大な捜索隊を組織することも
+可能だろうな。
+> CONTEXT COMMONEVENT:551/313/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+うーん…
+> CONTEXT COMMONEVENT:551/314/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+よし、できた。
+これを納品しましょう。
+> CONTEXT COMMONEVENT:551/330/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+エスラの人達が時間をかけて
+検品する事を祈りましょう。
+> CONTEXT COMMONEVENT:551/331/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+では、エスラ城に行ってこれを
+渡してきます。お二人はここで
+お待ちを…。
+> CONTEXT COMMONEVENT:551/332/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+…依頼の品をお持ちいたしました。
+こちらです。
+> CONTEXT COMMONEVENT:551/351/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（…この人がカーヌーン王子か）
+> CONTEXT COMMONEVENT:551/352/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+ご苦労であった。
+それにしてもあの万能剣士が
+護送手だったとはねぇ…。
+> CONTEXT COMMONEVENT:551/353/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+部屋を用意してある。
+長旅の疲れを取っていきたまえ。
+> CONTEXT COMMONEVENT:551/354/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+い、急ぎの任務がありますゆえ
+これにて失礼いたします！
+> CONTEXT COMMONEVENT:551/355/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+そう？
+忙しいんだね。
+> CONTEXT COMMONEVENT:551/356/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+ふふふ…
+この時をどんなに待ち望んだか！
+> CONTEXT COMMONEVENT:551/369/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+リチア姫を我が物にできるだけでなく
+パックジュエルまで手に入るとは…！
+> CONTEXT COMMONEVENT:551/370/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+このパックジュエルの技術を盗み
+我が軍の武力を向上させ…
+> CONTEXT COMMONEVENT:551/371/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+全ての国の頂点に
+立ってやるぞッ！
+> CONTEXT COMMONEVENT:551/372/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+さあァ…ご対面ですよリチア姫\\i[200]
+> CONTEXT COMMONEVENT:551/374/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+\\f[40]な…なんじゃこりゃあ！？
+> CONTEXT COMMONEVENT:551/384/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+宝玉が…ぶっ壊れてる！？
+リチア姫もいない！？
+> CONTEXT COMMONEVENT:551/385/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+あ…あ…あのガキ！！
+> CONTEXT COMMONEVENT:551/386/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+誰か！！誰か参れ！！
+> CONTEXT COMMONEVENT:551/389/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@25
+はっ！
+> CONTEXT COMMONEVENT:551/391/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+ここに宝玉を持ってきた万能剣士を
+探して殺せ！！まだこのあたりにいるはずだ…
+> CONTEXT COMMONEVENT:551/392/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+いいか！！すぐに出動できる者は
+全員出動させろ！！我が国の大軍で
+奴を押しつぶすんだ！
+> CONTEXT COMMONEVENT:551/393/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+屍は僕のところへ持って来い！！
+> CONTEXT COMMONEVENT:551/394/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@25
+か、かしこまりました…！
+> CONTEXT COMMONEVENT:551/395/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+それとツヅミ兵士長を連れて来い！
+急げ！！
+> CONTEXT COMMONEVENT:551/396/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@25
+はいッ！
+> CONTEXT COMMONEVENT:551/397/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+はあ…はあ…はあッ…
+> CONTEXT COMMONEVENT:551/399/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@28
+カーヌーン王子、お呼びでしょうか。
+> CONTEXT COMMONEVENT:551/401/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+万能剣士がこの城に来て、
+僕を侮辱した…
+絶対に許せない。
+> CONTEXT COMMONEVENT:551/402/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@28
+万能剣士が、ここに…！？
+> CONTEXT COMMONEVENT:551/403/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+今兵士たちに探させている。
+なあぁ、ツヅミ…かならず
+奴を仕留めてくれよ。
+> CONTEXT COMMONEVENT:551/404/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@28
+ッ…！
+> CONTEXT COMMONEVENT:551/412/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+さもないとまたこのデカい尻を
+ペンペンしちゃうからなぁ…！
+> CONTEXT COMMONEVENT:551/413/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+今度は、兵士たちが見てる前でだ…\\i[200]
+> CONTEXT COMMONEVENT:551/414/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@28
+か…必ずッ…！
+> CONTEXT COMMONEVENT:551/415/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+フン！お前も行け！！
+ノロマ！
+> CONTEXT COMMONEVENT:551/417/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@28
+…はッ！
+> CONTEXT COMMONEVENT:551/418/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+…僕をコケにするとどうなるか
+思い知らせてやる…
+> CONTEXT COMMONEVENT:551/420/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@54
+フ…フフフフフ…
+> CONTEXT COMMONEVENT:551/421/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+レストくん！
+> CONTEXT COMMONEVENT:551/432/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+よかった…無事に戻ってきてくれて。
+> CONTEXT COMMONEVENT:551/433/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+お待たせしました。
+では行きましょう！
+> CONTEXT COMMONEVENT:551/434/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@25
+見つけたわよ！
+万能剣士！！
+> CONTEXT COMMONEVENT:551/444/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+くっ…もう追手が！
+> CONTEXT COMMONEVENT:551/445/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@26
+カーヌーン王子を侮辱した罪は
+重いぞ！
+> CONTEXT COMMONEVENT:551/446/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@25
+我らの技で
+裁かれなさい！
+> CONTEXT COMMONEVENT:551/447/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+ここでやられるわけにはいかない…！
+> CONTEXT COMMONEVENT:551/448/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+押し通る！！
+> CONTEXT COMMONEVENT:551/449/Message < UNTRANSLATED
+
+> END STRING

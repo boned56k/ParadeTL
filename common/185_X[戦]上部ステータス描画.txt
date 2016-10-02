@@ -1,0 +1,16 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>「X[戦]上部ステータス描画」コモン　エラー
+ 戦闘スロットが-1以下では使用できません。
+> CONTEXT COMMONEVENT:185/29/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>「X[戦]上部ステータス描画」コモン　エラー
+ 戦闘スロット\\cself[1] の主人公IDが
+　-1以下です、このコモンを使用できません。
+> CONTEXT COMMONEVENT:185/36/Message < UNTRANSLATED
+
+> END STRING

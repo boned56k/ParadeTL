@@ -1,0 +1,18 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\E【基本システムエラー】　基本システムがVer2.02になりましたが
+　ユーザデータベースDBのタイプ「防具」が更新されていません。
+> CONTEXT COMMONEVENT:143/217/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\E　以下URLの「基本システム2の更新分」をダウンロードし、
+　DBファイルをユーザデータベース　タイプ4にドラッグしてください。
+\s
+  http://www.silversecond.com/WolfRPGEditor/Download.html
+\s
+> CONTEXT COMMONEVENT:143/218/Message < UNTRANSLATED
+
+> END STRING

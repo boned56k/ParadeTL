@@ -1,0 +1,7 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+◆◆◆なし◆◆◆
+> CONTEXT DB:DataBase/[23]土地コード/[8]◆◆◆なし◆◆◆/[0]街の名前 < UNTRANSLATED
+
+> END STRING

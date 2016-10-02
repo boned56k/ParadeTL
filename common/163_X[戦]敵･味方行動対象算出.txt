@@ -1,0 +1,19 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>X[戦]敵･味方行動対象算出：エラー
+　単体を対象とした技能の対象判定がおかしいです。
+　論理的なミスがあるか、改造によって
+　正常な処理が行われていない可能性があります。
+> CONTEXT COMMONEVENT:163/373/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>X[戦]敵･味方行動対象算出：エラー
+　全体を対象とした技能の対象判定がおかしいです。
+　論理的なミスがあるか、改造によって
+　正常な処理が行われていない可能性があります。
+> CONTEXT COMMONEVENT:163/405/Message < UNTRANSLATED
+
+> END STRING

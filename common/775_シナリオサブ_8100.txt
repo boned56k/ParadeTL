@@ -1,0 +1,170 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@1
+レストはリチア姫に招かれ、ワラート城で
+食事をごちそうになった…
+> CONTEXT COMMONEVENT:775/19/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+ごちそうさまでした。
+とても美味しい料理でした…！
+> CONTEXT COMMONEVENT:775/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+こちらこそ、いろんなお話を
+聞かせてくれてありがとう。
+> CONTEXT COMMONEVENT:775/27/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+それで、あなたを呼んだのはね…
+お食事のためだけじゃないの。
+> CONTEXT COMMONEVENT:775/28/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+あの…
+> CONTEXT COMMONEVENT:775/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+私と…一緒にお風呂に入らない？
+> CONTEXT COMMONEVENT:775/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@47
+え…ええっ！？
+> CONTEXT COMMONEVENT:775/35/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+うちの家にはこんな伝統があるの。
+> CONTEXT COMMONEVENT:775/36/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+「心に決めた相手とはまず最初に一緒に入浴すること」
+> CONTEXT COMMONEVENT:775/37/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+な、な…！？
+> CONTEXT COMMONEVENT:775/39/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+変わった決まりだよね。
+でもお父様とお母様もそれが始まりだったらしいし…
+> CONTEXT COMMONEVENT:775/40/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+でもさっき心に決めた相手って…
+私じゃそれは…
+> CONTEXT COMMONEVENT:775/41/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+ううん…レストくん。\\!
+少しの間だったけど私…あなたと旅をして…\\!
+その旅が終わって気づいたの。
+> CONTEXT COMMONEVENT:775/42/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+私、あなたに心惹かれているんだって。
+> CONTEXT COMMONEVENT:775/43/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+母を助けるために命がけで戦ってくれた…
+父の無事を信じて私を励ましてくれた
+あなたに…
+> CONTEXT COMMONEVENT:775/44/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+またあなたにわがままを言っちゃう事に
+なるけど…それでも私と一緒にお風呂に
+入ってくれたら嬉しいな…\\i[200]
+> CONTEXT COMMONEVENT:775/47/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@47
+でも…わ、私なんかでいいんですか…？
+> CONTEXT COMMONEVENT:775/48/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+あなたがいいの。
+レストくん…！
+> CONTEXT COMMONEVENT:775/49/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@47
+わ…わ…わかり…ました…
+> CONTEXT COMMONEVENT:775/50/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+！
+ありがとう…！
+> CONTEXT COMMONEVENT:775/51/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+実はもうお風呂に入れるように
+準備してもらってるの。こっちよ\\i[200]
+> CONTEXT COMMONEVENT:775/53/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@47
+あ…ちょ、ちょっと…！
+> CONTEXT COMMONEVENT:775/54/Message < UNTRANSLATED
+
+> END STRING

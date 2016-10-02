@@ -1,0 +1,8 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>コモン159「X[戦]技能選択実行」：エラー
+　アイテムコードが1万未満です。
+> CONTEXT COMMONEVENT:159/17/Message < UNTRANSLATED
+
+> END STRING

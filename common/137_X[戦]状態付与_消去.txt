@@ -1,0 +1,9 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>X[戦]状態付与/消去：エラー
+　戦闘スロット 0 未満は
+　指定できません。\>\\cself[0]
+> CONTEXT COMMONEVENT:137/18/Message < UNTRANSLATED
+
+> END STRING

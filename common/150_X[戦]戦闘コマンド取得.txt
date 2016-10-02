@@ -1,0 +1,22 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>「X[戦]戦闘コマンド取得」エラー
+　「-1」番以下の戦闘スロット番号が指定されました。＞\\cself[1]
+> CONTEXT COMMONEVENT:150/8/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>「X[戦]戦闘コマンド取得」エラー
+　「-1」番以下のコマンド番号が指定されました。＞\\cself[1]
+> CONTEXT COMMONEVENT:150/14/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>「X[戦]戦闘コマンド取得」エラー
+　「8」番以上のコマンド番号が指定されました。＞\\cself[1]
+> CONTEXT COMMONEVENT:150/18/Message < UNTRANSLATED
+
+> END STRING

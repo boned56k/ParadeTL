@@ -1,0 +1,237 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+この闘技場では以下のことができなくなります。
+> CONTEXT COMMONEVENT:560/7/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:613/7/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]・メニューの起動
+・武器、防具の変更
+・アイテムの使用\\c[0]
+> CONTEXT COMMONEVENT:560/8/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:613/8/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+レスティーナ選手、圧勝ーーー！！
+> CONTEXT COMMONEVENT:560/38/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+一体どうやったのか、一見何の変哲もない
+傘で巨大な盾を持つ戦士たちを
+蹴散らしてしまいました！
+> CONTEXT COMMONEVENT:560/39/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+それでは勝者のレスティーナ選手は
+次の試合まで控室でお待ちください。
+> CONTEXT COMMONEVENT:560/40/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+さあ、2回戦です！
+まずは西！一回戦で恐るべき傘技を
+披露してくれた謎の令嬢、レスティーナ選手！
+> CONTEXT COMMONEVENT:560/47/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+そして東！チーム「とにかく大勢！」のみなさんです！
+さあー張り切って試合開始！
+> CONTEXT COMMONEVENT:560/49/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+レスティーナ選手、またまた勝利！！
+> CONTEXT COMMONEVENT:560/96/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+「人数制限ないならいっぱいいたほうが
+有利じゃん？」という相手の頭脳プレーを一蹴！
+> CONTEXT COMMONEVENT:560/97/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+それではレスティーナ選手は
+次の試合まで控室でお待ちください！
+> CONTEXT COMMONEVENT:560/98/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+さあ、いよいよ準決勝です！
+まずは西！もはや今大会のダークホースと
+言っていいでしょう！謎の令嬢、レスティーナ選手！
+> CONTEXT COMMONEVENT:560/105/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+そして東！チーム「スピード命！」のみなさんです！
+一体どうなるか！？試合開始！
+> CONTEXT COMMONEVENT:560/107/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+そ、その動き…
+まさか、あんた…
+> CONTEXT COMMONEVENT:560/139/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+ば、ばん…の…う、うぐっ…
+> CONTEXT COMMONEVENT:560/140/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+レスティーナ選手、絶好調！大勝利だ！
+> CONTEXT COMMONEVENT:560/143/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+相手の動きに惑わされることなく
+正確無比な一撃！ちょっと強すぎるぞ！
+> CONTEXT COMMONEVENT:560/144/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+ファイナリスト・レスティーナ選手！
+次の試合まで控室でお待ちください！
+> CONTEXT COMMONEVENT:560/145/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+ついにきました、決勝戦！
+まずは西！もはやどう考えても単なるお嬢様ではない！
+謎の令嬢、レスティーナ選手！
+> CONTEXT COMMONEVENT:560/152/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+そして東！チーム「飴と鞭」のみなさんです！
+優勝を手にするのは誰だ！試合開始！
+> CONTEXT COMMONEVENT:560/154/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+戦いの中で生きてきた私が…
+遅れをとる…なんて…
+> CONTEXT COMMONEVENT:560/185/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+うぐっ…
+> CONTEXT COMMONEVENT:560/186/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+勝負あり！！
+> CONTEXT COMMONEVENT:560/190/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+第77回エスラ大闘技会、優勝者は…
+> CONTEXT COMMONEVENT:560/191/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+レスティーナ選手！！
+> CONTEXT COMMONEVENT:560/192/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+レスティーナ選手に優勝賞金が
+授与されます！
+> CONTEXT COMMONEVENT:560/193/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+そして景品の「\\udb[3:57:0]」が贈呈されます！
+> CONTEXT COMMONEVENT:560/198/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+レスティーナ選手、優勝者として一言
+お願いいたします！
+> CONTEXT COMMONEVENT:560/202/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@62
+え！？
+あ…あの…
+> CONTEXT COMMONEVENT:560/203/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@62
+と…とっても、光栄ですわ
+\\f[20]オホホホ…
+> CONTEXT COMMONEVENT:560/204/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+ありがとうございました！
+みなさん、激闘を勝ち抜いたレスティーナ選手に
+改めて盛大な拍手を！
+> CONTEXT COMMONEVENT:560/205/Message < UNTRANSLATED
+
+> END STRING

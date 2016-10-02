@@ -1,0 +1,54 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+ここの値は「自動ｼｽﾃﾑ初期化」処理でセットされます
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[3]座標倍率[x10]/[0]文字列 < UNTRANSLATED
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[5]システム基本フォントサイズ/[0]文字列 < UNTRANSLATED
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[6]システムミニフォントサイズ/[0]文字列 < UNTRANSLATED
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[7]システム最小フォントサイズ/[0]文字列 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテムだぜええええ
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[23]メニュー1コード＆名前/[0]文字列 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+技能
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[24]メニュー2コード＆名前/[0]文字列 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コマンド3
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[25]メニュー3コード＆名前/[0]文字列 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コマンド4
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[26]メニュー4コード＆名前/[0]文字列 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コマンド5
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[27]メニュー5コード＆名前/[0]文字列 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コマンド6
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[28]メニュー6コード＆名前/[0]文字列 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この値は「自動ｼｽﾃﾑ初期化」処理で再セットしてます
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[51]システム上最大パーティー人数/[0]文字列 < UNTRANSLATED
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[52]１ページセーブ数/[0]文字列 < UNTRANSLATED
+> CONTEXT DB:CDataBase/[18]基本ｼｽﾃﾑ用変数/[53]セーブページ数/[0]文字列 < UNTRANSLATED
+
+> END STRING

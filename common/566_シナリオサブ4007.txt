@@ -1,0 +1,1120 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+このクエストをクリアするとレベルがリセットされ、
+能力も初期状態になります。
+(持っているお金、アイテム、装備品はそのままです)
+> CONTEXT COMMONEVENT:566/9/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、レベルリセットを行わずにクエストを
+クリアすることができます。
+> CONTEXT COMMONEVENT:566/10/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レベルリセットをしないでクエスト開始
+> CONTEXT COMMONEVENT:566/12/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レベルリセットをしてクエスト開始
+> CONTEXT COMMONEVENT:566/12/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@74
+ふふふ…\\i[200]
+ようこそ、待っていたわ。
+> CONTEXT COMMONEVENT:566/42/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@74
+承知のうえだと思うけど、ここでは
+あなたの体を売ってもらうわ。
+> CONTEXT COMMONEVENT:566/43/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@74
+相手は大体女の人が多いと思うから
+よろしくね\\i[200]
+> CONTEXT COMMONEVENT:566/44/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@74
+それにしても…万能剣士さんって
+こんなお仕事もするのねぇ\\i[200]
+> CONTEXT COMMONEVENT:566/45/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@74
+結構お金に困ってるの？
+くすっ…\\i[200]
+> CONTEXT COMMONEVENT:566/46/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@74
+あ、早速だけど指名なしの依頼が
+来てるからお願いしていいかしら？
+> CONTEXT COMMONEVENT:566/48/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+…はい。
+> CONTEXT COMMONEVENT:566/49/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@74
+いい返事ね\\i[200]
+依頼人さんは南町の宿屋2号室にいるらしいから
+早速向かってちょうだい。
+> CONTEXT COMMONEVENT:566/50/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+…ここが指定された部屋か。
+> CONTEXT COMMONEVENT:566/62/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+し、失礼します…
+> CONTEXT COMMONEVENT:566/63/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ハーイ、どうぞ\\i[200]
+> CONTEXT COMMONEVENT:566/64/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+あら…！
+> CONTEXT COMMONEVENT:566/78/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+あっ…！？
+> CONTEXT COMMONEVENT:566/79/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+万能剣士！？
+なんでこんなところにいるのよ！
+> CONTEXT COMMONEVENT:566/81/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+そ、それは…
+> CONTEXT COMMONEVENT:566/82/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+も、もしかしてお願いした奉仕人ってあなたのこと？
+> CONTEXT COMMONEVENT:566/83/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+…は、はい…そうです…
+> CONTEXT COMMONEVENT:566/84/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+あははっ\\i[200]
+そうなの～？
+> CONTEXT COMMONEVENT:566/85/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+まさかこんな形で会うなんてねぇ？
+> CONTEXT COMMONEVENT:566/86/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+ほら、挨拶なさいよ\\i[200]
+> CONTEXT COMMONEVENT:566/87/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+…本日はご利用いただきましてありがとうございます…
+レストです、よろしくお願いします。
+> CONTEXT COMMONEVENT:566/89/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[20]エッチイベント「お得な買い物」
+> CONTEXT COMMONEVENT:566/91/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+イベントをスキップしますか？
+> CONTEXT COMMONEVENT:566/92/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+それじゃ、お金払ってあげる。
+> CONTEXT COMMONEVENT:566/119/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+へぇ、最初にお金払わないとダメなのね？
+> CONTEXT COMMONEVENT:566/120/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+そうですよ…あ、そっか
+マリン様初めてですもんね\\i[200]
+> CONTEXT COMMONEVENT:566/121/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+はい、万能剣士のレストくん\\i[200]
+> CONTEXT COMMONEVENT:566/122/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\c[3]報酬の100Gを受け取った…\\c[0]
+> CONTEXT COMMONEVENT:566/125/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+くふふ…\\i[200]
+こんな安い値段で体を売るなんて、
+万能剣士も地に堕ちたわね\\i[200]
+> CONTEXT COMMONEVENT:566/127/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+回復薬1個と同じ値段なんてね…\\i[200]
+> CONTEXT COMMONEVENT:566/128/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+あの…これ1人分のお金じゃ…
+> CONTEXT COMMONEVENT:566/130/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+知らないの？あなたのとこの店は
+客が何人でも1人分の値段でOKなのよ\\i[200]
+> CONTEXT COMMONEVENT:566/131/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+もしかしてこれが初仕事？
+> CONTEXT COMMONEVENT:566/132/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+あら、じゃあ私と同じね\\i[200]
+> CONTEXT COMMONEVENT:566/133/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+この前負けた恨みをいっぱい発散させちゃいましょう、
+マリン様\\i[200]
+> CONTEXT COMMONEVENT:566/135/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+うふふ…\\i[200]
+たった100Gで万能剣士くんを好きにできる
+なんて…\\i[200]
+> CONTEXT COMMONEVENT:566/137/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンはうっとりとした声をあげて
+レストを見つめてきた。その眼には歪んだ光が
+宿り始めている。
+> CONTEXT COMMONEVENT:566/139/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+取り巻きの女剣士たちが
+ずいっと立ちはだかった。
+> CONTEXT COMMONEVENT:566/141/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+ん…
+ほら\\i[200]
+> CONTEXT COMMONEVENT:566/148/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+？
+> CONTEXT COMMONEVENT:566/149/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:651/86/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:712/33/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:775/29/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+何ぼーっとしてるのよ！
+あなたが服脱がせるのよ？
+> CONTEXT COMMONEVENT:566/150/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+そ、そんなっ…
+> CONTEXT COMMONEVENT:566/151/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+早く…\\i[200]
+> CONTEXT COMMONEVENT:566/152/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+いやらしく挑発するように腰を動かしながら
+ねだってくる。
+> CONTEXT COMMONEVENT:566/153/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+レストは彼女の防具と服を
+脱がせようと試みた。
+> CONTEXT COMMONEVENT:566/154/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+しかしどういう仕組みになっているのか
+まったく分からず、防具を外すことすら
+ままならない。
+> CONTEXT COMMONEVENT:566/156/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+苦手な女体が至近距離に
+迫っている状況で頭もうまく回らず、
+脱がせようとする動きをするのが精一杯だった。
+> CONTEXT COMMONEVENT:566/157/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+相手はただ立っているだけなのに、
+だんだん頭が真っ白になっていく。
+> CONTEXT COMMONEVENT:566/158/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+どんくさいなぁ…もういいよッ。
+> CONTEXT COMMONEVENT:566/164/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+防具を外そうと胸のあたりに
+密着していたレストはそのまま体全体で
+突き飛ばされた。
+> CONTEXT COMMONEVENT:566/168/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+じゃーあ…私たちの服は脱がせなくて
+いいから、あなただけが裸になりなさい\\i[200]
+> CONTEXT COMMONEVENT:566/169/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+あっ\\i[200]それいい考えね\\i[200]
+> CONTEXT COMMONEVENT:566/170/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+私たちの大事な部分は見せてあげないけど
+あなたは私たちに何もかもを晒すのよ\\i[200]
+> CONTEXT COMMONEVENT:566/171/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+反抗できないレストは
+かつて倒した敵たちの前で裸になった。
+> CONTEXT COMMONEVENT:566/173/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@76
+…
+> CONTEXT COMMONEVENT:566/175/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:616/104/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+くっふ\\i[200]
+いいカッコねぇ？
+> CONTEXT COMMONEVENT:566/177/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+女戦士たちは嘲笑を投げつける。
+> CONTEXT COMMONEVENT:566/178/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+一人前に大きくさせちゃって…
+ほんとに情けない男\\i[200]
+> CONTEXT COMMONEVENT:566/179/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+屈辱的な状況にも
+関わらず、彼女たちの熱気が
+そうさせるのかペニスはすっかり大きく
+なってしまっていた。
+> CONTEXT COMMONEVENT:566/181/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+くすっ\\i[200]
+いけない子ね？
+> CONTEXT COMMONEVENT:566/184/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンがレストの屹立していた
+ペニスをゆっくりとしごいた。
+> CONTEXT COMMONEVENT:566/188/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+抵抗しちゃダメよ？今夜のあなたは私たちの
+モノなんだから…\\i[200]
+> CONTEXT COMMONEVENT:566/189/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+今自分を嫐りものにしている女性は
+かつて剣を交え、勝利した相手だった。
+> CONTEXT COMMONEVENT:566/191/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+その頃よりも自分の技はより研鑽された自信があるが
+それでもたった100Gで彼女たちのいいように
+されている。
+> CONTEXT COMMONEVENT:566/192/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+マリン様…\\i[200]
+まだ早いですって\\i[200]
+> CONTEXT COMMONEVENT:566/194/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+言いながら彼女は体をこちらの肌に
+あてつけ、なでるように左右に動かした。
+> CONTEXT COMMONEVENT:566/195/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+微妙に汗ばんだ女体が触れる度に、
+レストの心は彼女たちの虜になっていく。
+> CONTEXT COMMONEVENT:566/196/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+ん…\\i[200]
+> CONTEXT COMMONEVENT:566/197/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+最初見た時分かったわ…\\i[200]
+あの時よりさらに強くなってるって。
+> CONTEXT COMMONEVENT:566/201/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンの手の動きが速まる。
+> CONTEXT COMMONEVENT:566/202/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+今の私がまともに戦ったら本当に
+あっさりやられちゃいそう…
+でも実際のあなたは私たちのかわいいおもちゃ\\i[200]
+> CONTEXT COMMONEVENT:566/205/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+手がさらに速まった。
+> CONTEXT COMMONEVENT:566/206/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+どんな気持ちなのかしらぁ…\\i[200]
+> CONTEXT COMMONEVENT:566/208/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+どんどん加速し、さらにカリ首のあたりを執拗に
+刺激する。
+> CONTEXT COMMONEVENT:566/209/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+女剣士たちの肉体に魅了されたまま、射精してしまった。
+膝から崩れそうになるのを必死にこらえる。
+> CONTEXT COMMONEVENT:566/215/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+あらら…\\i[200]
+> CONTEXT COMMONEVENT:566/217/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+くすっ…\\i[200]
+> CONTEXT COMMONEVENT:566/218/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+んふふ…\\i[200]
+いきなり自分だけ気持ちよくなるなんて
+しょうがない奉仕人ね\\i[200]
+> CONTEXT COMMONEVENT:566/219/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンの手淫による射精だったが、それを
+見ぬふりしてレストをなじり、嘲笑した。
+> CONTEXT COMMONEVENT:566/221/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+じゃあ…私たちも
+気持ちよくしてよね\\i[200]
+> CONTEXT COMMONEVENT:566/223/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンたちはレストを仰向けに
+なるように押さえつけた。
+> CONTEXT COMMONEVENT:566/224/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+あなたが抵抗できない立場なのは
+分かってるけど…\\i[200]
+> CONTEXT COMMONEVENT:566/227/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+やっぱりこうやって無理やり
+犯す感じにしたいのよね\\i[200]
+> CONTEXT COMMONEVENT:566/228/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+息の合った動きで完全に
+身動きを封じられ、そのまま
+マリンと一つになった。
+> CONTEXT COMMONEVENT:566/238/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+はぁ…\\i[200]
+はっ…\\i[200]気持ちいい…ッ\\i[200]
+> CONTEXT COMMONEVENT:566/240/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンは男を征服する悦びを
+存分に味わいながら腰を
+くねらせた。
+> CONTEXT COMMONEVENT:566/242/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+取り巻きの女戦士たちも体を
+なでつけ、やわらかな快感を
+愉しんでいる。
+> CONTEXT COMMONEVENT:566/243/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+うふふ…さぁ、イきなさい\\i[200]
+> CONTEXT COMMONEVENT:566/248/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンのうねるような妖膣の動きに
+翻弄され、レストは射精してしまった。
+> CONTEXT COMMONEVENT:566/254/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+全身の力が抜け、自分が
+これまで培ってきた戦士としての
+経験までもが彼女たちに吸われるような
+感覚に襲われた。
+> CONTEXT COMMONEVENT:566/255/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+くうっ…！\\!
+うふっ…ん\\i[200]
+すごいわ…いっぱい…\\i[200]
+> CONTEXT COMMONEVENT:566/260/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンも絶頂に達し、うっとりと
+レストのペニスを膣でねぶりつけた。
+> CONTEXT COMMONEVENT:566/264/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+次は私よ…万能剣士\\i[200]
+> CONTEXT COMMONEVENT:566/266/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+あなたには休む暇なんて
+ないんだからね？
+> CONTEXT COMMONEVENT:566/267/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+取り巻き剣士のうちの１人が
+休む間も与えずに結合してきた。
+> CONTEXT COMMONEVENT:566/277/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+こちらがイったばかりだという
+事に対する配慮などなく、ただ
+自分たちの快楽だけを求めている動きだった。
+> CONTEXT COMMONEVENT:566/279/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+んっ…\\i[200]くうっ…\\i[200]
+> CONTEXT COMMONEVENT:566/281/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+くぐもった声を漏らしながら
+激しく腰を上下させてくる。
+> CONTEXT COMMONEVENT:566/282/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンの相手を幻惑させるような
+ねっとりとした腰つきとは違い、
+直線的な快感を刻み付けてきた。
+> CONTEXT COMMONEVENT:566/283/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+正直…\\i[200]
+あなたのことを尊敬…\\i[200]
+していたのに…\\i[200]
+> CONTEXT COMMONEVENT:566/285/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+こんなことをするなんて…
+なんてみじめな剣士なのっ…\\i[200]
+> CONTEXT COMMONEVENT:566/286/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+自分のことを棚に上げ、
+説教じみた言葉を投げつけながら
+女剣士は腰を上下させる。
+> CONTEXT COMMONEVENT:566/287/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+万能剣士ぃ…\\i[200]
+私の体でイっちゃい…なさい…ッ！
+> CONTEXT COMMONEVENT:566/292/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+左右に陣取ったふたりの愛撫も
+手伝って、レストはあっけなく射精してしまった。
+> CONTEXT COMMONEVENT:566/297/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+が、女剣士はなおも腰を
+激しく動かしてくる。
+> CONTEXT COMMONEVENT:566/298/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+はあぁ…ッああっ…\\i[200]
+> CONTEXT COMMONEVENT:566/300/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+女剣士は絶頂に達し、レストも
+立て続けに精を放った。
+> CONTEXT COMMONEVENT:566/309/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンによってイかされた時と同じく
+全身の力が抜けていく感覚に陥る。
+> CONTEXT COMMONEVENT:566/312/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+体力が戻っても失った力が
+帰ってこないのではないか…そんな
+恐怖に襲われた。
+> CONTEXT COMMONEVENT:566/313/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そして何より、立て続けに女体の攻撃に
+晒されたペニスはもう限界だった。
+> CONTEXT COMMONEVENT:566/314/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@76
+こ、これ以上は…もう…
+> CONTEXT COMMONEVENT:566/316/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+甘ったれないでよね！あなたは
+私たちに買われたんだから、どんな
+泣き言も許さないわよ？
+> CONTEXT COMMONEVENT:566/317/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+それに…私だけがおあずけなんて
+ゴメンよ！
+> CONTEXT COMMONEVENT:566/318/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+レストの願いなど聞き入れられる
+はずもなく、最後の一人がレストの
+ペニスを嫐りつけた。
+> CONTEXT COMMONEVENT:566/328/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+あんんっ…\\i[200]
+すっごい…\\i[200]
+> CONTEXT COMMONEVENT:566/330/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+まだまだこんなに大きくしてっ…\\i[200]
+なんてエッチなの…\\i[200]
+> CONTEXT COMMONEVENT:566/331/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+最後まで待たされたおかげなのか
+これまでになく激しく腰を上下させてきた。
+> CONTEXT COMMONEVENT:566/333/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+何度も射精してきたペニスに
+強い刺激が刻み込まれ、レストは
+身悶えする。
+> CONTEXT COMMONEVENT:566/334/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+だが、左右の二人は少しでも
+彼の動きを封じようと強く密着してきた。
+> CONTEXT COMMONEVENT:566/335/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+どんなわずかな動きも
+させてもらえなかった。
+> CONTEXT COMMONEVENT:566/336/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+万能剣士っ…\\i[200]
+初めての「お客様」が私たちみたいな
+やさしいおねえさんで良かったわねぇ…\\i[200]
+> CONTEXT COMMONEVENT:566/342/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+女剣士はさらに激しく腰を
+動かしてきた。
+> CONTEXT COMMONEVENT:566/343/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+レストはまた射精してしまった。
+> CONTEXT COMMONEVENT:566/352/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女たちによってもう
+何度イかされたか分からなかった。
+> CONTEXT COMMONEVENT:566/353/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+はっ…\\i[200]はあっ…\\i[200]
+> CONTEXT COMMONEVENT:566/357/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+ふふふ…\\i[200]
+まだまだ…\\i[200]
+> CONTEXT COMMONEVENT:566/358/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+絶頂に達し、少し休んでから彼女は
+再び腰を上下させた。
+> CONTEXT COMMONEVENT:566/363/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ペニスが完全に萎えるまで自分は
+犯し尽くされるのだろう、と絶望的な思いになった。
+> CONTEXT COMMONEVENT:566/364/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そして先ほどの恐怖の予感は
+的中し、すっかり全身からは力が
+抜けてしまっている。
+> CONTEXT COMMONEVENT:566/366/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+もはや万全の状態で彼女らと
+戦ったとしても勝つことが
+できないのかもしれない…。
+> CONTEXT COMMONEVENT:566/367/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+それでもなお左右の二人は
+よりいっそう体を強く押し付けてきた。
+> CONTEXT COMMONEVENT:566/368/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+100G欲しさにこんなことに手をつけた
+自分を呪うのね…\\i[200]
+> CONTEXT COMMONEVENT:566/371/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+レストは3人に徹底的に犯され…
+一夜が明けた。
+> CONTEXT COMMONEVENT:566/385/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+ふふふ…なかなか楽しかったわ\\i[200]
+> CONTEXT COMMONEVENT:566/386/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+また会いましょう\\i[200]
+> CONTEXT COMMONEVENT:566/387/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+バイバーイ\\i[200]
+> CONTEXT COMMONEVENT:566/388/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+3人は満足げに、そして抜け目なく
+こちらに優越感に満ちた視線を投げつけながら
+去っていった…。
+> CONTEXT COMMONEVENT:566/390/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\c[3]レベルがリセットされ、能力が初期値に戻りました。
+> CONTEXT COMMONEVENT:566/422/Message < UNTRANSLATED
+
+> END STRING

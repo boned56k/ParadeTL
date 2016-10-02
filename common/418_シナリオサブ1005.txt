@@ -1,0 +1,45 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\c[2]このチュートリアルクエストは武器を
+装備していない状態では受けられません。\\c[0]
+> CONTEXT COMMONEVENT:418/4/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拠点メニューの「装備ショートカット設定」を選択すると
+所持している武器をショートカットに登録できます。
+> CONTEXT COMMONEVENT:418/15/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+登録しておいた武器は戦闘中
+\\c[3]メニューを開かず瞬時に装備できます。\\c[0]
+> CONTEXT COMMONEVENT:418/16/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ショートカットは\\c[3]2つ\\c[0]まで登録でき、
+装備している武器を含めると\\c[3]3つ\\c[0]の武器を
+切り替えながら戦闘を行うことができます。
+> CONTEXT COMMONEVENT:418/17/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ショートカット設定画面が開かれます。
+実際にショートカットを設定してみましょう。
+> CONTEXT COMMONEVENT:418/20/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これでショートカット設定が終了しました。
+次に戦闘時に武器を切り替える方法を
+説明します。
+> CONTEXT COMMONEVENT:418/24/Message < UNTRANSLATED
+
+> END STRING

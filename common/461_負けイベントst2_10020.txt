@@ -1,0 +1,526 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@46
+ああっ…
+> CONTEXT COMMONEVENT:461/18/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+イリアンの強烈な一撃を受け
+\\cdb[0:0:0]の武器は弾き飛ばされてしまった。
+> CONTEXT COMMONEVENT:461/19/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+まだよ。
+> CONTEXT COMMONEVENT:461/20/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+うッ！？
+> CONTEXT COMMONEVENT:461/21/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+イリアンは膝をつきかけた\\cdb[0:0:0]の頭を
+強引に抱え込み、自らの胸に
+押し付けた。
+> CONTEXT COMMONEVENT:461/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+んっ…\\i[200]
+> CONTEXT COMMONEVENT:461/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]の顔全体が巨大な乳房で
+圧迫される。
+> CONTEXT COMMONEVENT:461/34/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+後頭部には彼女のたくましい腕による
+圧力がかけられており、戦いのあとで
+やんわりと汗ばんだ身体が押し付けられる。
+> CONTEXT COMMONEVENT:461/35/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+っ…ッ！
+> CONTEXT COMMONEVENT:461/36/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+ふふふ…\\i[200]
+> CONTEXT COMMONEVENT:461/39/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+容赦無い圧迫で
+息が苦しくなり始める。
+> CONTEXT COMMONEVENT:461/40/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+少しでも息を吸おうと懸命に
+もがいたり呼吸を試みたりしたが、
+彼女の力はどんどん強くなる一方だった。
+> CONTEXT COMMONEVENT:461/41/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+女性のシンボルである場所で生命力を奪われる
+屈辱感と、これで最期なのかという絶望感が
+\\cdb[0:0:0]を襲う。
+> CONTEXT COMMONEVENT:461/42/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+だが、もはやその思考も
+イリアンの乳房によって混濁したものに
+なっていた。
+> CONTEXT COMMONEVENT:461/43/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+！？…ぶはっ！
+> CONTEXT COMMONEVENT:461/53/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+これまでかと思ったが、突然彼女は\\cdb[0:0:0]を
+解放した。\\cdb[0:0:0]はその場に跪き、必死に
+呼吸をする。
+> CONTEXT COMMONEVENT:461/54/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+必死に生きようとしてる…
+かわいい奴め\\i[200]
+> CONTEXT COMMONEVENT:461/55/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+イリアンは\\cdb[0:0:0]の後ろに回り込み、
+膝立ちの形になるよう押さえつけた。
+> CONTEXT COMMONEVENT:461/60/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+こちらの生死を自由にできる権利を
+得られた喜びから、サディスティックな笑いが
+こぼれている。
+> CONTEXT COMMONEVENT:461/61/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@12
+ふふ…\\i[200]
+> CONTEXT COMMONEVENT:461/63/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+イリアンの配下の女戦士たちが\\cdb[0:0:0]の
+前に立ちはだかり、見下ろしてきた。
+> CONTEXT COMMONEVENT:461/64/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+膝立ちになっているためピッチリとして身体のラインが
+出る紫色のショートパンツに目が行ってしまう。
+> CONTEXT COMMONEVENT:461/65/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+わ…ッ！
+> CONTEXT COMMONEVENT:461/73/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+女戦士たちは一斉にお尻を押し付けてきた。
+> CONTEXT COMMONEVENT:461/75/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+窒息の恐怖を嫌ほど味わった\\cdb[0:0:0]は
+なんとか逃げようとするが、後ろから
+がっちりと頭を固定されている。
+> CONTEXT COMMONEVENT:461/76/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@12
+どーお…？
+このパンツ、いい肌触りでしょ\\i[200]
+> CONTEXT COMMONEVENT:461/77/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@13
+情けないの…\\i[200]
+女の子にお尻押し付けられてるのに
+やめろの一言も言えないの？
+> CONTEXT COMMONEVENT:461/78/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+女戦士たちの圧迫はイリアンのそれと比べると
+弱く、かろうじて呼吸ができた。
+> CONTEXT COMMONEVENT:461/79/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女らの「攻撃」はイリアンのように敵を
+肉体的に弱らせるというよりは
+男のプライドを踏みにじることが目的のようだった。
+> CONTEXT COMMONEVENT:461/80/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@12
+んくっ…\\i[200]ふふ\\i[200]
+> CONTEXT COMMONEVENT:461/83/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+むにっとした感触と香りが\\cdb[0:0:0]を
+絶え間なく襲う。
+> CONTEXT COMMONEVENT:461/84/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+女戦士たちの胸と尻によって\\cdb[0:0:0]の
+戦意は完全に失われていた。
+> CONTEXT COMMONEVENT:461/85/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+ううっ…
+> CONTEXT COMMONEVENT:461/94/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]はまたいきなり拘束から解放された。
+その場に倒れこむ。
+> CONTEXT COMMONEVENT:461/97/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女たちの窒息攻撃で失った気力とは
+反面ペニスはすっかり大きくなって
+しまっていた。
+> CONTEXT COMMONEVENT:461/99/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+あはは…\\i[200]
+無様だな？
+> CONTEXT COMMONEVENT:461/104/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+半死半生でありながら男性器だけは
+自己主張する様子を見てイリアンたちは
+嘲笑を投げつける。
+> CONTEXT COMMONEVENT:461/105/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+じゃあ、そろそろ…\\i[200]
+> CONTEXT COMMONEVENT:461/106/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+んんっ\\i[200]
+> CONTEXT COMMONEVENT:461/116/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+こちらにお尻を見せつけるような
+形でイリアンは結合した。
+> CONTEXT COMMONEVENT:461/117/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そのまま体全体を動かすようにして
+\\cdb[0:0:0]のペニスを嫐りつける。
+> CONTEXT COMMONEVENT:461/118/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+うっ！ぐッ！ッ…！
+> CONTEXT COMMONEVENT:461/120/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+女戦士たちは全員\\cdb[0:0:0]より
+背が高いが、イリアンの体格は彼女らの中でも
+抜きん出ていた。
+> CONTEXT COMMONEVENT:461/121/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そんな彼女の妖膣が\\cdb[0:0:0]の
+腰部を打ち付けるたびに強い衝撃が走る。
+> CONTEXT COMMONEVENT:461/122/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@7
+ほ～ら、私たちのお尻からは
+逃げられないんだからね\\i[200]
+> CONTEXT COMMONEVENT:461/135/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+イリアンの重量あるセックスに苦しむ
+\\cdb[0:0:0]に追い打ちをかけるように
+周りの女戦士たちも愛撫を仕掛けてきた。
+> CONTEXT COMMONEVENT:461/137/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+魔法使いらしき女性はお尻を
+顔面に激しくこすりつけてきた。
+先ほどの恐怖が\\cdb[0:0:0]の脳裏をかすめる。
+> CONTEXT COMMONEVENT:461/138/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@12
+こんなに乳首を立たせて…
+いやらしい身体をしているわね\\i[200]
+> CONTEXT COMMONEVENT:461/141/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+右側に陣取った女戦士は粗暴な
+口ぶりとは裏腹にそうっと綿毛に触れるように
+やさしく乳首をいじってきた。
+> CONTEXT COMMONEVENT:461/142/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+イリアンの\\cdb[0:0:0]を嫐りたいという
+陰惨な欲望を支えるべく、彼女たちは
+媚びともいえる愛撫を執拗に続ける。
+> CONTEXT COMMONEVENT:461/143/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そんな彼女らの媚びた愛撫が
+\\cdb[0:0:0]への快楽をいっそう増幅させた。
+> CONTEXT COMMONEVENT:461/145/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+んんッ\\i[200]んッ\\i[200]
+ふっ…\\i[200]
+> CONTEXT COMMONEVENT:461/148/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+イリアンはくぐもった声を漏らしながら
+いっそう激しく腰を上下させる。
+> CONTEXT COMMONEVENT:461/149/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女の体全体がぶつけられるような
+激しい衝撃さえも、今は快楽のひとつと
+\\cdb[0:0:0]には感じられた。
+> CONTEXT COMMONEVENT:461/150/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+ッ…
+> CONTEXT COMMONEVENT:461/155/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+精子がとめどなくあふれ出た。
+まるで自分の命そのものが
+流れ出ているように力が抜けていく。
+> CONTEXT COMMONEVENT:461/157/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+だが、イリアンは\\cdb[0:0:0]がイったことには
+気付かず腰を動かしペニスを嫐り続けた。
+> CONTEXT COMMONEVENT:461/158/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+懇願の声をあげようにも女魔法使いの
+臀部が顔を圧迫し、声を出すことが
+できない。
+> CONTEXT COMMONEVENT:461/159/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+あぉぉ…\\i[200]
+> CONTEXT COMMONEVENT:461/160/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+たてつづけに再び射精してしまった。
+> CONTEXT COMMONEVENT:461/166/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+イリアンが気づいたのか、それとも
+一旦は満足したのかうっとりと
+余韻に浸るようにゆっくり腰を動かしている。
+> CONTEXT COMMONEVENT:461/169/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+はっ…\\i[200]はっ…\\i[200]
+強い男の精は、格別ね…\\i[200]
+> CONTEXT COMMONEVENT:461/170/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+臀部の陰からわずかに見えたイリアンの
+笑顔は、これまでにはない穏やかで
+優しいものだった。
+> CONTEXT COMMONEVENT:461/171/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+その表情に\\cdb[0:0:0]は胸を
+締め付けられたような気がした。\\!
+それは、先ほど味わった身体的な窒息とは
+また別の苦しいけど甘美な、不思議な思いだった。
+> CONTEXT COMMONEVENT:461/172/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@14
+でも、まだまだし足りないから…\\i[200]
+> CONTEXT COMMONEVENT:461/173/Message < UNTRANSLATED
+
+> END STRING

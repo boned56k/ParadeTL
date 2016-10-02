@@ -1,0 +1,62 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@45
+ずいぶん大きい洞窟ね…
+> CONTEXT COMMONEVENT:601/19/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+このあたりはすごく大きい鉱山の山脈が
+陸地を縦断するように連なっています。
+> CONTEXT COMMONEVENT:601/20/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+それを通りやすいように
+掘られたのがこのパイプオル岩窟です。
+> CONTEXT COMMONEVENT:601/21/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+昔は採掘も盛んだったらしいのですが、
+今は野盗が出没したり魔物が棲みつくようになって
+誰も近づきません。
+> CONTEXT COMMONEVENT:601/22/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+さすが…詳しいのね。
+> CONTEXT COMMONEVENT:601/23/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+少々危険ですが、必ず無事に
+ワラート城までお送りいたします！
+> CONTEXT COMMONEVENT:601/24/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+うん…頼りにしてるわ。
+> CONTEXT COMMONEVENT:601/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+さあ、行きましょう！
+> CONTEXT COMMONEVENT:601/26/Message < UNTRANSLATED
+
+> END STRING

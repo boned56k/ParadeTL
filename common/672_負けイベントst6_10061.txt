@@ -1,0 +1,391 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@46
+くうぅ…
+> CONTEXT COMMONEVENT:672/19/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+むふふ…\\i[200]
+ここまでね、万能剣士\\i[200]
+> CONTEXT COMMONEVENT:672/21/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ささらと配下のくノ一たちによる術に
+翻弄され、レストは力尽きた。
+> CONTEXT COMMONEVENT:672/22/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+くノ一の変装術は卓越しており、
+誰が本物なのかレストには全く検討が
+つかない。
+> CONTEXT COMMONEVENT:672/23/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+倒すべき敵を見失い狼狽した
+ところをじわじわと四方八方から
+突かれ、敗北を喫してしまった。
+> CONTEXT COMMONEVENT:672/24/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+こ、ここまできて…
+姫のもとにたどりつけないなんて…
+> CONTEXT COMMONEVENT:672/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+ふん…このひちり京の兵力全てが
+あなたたった一人をいたぶったんですからね。
+しょうがないことよ\\i[200]
+> CONTEXT COMMONEVENT:672/27/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+ふふふ…\\i[200]
+> CONTEXT COMMONEVENT:672/28/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+5人のささらたちは仰向けで倒れる
+レストの周りを取り囲むように立ち、
+蔑みの視線を投げつけてきた。
+> CONTEXT COMMONEVENT:672/29/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+表情までもが全員全く同じで、
+見た目だけでなく感情そのものまで
+そっくりに移しだしているように見える。
+> CONTEXT COMMONEVENT:672/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+聖翼神さまに逆らう者には
+お仕置きをしなくちゃね\\i[200]
+> CONTEXT COMMONEVENT:672/32/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ささらたちが一斉にこちらの顔面を
+踏みつけてきた。
+> CONTEXT COMMONEVENT:672/36/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+特に鼻と口のあたりを隙間が無いように
+踏みにじり、こちらの呼吸を封じさらに
+匂いを刻みつけてくる。
+> CONTEXT COMMONEVENT:672/38/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+うふん\\i[200]
+女の足に踏み潰されても何もできない
+男を恐れるなんて…
+> CONTEXT COMMONEVENT:672/41/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+他所の戦士たちはずいぶんと
+だらしないのね\\i[200]
+> CONTEXT COMMONEVENT:672/42/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+全員が徐々に体重をかけ始め、本当に
+全く呼吸ができないぐらいになってきた。
+> CONTEXT COMMONEVENT:672/45/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+5人は完全に息を合わせ、
+踏みにじる動きすらせずに足をぎゅっと
+押し付け窒息させる意思を見せている。
+> CONTEXT COMMONEVENT:672/46/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+息苦しさと濃密な香りとで
+意識が朦朧とし、完全に同時に発せられる
+吐息や漏れるような笑い声だけが遠くで聞こえる。
+> CONTEXT COMMONEVENT:672/47/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+…
+> CONTEXT COMMONEVENT:672/48/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+ふふ…\\i[200]
+> CONTEXT COMMONEVENT:672/54/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+もはやこれまでというところで
+彼女らの足から解放された。レストは
+弱々しくも必死で呼吸をする。
+> CONTEXT COMMONEVENT:672/59/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+あなたは所詮何も成し遂げられずに
+散るだけの男…\\i[200]
+> CONTEXT COMMONEVENT:672/61/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+聖翼神さまのもとへも行けないし、
+私たちの説得にも失敗した\\i[200]
+> CONTEXT COMMONEVENT:672/62/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ふたりのささらがつま先でレストの首筋を
+つつっとなぞる。くすぐったさとなぞられる感触で
+呼吸をやや阻害されてしまう。
+> CONTEXT COMMONEVENT:672/63/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+うふん\\i[200]いいこと考えた…\\i[200]
+これからはもっと住人たちに
+意地悪してあげようかしら\\i[200]
+> CONTEXT COMMONEVENT:672/64/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+あなたが私に歯向かってきたせいで
+私の怒りを買ったということにしてね…\\i[200]
+> CONTEXT COMMONEVENT:672/65/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+あなたは未来永劫ここの住人たちに
+恨まれ続けるのよ\\i[200]
+かわいそ～\\i[200]
+> CONTEXT COMMONEVENT:672/66/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ささらはレストを見下ろし、悪辣な計略を
+嬉々としてめぐらせていた。
+> CONTEXT COMMONEVENT:672/67/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+改めて自分の情けなさに悔しい思いが
+走るが、力が入らない。
+> CONTEXT COMMONEVENT:672/69/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+ふん…すっかり腑抜けになったわね。
+じゃあ、
+そろそろ楽しませてもらおうかしら\\i[200]
+> CONTEXT COMMONEVENT:672/71/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+5人のささらたちは位置取りにも
+一切手間取ることなく、隙間なく
+レストの体を押さえつけた。そして…
+> CONTEXT COMMONEVENT:672/72/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+あっは\\i[200]
+こんなに大きくしてっ…\\i[200]
+> CONTEXT COMMONEVENT:672/85/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+実力者でもなんでもない
+ただの助平剣士だったようね\\i[200]
+> CONTEXT COMMONEVENT:672/86/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+おそらく本物のささらであろう者が
+侮辱の言葉を投げつけながら
+結合してきた。
+> CONTEXT COMMONEVENT:672/87/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+だが、誰が本物であろうと今の
+レストには何もできなかった。
+> CONTEXT COMMONEVENT:672/89/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+ほぉら…私のお尻の感触も
+楽しませてあげる\\i[200]
+> CONTEXT COMMONEVENT:672/91/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+左右からもささらが愛撫を
+加えつつ押さえつけてくる。
+> CONTEXT COMMONEVENT:672/92/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+先ほどは5人がかりで顔面を
+踏まれていたためいまいち
+見えなかったが、
+> CONTEXT COMMONEVENT:672/94/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+全く同じ姿、顔の女性たちが
+こちらを見つめ責めている光景は
+レストを不思議な気持ちにさせた。
+> CONTEXT COMMONEVENT:672/95/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+ふんっ…\\i[200]こっちのほうは
+なかなかしぶといわね。\\!
+でもこれならどうかしら\\i[200]
+> CONTEXT COMMONEVENT:672/101/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+言うと同時に動きを速め、左右のささらたちも
+さらに密着を強めた。
+> CONTEXT COMMONEVENT:672/102/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そうなって間もなく、レストは
+射精してしまった。
+> CONTEXT COMMONEVENT:672/108/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+なぁんだ、あっけない…\\i[200]
+少し速めてあげただけでもう
+イッちゃうなんてね。
+> CONTEXT COMMONEVENT:672/111/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+でも私はまだ満足してないから
+このまま続行よ\\i[200]
+> CONTEXT COMMONEVENT:672/112/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+次は私だからね？
+> CONTEXT COMMONEVENT:672/117/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+その次は私\\i[200]
+> CONTEXT COMMONEVENT:672/118/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+私の恐ろしさをよ～く
+思い知ることね\\i[200]
+> CONTEXT COMMONEVENT:672/120/Message < UNTRANSLATED
+
+> END STRING

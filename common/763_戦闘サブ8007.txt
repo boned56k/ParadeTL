@@ -1,0 +1,8 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\c[3]ミュゼットの魔術により
+ベルとリラは倒しても復活する！\\c[0]
+> CONTEXT COMMONEVENT:763/20/Message < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,48 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+このクエストには「\\udb[2:75:0]」が10個必要です。
+「\\udb[2:75:0]」は
+「ラミア」を倒すことで入手できます。
+> CONTEXT COMMONEVENT:663/4/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@79
+おーい、ここだ！
+> CONTEXT COMMONEVENT:663/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@79
+へへへ…まさかあの万能剣士さんにうろこを
+頂けるとはね、ありがたいぜ。
+> CONTEXT COMMONEVENT:663/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\c[3]「\\udb[2:75:0]」を10個渡しました。
+> CONTEXT COMMONEVENT:663/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@79
+ありがとよ！
+実はもう武器の大体のトコはできてるんだ。
+最後の仕上げにこいつが必要でね。
+> CONTEXT COMMONEVENT:663/34/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@79
+へっへ…あの武器はスゴイぜ。きっと
+あんたも一度も使ったことがないような代物だ。
+> CONTEXT COMMONEVENT:663/35/Message < UNTRANSLATED
+
+> END STRING

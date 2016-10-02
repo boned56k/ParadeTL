@@ -1,0 +1,131 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@4
+ここは…
+> CONTEXT COMMONEVENT:667/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@82
+ねー、あの子かわいくない？
+> CONTEXT COMMONEVENT:667/32/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@83
+ほんとだ\\i[200]
+いじめてあげたらどんなおカオするのかな…\\i[200]
+> CONTEXT COMMONEVENT:667/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@82
+ふふふ…\\i[200]
+> CONTEXT COMMONEVENT:667/34/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+うわ、な、何を！？
+> CONTEXT COMMONEVENT:667/35/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\c[3]夢の中ではメニューが開けなくなります。
+> CONTEXT COMMONEVENT:667/36/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+って…何だこの武器！？\\!
+水…が出るみたいだけど
+> CONTEXT COMMONEVENT:667/48/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+変わった武器だなぁ…
+まあいいか。
+> CONTEXT COMMONEVENT:667/49/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+レストくーん！
+聞こえるー？
+> CONTEXT COMMONEVENT:667/240/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+サバメさんの声…
+あ…そうかこれは夢の中だった…！
+> CONTEXT COMMONEVENT:667/241/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+はい！聞こえます！サバメさんどこですか！？
+> CONTEXT COMMONEVENT:667/242/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+あなたとはかなり離れたところにいるみたい。
+でも声だけはこうやってやり取りできるように
+なってるの！
+> CONTEXT COMMONEVENT:667/243/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+なるほど…こっちは見たこともない不思議な場所で
+見たこともない格好の女の人達に襲われてました！
+> CONTEXT COMMONEVENT:667/244/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+それ私の夢の一部かも！
+やった、うまくいった！
+> CONTEXT COMMONEVENT:667/245/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+でもまだまだ不安定なところがありそうね…
+戻りましょう！
+> CONTEXT COMMONEVENT:667/246/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+協力ありがとう！
+かなりいろんな収穫があったわ！
+> CONTEXT COMMONEVENT:667/278/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+（…なんだかすごく疲れた…）
+> CONTEXT COMMONEVENT:667/279/Message < UNTRANSLATED
+
+> END STRING

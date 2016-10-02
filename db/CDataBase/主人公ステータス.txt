@@ -1,0 +1,124 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+レスト
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[0]レスト/[0]キャラ名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+万能剣士
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[0]レスト/[1]肩書き < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファイターさん
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[1]ファイターさん/[0]キャラ名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦士
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[1]ファイターさん/[1]肩書き < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウィッチさん
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[2]ウィッチさん/[0]キャラ名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法使い
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[2]ウィッチさん/[1]肩書き < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリーストさん
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[3]プリーストさん/[0]キャラ名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+僧侶
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[3]プリーストさん/[1]肩書き < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パイレーツさん
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[4]パイレーツさん/[0]キャラ名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+海賊
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[4]パイレーツさん/[1]肩書き < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シーフさん
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[5]シーフさん/[0]キャラ名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[5]シーフさん/[1]肩書き < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+-----------------------
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[9]-----------------------/[0]キャラ名 < UNTRANSLATED
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[11]-----------------------/[0]キャラ名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【以下、サンプルゲーム用】
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[10]【以下、サンプルゲーム用】/[0]キャラ名 < UNTRANSLATED
+> CONTEXT DB:DataBase/[0]技能/[33]【以下、サンプルゲーム用】/[0]技能の名前 < UNTRANSLATED
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[10]【以下、サンプルゲーム用】/[0]コマンド名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウルファール
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[12]ウルファール/[0]キャラ名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+案内人
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[12]ウルファール/[1]肩書き < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+P･G･エディ
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[13]P･G･エディ/[0]キャラ名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラジル人
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[13]P･G･エディ/[1]肩書き < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夕一
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[14]夕一/[0]キャラ名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニワトリ
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[14]夕一/[1]肩書き < UNTRANSLATED
+
+> END STRING

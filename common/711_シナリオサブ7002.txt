@@ -1,0 +1,137 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@81
+また来てくれてありがとう、嬉しいわ。
+> CONTEXT COMMONEVENT:711/22/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+いえ…サバメさん、近くにいらしていたみたい
+だったので。
+> CONTEXT COMMONEVENT:711/23/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+ひちり京にお住まいというわけでは
+なかったんですね。
+> CONTEXT COMMONEVENT:711/24/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+そうね。研究に役立ちそうなものを探すために
+あちこち見て回ってる感じかな。
+> CONTEXT COMMONEVENT:711/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+これ、この間の夢合体道具ですか？
+少し形が違うような…
+> CONTEXT COMMONEVENT:711/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+その通り！これは外側をこの部屋に
+合いそうなものにしただけよ。
+中身さえあれば大体は何でもいいからね。
+> CONTEXT COMMONEVENT:711/27/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+以前あなたに協力してもらったおかげで
+ホントすごいいっぱい改善箇所が見つかったの！
+かなり安定性が増してるはずよ。
+> CONTEXT COMMONEVENT:711/28/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+（確かにあの時は疲労感がものすごかったような…
+　夢の内容のせいかもしれないけど）
+> CONTEXT COMMONEVENT:711/29/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+前はサバメさんの夢と、僕の夢が混ざり合って…
+本当に変な感じでした。
+> CONTEXT COMMONEVENT:711/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+僕も結構あちこち見て回ってるつもりでしたが…\\!
+あんな格好をした人もあんな場所も
+初めて見ましたよ。
+> CONTEXT COMMONEVENT:711/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+まあ、そうかもね～。\\!
+私もこっちに来てからは珍しいものばかり
+見てきたし。
+> CONTEXT COMMONEVENT:711/32/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+こっち…？
+> CONTEXT COMMONEVENT:711/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+ああ…私はね…うーん…\\!
+とにかくすごく遠いところから来たって感じなの。
+> CONTEXT COMMONEVENT:711/34/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+帰ろうと思えばいつでも帰れるんだけど
+面白そうだしちょこちょこ調べ物してるってワケ\\i[200]
+> CONTEXT COMMONEVENT:711/35/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+はあ…
+（やっぱりちょっと不思議な人だ）
+> CONTEXT COMMONEVENT:711/36/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+じゃ、またこの薬ね。
+> CONTEXT COMMONEVENT:711/38/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+はい…。
+> CONTEXT COMMONEVENT:711/39/Message < UNTRANSLATED
+
+> END STRING

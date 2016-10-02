@@ -1,0 +1,67 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+棍棒
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[3]棍棒/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+斧
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[4]斧/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弓矢
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[5]弓矢/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+爪
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[7]爪/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くちばし
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[8]くちばし/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+銃
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[9]銃/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+服
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[10]服/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鎧
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[11]鎧/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ローブ
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[12]ローブ/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盾
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[13]盾/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小手
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[14]小手/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+
+> END STRING

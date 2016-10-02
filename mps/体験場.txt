@@ -1,0 +1,213 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+看板
+「やぁ、ここは画面の向こうの人たちに
+このコモンイベントを使ってできることを
+実際に体験してもらうところだよ
+> CONTEXT MPS:体験場/events/2/pages/1/4/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウディタのサンプルゲームよろしく
+解説も踏まえながら進んで行こうと思うから
+こういう看板を見つけたらちゃんと上キーで
+イベントを起動してね
+> CONTEXT MPS:体験場/events/2/pages/1/5/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちなみにこのイベントは並列実行で
+上キーを押したか押してないかを判定しているぞ
+ちゃんとそれ専用のコモンイベントがあるから
+面倒な手間はかからないはずだ
+> CONTEXT MPS:体験場/events/2/pages/1/6/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただし、Ｅｖセルフの０番を使い、条件分岐を
+必ず使用しないといけないという条件はあるんだが
+そこは仕方ないと割り切ってね
+> CONTEXT MPS:体験場/events/2/pages/1/7/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、長々と話をしてしまったね
+まぁこの先にも仲間はいっぱい要るけど
+あせらず適度に
+ゆっくりしていってね！」
+> CONTEXT MPS:体験場/events/2/pages/1/8/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看板
+「おぅ、ここではそこにいる
+敵キャラクターについて説明してやるぞ
+> CONTEXT MPS:体験場/events/4/pages/1/4/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵キャラクターは専用のコモンイベントで
+最初に一回だけ指定のＥｖ位置に描画するんだ
+これはマップの切り替えごとにおこなわないと
+ピクチャが切り替わらないぞ
+> CONTEXT MPS:体験場/events/4/pages/1/5/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こいつらの動きは専用のＥｖを用意して
+こいつらのベクトルを操作するコモンで
+いろいろ組み合わせて指定するんだ
+> CONTEXT MPS:体験場/events/4/pages/1/6/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちなみにそいつは左右に動きまくってるが
+右移動中に移動力が０になったら、つまり
+壁に当たったら動きを反転させるようにしてあるぞ
+ループを使わないとできないがな
+> CONTEXT MPS:体験場/events/4/pages/1/7/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+詳しい処理の内容はこのゲームフォルダに
+ウディタ本体をぶち込んで見ればいいぞ
+サンプルゲームの鉄板だな
+> CONTEXT MPS:体験場/events/4/pages/1/8/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちなみにそいつに触れるとダメージを受けるぞ
+ウルファールは７回、ターは５回、エディは３回で
+ゲームオーバーだ
+キャラの切り替えはＣキーでできるぞ
+> CONTEXT MPS:体験場/events/4/pages/1/9/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+体力が無くなったらゲームオーバーで最初からだ
+まぁあんまり難しくは無いから大丈夫だと思うが
+がんばれよ」
+> CONTEXT MPS:体験場/events/4/pages/1/10/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看板
+「ウルファールは平均的な能力
+　ターはジャンプ力が高い
+　エディは鈍足で体力低い
+> CONTEXT MPS:体験場/events/5/pages/1/4/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何のためにいるんだよエディ･･･
+･･････おっと、ｹﾞﾌﾝｹﾞﾌﾝ･･･
+や、やぁ、よく来たね
+> CONTEXT MPS:体験場/events/5/pages/1/5/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キャラクターは今３人切り替えられるけど
+コモンイベントの「キャラ操作」を改造すれば
+３人以上にも以下にもできるよ
+> CONTEXT MPS:体験場/events/5/pages/1/6/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+元々作者が公開用として作ってたのに
+自分用の要素を付け足してできた産物だけど
+まぁおまけってことで許してね」
+> CONTEXT MPS:体験場/events/5/pages/1/7/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看板
+「この飛び石は落ちても下に地面があるから
+後ろの穴から戻ってこれるぞ
+ちなみにさらに落ちてしまった場合は
+> CONTEXT MPS:体験場/events/6/pages/1/4/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+下にジャンプ台を置いておいたから
+それで戻ってきな」
+> CONTEXT MPS:体験場/events/6/pages/1/5/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看板
+「びっくりしたか？いまのは
+操作キャラ移動補正っていうコモンで
+上昇気流のようなものを作ったんだ
+> CONTEXT MPS:体験場/events/8/pages/1/4/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これは上キーを使わない、接触起動という
+方式でイベントを起動しているんだ
+これもセルフ０番を使っている
+詳しくはウディタ本体をぶちｋ(略
+> CONTEXT MPS:体験場/events/8/pages/1/5/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+補正できるのは
+左右移動上限、上下左右のベクトル
+ジャンプ力に体力だ
+もちろん改造して増やせばもっとできるぞ
+> CONTEXT MPS:体験場/events/8/pages/1/6/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いまできることはこれぐらいかな
+ちなみに戦闘アクションは
+自作してくれとのことだ
+使えない製作者だぜ･･･」
+> CONTEXT MPS:体験場/events/8/pages/1/7/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看板
+「よくここまで来たな
+まぁ短いゲームだが
+このシステムを使ってできることは
+> CONTEXT MPS:体験場/events/12/pages/1/4/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このゲームを通してわかったはずだぜ
+あとは改造したり増設したりして
+自分の世界を作り上げてくれ
+> CONTEXT MPS:体験場/events/12/pages/1/5/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+みんなの世界が生まれるのを楽しみにしてるぜ
+ゲームクリアおめでとう！」
+> CONTEXT MPS:体験場/events/12/pages/1/6/Message < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,9 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>「X[移]選択箇所装備コード取得」エラー：
+　装備箇所が8以下です。 　=\>　\\cself[1]
+　（※0～7で指定して下さい）
+> CONTEXT COMMONEVENT:106/38/Message < UNTRANSLATED
+
+> END STRING

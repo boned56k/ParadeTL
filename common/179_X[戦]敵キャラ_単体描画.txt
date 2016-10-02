@@ -1,0 +1,27 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>「X[戦]敵キャラ_単体描画」：エラー
+ 表示位置10番未満は指定できません \> \\cself[1]
+> CONTEXT COMMONEVENT:179/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[戦闘]敵の最大数(システム)
+> CONTEXT COMMONEVENT:179/57/Database < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\-[1]<C\>\\E\\space[0]\\f[\\cself[17]]\\cself[7]
+> CONTEXT COMMONEVENT:179/178/SetString < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+\\cself[8] \\font[1]\\cself[90]
+> CONTEXT COMMONEVENT:179/184/SetString < UNTRANSLATED
+
+> END STRING

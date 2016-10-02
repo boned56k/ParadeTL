@@ -1,0 +1,14 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\c[2]拠点ではアイテムの使用はできません！\\c[0]
+> CONTEXT COMMONEVENT:118/14/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>「X[移]ｱｲﾃﾑ使用効果処理」エラー
+「-1」番以下のアイテムコードが指定されました。
+> CONTEXT COMMONEVENT:118/23/Message < UNTRANSLATED
+
+> END STRING

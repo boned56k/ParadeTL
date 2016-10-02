@@ -1,0 +1,103 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@1
+レストは好奇心旺盛な船乗りの案内で
+魔物がはびこる島「魔棲島」にたどり着いた…
+> CONTEXT COMMONEVENT:780/17/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@88
+おっし、着いたぞ。
+ここが\\c[3]魔棲島\\c[0]だ。
+> CONTEXT COMMONEVENT:780/22/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@88
+見たところ普通の島みたいだけどな～…\\!
+この島のどこかに不思議な塔があるんだ！
+> CONTEXT COMMONEVENT:780/23/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+…？
+塔ってあそこにそびえ立ってるやつの
+ことじゃないんですか？
+> CONTEXT COMMONEVENT:780/24/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@88
+え？どこ？
+> CONTEXT COMMONEVENT:780/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+ほら、あそこですよあそこ。
+> CONTEXT COMMONEVENT:780/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@88
+うーん…
+何も見えん…\\!
+おいお前ら、
+あそこに塔があるらしいけど見えるやついるか？
+> CONTEXT COMMONEVENT:780/27/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@89
+いや…何も見えないッスねえ…
+> CONTEXT COMMONEVENT:780/28/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@88
+うーむ…あんたにだけ見える塔か…
+既にかなり不思議だな。
+> CONTEXT COMMONEVENT:780/29/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+どうするんですか？
+> CONTEXT COMMONEVENT:780/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@88
+あんたについてって塔のお宝とやらを
+漁るつもりだったが…見えないんじゃしょうがない。\\!
+ここで待つことにするよ。
+> CONTEXT COMMONEVENT:780/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+そうですか…
+> CONTEXT COMMONEVENT:780/32/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@88
+じゃあ気をつけてな！
+> CONTEXT COMMONEVENT:780/33/Message < UNTRANSLATED
+
+> END STRING

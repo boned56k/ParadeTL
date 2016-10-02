@@ -1,0 +1,18 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+ウルファール
+「この相談コマンドは、コモンイベントから
+　呼び出されているんです。
+> CONTEXT COMMONEVENT:212/1/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウルファール
+「こんな風にメニューからコモンイベントを
+　呼び出すこともできるので、
+　自作のコマンドもラクラク追加できますね！
+> CONTEXT COMMONEVENT:212/2/Message < UNTRANSLATED
+
+> END STRING

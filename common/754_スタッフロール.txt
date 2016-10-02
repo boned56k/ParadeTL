@@ -1,0 +1,65 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+パレードバスター
+
+
+\\c[4]グラフィック・ゲームシステム開発
+
+　\\c[0]なめジョン
+
+
+\\c[4]開発ツール
+
+　\\c[0]WOLF RPGエディター
+
+
+\\c[4]効果音素材
+
+　\\c[0]Bastet tail
+
+　\\c[0]On-Jin ～音人～
+　　　\\c[3]http://on-jin.com/
+　\\c[0]Project-【R】
+
+　\\c[0]Re:I
+
+　\\c[0]魔王魂
+　　　\\c[3]http://maoudamashii.jokersounds.com/
+
+\\c[4]ボイス素材
+
+　\\c[0]R.M.R
+
+　\\c[0]あさぎいろ
+
+　\\c[0]きみりんこ。
+
+　\\c[0]鎖屋-kusariya-
+
+　\\c[0]ミュウPB
+
+
+\\c[4]背景素材
+
+　\\c[0]ウエストサイド
+
+　\\c[0]キュキュキュのQのQ
+
+　\\c[0]同人ゲーム制作支援net
+
+　\\c[0]背景専門店みにくる
+
+　\\c[0]叢～むらくも～
+
+（いずれも敬称略50音順）
+　　\\f[40]\n\n\n\n\n\n\n\n\n\n\n\n\n
+> CONTEXT COMMONEVENT:754/4/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[40]\\font[1]Thank you for playing!
+> CONTEXT COMMONEVENT:754/9/Picture < UNTRANSLATED
+
+> END STRING

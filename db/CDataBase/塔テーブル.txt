@@ -1,0 +1,73 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\c[4]\\udb[2:11:0]、\\c[4]\\udb[2:80:0]
+> CONTEXT DB:CDataBase/[29]塔テーブル/[0]1階/[0]予備 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]\\udb[4:119:0]
+> CONTEXT DB:CDataBase/[29]塔テーブル/[1]2階/[0]予備 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]\\udb[4:120:0]
+> CONTEXT DB:CDataBase/[29]塔テーブル/[2]3階/[0]予備 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]\\udb[4:86:0]、\\udb[4:118:0]
+> CONTEXT DB:CDataBase/[29]塔テーブル/[3]4階/[0]予備 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]\\udb[2:12:0]、\\c[4]\\udb[2:16:0]、\\c[4]\\udb[2:81:0]
+> CONTEXT DB:CDataBase/[29]塔テーブル/[4]5階/[0]予備 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]\\udb[4:121:0]
+> CONTEXT DB:CDataBase/[29]塔テーブル/[5]6階/[0]予備 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]\\udb[2:13:0]
+> CONTEXT DB:CDataBase/[29]塔テーブル/[6]7階/[0]予備 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]\\udb[4:87:0]
+> CONTEXT DB:CDataBase/[29]塔テーブル/[7]8階/[0]予備 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]\\udb[4:122:0]、\\c[4]\\udb[2:82:0]
+> CONTEXT DB:CDataBase/[29]塔テーブル/[8]9階/[0]予備 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]\\udb[3:157:0]\\c[0]、\\c[4]\\udb[4:41:0]\\c[0]、\\c[4]\\udb[4:42:0]\\c[0]
+> CONTEXT DB:CDataBase/[29]塔テーブル/[9]10階/[0]予備 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]\\udb[3:160:0]\\c[0]、\\c[4]\\udb[3:158:0]\\c[0]
+> CONTEXT DB:CDataBase/[29]塔テーブル/[10]11階/[0]予備 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]\\udb[4:44:0]\\c[0]
+> CONTEXT DB:CDataBase/[29]塔テーブル/[11]12階/[0]予備 < UNTRANSLATED
+
+> END STRING

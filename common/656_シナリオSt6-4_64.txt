@@ -1,0 +1,274 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@51
+…
+> CONTEXT COMMONEVENT:656/20/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@15
+ふふふ…\\i[200]
+> CONTEXT COMMONEVENT:656/21/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@33
+万能剣士が屋敷内に乗り込んできました！
+> CONTEXT COMMONEVENT:656/22/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+！
+> CONTEXT COMMONEVENT:656/23/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:705/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@33
+現在屋敷中の兵士総出で
+撃退にあたっております！
+> CONTEXT COMMONEVENT:656/24/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@16
+ご苦労様。
+よろしくね\\i[200]
+> CONTEXT COMMONEVENT:656/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@15
+思ってたよりずいぶん早く
+現れたわね。
+> CONTEXT COMMONEVENT:656/27/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@16
+でも、ここまでたどり着けるかしらね\\i[200]
+> CONTEXT COMMONEVENT:656/28/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+必ず来るわ！
+\\cdb[0:0:0]くんは…約束してくれたもの！
+> CONTEXT COMMONEVENT:656/29/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+私をワラート城に送り届けるって…！
+> CONTEXT COMMONEVENT:656/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@15
+なんて美しい絆なのかしら\\i[200]
+> CONTEXT COMMONEVENT:656/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@16
+たくさんの兵たちにもみくちゃに
+されてボロボロになりながらも
+ここまでやってくる…けなげな姫のナイト。
+> CONTEXT COMMONEVENT:656/32/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@15
+そのナイトも
+リチア姫…あなたが見ている前で
+私たちに嫐られて
+みじめな最期を迎えるのよ\\i[200]
+> CONTEXT COMMONEVENT:656/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+あなたたちは…一体何が目的で
+こんなことをするの！
+> CONTEXT COMMONEVENT:656/34/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+お母様を操って一体何をするつもり！？
+> CONTEXT COMMONEVENT:656/35/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@15
+私たちはミュゼット様の
+命令を聞いて遂行するだけ。
+あの御方の目的まで私たちが知る
+必要はないの\\i[200]
+> CONTEXT COMMONEVENT:656/36/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@16
+私たちから何かを聞き出そうとしても
+無駄よ\\i[200]
+> CONTEXT COMMONEVENT:656/37/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+（\\cdb[0:0:0]くん…お父様…お母様ッ…）
+> CONTEXT COMMONEVENT:656/39/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+きたわね…万能剣士！
+> CONTEXT COMMONEVENT:656/54/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+…お前は何者だ！
+> CONTEXT COMMONEVENT:656/55/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@33
+ささら様に対して頭が高いぞ、無礼者！
+> CONTEXT COMMONEVENT:656/56/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+じゃあ…あなたがここの領主か！
+> CONTEXT COMMONEVENT:656/57/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+さらった女の人たちを解放してもらう！
+> CONTEXT COMMONEVENT:656/58/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+フン…お断りよ！
+者共、出てらっしゃい！
+> CONTEXT COMMONEVENT:656/59/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+ふふふ…この数相手では
+あなたがいくら凄腕の剣士だろうと
+勝ち目はないはず。
+> CONTEXT COMMONEVENT:656/65/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+トドメだけは私が刺してあげるから
+ありがたく思いなさい\\i[200]
+> CONTEXT COMMONEVENT:656/66/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+何としても一番奥の有翼魔のもとへ
+行かなくちゃならないんだ！
+> CONTEXT COMMONEVENT:656/67/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+負けるわけにはいかない！
+> CONTEXT COMMONEVENT:656/68/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+有翼魔…？
+あの神々しき姿をお持ちの方々を
+「魔」などと呼ばわるとは…
+> CONTEXT COMMONEVENT:656/69/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+さすが他所の人間はとんでもなく
+野蛮なのね。
+> CONTEXT COMMONEVENT:656/70/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+何…？
+> CONTEXT COMMONEVENT:656/71/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+伝説の存在とうたわれる「聖翼神」さまが
+この地に降臨したことはまさに吉兆…
+> CONTEXT COMMONEVENT:656/72/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+あの方々のご意向に従うことは
+この地に生きる者にとって
+最上の栄誉なのよ\\i[200]
+> CONTEXT COMMONEVENT:656/73/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（ここの人達はあの魔物を
+　聖なる存在としてあがめているのか…）
+> CONTEXT COMMONEVENT:656/74/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@36
+聖翼神さまに歯向かう愚か者！
+わかったら大人しくお縄につきなさい！
+> CONTEXT COMMONEVENT:656/75/Message < UNTRANSLATED
+
+> END STRING

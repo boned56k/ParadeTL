@@ -1,0 +1,10 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>\\f[20]レベル\\cself[30]  / \\cdb[21:78:0] \\cdb[21:80:0] \\cdb[21:81:0] \\cdb[21:82:0] \\cdb[21:83:0]
+\\cdb[21:84:0] \\cdb[21:85:0] \\cdb[21:86:0] \\cdb[21:87:0] \\cdb[21:88:0]
+\\cdb[21:89:0] <\\cself[43]\> \\cself[42]? \\cself[0]
+\\cdb[21:90:1]
+> CONTEXT COMMONEVENT:74/250/Message < UNTRANSLATED
+
+> END STRING

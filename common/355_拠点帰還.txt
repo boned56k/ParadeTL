@@ -1,0 +1,15 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+この機能はまだ使えません。
+> CONTEXT COMMONEVENT:355/3/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最後に立ち寄った拠点に戻ります。
+よろしいですか？
+(経験値、お金、戦利品は入手したまま戻ります)
+> CONTEXT COMMONEVENT:355/7/Message < UNTRANSLATED
+
+> END STRING

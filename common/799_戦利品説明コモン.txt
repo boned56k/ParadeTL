@@ -1,0 +1,8 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\f[30]「\\cself[5]」　\\f[22]\\c[4]\\cself[7]\\c[0]
+\\f[22]\\cself[6]
+> CONTEXT COMMONEVENT:799/19/Picture < UNTRANSLATED
+
+> END STRING

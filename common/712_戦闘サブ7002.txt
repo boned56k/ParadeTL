@@ -1,0 +1,183 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@4
+なんだここは…
+> CONTEXT COMMONEVENT:712/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@86
+ちょっとキミ！
+> CONTEXT COMMONEVENT:712/32/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@86
+私たちのことエッチな目で見てたでしょ？
+> CONTEXT COMMONEVENT:712/34/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+！？
+> CONTEXT COMMONEVENT:712/35/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@87
+破廉恥な奴め…！\\!
+そこになおりなさい！
+> CONTEXT COMMONEVENT:712/36/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+（そうだ…これは夢なんだった。\\!
+　また見たことのない格好の人達と
+　見たことのない場所…）
+> CONTEXT COMMONEVENT:712/37/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+（で…武器もなんだかよく分からないモノに）
+> CONTEXT COMMONEVENT:712/38/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+もしもし、レストくん？
+> CONTEXT COMMONEVENT:712/40/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+あ、サバメさん！
+> CONTEXT COMMONEVENT:712/41/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+今回もうまいこと混ざり合ったみたいです！
+また見たことのない場所で
+見たことのない格好の人達に囲まれてます！
+> CONTEXT COMMONEVENT:712/42/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+うまくいったみたいね！
+こっちはすごく立派なお城の中にいるわ。
+多分あなたの夢の要素ね！
+> CONTEXT COMMONEVENT:712/43/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+あと…やっぱりちょっと襲われそうです！
+> CONTEXT COMMONEVENT:712/44/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+はあ、はあっ…\\!
+（それにしてもこの球体はなんなんだろう…\\!
+　武器として扱ってしまっていいものか？）
+> CONTEXT COMMONEVENT:712/60/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+レストくん、そろそろ戻りましょうか。
+> CONTEXT COMMONEVENT:712/215/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+あ…サバメさん！
+> CONTEXT COMMONEVENT:712/216/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+改善の成果がバッチリ出てたわ！
+あなたのおかげでこのマシンもめでたく完成！
+> CONTEXT COMMONEVENT:712/217/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+本当にありがとね\\i[200]
+> CONTEXT COMMONEVENT:712/218/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+お役に立てたのならよかったです。
+> CONTEXT COMMONEVENT:712/219/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+今回の夢はどうだったかしら？
+楽しかった？
+> CONTEXT COMMONEVENT:712/220/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+…今回もいろんな女の人に
+襲われました…
+> CONTEXT COMMONEVENT:712/221/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+ふーん…あなた、現実でもよっぽど
+女の人に苦しめられてるんじゃない？
+> CONTEXT COMMONEVENT:712/222/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+さあ、夢から抜け出すわよ。
+> CONTEXT COMMONEVENT:712/224/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+よし…完璧ね！
+夢操作合体マシン完成！
+> CONTEXT COMMONEVENT:712/255/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@81
+協力ありがとう、あなたのおかげよ！
+> CONTEXT COMMONEVENT:712/256/Message < UNTRANSLATED
+
+> END STRING

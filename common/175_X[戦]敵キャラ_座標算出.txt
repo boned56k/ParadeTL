@@ -1,0 +1,8 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>「X[移]敵キャラ_座標算出」：エラー
+10番未満は指定できません
+> CONTEXT COMMONEVENT:175/25/Message < UNTRANSLATED
+
+> END STRING

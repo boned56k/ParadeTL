@@ -1,0 +1,371 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@46
+ぐうっ！
+> CONTEXT COMMONEVENT:421/20/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+ふふふ…勝負ありね。
+> CONTEXT COMMONEVENT:421/21/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリンは口元に笑みを浮かべながら
+見下してくる。
+> CONTEXT COMMONEVENT:421/23/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+やっぱりね\\i[200]
+あなたごときがマリン様に
+勝てるわけないんだから！
+> CONTEXT COMMONEVENT:421/24/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+その程度で強者ぶっていたなんて…
+お笑いね\\i[200]
+> CONTEXT COMMONEVENT:421/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+取り巻きの女戦士たちは口々に\\cdb[0:0:0]を
+罵り、嘲笑した。
+> CONTEXT COMMONEVENT:421/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+自らの実力を棚に上げ勝利の
+愉悦に酔いしれる取り巻きたちは
+虎の威を借る狐そのものだが、
+> CONTEXT COMMONEVENT:421/27/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\cdb[0:0:0]には反論する力も残っておらず、
+悔恨の眼差しを送るのが精一杯だった。
+> CONTEXT COMMONEVENT:421/28/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+さあ、みんな。勝負に負けるということが
+何を意味するかを\\cdb[0:0:0]くんにたっぷりと
+教えてあげましょう\\i[200]
+> CONTEXT COMMONEVENT:421/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+りょうかーい\\i[200]
+> CONTEXT COMMONEVENT:421/39/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+取り巻きたちが乳房をさらけ出し、
+ゆったりと自らの身体を\\cdb[0:0:0]にこすりつける。
+> CONTEXT COMMONEVENT:421/48/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+んっ…\\i[200]
+> CONTEXT COMMONEVENT:421/49/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+んふっ…\\i[200]\\!こういうのっ…\\i[200]\\!
+苦手なんでしょ～？\\!苦手だから
+負けちゃったんでしょ\\i[200]
+> CONTEXT COMMONEVENT:421/51/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+女戦士たちは全員自分より
+背が高く、こちらを見下ろしながら
+いやらしい吐息を浴びせてくる。
+> CONTEXT COMMONEVENT:421/52/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+たちまち\\cdb[0:0:0]の股間が
+膨張してしまった。
+> CONTEXT COMMONEVENT:421/62/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+最ッ低…\\i[200]
+> CONTEXT COMMONEVENT:421/64/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@9
+やだ…\\i[200]
+> CONTEXT COMMONEVENT:421/65/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+いけない子ね…\\i[200]
+> CONTEXT COMMONEVENT:421/66/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+周囲から侮蔑の言葉が発せられる。
+> CONTEXT COMMONEVENT:421/67/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]に対して直接言うというよりは
+仲間内でひそひそと言い合うような言い方で
+それが余計にこちらにとって屈辱的だった。
+> CONTEXT COMMONEVENT:421/68/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+うふふ…\\i[200]
+> CONTEXT COMMONEVENT:421/74/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+仰向けに寝かされている\\cdb[0:0:0]のもとへ
+マリンがゆったりと近づいてくる。
+> CONTEXT COMMONEVENT:421/75/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+万能剣士さん…\\i[200]
+おねえさんといいこと、しましょうねぇ\\i[200]
+> CONTEXT COMMONEVENT:421/77/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンは騎乗位で\\cdb[0:0:0]とひとつに
+なり、激しく腰を上下させた。
+> CONTEXT COMMONEVENT:421/86/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+マリン様とこんなコトできるなんて、
+ありがたく思いなさいよ、負け犬くん\\i[200]
+> CONTEXT COMMONEVENT:421/97/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+取り巻きの女戦士たちが左右から
+密着し、自分の身体を感触を
+刻みつけてくる。
+> CONTEXT COMMONEVENT:421/98/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+いつでも出していいからね…\\i[200]
+> CONTEXT COMMONEVENT:421/103/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンは優しく微笑みこちらを
+見つめてきた。
+> CONTEXT COMMONEVENT:421/104/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+ううッ…
+> CONTEXT COMMONEVENT:421/105/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+目があった瞬間、射精してしまった。
+> CONTEXT COMMONEVENT:421/110/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+んっ…\\i[200]んっ…\\i[200]
+> CONTEXT COMMONEVENT:421/115/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+こちらの精気を吸い上げるように
+マリンはゆっくりといやらしく腰を動かす。
+> CONTEXT COMMONEVENT:421/116/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+いっぱい出してくれたねっ…\\i[200]
+でも、まだまだイッてもらうから\\i[200]
+> CONTEXT COMMONEVENT:421/117/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンは再び腰を激しく動かし始めた。
+射精したばかりのペニスが容赦なく
+刺激に晒される。
+> CONTEXT COMMONEVENT:421/121/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+いつの間に入れ替わったのか、両脇に
+陣取る女戦士たちの顔ぶれが変わっている。
+> CONTEXT COMMONEVENT:421/133/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@9
+男の子なんだから、これぐらいのことは
+我慢してください\\i[200]
+> CONTEXT COMMONEVENT:421/135/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+女戦士たちは自らの足をこちらの顔に
+おしつけ、踏みにじるような形で動かした。
+> CONTEXT COMMONEVENT:421/137/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+むわっとした熱気とわずかな匂いに、
+頭がぼうっとしてくる。
+> CONTEXT COMMONEVENT:421/138/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+ふふふ…\\i[200]かわいそうな\\cdb[0:0:0]くん\\i[200]
+でも、負けちゃったからしょうがないよね\\i[200]
+> CONTEXT COMMONEVENT:421/141/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+あん\\i[200]おちんちんまた
+ふくらんできてる…\\i[200]
+いやらしい子なんだから\\i[200]
+> CONTEXT COMMONEVENT:421/142/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+肉欲に狂う自分たちを棚にあげ、
+全てこちらのせいだと言わんばかりに
+責めが激しくなる。
+> CONTEXT COMMONEVENT:421/143/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+ん\\i[200]\\!ん\\i[200]\\!ん\\i[200]\\!
+レスト…くんっ…\\i[200]
+> CONTEXT COMMONEVENT:421/146/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+あああ…ッ！
+> CONTEXT COMMONEVENT:421/147/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+1度目と同じかそれ以上の量の精子を
+マリンに吸われてしまった。
+> CONTEXT COMMONEVENT:421/152/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+はあ…\\i[200]はあぁ…\\i[200]
+> CONTEXT COMMONEVENT:421/156/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+マリンはうっとりと負かした相手を
+いいように嫐る快感に酔いしれている…
+> CONTEXT COMMONEVENT:421/157/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@11
+レストくん…\\i[200]
+大好きよっ\\i[200]ずっと一緒に
+いましょうね\\i[200]
+> CONTEXT COMMONEVENT:421/158/Message < UNTRANSLATED
+
+> END STRING

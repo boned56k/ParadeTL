@@ -1,0 +1,30 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\f[17]\\font[1]HINT
+\\font[0]照準を画面下に移動すると防御ができる
+> CONTEXT COMMONEVENT:404/27/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[17]\\font[1]HINT
+\\font[0]防御中は気力の回復スピードが上昇する
+> CONTEXT COMMONEVENT:404/53/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[17]\\font[1]HINT
+\\font[0]レベルアップするとHPが全回復する
+> CONTEXT COMMONEVENT:404/251/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+わたしの動きを見切った…
+さすがね、万能剣士…
+> CONTEXT COMMONEVENT:404/280/Message < UNTRANSLATED
+
+> END STRING

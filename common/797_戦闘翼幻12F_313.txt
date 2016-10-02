@@ -1,0 +1,77 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+…あなた、人間？
+> CONTEXT COMMONEVENT:797/17/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この塔を認識できる人間は我ら翼の者の
+力に触れた事がある者のみ…
+> CONTEXT COMMONEVENT:797/18/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その人間が、この塔に足を踏み入れたばかりか
+私のところへやってくるなんてね…
+> CONTEXT COMMONEVENT:797/19/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふふふ…あなた、面白いわ。
+> CONTEXT COMMONEVENT:797/20/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+うッ…！？
+> CONTEXT COMMONEVENT:797/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+こわがらないで。
+あなたが今までどういう戦いをしてきたか…\\!
+それを見させてもらってるだけ。
+> CONTEXT COMMONEVENT:797/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふん…なるほどね…\\i[200]
+> CONTEXT COMMONEVENT:797/28/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミュゼットとも戦ってたとはますます面白い子ね。
+> CONTEXT COMMONEVENT:797/29/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっとだけ遊んであげる。\\!
+あなたがこれまでに戦った誰かの戦い方を
+マネしてみようかしら。
+> CONTEXT COMMONEVENT:797/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うふふ…
+誰にしようかな～\\i[200]
+> CONTEXT COMMONEVENT:797/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+決めた\\i[200]
+楽しませてちょうだいね\\i[200]
+> CONTEXT COMMONEVENT:797/33/Message < UNTRANSLATED
+
+> END STRING

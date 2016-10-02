@@ -1,0 +1,8 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\c[3]特別報酬として
+経験値\\c[0]\\cself[0]\\c[3]が手に入った！\\c[0]
+> CONTEXT COMMONEVENT:766/28/Message < UNTRANSLATED
+
+> END STRING

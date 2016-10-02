@@ -1,0 +1,66 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@4
+さて、行くか。
+> CONTEXT COMMONEVENT:401/20/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+エスラ城は遠いけど道中にある町を拠点に
+していけば問題なくたどりつけるはずだ。
+> CONTEXT COMMONEVENT:401/21/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+万能剣士ね！
+私たちと勝負してもらうわよ。
+> CONTEXT COMMONEVENT:401/29/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+くっ…
+> CONTEXT COMMONEVENT:401/30/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:770/15/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+なぜどいつもこいつも
+僕をつけ狙うんだ！？
+> CONTEXT COMMONEVENT:401/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+だってあなたってすっごい
+わかりやすい弱点があるって有名だし～
+> CONTEXT COMMONEVENT:401/32/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+他の凄腕の戦士さんたちにはちょっと
+手が出せないけど…あなたなら
+弱点をつつけば倒せるかもって\\i[200]
+> CONTEXT COMMONEVENT:401/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@9
+ごめんね\\i[200]
+私たち、強い剣士を倒したっていう
+実績が欲しいの！
+> CONTEXT COMMONEVENT:401/34/Message < UNTRANSLATED
+
+> END STRING

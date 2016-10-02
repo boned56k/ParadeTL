@@ -1,0 +1,19 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>【X[戦]AI実行】エラー
+　実行アクション番号が\\cself[97]個を
+　超えてしまいました＞主人公ＩＤ \\cself[28]
+　処理を中断します。
+> CONTEXT COMMONEVENT:160/223/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>【X[戦]AI実行】エラー
+　実行アクション番号が\\cself[97]個を
+　超えてしまいました＞敵個体ﾃﾞｰﾀ \\cself[28]
+　処理を中断します。
+> CONTEXT COMMONEVENT:160/226/Message < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,9 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@4
+…もう出口が近いぞ！
+あの洞窟、実は近道になっていたんだな。
+> CONTEXT COMMONEVENT:415/7/Message < UNTRANSLATED
+
+> END STRING

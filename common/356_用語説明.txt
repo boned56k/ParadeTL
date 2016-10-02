@@ -1,0 +1,940 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+攻撃
+> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+武器の種類
+> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャージ攻撃
+> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+HPの回復方法
+> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘時メニュー
+> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備ショートカット
+> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+各能力値の説明
+> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]次へ\\c[0]
+> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃はマウスを照準で動かし、攻撃したい敵に重ねて
+\\c[3]クリック\\c[0]で行います。
+> CONTEXT COMMONEVENT:356/4/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+与えるダメージ量は\\c[3]攻撃力\\c[0]に比例します。\\!
+現在の攻撃力は\\c[3]装備画面\\c[0]で確認できます。
+> CONTEXT COMMONEVENT:356/5/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃を行うと\\c[3]気力\\c[0]を消費します。\\!
+気力は時間とともに回復していき、\\c[3]敏捷性\\c[0]が
+高いほど回復スピードは速くなります。
+> CONTEXT COMMONEVENT:356/6/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃力、気力消費量、攻撃範囲は武器によって
+大きく異なります。
+> CONTEXT COMMONEVENT:356/7/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃範囲が広い武器は複数の敵を
+\\c[3]まとめて攻撃\\c[0]できますが\\c[2]気力消費量が多い\\c[0]
+ことが多いです。
+> CONTEXT COMMONEVENT:356/8/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、一部の武器には\\c[3]特殊攻撃\\c[0]が可能な
+ものがあります。特殊攻撃は\\c[3]右クリック\\c[0]で発動します。
+> CONTEXT COMMONEVENT:356/9/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+剣
+> CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[1]剣/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+> CONTEXT DB:DataBase/[21]武器分類/[1]剣/[0]分類名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+短剣
+> CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[0]短剣/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+> CONTEXT DB:DataBase/[21]武器分類/[2]短剣/[0]分類名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+槍
+> CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[2]槍/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+> CONTEXT DB:DataBase/[21]武器分類/[3]槍/[0]分類名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大剣・矛
+> CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
+> CONTEXT DB:DataBase/[21]武器分類/[4]大剣・矛/[0]分類名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+斧・鎚
+> CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
+> CONTEXT DB:DataBase/[21]武器分類/[5]斧・鎚/[0]分類名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遠距離
+> CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+格闘
+> CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
+> CONTEXT DB:DataBase/[21]武器分類/[8]格闘/[0]分類名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+杖
+> CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
+> CONTEXT DB:DataBase/[5]┗装備タイプ/[6]杖/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
+> CONTEXT DB:DataBase/[21]武器分類/[7]杖/[0]分類名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特殊系
+> CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+剣は攻撃力・気力消費量・攻撃範囲全てが
+\\c[3]平均的な性能\\c[0]です。
+> CONTEXT COMMONEVENT:356/16/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+短剣は\\c[2]攻撃範囲・攻撃力が低い\\c[0]ですが
+\\c[3]気力消費量が少なく敏捷性が上がります\\c[0]。
+そのため、素早い連続攻撃が可能です。
+> CONTEXT COMMONEVENT:356/19/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+槍は\\c[3]一点の破壊力\\c[0]に優れた攻撃が可能です。
+その分\\c[2]攻撃範囲がとても狭い\\c[0]です。
+> CONTEXT COMMONEVENT:356/22/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大剣・矛は攻撃範囲が広く、\\c[3]多くの敵を
+まとめて攻撃できます\\c[0]。
+> CONTEXT COMMONEVENT:356/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]攻撃力も高い\\c[0]ですが\\c[2]気力消費量が大きく\\c[0]
+連続攻撃を行うのは苦手です。
+> CONTEXT COMMONEVENT:356/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+斧・鎚は\\c[2]気力消費量が大きく攻撃範囲も並\\c[0]ですが、
+\\c[3]敵の防御力を無視\\c[0]してダメージを与えられます。
+> CONTEXT COMMONEVENT:356/29/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのため数値以上の破壊力を発揮
+することもあります。
+> CONTEXT COMMONEVENT:356/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弓・弩などの遠距離武器は
+\\c[3]遠くにいる敵にも攻撃できる\\c[0]のが
+最大の強みです。
+> CONTEXT COMMONEVENT:356/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+他の武器に比べると\\c[2]攻撃力は控えめ\\c[0]です。
+> CONTEXT COMMONEVENT:356/34/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+格闘系武器は\\c[2]攻撃力・攻撃範囲はそこそこ\\c[0]
+ですが\\c[3]チャージ攻撃の破壊力が非常に大きい\\c[0]です。
+> CONTEXT COMMONEVENT:356/37/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+杖は\\c[2]気力消費量が非常に大きい\\c[0]ですが
+\\c[3]破壊力・攻撃範囲が優秀\\c[0]な魔法を放つことができます。
+> CONTEXT COMMONEVENT:356/40/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法攻撃は\\c[3]遠くの敵にもヒットします\\c[0]。
+> CONTEXT COMMONEVENT:356/41/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上記のいずれにも含まれない特殊な武器です。
+\\c[3]変則的\\c[0]な外見・性能をもったものが多いです。
+> CONTEXT COMMONEVENT:356/44/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃しないまま待機すると強力な
+\\c[3]チャージ攻撃\\c[0]を使うことができます。
+> CONTEXT COMMONEVENT:356/56/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャージ攻撃は攻撃力が高いほか、
+\\c[3]敵の防御力を無視\\c[0]する効果もあります。
+> CONTEXT COMMONEVENT:356/57/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵には\\c[3]行動ゲージ\\c[0]が設定されており
+このゲージが無くなると攻撃してきます。
+> CONTEXT COMMONEVENT:356/61/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この攻撃は\\c[3]防御\\c[0]で無効化できます。
+防御は\\c[3]スペースキー押しっぱなし\\c[0]か
+\\c[3]照準を画面下に移動する\\c[0]と発動します。
+> CONTEXT COMMONEVENT:356/62/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スペースキーを押している間は防御状態を
+維持できますが、一定時間防御し続けると
+\\c[2]少しの間防御ができなくなります。\\c[0]
+> CONTEXT COMMONEVENT:356/63/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]ガード耐久力\\c[0]が高いほど
+防御状態を維持できる時間は長くなります。
+> CONTEXT COMMONEVENT:356/64/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御は\\c[3]通常攻撃\\c[0]と\\c[3]色仕掛け攻撃\\c[0]を
+防げますが\\c[3]エッチ攻撃\\c[0](行動前にハートマークが出る攻撃)
+は\\c[2]防御することができません。\\c[0]
+> CONTEXT COMMONEVENT:356/65/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、防御状態の時は
+\\c[3]気力の回復が少し速くなります\\c[0]。
+> CONTEXT COMMONEVENT:356/66/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵が攻撃してくる直前になると
+行動ゲージが\\c[2]赤く\\c[0]変色します。
+> CONTEXT COMMONEVENT:356/70/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この時に赤くなったカーソルをクリックすると
+\\c[3]カウンター攻撃\\c[0]が発動します。
+> CONTEXT COMMONEVENT:356/71/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カウンター攻撃は雑魚キャラは\\c[3]一撃で倒せ\\c[0]、
+ボスキャラには大ダメージを与えることができます。
+> CONTEXT COMMONEVENT:356/72/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、カウンター発動後は少しの間\\c[3]無敵状態\\c[0]になります。
+(画面右下にFLASHカウントが出ている間)
+> CONTEXT COMMONEVENT:356/73/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[2]カウンターは右クリックによる攻撃では発動しません。\\c[0]
+> CONTEXT COMMONEVENT:356/74/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘中にHPを回復するには
+\\c[3]Escキー\\c[0]でメニューを開き、「アイテム」
+を選択します。
+> CONTEXT COMMONEVENT:356/78/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「回復薬」などのHP回復アイテムを持っていれば
+\\c[3]スペースキー\\c[0]で選択して使用可能です。
+> CONTEXT COMMONEVENT:356/79/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘中に\\c[3]Escキー\\c[0]を押すか
+画面上の\\c[3]「MENU」ボタンをクリック\\c[0]すると
+戦闘時メニューを呼び出すことができます。
+> CONTEXT COMMONEVENT:356/83/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メニューを開いている間は戦闘の進行が
+一時停止し敵が攻撃してこなくなります。
+> CONTEXT COMMONEVENT:356/84/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メニュー画面でできることについて
+説明します。
+> CONTEXT COMMONEVENT:356/85/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[17:0:13]
+> CONTEXT COMMONEVENT:356/87/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[17:0:15]
+> CONTEXT COMMONEVENT:356/87/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[17:0:17]
+> CONTEXT COMMONEVENT:356/87/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+＜アイテム＞
+現在所持しているアイテムを一覧で表示します。
+使用可能なアイテムがあれば使用できます。
+アイテムは\\c[3]1種類につき最大15個まで\\c[0]所持できます。
+> CONTEXT COMMONEVENT:356/89/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+＜装備＞
+現在の装備の確認・変更ができます。
+> CONTEXT COMMONEVENT:356/93/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]装備ショートカット\\c[0]を登録している場合
+武器を変更するとショートカット設定を
+し直すことになります。
+> CONTEXT COMMONEVENT:356/94/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+＜引き返す＞
+最後にいた町に引き返します。
+ステージの進行度はリセットされますが
+\\c[3]経験値やお金、戦利品はそのまま入手できます\\c[0]。
+> CONTEXT COMMONEVENT:356/102/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+＜説明書＞
+ゲームの各項目について確認できます。
+> CONTEXT COMMONEVENT:356/106/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+＜ロード＞
+セーブデータの読み込みを行います。
+> CONTEXT COMMONEVENT:356/110/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+＜システム＞
+ゲームのシステム設定を変更できます。
+アイテムのキー位置記憶や音量、
+キーコンフィグなどを設定します。
+> CONTEXT COMMONEVENT:356/114/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+町などの\\c[3]拠点\\c[0]にいる時は
+\\c[3]装備ショートカット\\c[0]の登録ができます。
+> CONTEXT COMMONEVENT:356/126/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備ショートカットを使うと戦闘中
+\\c[3]メニューを開かず瞬時に\\c[0]登録してある
+武器への切り替えが可能です。
+> CONTEXT COMMONEVENT:356/127/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ショートカットは3つまで登録でき、武器の切り替えは
+\\c[3]←、→キー\\c[0]で行えます。
+> CONTEXT COMMONEVENT:356/128/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、ショートカットアイコンを\\c[3]直接クリック\\c[0]
+することでも対応した武器に切り替え可能です。
+> CONTEXT COMMONEVENT:356/129/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キーボードの対応した数字キー「1」「2」「3」を
+押すことでもそれぞれの武器に切り替えられます。
+> CONTEXT COMMONEVENT:356/130/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+主人公の各種パラメータについて説明します。
+> CONTEXT COMMONEVENT:356/134/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]HP\\c[0]：
+主人公の体力です。敵の攻撃を受けると減少します。\\!
+HPがなくなると\\c[2]ゲームオーバー\\c[0]です。
+> CONTEXT COMMONEVENT:356/135/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]気力\\c[0]：
+攻撃すると減少します。時間とともに回復します。
+> CONTEXT COMMONEVENT:356/136/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]攻撃力\\c[0]：
+この値が高いほど与えるダメージが
+アップします。
+> CONTEXT COMMONEVENT:356/137/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]防御力\\c[0]：
+この値が高いほど敵から受けるダメージが
+減少します。
+> CONTEXT COMMONEVENT:356/138/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]ガード耐久力\\c[0]：
+防御の持続時間に関係します。\\!
+値が高いほど長く防御できます。
+> CONTEXT COMMONEVENT:356/139/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]敏捷性\\c[0]：
+気力の回復スピードに影響します。\\!
+敏捷性が高いほど回復スピードは速くなります。
+> CONTEXT COMMONEVENT:356/140/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拠点
+> CONTEXT COMMONEVENT:356/145/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遠くにいる敵を倒すには
+> CONTEXT COMMONEVENT:356/145/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵がしてくる攻撃
+> CONTEXT COMMONEVENT:356/145/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+連続ヒットについて
+> CONTEXT COMMONEVENT:356/145/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+武器の状態異常
+> CONTEXT COMMONEVENT:356/145/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]前へ\\c[0]
+> CONTEXT COMMONEVENT:356/145/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]終わる\\c[0]
+> CONTEXT COMMONEVENT:356/145/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゲームを進めると町や城などの\\c[3]拠点\\c[0]に
+たどり着けます。拠点に着くとHPが\\c[3]全回復\\c[0]します。
+> CONTEXT COMMONEVENT:356/147/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拠点でできることについて説明します。
+> CONTEXT COMMONEVENT:356/148/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セーブ・ロード
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+指南書・アニメ設定
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備ショートカット設定
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテム屋・武具屋
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+情報収集
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サブクエスト
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ステージ選択
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]もどる\\c[0]
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゲームの進行状況を保存したり
+セーブデータの読み込みを行います。
+> CONTEXT COMMONEVENT:356/152/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+指南書確認、アニメーション設定、
+システム設定画面を開きます。
+動作が止まるなどの理由でプレイングに支障がある場合
+アニメーション設定を試してみてください。
+> CONTEXT COMMONEVENT:356/156/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備を変更します。
+> CONTEXT COMMONEVENT:356/160/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備ショートカットの登録を行います。
+> CONTEXT COMMONEVENT:356/164/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+消耗品、武器や防具の購入・売却ができます。
+アイテムは\\c[3]1種類につき最大10個まで\\c[0]所持できます。
+> CONTEXT COMMONEVENT:356/168/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+町の人達から話を聞きます。
+ゲームに関するヒントを得られます。
+> CONTEXT COMMONEVENT:356/172/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、新たな\\c[3]サブクエスト\\c[0]が追加されたり
+アイテム等を入手できることもあります。
+> CONTEXT COMMONEVENT:356/173/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+達成すると様々な報酬が得られる
+サブクエストに挑戦できます。
+> CONTEXT COMMONEVENT:356/177/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サブクエストは\\c[3]新しい町\\c[0]に到達したり、
+情報収集を行うことで増えていきます。
+> CONTEXT COMMONEVENT:356/178/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘ステージや他の拠点に移動します。\\!
+\\c[3]緑字\\c[0]で書かれたものは拠点を、
+白字で書かれたものは戦闘ステージを指します。
+> CONTEXT COMMONEVENT:356/182/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+時おり、遠距離から攻撃してくる敵が
+現れることがあります。
+> CONTEXT COMMONEVENT:356/194/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遠くにいる敵には剣や槍などの近接武器では
+攻撃を当てることができません。
+> CONTEXT COMMONEVENT:356/195/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういう敵を倒す方法は２つあり、まず１つ目は
+弓や杖などの\\c[3]遠距離攻撃\\c[0]が可能な武器を使うことです。
+> CONTEXT COMMONEVENT:356/196/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、近接武器の中にも\\c[3]右クリックによる
+特殊攻撃\\c[0]で遠距離への攻撃が可能なものがあります。
+> CONTEXT COMMONEVENT:356/197/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう１つは敵の魔法弾や飛び道具を攻撃して
+\\c[3]跳ね返す\\c[0]方法です。
+> CONTEXT COMMONEVENT:356/198/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵の弾が近づいてきて\\c[2]赤く\\c[0]変色した
+時に攻撃を行うと弾を跳ね返すことができます。
+(\\c[3]タイミングが合っていれば
+　攻撃自体を弾に当てる必要はありません\\c[0])
+> CONTEXT COMMONEVENT:356/199/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この方法なら近接系武器でも
+遠くの敵を倒すことが可能です。
+> CONTEXT COMMONEVENT:356/200/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵がしてくる攻撃について説明します。
+> CONTEXT COMMONEVENT:356/204/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+色仕掛け攻撃
+> CONTEXT COMMONEVENT:356/206/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エッチ攻撃
+> CONTEXT COMMONEVENT:356/206/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+＜通常攻撃＞
+肉弾戦や魔法での攻撃です。
+受けると\\c[2]HPが減ります\\c[0]。
+\\c[3]防御\\c[0]で無効化できます。
+> CONTEXT COMMONEVENT:356/208/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+＜色仕掛け攻撃＞
+女体を活かした攻撃です。
+> CONTEXT COMMONEVENT:356/212/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+受けると\\c[2]少しの間攻撃できなくなったり\\c[0]
+\\c[2]攻撃力がゼロ\\c[0]になってしまいます。
+\\c[3]防御\\c[0]で無効化できます。
+> CONTEXT COMMONEVENT:356/213/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+＜エッチ攻撃＞\\!
+行動前に\\c[3]ハートマーク\\c[0]が表示される攻撃です。\\!
+この攻撃は\\c[2]防御ができません\\c[0]。
+> CONTEXT COMMONEVENT:356/217/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エッチ攻撃を受けないようにするには
+\\c[3]攻撃される前に倒す\\c[0]\\!か
+\\c[3]カウンター後の無敵状態で回避する\\c[0]必要があります。
+> CONTEXT COMMONEVENT:356/218/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エッチ攻撃を受けてしまうとその間
+\\c[2]攻撃や防御ができなくなり、メニューも開けなくなります\\c[0]。
+> CONTEXT COMMONEVENT:356/219/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この状態から脱出するには左右に動く3つの
+\\c[3]脱出マーク\\c[0]をクリックしなければなりません。
+> CONTEXT COMMONEVENT:356/220/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エッチ攻撃中に他の敵がいる場合、その敵らも
+一緒に責めてきます。
+\\c[2]責めてくる人数が多いほど
+脱出マークの動きも速くなります\\c[0]。
+> CONTEXT COMMONEVENT:356/221/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エッチ攻撃を一定以上受け続けると
+「射精」してしまいます。
+射精すると\\c[2]HPが大幅に減り、
+敵全員のHPが回復します。\\c[0]
+> CONTEXT COMMONEVENT:356/222/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さらにその場にいる\\c[2]敵全員の
+防御力が上昇\\c[0]してしまいます。
+> CONTEXT COMMONEVENT:356/223/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中には、窒息を目的とした攻撃を受け続けても
+射精しないものもあります。
+> CONTEXT COMMONEVENT:356/224/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵からダメージを受けることなく攻撃を当て続けると
+画面左にヒット数が表示されるようになります。
+> CONTEXT COMMONEVENT:356/236/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この数字が増えれば増えるほど
+与えるダメージが増加していきます。
+> CONTEXT COMMONEVENT:356/237/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵から攻撃を受けるとヒット数はリセットされます。
+> CONTEXT COMMONEVENT:356/238/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一部の武器には敵に不利な状態異常を
+付与できるものがあります。\\!
+このゲームには4種類の状態異常が存在します。
+> CONTEXT COMMONEVENT:356/242/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+<\\c[2]炎上\\c[0]\>\\!
+敵に一定時間ダメージを与え続ける状態異常です。\\!
+敵のHPが高いほど与えるダメージも増えていきます。
+> CONTEXT COMMONEVENT:356/243/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+<\\c[1]凍結\\c[0]\>\\!
+敵を凍らせ一定時間動きを封じます。\\!
+動きが封じられた敵は行動ゲージの進行が
+停止します。
+> CONTEXT COMMONEVENT:356/244/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+<\\c[3]毒\\c[0]\>\\!
+この状態異常に陥った敵に対しては
+通常よりダメージを大きく与えられるようになります。\\!
+さらに敵の攻撃力が低下します。
+> CONTEXT COMMONEVENT:356/245/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+<\\c[4]石化\\c[0]\>\\!
+一定時間敵の動きを封じます。\\!
+凍結に比べ発動率が低いですが
+効果時間が長くなります。
+> CONTEXT COMMONEVENT:356/246/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なお、遠くにいる敵は状態異常になりません。
+> CONTEXT COMMONEVENT:356/247/Message < UNTRANSLATED
+
+> END STRING

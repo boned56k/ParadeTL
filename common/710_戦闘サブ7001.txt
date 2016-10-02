@@ -1,0 +1,251 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@64
+レスト選手、大勝利！
+相手のスピードを見事に見切り、撃退しました！
+> CONTEXT COMMONEVENT:710/39/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+それでは次の試合まで控室で
+お待ち下さいね\\i[200]
+> CONTEXT COMMONEVENT:710/40/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+さあ、どうなる2回戦、第1試合！
+まずは西！レスト選手！
+> CONTEXT COMMONEVENT:710/47/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+そして東！チーム「目眩まし大好き\\i[200]」のみなさんです！
+> CONTEXT COMMONEVENT:710/49/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@33
+ふふふ…\\i[200]
+> CONTEXT COMMONEVENT:710/55/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+おーっと！チーム目眩まし大好き、煙幕攻撃か！？
+闘技場一帯が何も見えなくなってしまったぞ！
+> CONTEXT COMMONEVENT:710/61/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+無駄だ！こっちには暗闇で戦う心得がある…
+> CONTEXT COMMONEVENT:710/65/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+煙幕の中でもお前たちの動きは
+見えているぞ！
+> CONTEXT COMMONEVENT:710/66/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\c[3]煙幕の影響で敵の行動ゲージが
+見えなくなってしまった！\\c[0]
+> CONTEXT COMMONEVENT:710/70/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+おおっ…煙幕が晴れ、立っているのは
+レスト選手ただひとり！
+> CONTEXT COMMONEVENT:710/165/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+試合は何も見えませんでしたが会場は大興奮です！
+お聞きくださいこの大歓声！
+> CONTEXT COMMONEVENT:710/166/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+それでは勝者のレスト選手は
+次の試合まで控室でお待ちください！
+> CONTEXT COMMONEVENT:710/167/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+さあ、準決勝です！
+本大会、とんでもない数の強者たちが
+集まりましたがついに4組にまで絞られました！
+> CONTEXT COMMONEVENT:710/174/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+まずは西！あらゆる相手に対応し、まさに
+万能ぶりを発揮しているレスト選手！
+> CONTEXT COMMONEVENT:710/176/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+そして東！
+チーム「火力で押す！」の入場！
+> CONTEXT COMMONEVENT:710/177/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+\\f[40]！？
+> CONTEXT COMMONEVENT:710/188/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+な…なんと大砲です！
+> CONTEXT COMMONEVENT:710/190/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+一回戦から様々な武器を駆使していた
+チーム「火力で押す！」ですがここでまさかの
+大砲を投入！
+> CONTEXT COMMONEVENT:710/191/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+ふふふ…さすがの万能剣士も
+この一撃の前では…\\i[200]
+> CONTEXT COMMONEVENT:710/192/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+ま、間違っても客席には撃たないで
+くださいね～…？
+それでは試合開始！
+> CONTEXT COMMONEVENT:710/193/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+レスト選手の勝ち！！
+> CONTEXT COMMONEVENT:710/252/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+なんと、大砲を完全に破壊して勝利！
+万能剣士の名は伊達じゃない！
+> CONTEXT COMMONEVENT:710/253/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+レスト選手！
+決勝戦まで控室でお待ちください！
+> CONTEXT COMMONEVENT:710/254/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+いよいよ決勝です！
+この戦いに勝ったほうが優勝者となります…
+見ているこちらの緊張と興奮はもはやピークです！
+> CONTEXT COMMONEVENT:710/261/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+まずは西！大砲でも倒せなかった男！
+レスト選手！
+> CONTEXT COMMONEVENT:710/263/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+そして東！
+チーム「おおかみパワー」！
+それでは試合開始！
+> CONTEXT COMMONEVENT:710/264/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+決着！
+> CONTEXT COMMONEVENT:710/300/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+何でもあり大闘技会、優勝者は…
+> CONTEXT COMMONEVENT:710/301/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+レスト選手！！
+> CONTEXT COMMONEVENT:710/302/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+レスト選手に優勝賞金が
+授与されます！
+> CONTEXT COMMONEVENT:710/303/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+そして景品の「\\udb[3:99:0]」が贈呈されます！
+> CONTEXT COMMONEVENT:710/308/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+素晴らしい戦いをありがとうございました！
+> CONTEXT COMMONEVENT:710/314/Message < UNTRANSLATED
+
+> END STRING

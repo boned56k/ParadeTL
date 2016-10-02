@@ -1,0 +1,484 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@46
+わッ…！
+> CONTEXT COMMONEVENT:609/11/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+狼の魔物、\\udb[9:48:0]の目にも
+止まらない連続攻撃を受け
+\\cdb[0:0:0]はついに力尽き、倒れてしまった。
+> CONTEXT COMMONEVENT:609/12/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+\\cdb[0:0:0]くん！
+そんな…！
+> CONTEXT COMMONEVENT:609/13/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+リチア姫が駆け寄ろうとしたその時…
+> CONTEXT COMMONEVENT:609/14/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@29
+大人しくしな！
+> CONTEXT COMMONEVENT:609/16/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+きゃあ！？
+> CONTEXT COMMONEVENT:609/17/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@29
+お前、ワラート国のリチア姫だな？
+ふふふ…お前の身柄は高く売れる。
+こっちへ来い！
+> CONTEXT COMMONEVENT:609/18/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+は、離してッ…！
+> CONTEXT COMMONEVENT:609/19/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+ひ、姫…！
+> CONTEXT COMMONEVENT:609/20/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+物陰から様子を見ていた野盗は
+リチア姫をさらい、闇の中へ
+消えていった。
+> CONTEXT COMMONEVENT:609/22/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+そ、そんなッ…
+> CONTEXT COMMONEVENT:609/23/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+改めてリチア姫を守ると決意を
+固めたはずなのに、あっさりと敗れてしまい
+姫は連れ去られてしまった。
+> CONTEXT COMMONEVENT:609/24/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+立ち上がろうにも体に力が入らない。
+\\cdb[0:0:0]は悔しさのあまり
+涙をにじませた。
+> CONTEXT COMMONEVENT:609/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+ふふふ…なかないで？
+おとこのこでしょ\\i[200]
+> CONTEXT COMMONEVENT:609/27/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\udb[9:48:0]は\\cdb[0:0:0]の顔を
+舐めてきた。そして涙を拭き取るようにして
+ゆっくりと舌をなぞらせる。
+> CONTEXT COMMONEVENT:609/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女はリチア姫と野盗のいざこざには見向きも
+せず、自分との勝負に敗れどうとでもできる
+状態にある\\cdb[0:0:0]に対して強い興味を
+示していた。
+> CONTEXT COMMONEVENT:609/34/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+んんッ\\i[200]んく…ふ\\i[200]
+> CONTEXT COMMONEVENT:609/36/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+舌を頬から目元、また頬と上下させ
+今度は\\cdb[0:0:0]口元をぺろぺろと
+舐めだした。
+> CONTEXT COMMONEVENT:609/39/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]は反射的に口をぎゅっと
+閉じたが、舌をねじこみこじ開けるように
+して押し込んでくる。
+> CONTEXT COMMONEVENT:609/40/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+んちゅ…\\i[200]ふぅん\\i[200]ん\\i[200]
+> CONTEXT COMMONEVENT:609/43/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ついに舌同士が絡み合い、
+\\udb[9:48:0]は\\cdb[0:0:0]の舌を味わうように
+して熱心にしゃぶり尽くす。
+> CONTEXT COMMONEVENT:609/44/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+んむ…\\i[200]はっ\\i[200]うぅん…っ\\i[200]
+> CONTEXT COMMONEVENT:609/46/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\udb[9:48:0]は声をあげながら
+濃厚なキスを続けた。
+> CONTEXT COMMONEVENT:609/48/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女が声をあげる度に熱い吐息が
+口の中に流れ込んでくる。
+> CONTEXT COMMONEVENT:609/49/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+さらに、この体勢では必然的に体同士が
+密着する形になってしまう。
+> CONTEXT COMMONEVENT:609/51/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女のわずかな体の動きが、
+\\cdb[0:0:0]の股間をじわじわと
+刺激する。
+> CONTEXT COMMONEVENT:609/52/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+んはっ…ふふ\\i[200]
+> CONTEXT COMMONEVENT:609/56/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+頭がぼんやりとしてきたころ、
+\\udb[9:48:0]の口撃は終わった。
+そして\\cdb[0:0:0]の股間に目をやり
+舌なめずりをする。
+> CONTEXT COMMONEVENT:609/57/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女の執拗な責めによってペニスは
+すっかり膨張してしまっていた。
+> CONTEXT COMMONEVENT:609/58/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+ふふ…えっち\\i[200]
+> CONTEXT COMMONEVENT:609/60/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+口元にちゅっと
+やさしくキスすると\\udb[9:48:0]は
+おもむろに\\cdb[0:0:0]の腰のほうへ移動した。
+> CONTEXT COMMONEVENT:609/62/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+ふああっ\\i[200]ふふ、ふ…\\i[200]
+> CONTEXT COMMONEVENT:609/70/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\udb[9:48:0]は有無を言わさずに
+結合してきた。こちらに背を向け、
+不敵な笑みを投げつけてくる。
+> CONTEXT COMMONEVENT:609/71/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+無邪気さを見せていた彼女が一瞬見せた
+妖艶な眼差しに、\\cdb[0:0:0]は
+心を奪われてしまう。
+> CONTEXT COMMONEVENT:609/72/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@31
+フフッ…\\i[200]
+楽しそうね、人間\\i[200]
+> CONTEXT COMMONEVENT:609/83/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+どこから、いつの間に現れたのか
+蛇の魔物、ラミアたちが周りを取り囲み
+見下ろしていた。
+> CONTEXT COMMONEVENT:609/84/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+いずれもサディスティックな笑みを浮かべ
+ぎらつかせた目を向けている。
+> CONTEXT COMMONEVENT:609/85/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@31
+\\udb[9:48:0]ちゃん…\\i[200]
+手伝ってあげる\\i[200]
+> CONTEXT COMMONEVENT:609/87/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+んふっ\\i[200]ありがとっ…\\i[200]
+ふふ\\i[200]んっ\\i[200]
+> CONTEXT COMMONEVENT:609/97/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@31
+ほぉら…\\i[200]
+早くイッちゃいなさい\\i[200]
+> CONTEXT COMMONEVENT:609/99/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ラミアたちは\\cdb[0:0:0]の両腕に
+自身の下半身を絡ませた。
+> CONTEXT COMMONEVENT:609/100/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+にゅるにゅるとした感触と、
+快楽となる程よい力加減の
+圧迫が襲ってくる。
+> CONTEXT COMMONEVENT:609/101/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+魔物は基本的に魔物同士で争う事はない。
+> CONTEXT COMMONEVENT:609/103/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女らが攻撃する対象は
+人間の男だけだからだ。だから標的を
+見つけた時も徒党を組んで獲物を襲う。
+> CONTEXT COMMONEVENT:609/104/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+その習性を知る人間の女戦士の中には
+魔物におもねるような形で男たちに
+襲いかかる者もいた。
+> CONTEXT COMMONEVENT:609/105/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+このラミアたちも反撃に窮する\\cdb[0:0:0]の
+気配を察知し、狡猾にも嫐り尽くしてやろうと
+やってきたのであった。
+> CONTEXT COMMONEVENT:609/106/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@31
+んっ\\i[200]んー…\\i[200]
+> CONTEXT COMMONEVENT:609/108/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ラミアたちが悩ましい声をあげる。
+蛇状の体を撫で付けることで
+じんわりと快感を得られているようだった。
+> CONTEXT COMMONEVENT:609/109/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+はあっ…\\i[200]はっ…\\i[200]
+すごい…きもちいいッ…\\i[200]
+> CONTEXT COMMONEVENT:609/115/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+それこそまさに獣のようだった
+\\udb[9:48:0]の動きがさらに
+激しくなった。
+> CONTEXT COMMONEVENT:609/116/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女の淫膣は、彼女の男を嫐り尽くしたい劣情を
+そのまま映しだしたように淫靡で
+男を虜にする魔性のものであった。
+> CONTEXT COMMONEVENT:609/117/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]は魔物の本当の恐ろしさを
+嫌というほど思い知っていた。
+> CONTEXT COMMONEVENT:609/118/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+くぅン…\\i[200]い、いっ…\\i[200]
+いっしょに…いこっ…\\i[200]
+> CONTEXT COMMONEVENT:609/120/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+はああッ\\i[200]あ\\i[200]\\i[200]ああ…\\i[200]
+> CONTEXT COMMONEVENT:609/121/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\udb[9:48:0]と\\cdb[0:0:0]は同時に
+絶頂に達した。いつまでも陰茎の痙攣が
+止まらず、大量の精子が吸収される。
+> CONTEXT COMMONEVENT:609/130/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+ふぅ、ん…\\i[200]
+もっともっとぉ\\i[200]
+> CONTEXT COMMONEVENT:609/134/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+魔物はタフネスも人間とは違っていた。
+わずかな時間休んで、すぐに腰を激しく
+動かしてくる。
+> CONTEXT COMMONEVENT:609/139/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+仄暗い岩窟の中で、\\cdb[0:0:0]は
+いつまでも彼女たちに犯され続けた…。
+> CONTEXT COMMONEVENT:609/140/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@32
+あなたは\\i[200]ずーっとわたしたちの
+おもちゃだよ\\i[200]
+> CONTEXT COMMONEVENT:609/142/Message < UNTRANSLATED
+
+> END STRING

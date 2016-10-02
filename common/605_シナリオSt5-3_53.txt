@@ -1,0 +1,446 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@4
+このあたりは野盗や魔物の気配がないな…
+> CONTEXT COMMONEVENT:605/19/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+少し休んでいきましょう。
+> CONTEXT COMMONEVENT:605/20/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+はっ…はぁっ…
+うん…ありがとう
+> CONTEXT COMMONEVENT:605/21/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+ごめんね、\\cdb[0:0:0]くん…
+あなたひとりならもっと速く進めるのに
+わたし…足手まといになってしまって…
+> CONTEXT COMMONEVENT:605/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+そんなことはありません！
+> CONTEXT COMMONEVENT:605/34/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+姫を守りワラート城までたどり着く…
+その使命感が私を強くしてくれるんです！
+> CONTEXT COMMONEVENT:605/35/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+決して足手まといなどでは
+ありません！
+> CONTEXT COMMONEVENT:605/36/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+\\cdb[0:0:0]くん…
+> CONTEXT COMMONEVENT:605/37/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:656/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+ありがとう…やさしいね。
+> CONTEXT COMMONEVENT:605/38/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+あ…
+> CONTEXT COMMONEVENT:605/49/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+そのスプーン…！
+使ってくれてるんだ。
+> CONTEXT COMMONEVENT:605/56/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+…私は姫にこれを頂くまで
+こんなに高級な食器を使ったことが
+ありませんでした。
+> CONTEXT COMMONEVENT:605/57/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+この特別な重みを感じるたびに
+姫に…ワラート国に受けた沢山の恩を
+思い出すんです。
+> CONTEXT COMMONEVENT:605/58/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+リチア姫…ありがとうございます。
+> CONTEXT COMMONEVENT:605/59/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+くすっ…喜んでもらえて良かったわ。
+> CONTEXT COMMONEVENT:605/60/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+…お父様、ご無事かしら…
+> CONTEXT COMMONEVENT:605/64/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+…きっと大丈夫です！
+城から飛び降りても
+ワラートの兵士たちから追われても
+生き延びた御方です。
+> CONTEXT COMMONEVENT:605/65/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+あんな連中に遅れを取るはずが
+ありません！
+> CONTEXT COMMONEVENT:605/66/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+そっか…そうよね。
+> CONTEXT COMMONEVENT:605/67/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+それに、ワラート王にはあの魔の力を宿した
+鎧と剣がおありです。
+> CONTEXT COMMONEVENT:605/68/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+実は一度だけあの魔剣をお借りして
+振るったことがあるのですが…
+恐くなるぐらいの斬れ味でした。
+> CONTEXT COMMONEVENT:605/69/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+今のワラート王はそんなすごい力を
+お持ちなんです。
+絶対にご無事です！
+> CONTEXT COMMONEVENT:605/70/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+そうだよね…うん、私もお父様を信じて
+しっかり前に進まなくちゃ！
+> CONTEXT COMMONEVENT:605/71/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+そして、お母様を操っている
+有翼魔のもとへ…！
+> CONTEXT COMMONEVENT:605/72/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+お母様…
+> CONTEXT COMMONEVENT:605/74/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+ご、ごめん！
+決意したばっかりなのにすぐ
+しゅんとしちゃって…
+> CONTEXT COMMONEVENT:605/76/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+姫…そろそろ眠りましょう。
+明日もかなり険しい道程になります。
+> CONTEXT COMMONEVENT:605/77/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+うん…
+> CONTEXT COMMONEVENT:605/78/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@45
+おやすみ…\\cdb[0:0:0]くん。
+> CONTEXT COMMONEVENT:605/79/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+その夜…\\cdb[0:0:0]は眠れずにいた。
+先ほどの不安を必死にかき消そうとする
+リチア姫の顔が頭から離れない。
+> CONTEXT COMMONEVENT:605/90/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（姫…
+　せっかくワラート王と
+　再会できたのに、王はまた命の危機に
+　晒されてしまった…）
+> CONTEXT COMMONEVENT:605/92/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（僕にもっと力があれば…
+　あの時ワラート王に加勢して
+　一緒に戦うことができたのに…）
+> CONTEXT COMMONEVENT:605/93/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（もっと…もっと力が欲しい…）
+> CONTEXT COMMONEVENT:605/94/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（…！）
+> CONTEXT COMMONEVENT:605/96/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+背後に
+リチア姫が近づいてくる気配を感じた。
+> CONTEXT COMMONEVENT:605/97/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+\\cdb[0:0:0]くん…もう寝ちゃった？
+> CONTEXT COMMONEVENT:605/98/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+小声で囁いてくる。
+> CONTEXT COMMONEVENT:605/99/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+なぜか緊張し、
+\\cdb[0:0:0]は寝たふりをしてしまう。
+> CONTEXT COMMONEVENT:605/100/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+寝ちゃってる、か…
+> CONTEXT COMMONEVENT:605/102/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+リチア姫は\\cdb[0:0:0]の
+すぐ後ろに寝そべった。
+> CONTEXT COMMONEVENT:605/103/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そして、手を\\cdb[0:0:0]の背中に
+そうっと当てる。
+> CONTEXT COMMONEVENT:605/104/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@52
+ごめんね…少しだけこうさせて…
+> CONTEXT COMMONEVENT:605/105/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ほとんど消えいるような声だった。
+> CONTEXT COMMONEVENT:605/106/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（…）
+> CONTEXT COMMONEVENT:605/107/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+リチア姫は泣いていた…
+> CONTEXT COMMONEVENT:605/118/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]を起こさないように
+声を押し殺して泣いていた。
+> CONTEXT COMMONEVENT:605/119/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+危機に晒されているのはワラート王だけではなかった。
+彼女の母親であるマーチ女王も
+有翼魔に取り憑かれている状態なのだ。
+> CONTEXT COMMONEVENT:605/121/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+元通りの家族には戻れないのかもしれない…
+そんな不安が彼女の心を渦巻いていた。
+> CONTEXT COMMONEVENT:605/122/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+でも、\\cdb[0:0:0]に余計な心配を
+させたくない…
+> CONTEXT COMMONEVENT:605/123/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そう思い、必死に耐えていたが彼女は孤独の重圧に
+どうしても耐え切れなかった。
+> CONTEXT COMMONEVENT:605/124/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そして、自分自身は戦えず
+足を引っ張ることしかできない情けなさと
+悔しさから溢れ出る涙でもあった。
+> CONTEXT COMMONEVENT:605/125/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（………）
+> CONTEXT COMMONEVENT:605/129/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（姫…）
+> CONTEXT COMMONEVENT:605/130/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+よし、行きましょう！
+> CONTEXT COMMONEVENT:605/144/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@51
+うん！
+> CONTEXT COMMONEVENT:605/145/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+リチア姫…
+ワラート王もマーチ女王も、
+必ず姫のもとへお戻りになられます！
+> CONTEXT COMMONEVENT:605/146/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+僕が…戻してみせます！
+> CONTEXT COMMONEVENT:605/147/Message < UNTRANSLATED
+
+> END STRING

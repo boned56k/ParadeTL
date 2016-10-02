@@ -1,0 +1,19 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\font[1]New Game
+> CONTEXT MPS:TitleMap/events/0/pages/1/52/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\font[1]Continue
+> CONTEXT MPS:TitleMap/events/0/pages/1/52/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\font[1]Exit
+> CONTEXT MPS:TitleMap/events/0/pages/1/52/Choices < UNTRANSLATED
+
+> END STRING

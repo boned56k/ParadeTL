@@ -1,0 +1,217 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\udb[3:118:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[0]\udb[3:118:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:119:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[1]\udb[3:119:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:120:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[2]\udb[3:120:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:121:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[3]\udb[3:121:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:122:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[4]\udb[3:122:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:123:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[5]\udb[3:123:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:124:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[6]\udb[3:124:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:125:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[7]\udb[3:125:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:126:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[8]\udb[3:126:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:127:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[9]\udb[3:127:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:128:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[10]\udb[3:128:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:129:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[11]\udb[3:129:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:130:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[12]\udb[3:130:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:132:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[13]\udb[3:132:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:133:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[14]\udb[3:133:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:134:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[15]\udb[3:134:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:135:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[16]\udb[3:135:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:136:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[17]\udb[3:136:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:139:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[18]\udb[3:139:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:140:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[19]\udb[3:140:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:141:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[20]\udb[3:141:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:142:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[21]\udb[3:142:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:143:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[22]\udb[3:143:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:146:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[23]\udb[3:146:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:147:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[24]\udb[3:147:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:148:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[25]\udb[3:148:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:149:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[26]\udb[3:149:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:150:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[27]\udb[3:150:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:151:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[28]\udb[3:151:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:152:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[29]\udb[3:152:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:153:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[30]\udb[3:153:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:154:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[31]\udb[3:154:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:155:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[32]\udb[3:155:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[3:159:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[33]\udb[3:159:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[4:45:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[34]\udb[4:45:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\udb[4:46:0]
+> CONTEXT DB:CDataBase/[30]工房テーブル/[35]\udb[4:46:0]/[0]装備品名 < UNTRANSLATED
+
+> END STRING

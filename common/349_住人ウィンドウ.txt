@@ -1,0 +1,9 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\c[3]サブクエスト
+「\\cself[8]」
+が選べるようになりました！\\c[0]
+> CONTEXT COMMONEVENT:349/92/Message < UNTRANSLATED
+
+> END STRING

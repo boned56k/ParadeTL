@@ -1,0 +1,31 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>「X[移]装備装着・解除」エラー：
+　装備対象者が-1以下です。 　=\>　\\cself[0]
+> CONTEXT COMMONEVENT:113/10/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>「X[移]装備装着・解除」エラー：
+　装備箇所が-1以下です。 　=\>　\\cself[1]
+> CONTEXT COMMONEVENT:113/14/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>「X[移]装備装着・解除」エラー：
+　装備しているアイテムが
+　武器でも防具でもありません。 　=\>　\\cself[20]
+> CONTEXT COMMONEVENT:113/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>「X[移]装備装着・解除」エラー：
+　装備しようとしているアイテムが
+　武器でも防具でもありません。 　=\>　\\cself[20]
+> CONTEXT COMMONEVENT:113/56/Message < UNTRANSLATED
+
+> END STRING

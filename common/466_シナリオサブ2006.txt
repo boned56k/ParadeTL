@@ -1,0 +1,40 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+このクエストには「\\udb[2:74:0]」が5個必要です。
+「\\udb[2:74:0]」は
+「スライム」を倒すことで入手できます。
+> CONTEXT COMMONEVENT:466/4/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@68
+あなたが\\c[3]\\udb[2:74:0]\\c[0]を譲ってくださるという
+剣士さんですか！
+> CONTEXT COMMONEVENT:466/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@68
+いやあとっても助かります…
+これで私の研究も進みそうですよ！
+> CONTEXT COMMONEVENT:466/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\c[3]「\\udb[2:74:0]」を5個渡しました。
+> CONTEXT COMMONEVENT:466/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@68
+では、これが約束の報酬です！
+どうもありがとうございました！
+> CONTEXT COMMONEVENT:466/34/Message < UNTRANSLATED
+
+> END STRING

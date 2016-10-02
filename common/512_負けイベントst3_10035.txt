@@ -1,0 +1,870 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@21
+たあっ！
+> CONTEXT COMMONEVENT:512/14/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+うわーッ！！
+> CONTEXT COMMONEVENT:512/18/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:674/11/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+キハー大四聖の攻撃を
+受け、武器が弾き飛ばされる。
+\\cdb[0:0:0]も吹っ飛んだ。
+> CONTEXT COMMONEVENT:512/22/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+なーんだ、やっぱさっきのは
+まぐれだね\\i[200]
+> CONTEXT COMMONEVENT:512/35/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+大四聖のひとり、
+ライチがこちらを見下ろしながら笑った。
+> CONTEXT COMMONEVENT:512/36/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+ほら、悔しかったらかかってきなさいよ？
+1対1で勝負してあげるから\\i[200]
+> CONTEXT COMMONEVENT:512/43/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+こちらが抵抗する力を
+失ったことを分かってそんな事を言い、
+\\cdb[0:0:0]の顔面をぎゅっと踏みつけた。
+> CONTEXT COMMONEVENT:512/44/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女は言葉遣いこそ奔放な印象だが
+意外と周到であり狡猾でもあった。
+> CONTEXT COMMONEVENT:512/46/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+やめなさい、ライチ\\i[200]
+敗者を侮辱してはかわいそうよ\\i[200]
+> CONTEXT COMMONEVENT:512/47/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+ちぇっ…
+> CONTEXT COMMONEVENT:512/48/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ケーナは4人の中のリーダー格のようで
+ライチはおとなしく従った。
+> CONTEXT COMMONEVENT:512/55/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+でも…\\i[200]
+敗者をいじめることと罰を与えることは
+別問題だから覚悟してね、レストくん\\i[200]
+> CONTEXT COMMONEVENT:512/56/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+んしょ…\\i[200]
+> CONTEXT COMMONEVENT:512/62/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+仰向けに倒れていた\\cdb[0:0:0]に
+ぴとっと密着してきた。
+> CONTEXT COMMONEVENT:512/64/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そのまま吐息が顔に当たるぐらいに
+近づいてくる。
+> CONTEXT COMMONEVENT:512/65/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ケーナの悩ましげな眼差しに
+魅せられ、先程まで彼女らが敵で
+あった事さえ忘れてしまいそうになる。
+> CONTEXT COMMONEVENT:512/66/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]は必死に煩悩をかき消し、
+彼女を振りほどこうとする。
+だが、力が入らない。
+> CONTEXT COMMONEVENT:512/68/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+4人全員が\\cdb[0:0:0]より遥かに大きい体格を
+有しており、ただ体重をかけるだけでも
+そこそこの拘束になってしまうのだった。
+> CONTEXT COMMONEVENT:512/69/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+ふん…\\i[200]
+おちんちんおっ立てながら
+何カッコつけてんだか\\i[200]
+> CONTEXT COMMONEVENT:512/70/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ライチが反対側に同じようにして
+張り付き、彼女も顔を近づけてくる。
+> CONTEXT COMMONEVENT:512/77/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+2人の視線と吐息が熱いほどに
+\\cdb[0:0:0]にぶつかってくる。
+> CONTEXT COMMONEVENT:512/78/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ライチの指摘通り、\\cdb[0:0:0]のペニスは
+すっかり大きくなってしまっていた。
+> CONTEXT COMMONEVENT:512/79/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ケーナのささやかな愛撫に屈しまいと
+心では思っていたものの、体は完全に
+彼女らを受け入れている。
+> CONTEXT COMMONEVENT:512/81/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+うふふ…\\i[200]
+じゃあ、大きくなってくれたおちんちんちゃんを
+わたしが…\\i[200]\\i[200]
+> CONTEXT COMMONEVENT:512/82/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@24
+だ、ダメですっ\\i[200]
+ポーニャさんはもういっぱいこの子と
+エッチしたんでしょう？
+> CONTEXT COMMONEVENT:512/83/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+チャラがポーニャを遮る。
+> CONTEXT COMMONEVENT:512/84/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]の頭をあの時の恐怖が
+よぎったため内心少し安心してしまう。
+> CONTEXT COMMONEVENT:512/85/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@24
+私に譲ってください…\\i[200]
+> CONTEXT COMMONEVENT:512/87/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+へ～…\\i[200]
+チャラちゃんがそんな事言うなんて
+めずらしい\\i[200]
+> CONTEXT COMMONEVENT:512/88/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+もしかしてレストくんのこと…\\i[200]
+> CONTEXT COMMONEVENT:512/89/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@24
+そんなんじゃありませんっ！
+ふ、不公平なのは
+ダメって思うから、です…\\i[200]
+> CONTEXT COMMONEVENT:512/90/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+言いながらじわりとチャラは近づいてきた。
+> CONTEXT COMMONEVENT:512/91/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@24
+これは罰なんですからね？
+\\cdb[0:0:0]くん…\\i[200]
+> CONTEXT COMMONEVENT:512/92/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@24
+んあっ…\\i[200]
+> CONTEXT COMMONEVENT:512/101/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+チャラは\\cdb[0:0:0]と騎乗位で
+結合し、腰を上下させた。
+> CONTEXT COMMONEVENT:512/102/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+この時をずっと待っていたかのように、
+最初から激しくペニスをしごきたててくる。
+> CONTEXT COMMONEVENT:512/103/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+罰を与えるという大義名分を得た
+彼女の性行為に罪悪感や迷いは
+一切無かった。
+> CONTEXT COMMONEVENT:512/104/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@24
+いいっ\\i[200]
+んッ…ん\\i[200]
+すごいよぉ…\\i[200]\\i[200]
+> CONTEXT COMMONEVENT:512/107/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+動きがどんどん激しくなる。
+> CONTEXT COMMONEVENT:512/108/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+体全体を反らして快楽を
+貪っているが視線だけはこちらを
+向いている。
+> CONTEXT COMMONEVENT:512/109/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+ふふふ…\\i[200]
+イく時の顔ちゃんと見てて
+あげるから\\i[200]
+> CONTEXT COMMONEVENT:512/112/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+そうやっておとなしくしてれば
+結構かわいいじゃない…\\i[200]
+> CONTEXT COMMONEVENT:512/113/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@24
+はああ…\\i[200]\\!ああッ\\i[200]\\i[200]
+> CONTEXT COMMONEVENT:512/115/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+チャラが絶頂に達し、その時の
+秘所の痙攣により\\cdb[0:0:0]も
+射精してしまった。
+> CONTEXT COMMONEVENT:512/120/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@24
+はあっ、は…\\i[200]
+どうですか、自分の
+罪深さを思い知りましたか…？
+> CONTEXT COMMONEVENT:512/125/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+チャラはゆったりと動き
+射精したばかりのペニスをねぶりつけた。
+> CONTEXT COMMONEVENT:512/126/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+ほら、次は私の番\\i[200]
+> CONTEXT COMMONEVENT:512/128/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+4人は少しずつ位置を変え、
+ライチが挿入しやすいようにした。
+> CONTEXT COMMONEVENT:512/139/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+はあっ…\\i[200]ふふ\\i[200]
+> CONTEXT COMMONEVENT:512/141/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ライチはこちらに背中を見せる形で
+結合してきた。
+> CONTEXT COMMONEVENT:512/143/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+イったばかりのペニスが再び
+淫膣の猛攻にされされる。
+> CONTEXT COMMONEVENT:512/144/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ポーニャの時は回復呪文を使いながら
+ひとりで何度も交わり続ける責め方だったが、
+今度は純粋に人数を活かして犯す腹積もりのようだ。
+> CONTEXT COMMONEVENT:512/146/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+罰を与えるという意識に加えて、
+人数で勝っており集団心理が働いていることも
+彼女らの責めを過激にさせる一因だった。
+> CONTEXT COMMONEVENT:512/147/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+なによッ…\\i[200]イッたばっかの
+くせにまだまだ大きくしてさぁ…\\i[200]
+> CONTEXT COMMONEVENT:512/149/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+エッチな剣士さんねぇ…\\i[200]
+> CONTEXT COMMONEVENT:512/150/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@24
+ホントです…\\i[200]
+こうしちゃいますから\\i[200]
+> CONTEXT COMMONEVENT:512/152/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ケーナとチャラは\\cdb[0:0:0]の両腕を
+股に挟むようにして拘束してきた。
+> CONTEXT COMMONEVENT:512/153/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ぴっちりとしたスーツは身体のラインが
+際立ち、自分の手が
+股に挟まれ蹂躙される様を鮮明にしていた。
+> CONTEXT COMMONEVENT:512/155/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+ほらッ\\i[200]そろそろイキなよッ！
+> CONTEXT COMMONEVENT:512/158/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ライチは不敵に笑い、ピストンを
+速めた。
+> CONTEXT COMMONEVENT:512/161/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女のスピーディーな戦闘スタイルがそのまま
+投影されたような激しい陵辱は
+\\cdb[0:0:0]をあっという間に射精させた。
+> CONTEXT COMMONEVENT:512/167/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+はっ\\i[200]はっ\\i[200]はっ\\i[200]
+…んッ\\i[200]\\i[200]
+> CONTEXT COMMONEVENT:512/171/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+少しして、ライチも絶頂に達した。
+声を出さぬように耐え、ぶるっと身を震わせる。
+> CONTEXT COMMONEVENT:512/172/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+うっふふ…\\i[200]どーだ\\i[200]
+こっちでも私の圧勝ね\\i[200]
+> CONTEXT COMMONEVENT:512/174/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+じゃ、次は私ですね\\i[200]\\i[200]
+> CONTEXT COMMONEVENT:512/176/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そう言うとポーニャは有無を
+言わさず結合してきた。
+> CONTEXT COMMONEVENT:512/187/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+すると2度続けての射精で
+わずかに萎えだしていたペニスが
+また膨らみ始める。
+> CONTEXT COMMONEVENT:512/189/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]自身は気が付いていないが
+以前ポーニャと過ごした濃厚すぎる夜が、\\!
+彼の身体をポーニャに対して敏感に
+反応するように変えてしまっていた。
+> CONTEXT COMMONEVENT:512/190/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+うふ\\i[200]
+まだまだすっごく大きい\\i[200]
+嬉しい\\i[200]
+> CONTEXT COMMONEVENT:512/193/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ポーニャはすっかり\\cdb[0:0:0]との性交に
+慣れた様子で、彼の感じやすいポイントを
+的確に、執拗に自らの女性自身で嫐りつけた。
+> CONTEXT COMMONEVENT:512/194/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+まだ大きくしてるのかよ…\\i[200]
+こうしてやる\\i[200]
+> CONTEXT COMMONEVENT:512/196/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+あんたなんか息も吸わせて
+あげないんだから\\i[200]
+> CONTEXT COMMONEVENT:512/197/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+先ほどまで自分もその肥大化したペニスを
+いたぶり悦んでいたことなど棚に上げ、
+ライチはお尻を押し付けてきた。
+> CONTEXT COMMONEVENT:512/198/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そのままこちらの顔めがけて
+擦り寄ってくる。
+> CONTEXT COMMONEVENT:512/199/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+ほら、そっち向いてあげて\\i[200]
+> CONTEXT COMMONEVENT:512/201/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+左側に陣取っていたケーナが
+\\cdb[0:0:0]の頭を右に向くように
+押さえつける。
+> CONTEXT COMMONEVENT:512/202/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+んっふ…\\i[200]
+いい気味\\i[200]
+弱い男にはお似合いよ\\i[200]
+> CONTEXT COMMONEVENT:512/205/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+顔全体がライチの臀部に圧迫される。
+面子を踏みにじられる屈辱的な格好なのに
+\\cdb[0:0:0]は興奮し、頭がだんだんぼんやり
+してしまう。
+> CONTEXT COMMONEVENT:512/206/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+すごいっ…\\i[200]さらにでっかく
+なってッ…\\i[200]
+> CONTEXT COMMONEVENT:512/209/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+突然、ポーニャの動きが激しくなった。
+その変化に耐え切れず、\\cdb[0:0:0]は
+射精してしまった！
+> CONTEXT COMMONEVENT:512/217/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+ああッ…\\i[200]さいッ…\\i[200]こう…\\i[200]
+> CONTEXT COMMONEVENT:512/221/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+ふふふ…今度は私よ\\i[200]
+3回も射精しちゃってるわけだけど、
+大丈夫かしら\\i[200]
+> CONTEXT COMMONEVENT:512/223/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@23
+ふっふっふ\\i[200]だいじょーぶ！
+こいつ、踏まれたりお尻で押しつぶされたり、
+そういうのですっごく興奮するって分かったから\\i[200]
+> CONTEXT COMMONEVENT:512/224/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+あらぁ\\i[200]
+それでさっきおちんちん大きく
+しちゃってたんですね\\i[200]
+> CONTEXT COMMONEVENT:512/225/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ライチは\\cdb[0:0:0]の性質を見抜いていた。
+それは、彼自身も気づいていないことだった。
+> CONTEXT COMMONEVENT:512/226/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+じゃ、ぎゅ～っと踏みにじって
+あげましょ\\i[200]
+> CONTEXT COMMONEVENT:512/227/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@24
+はいっ…\\i[200]
+> CONTEXT COMMONEVENT:512/228/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+はッ\\i[200]はあッ…\\i[200]
+> CONTEXT COMMONEVENT:512/240/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+ケーナが騎乗位で結合してくる。
+リーダー格ということで暗黙のうちに
+順番を譲っていたが、やはり待たされたぶん
+彼女の責めは激しかった。
+> CONTEXT COMMONEVENT:512/241/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+ふふふ…ケーナのあそこは
+気持ちいいですかぁ？
+> CONTEXT COMMONEVENT:512/243/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ポーニャが顔を踏みつけぎゅっと
+力を込めてくる。
+> CONTEXT COMMONEVENT:512/244/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]の頬のあたりを踏むようにして、
+勝者としての余裕を刻みつけてきた。
+> CONTEXT COMMONEVENT:512/245/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@24
+こんなふうにされるのが好きだなんて
+万能剣士さんは変わってますね\\i[200]
+> CONTEXT COMMONEVENT:512/247/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+チャラは足裏の全部を\\cdb[0:0:0]の
+口に押し付けるようにして
+踏みつけてきた。
+> CONTEXT COMMONEVENT:512/248/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+汚れたものが口に入らないように
+耐えるが、ポーニャからの踏みつけも
+あり、完全に口を閉じることはできない。
+> CONTEXT COMMONEVENT:512/249/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+陰惨極まる彼女らのやりかたは、
+これまでも何度も自分より弱い者を
+踏みにじってきたことを容易に
+想像させた。
+> CONTEXT COMMONEVENT:512/250/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+ほんとだッ…\\i[200]
+すっごく気持ちいいよ、\\cdb[0:0:0]くん\\i[200]
+> CONTEXT COMMONEVENT:512/255/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ケーナの動きが速まる。
+それに合わせてポーニャたちも
+踏みつける力を強めた。
+> CONTEXT COMMONEVENT:512/257/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+あひッ…\\i[200]んっ…\\i[200]
+> CONTEXT COMMONEVENT:512/258/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+また射精してしまった。
+と同時にケーナも絶頂に達する。
+> CONTEXT COMMONEVENT:512/264/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+はあ、はッ…\\i[200]
+> CONTEXT COMMONEVENT:512/267/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+それじゃあ…\\i[200]
+2週目ね\\i[200]
+> CONTEXT COMMONEVENT:512/269/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そう言うと最初に交わった
+チャラが再び跨ってきた。
+> CONTEXT COMMONEVENT:512/280/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+4人いれば、休憩する時間は十分にあった。
+\\cdb[0:0:0]は改めて数的不利の絶望を
+知った。
+> CONTEXT COMMONEVENT:512/281/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+何週耐えられるかしら…\\i[200]
+> CONTEXT COMMONEVENT:512/283/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@21
+そして大聖廓に帰ったあとも、ね…\\i[200]
+> CONTEXT COMMONEVENT:512/284/Message < UNTRANSLATED
+
+> END STRING

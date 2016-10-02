@@ -1,0 +1,8 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>「X[移]一時ｽﾃ計算<初期化\>」エラー：
+　主人公IDが「-1」以下になっています。＞ \\cself[0]
+> CONTEXT COMMONEVENT:122/9/Message < UNTRANSLATED
+
+> END STRING

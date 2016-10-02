@@ -1,0 +1,35 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+遠くにいる敵を倒すには、
+\\c[3]遠距離攻撃が可能な武器を使うか、
+敵の魔法弾を攻撃して跳ね返す\\c[0]必要があります。
+> CONTEXT COMMONEVENT:417/10/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+＜遠距離攻撃＞
+\\c[3]ロングボウ\\c[0]などの遠隔系武器、
+\\c[3]炎の杖\\c[0]などの魔法系武器で可能です。
+> CONTEXT COMMONEVENT:417/11/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+＜反射＞
+敵の魔法弾はこちらに近づいてくると
+\\c[2]赤く\\c[0]変色します。
+その際に攻撃すると魔法弾を反射できます。
+> CONTEXT COMMONEVENT:417/13/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+反射は遠近どちらの武器でも可能です。
+また、魔法弾そのものに攻撃を当てる必要はなく、
+タイミングがあっていれば照準が
+どこにあっても反射可能です。
+> CONTEXT COMMONEVENT:417/14/Message < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,585 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+草原
+> CONTEXT DB:DataBase/[28]背景リスト/[0]草原/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+平原2
+> CONTEXT DB:DataBase/[28]背景リスト/[1]平原2/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+平原3
+> CONTEXT DB:DataBase/[28]背景リスト/[2]平原3/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+洞窟の入り口
+> CONTEXT DB:DataBase/[28]背景リスト/[3]洞窟の入り口/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+平原_森へのさしかかり
+> CONTEXT DB:DataBase/[28]背景リスト/[4]平原_森へのさしかかり/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夕暮れの森
+> CONTEXT DB:DataBase/[28]背景リスト/[5]夕暮れの森/[0]背景名 < UNTRANSLATED
+> CONTEXT DB:DataBase/[28]背景リスト/[19]夕暮れの森/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+洞窟1
+> CONTEXT DB:DataBase/[28]背景リスト/[6]洞窟1/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+洞窟
+> CONTEXT DB:DataBase/[28]背景リスト/[7]洞窟/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+洞窟3_出口
+> CONTEXT DB:DataBase/[28]背景リスト/[8]洞窟3_出口/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+平原4_夜
+> CONTEXT DB:DataBase/[28]背景リスト/[9]平原4_夜/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地底湖
+> CONTEXT DB:DataBase/[28]背景リスト/[10]地底湖/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+山小屋
+> CONTEXT DB:DataBase/[28]背景リスト/[11]山小屋/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+物置
+> CONTEXT DB:DataBase/[28]背景リスト/[12]物置/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+岩山
+> CONTEXT DB:DataBase/[28]背景リスト/[13]岩山/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夕方の川辺
+> CONTEXT DB:DataBase/[28]背景リスト/[14]夕方の川辺/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夕暮れの平原
+> CONTEXT DB:DataBase/[28]背景リスト/[15]夕暮れの平原/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワラート城外観
+> CONTEXT DB:DataBase/[28]背景リスト/[16]ワラート城外観/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワラート城玉座
+> CONTEXT DB:DataBase/[28]背景リスト/[17]ワラート城玉座/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワラート城城下町
+> CONTEXT DB:DataBase/[28]背景リスト/[18]ワラート城城下町/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キャンプ
+> CONTEXT DB:DataBase/[28]背景リスト/[20]キャンプ/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回想_城内
+> CONTEXT DB:DataBase/[28]背景リスト/[21]回想_城内/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夕暮れの岩山
+> CONTEXT DB:DataBase/[28]背景リスト/[22]夕暮れの岩山/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の岩山
+> CONTEXT DB:DataBase/[28]背景リスト/[23]夜の岩山/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+朝の岩山
+> CONTEXT DB:DataBase/[28]背景リスト/[24]朝の岩山/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+森林_昼
+> CONTEXT DB:DataBase/[28]背景リスト/[25]森林_昼/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+川_昼
+> CONTEXT DB:DataBase/[28]背景リスト/[26]川_昼/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+平原_昼
+> CONTEXT DB:DataBase/[28]背景リスト/[27]平原_昼/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キハー大聖廓_外観
+> CONTEXT DB:DataBase/[28]背景リスト/[29]キハー大聖廓_外観/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キハー大聖廓_東砦
+> CONTEXT DB:DataBase/[28]背景リスト/[30]キハー大聖廓_東砦/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キハー大聖廓_西砦
+> CONTEXT DB:DataBase/[28]背景リスト/[31]キハー大聖廓_西砦/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砦
+> CONTEXT DB:DataBase/[28]背景リスト/[32]砦/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キハー大聖廓_外
+> CONTEXT DB:DataBase/[28]背景リスト/[33]キハー大聖廓_外/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アコーディ大橋
+> CONTEXT DB:DataBase/[28]背景リスト/[34]アコーディ大橋/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+尋問の間
+> CONTEXT DB:DataBase/[28]背景リスト/[35]尋問の間/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+扉
+> CONTEXT DB:DataBase/[28]背景リスト/[36]扉/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キハー大聖廓_北門
+> CONTEXT DB:DataBase/[28]背景リスト/[37]キハー大聖廓_北門/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キハー大聖廓_開門
+> CONTEXT DB:DataBase/[28]背景リスト/[38]キハー大聖廓_開門/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+城下町1
+> CONTEXT DB:DataBase/[28]背景リスト/[40]城下町1/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+城下町2
+> CONTEXT DB:DataBase/[28]背景リスト/[41]城下町2/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エスラ城_謁見の間
+> CONTEXT DB:DataBase/[28]背景リスト/[42]エスラ城_謁見の間/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エスラ城_王子の寝室
+> CONTEXT DB:DataBase/[28]背景リスト/[43]エスラ城_王子の寝室/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エスラ城_外
+> CONTEXT DB:DataBase/[28]背景リスト/[44]エスラ城_外/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワラート城_廊下
+> CONTEXT DB:DataBase/[28]背景リスト/[45]ワラート城_廊下/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワラート城前
+> CONTEXT DB:DataBase/[28]背景リスト/[46]ワラート城前/[0]背景名 < UNTRANSLATED
+> CONTEXT DB:DataBase/[28]背景リスト/[67]ワラート城前/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エスラ城下町_夕方
+> CONTEXT DB:DataBase/[28]背景リスト/[47]エスラ城下町_夕方/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パイプオル岩窟_入り口
+> CONTEXT DB:DataBase/[28]背景リスト/[48]パイプオル岩窟_入り口/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パイプオル岩窟1
+> CONTEXT DB:DataBase/[28]背景リスト/[49]パイプオル岩窟1/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パイプオル岩窟暗
+> CONTEXT DB:DataBase/[28]背景リスト/[50]パイプオル岩窟暗/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パイプオル岩窟3
+> CONTEXT DB:DataBase/[28]背景リスト/[51]パイプオル岩窟3/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パイプオル岩窟4
+> CONTEXT DB:DataBase/[28]背景リスト/[52]パイプオル岩窟4/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パイプオル岩窟5
+> CONTEXT DB:DataBase/[28]背景リスト/[53]パイプオル岩窟5/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パイプオル岩窟2
+> CONTEXT DB:DataBase/[28]背景リスト/[54]パイプオル岩窟2/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひちり京1
+> CONTEXT DB:DataBase/[28]背景リスト/[55]ひちり京1/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひちり京大屋敷前
+> CONTEXT DB:DataBase/[28]背景リスト/[56]ひちり京大屋敷前/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大屋敷監禁部屋
+> CONTEXT DB:DataBase/[28]背景リスト/[57]大屋敷監禁部屋/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひちり京大屋敷1
+> CONTEXT DB:DataBase/[28]背景リスト/[58]ひちり京大屋敷1/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひちり京大屋敷2
+> CONTEXT DB:DataBase/[28]背景リスト/[59]ひちり京大屋敷2/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひちり京大屋敷3
+> CONTEXT DB:DataBase/[28]背景リスト/[60]ひちり京大屋敷3/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひちり京2
+> CONTEXT DB:DataBase/[28]背景リスト/[61]ひちり京2/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワラート城1
+> CONTEXT DB:DataBase/[28]背景リスト/[63]ワラート城1/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワラート城3
+> CONTEXT DB:DataBase/[28]背景リスト/[64]ワラート城3/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪悪な玉座
+> CONTEXT DB:DataBase/[28]背景リスト/[65]邪悪な玉座/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワラート城正門前
+> CONTEXT DB:DataBase/[28]背景リスト/[66]ワラート城正門前/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+川と草原_夕方
+> CONTEXT DB:DataBase/[28]背景リスト/[68]川と草原_夕方/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大屋敷4
+> CONTEXT DB:DataBase/[28]背景リスト/[69]大屋敷4/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワラート城2
+> CONTEXT DB:DataBase/[28]背景リスト/[70]ワラート城2/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワラート城4
+> CONTEXT DB:DataBase/[28]背景リスト/[71]ワラート城4/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+屋敷の前
+> CONTEXT DB:DataBase/[28]背景リスト/[72]屋敷の前/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闘技場
+> CONTEXT DB:DataBase/[28]背景リスト/[73]闘技場/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貴族の寝室
+> CONTEXT DB:DataBase/[28]背景リスト/[74]貴族の寝室/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+待合室
+> CONTEXT DB:DataBase/[28]背景リスト/[75]待合室/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+川_夜
+> CONTEXT DB:DataBase/[28]背景リスト/[76]川_夜/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+待合室_邪悪
+> CONTEXT DB:DataBase/[28]背景リスト/[77]待合室_邪悪/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+酒場
+> CONTEXT DB:DataBase/[28]背景リスト/[78]酒場/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カジノ
+> CONTEXT DB:DataBase/[28]背景リスト/[79]カジノ/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ひちり京_港
+> CONTEXT DB:DataBase/[28]背景リスト/[80]ひちり京_港/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+機械部屋
+> CONTEXT DB:DataBase/[28]背景リスト/[82]機械部屋/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+機械部屋2
+> CONTEXT DB:DataBase/[28]背景リスト/[83]機械部屋2/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の平原
+> CONTEXT DB:DataBase/[28]背景リスト/[84]夜の平原/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の庭
+> CONTEXT DB:DataBase/[28]背景リスト/[85]夜の庭/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リコー大雪原2
+> CONTEXT DB:DataBase/[28]背景リスト/[87]リコー大雪原2/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷の洞窟
+> CONTEXT DB:DataBase/[28]背景リスト/[88]氷の洞窟/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔棲島1
+> CONTEXT DB:DataBase/[28]背景リスト/[89]魔棲島1/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔棲島3
+> CONTEXT DB:DataBase/[28]背景リスト/[91]魔棲島3/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+塔_外観
+> CONTEXT DB:DataBase/[28]背景リスト/[92]塔_外観/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+塔1
+> CONTEXT DB:DataBase/[28]背景リスト/[93]塔1/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+塔2
+> CONTEXT DB:DataBase/[28]背景リスト/[94]塔2/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+塔3
+> CONTEXT DB:DataBase/[28]背景リスト/[95]塔3/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+塔4
+> CONTEXT DB:DataBase/[28]背景リスト/[96]塔4/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢の中1
+> CONTEXT DB:DataBase/[28]背景リスト/[97]夢の中1/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢の中2
+> CONTEXT DB:DataBase/[28]背景リスト/[98]夢の中2/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+塔EX
+> CONTEXT DB:DataBase/[28]背景リスト/[99]塔EX/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お風呂1
+> CONTEXT DB:DataBase/[28]背景リスト/[100]お風呂1/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お風呂2
+> CONTEXT DB:DataBase/[28]背景リスト/[101]お風呂2/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+寝室
+> CONTEXT DB:DataBase/[28]背景リスト/[102]寝室/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+宿屋
+> CONTEXT DB:DataBase/[28]背景リスト/[103]宿屋/[0]背景名 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+宿屋の扉
+> CONTEXT DB:DataBase/[28]背景リスト/[104]宿屋の扉/[0]背景名 < UNTRANSLATED
+
+> END STRING

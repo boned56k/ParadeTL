@@ -1,0 +1,167 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@63
+ここですここ。
+いやーすいません剣士さんに
+こんなこと頼んじゃって…
+> CONTEXT COMMONEVENT:411/12/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@63
+鍵が古くなってるみたいで
+回らないんですよ…
+> CONTEXT COMMONEVENT:411/13/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@63
+もし開けてくださったら中に入ってるもので
+いら…あいや掘り出し物があったら
+それを差し上げますから。
+> CONTEXT COMMONEVENT:411/14/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+（…なんでこんなことしなくちゃいけないんだ？）
+> CONTEXT COMMONEVENT:411/15/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+（だいたい鍵なんてどうやって
+　開けるんだよ…）
+> CONTEXT COMMONEVENT:411/16/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+…どうやるかは全然わかりませんが
+これを使ってみます。
+> CONTEXT COMMONEVENT:411/17/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@63
+おおっ針金！
+さすがは万能剣士さんだ！
+何でも持ってますね。
+> CONTEXT COMMONEVENT:411/20/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]マウスポインタが白い部分にぶつからないように
+動かしてください。\\c[0]
+> CONTEXT COMMONEVENT:411/23/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:510/4/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+あっダメかなこれ…
+> CONTEXT COMMONEVENT:411/116/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+再チャレンジ
+> CONTEXT COMMONEVENT:411/118/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+諦めて帰る
+> CONTEXT COMMONEVENT:411/118/Choices < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+ごめんなさい。
+やっぱり無理みたいでした…
+> CONTEXT COMMONEVENT:411/124/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+うっ
+> CONTEXT COMMONEVENT:411/141/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+もしかしたらいけるかもしれません！
+> CONTEXT COMMONEVENT:411/142/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@63
+おおーっ！さすがは万能剣士殿！
+> CONTEXT COMMONEVENT:411/143/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+もうちょっとでいけそうな
+気がする…！
+> CONTEXT COMMONEVENT:411/266/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@63
+緊張してきましたぞ…
+> CONTEXT COMMONEVENT:411/267/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+…開いた！？
+> CONTEXT COMMONEVENT:411/399/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@63
+おおーーーっ！！素晴らしい！
+あなたに頼んでよかった…！
+> CONTEXT COMMONEVENT:411/401/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]名前の頭に「★」がついているアイテムは
+「アイテムスキル」です。\\c[0]
+> CONTEXT COMMONEVENT:411/416/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]アイテムスキルは持っているだけで
+効果を発揮します。\\c[0]
+> CONTEXT COMMONEVENT:411/417/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]イベントの進行をスムーズにしたり、
+戦闘を有利に進めるなど様々な効力を
+持つアイテムスキルが存在します。\\c[0]
+> CONTEXT COMMONEVENT:411/418/Message < UNTRANSLATED
+
+> END STRING

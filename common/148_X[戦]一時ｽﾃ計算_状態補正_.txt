@@ -1,0 +1,8 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\\>「X[戦]一時ｽﾃ計算<状態補正\>」エラー：
+　戦闘スロットが「-1」以下になっています。＞ \\cself[0]
+> CONTEXT COMMONEVENT:148/10/Message < UNTRANSLATED
+
+> END STRING

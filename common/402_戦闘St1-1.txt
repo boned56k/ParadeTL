@@ -1,0 +1,43 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\f[17]\\font[1]HINT
+\\font[0]←このMENUボタンをクリックするとメニューが開ける
+> CONTEXT COMMONEVENT:402/41/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[17]\\font[1]HINT
+\\font[0]メニューを開くとアイテムを使ったり武器を変えたりできる
+> CONTEXT COMMONEVENT:402/84/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[17]\\font[1]HINT
+\\font[0]守りの固い敵にはチャージ攻撃や"斧・鎚"の攻撃が有効だ
+> CONTEXT COMMONEVENT:402/141/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[17]\\font[1]HINT
+\\font[0] 「\\i[201]」が出ている攻撃は防御できないがカウンターが簡単
+> CONTEXT COMMONEVENT:402/204/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@9
+こ、ここまで強いなんて…！
+> CONTEXT COMMONEVENT:402/302/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+ひとまず退却よ！
+> CONTEXT COMMONEVENT:402/303/Message < UNTRANSLATED
+
+> END STRING

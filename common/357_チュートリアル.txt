@@ -1,0 +1,365 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\f[20]チュートリアル
+\\f[16]Tutorial
+> CONTEXT COMMONEVENT:357/25/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チュートリアルを行いますか？
+> CONTEXT COMMONEVENT:357/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マウスで\\c[3]照準\\c[0]を動かし、
+\\c[3]左クリック\\c[0]で攻撃します。
+> CONTEXT COMMONEVENT:357/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃して敵を倒してみましょう。
+> CONTEXT COMMONEVENT:357/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[20]\\E攻撃して敵を倒そう
+> CONTEXT COMMONEVENT:357/33/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[20]クリックで攻撃
+\\f[16]Click：Attack
+> CONTEXT COMMONEVENT:357/34/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃すると\\c[3]気力\\c[0]ゲージ(左上の\\c[4]黄色いゲージ\\c[0])が
+減少します。
+> CONTEXT COMMONEVENT:357/54/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気力は時間とともに回復します。
+> CONTEXT COMMONEVENT:357/55/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気力が武器ごとに設定されている\\c[3]気力消費量\\c[0]を
+下回っていると攻撃ができなくなります。
+(気力値は\\c[3]最大で10000\\c[0])
+> CONTEXT COMMONEVENT:357/56/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気力の回復は\\c[3]敏捷性\\c[0]が高いほど
+速くなります。
+> CONTEXT COMMONEVENT:357/57/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+武器ごとに
+\\c[2]攻撃力・\\c[3]攻撃範囲・\\c[4]気力消費量\\c[0]は異なります。
+> CONTEXT COMMONEVENT:357/58/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たとえば、今装備している「\\udb[3:2:0]」は
+このぐらいの攻撃範囲ですが…
+> CONTEXT COMMONEVENT:357/65/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+同じく最初から持っている「\\udb[3:7:0]」は
+広範囲の敵を一度に攻撃できます。
+> CONTEXT COMMONEVENT:357/72/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし気力を多く消費してしまうため
+連続攻撃が苦手です。
+> CONTEXT COMMONEVENT:357/73/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+槍「\\udb[3:3:0]」は攻撃範囲が
+とても狭いため、しっかり狙う必要があります。
+> CONTEXT COMMONEVENT:357/78/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そのぶん一撃の破壊力が大きく、
+気力も「\\udb[3:7:0]」ほど消費しません。
+> CONTEXT COMMONEVENT:357/79/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃していない状態で\\c[3]しばらく待つと\\c[0]
+照準が輝きます。この状態で攻撃すると
+強力な\\c[3]チャージ攻撃\\c[0]を使えます。
+> CONTEXT COMMONEVENT:357/90/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]チャージ攻撃\\c[0]で敵を倒してみましょう。
+> CONTEXT COMMONEVENT:357/91/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[20]\\E\\c[3]チャージ攻撃\\c[0]で敵を倒そう
+> CONTEXT COMMONEVENT:357/94/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[20]攻撃せず待機：チャージ攻撃
+\\f[16]Waiting：ChargeAttack
+> CONTEXT COMMONEVENT:357/95/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]スペースキー\\c[0]を押すか、
+画面下のガードエリアの上にマウスカーソルを
+合わせることで防御体勢をとります。
+> CONTEXT COMMONEVENT:357/115/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キーを押している間は防御し続けますが、
+防御ゲージがなくなると
+\\c[2]少しの間防御ができなくなります\\c[0]。
+> CONTEXT COMMONEVENT:357/116/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御に成功するとダメージを受けなくなります。
+> CONTEXT COMMONEVENT:357/117/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵にはそれぞれ\\c[3]行動ゲージ\\c[0]が表示されており、
+このゲージが無くなると攻撃してきます。
+> CONTEXT COMMONEVENT:357/119/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行動ゲージを見極めて敵の攻撃を
+防御してみましょう。
+> CONTEXT COMMONEVENT:357/121/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[20]\\E敵の攻撃を防御してみよう
+> CONTEXT COMMONEVENT:357/126/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[18]スペースキーor
+画面下に照準を移動：防御
+\\f[16]Spacekey：Guard
+> CONTEXT COMMONEVENT:357/127/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう一度防御してみましょう。
+> CONTEXT COMMONEVENT:357/153/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このように、こちらの攻撃を封じる
+\\c[3]色仕掛け攻撃\\c[0]も防御で
+無効化できます。
+> CONTEXT COMMONEVENT:357/181/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、防御している間は
+気力ゲージの\\c[3]回復スピードが少し上昇します\\c[0]。
+> CONTEXT COMMONEVENT:357/182/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵が攻撃してくる直前にタイミングよく
+特定の場所を攻撃すると\\c[3]カウンター攻撃\\c[0]が
+発動します。
+> CONTEXT COMMONEVENT:357/184/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カウンター可能なタイミングになると
+行動ゲージのカーソルが\\c[2]赤く\\c[0]変色します。
+> CONTEXT COMMONEVENT:357/186/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その時に\\c[3]赤くなっているカーソル\\c[0]をクリックすると
+カウンターが発動します。
+> CONTEXT COMMONEVENT:357/187/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カウンターは雑魚キャラであれば一撃で倒すことができ、
+ボスキャラには大ダメージを与えられます。
+> CONTEXT COMMONEVENT:357/188/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カウンターで敵を倒してみましょう。
+> CONTEXT COMMONEVENT:357/191/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[17]赤くなったカーソルをクリック
+：カウンター
+\\f[14]Pointing Red Cursor
+：CounterAttack
+> CONTEXT COMMONEVENT:357/193/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[20]\\E\\c[3]カウンター\\c[0]で敵を倒そう
+> CONTEXT COMMONEVENT:357/195/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カウンターに成功すると
+少しの間\\c[3]無敵状態\\c[0]になり全ての攻撃を無効化します。
+(右下にカウントが表示されている間)
+> CONTEXT COMMONEVENT:357/218/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵は\\c[3]エッチ攻撃\\c[0]をしかけてくることが
+あります。
+> CONTEXT COMMONEVENT:357/221/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エッチ攻撃は
+\\c[3]通常攻撃\\c[0]や\\c[3]色仕掛け攻撃\\c[0]と異なり
+\\c[2]防御することができません\\c[0]。
+> CONTEXT COMMONEVENT:357/222/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エッチ攻撃をしかけてくる敵は
+\\c[3]ハートマーク\\c[0]が表示されます。
+> CONTEXT COMMONEVENT:357/224/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵のエッチ攻撃を受けると拘束され
+\\c[3]行動できなくなり\\c[0]、ダメージを受け続けてしまいます。
+> CONTEXT COMMONEVENT:357/225/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱出するためには画面中央に表示されている
+3つの\\c[3]脱出マーク\\c[0]をクリックします。
+> CONTEXT COMMONEVENT:357/228/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱出マークは左右に動いており、
+エッチ攻撃で\\c[3]張り付いている
+人数が多いほど動きが速くなります\\c[0]。
+> CONTEXT COMMONEVENT:357/229/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]エッチ攻撃を使ってくる敵\\c[0]が出現します。
+わざと攻撃を受ければ脱出の練習ができます。
+(倒すと先に進みます)
+> CONTEXT COMMONEVENT:357/231/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[17]左右に動くマークをクリック
+：エッチ攻撃から脱出
+\\f[14]Pointing white Cursor
+：Escape
+> CONTEXT COMMONEVENT:357/235/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[20]\\Eエッチ攻撃脱出の
+練習をしてみよう
+(倒すと次へ進む)
+> CONTEXT COMMONEVENT:357/236/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エッチ攻撃を受けないようにするためには
+\\c[3]攻撃されるまえに倒す\\c[0]か、
+\\c[3]カウンター後の無敵状態でかわす\\c[0]必要があります。
+> CONTEXT COMMONEVENT:357/257/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘中に\\c[3]Escキー\\c[0]を押すか
+画面上のメニューボタンをクリックすると
+メニューを開けます。
+> CONTEXT COMMONEVENT:357/261/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メニューでは\\c[3]アイテムの使用\\c[0]や
+\\c[3]装備の変更\\c[0]などを行えます。
+> CONTEXT COMMONEVENT:357/262/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+以上でチュートリアルは終わりです。
+お疲れ様でした。
+> CONTEXT COMMONEVENT:357/265/Message < UNTRANSLATED
+
+> END STRING

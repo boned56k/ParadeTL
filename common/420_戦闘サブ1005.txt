@@ -1,0 +1,50 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+装備を切り替えるには \\c[3]→、←\\c[0]キーを押します。
+> CONTEXT COMMONEVENT:420/11/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]マウスの中ボタン\\c[0]がある場合は
+それを押下することでも切り替えができます。
+> CONTEXT COMMONEVENT:420/12/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、キーボードの対応した数字キー「1」「2」「3」を
+押すことでもそれぞれの武器に切り替えられます。
+> CONTEXT COMMONEVENT:420/13/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、\\c[3]ショートカットアイコン\\c[0]を直接クリック
+することでも切り替えられます。
+> CONTEXT COMMONEVENT:420/16/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘中にメニューから武器を変えた際、
+ショートカットに登録を行っていると
+その\\c[2]都度ショートカットの設定が必要\\c[0]となります。
+> CONTEXT COMMONEVENT:420/19/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ショートカットの切り替えを練習できます。
+敵を倒すことでこのチュートリアルは終了します。
+> CONTEXT COMMONEVENT:420/21/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+以上でショートカットのチュートリアルは
+終わりです。お疲れ様でした。
+> CONTEXT COMMONEVENT:420/36/Message < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,82 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+武器を外したため
+ショートカットが全て解除されました。
+> CONTEXT COMMONEVENT:351/10/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+武器を装備していない状態では
+ショートカット設定はできません。
+> CONTEXT COMMONEVENT:351/13/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+＜ショートカット設定＞
+ここで登録した武器は戦闘中にメニュー画面を開かずに
+装備できます。
+ショートカット1には装備中の武器が登録されます。
+> CONTEXT COMMONEVENT:351/29/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最初のショートカットに登録する武器を
+選択します。
+> CONTEXT COMMONEVENT:351/34/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一番下の「\\c[4]ショートカット全解除\\c[0]」を選択すると
+ショートカットを全て解除して
+設定を終了します。
+> CONTEXT COMMONEVENT:351/35/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在のショートカット設定
+1：\\udb[3:\\cself[28]:0]
+2：\\udb[3:\\cself[29]:0]
+3：なし
+> CONTEXT COMMONEVENT:351/108/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在のショートカット設定
+1：\\udb[3:\\cself[28]:0]
+2：なし
+3：なし
+> CONTEXT COMMONEVENT:351/121/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2番目のショートカットに登録する武器を
+選択します。
+> CONTEXT COMMONEVENT:351/130/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここで一番下の「\\c[4]何も設定しない\\c[0]」を
+選択するとここには何も登録せず終了し、
+戦闘中は装備中の武器含めて2種類の武器で
+切り替えをできるようになります。
+> CONTEXT COMMONEVENT:351/131/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在のショートカット設定
+1：\\udb[3:\\cself[28]:0]
+2：\\udb[3:\\cself[29]:0]
+3：\\cself[5]
+> CONTEXT COMMONEVENT:351/211/Message < UNTRANSLATED
+
+> END STRING

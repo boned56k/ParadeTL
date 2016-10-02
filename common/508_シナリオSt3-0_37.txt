@@ -1,0 +1,944 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@4
+立派な町だな…
+ここも拠点として使えるかもしれないな。
+> CONTEXT COMMONEVENT:508/38/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+ここを抜けてアコーディ大橋を渡れば
+エスラ城は近いぞ。
+> CONTEXT COMMONEVENT:508/42/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+助けてーーーッ！！
+> CONTEXT COMMONEVENT:508/46/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+はあっ、はっ…
+お、お願いします！助けてください！
+悪い人達に追われているんです！
+> CONTEXT COMMONEVENT:508/50/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@19
+どきなさい！
+その者は教典に背く行為を犯しました。
+> CONTEXT COMMONEVENT:508/56/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@19
+しかるべき罰を受けねば
+ならないのです。
+> CONTEXT COMMONEVENT:508/57/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+濡れ衣です！
+私は教えに背く行いなんて
+何もしていません…！
+> CONTEXT COMMONEVENT:508/58/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@18
+お黙りなさい！
+さあ、彼女をこちらに引き渡して。
+> CONTEXT COMMONEVENT:508/59/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+そ、そんな強引に
+捕まえようとしなくても…
+この人はひどく怯えています。
+> CONTEXT COMMONEVENT:508/60/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@19
+このキハー大聖廓では教えは絶対…。
+それは外部から来た人間であろうと
+同じこと！
+> CONTEXT COMMONEVENT:508/61/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@19
+口答えをするというのなら
+あなたにも罰を与えます！
+> CONTEXT COMMONEVENT:508/62/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+うっ！？
+> CONTEXT COMMONEVENT:508/74/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:603/23/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@19
+…
+> CONTEXT COMMONEVENT:508/79/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@19
+うまくいきましたね、ポーニャ様\\i[200]
+> CONTEXT COMMONEVENT:508/80/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+ふふふ…万能剣士さんってば、
+すっかり私の芝居を信じこんでましたね\\i[200]
+> CONTEXT COMMONEVENT:508/82/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+さあ、部屋に運んでいきましょう\\i[200]
+> CONTEXT COMMONEVENT:508/83/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[20]エッチイベント「背徳の聖者」
+> CONTEXT COMMONEVENT:508/86/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+…
+> CONTEXT COMMONEVENT:508/101/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+うう…
+> CONTEXT COMMONEVENT:508/102/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+ここは…？
+> CONTEXT COMMONEVENT:508/113/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+気が付きましたか？
+> CONTEXT COMMONEVENT:508/114/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+ふふふ…まんまと騙されてくれましたね、
+万能剣士さん\\i[200]
+> CONTEXT COMMONEVENT:508/125/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+あなたはさっきの…
+どういうことだ！？
+> CONTEXT COMMONEVENT:508/126/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+あなたを捕まえるために一芝居うったんです。
+> CONTEXT COMMONEVENT:508/127/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+私は栄誉あるキハー大四聖のひとり。
+教えに背くなんてコト絶対にしません\\i[200]
+> CONTEXT COMMONEVENT:508/128/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+教えだと…
+> CONTEXT COMMONEVENT:508/129/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+はい。
+「男子が窮していたら全員で嫐れ」という
+素晴らしい唯一の教えです\\i[200]
+> CONTEXT COMMONEVENT:508/130/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+なんて卑劣な教示なんだ！
+> CONTEXT COMMONEVENT:508/131/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+この拘束を解け！
+> CONTEXT COMMONEVENT:508/132/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+ダメです。教えに背くことになるし
+あなたを捕まえたのにはもう1つ
+理由があるんです。
+> CONTEXT COMMONEVENT:508/133/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+え…
+> CONTEXT COMMONEVENT:508/134/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:651/30/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:667/247/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+あなたの存在が世を乱しているんです。
+> CONTEXT COMMONEVENT:508/135/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+あなたは戦士としての名声を持ちながらも
+付け入りやすい弱点も持っています。
+> CONTEXT COMMONEVENT:508/136/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+そのせいで世の女性たちはあなたに
+戦いを挑み、傷ついていきました…
+> CONTEXT COMMONEVENT:508/137/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+あなたがいると世の女性たちは
+傷つけられるんです！
+これは彼女たちをあなたの猛威から守る
+聖なる行いなのです\\i[200]
+> CONTEXT COMMONEVENT:508/138/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+そんな勝手な理屈で納得できるもんか！
+> CONTEXT COMMONEVENT:508/139/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（くそっ…なんとか脱出しなきゃ）
+> CONTEXT COMMONEVENT:508/140/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（あ…まさかパックジュエルも
+　盗られてる！？）
+> CONTEXT COMMONEVENT:508/141/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+（まずいぞ…
+　あの中には宝玉もあるんだ！）
+> CONTEXT COMMONEVENT:508/142/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+逃げようとしても無駄ですよ？
+荷物も没収させていただきました。
+> CONTEXT COMMONEVENT:508/143/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+と言っても、剣一振りと何か
+よく分からない宝石だけでしたけど\\i[200]
+> CONTEXT COMMONEVENT:508/144/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+あっ…！
+> CONTEXT COMMONEVENT:508/148/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@18
+宝石を持ち歩くなんて
+ずいぶんと可愛らしい趣味が
+おありね\\i[200]
+> CONTEXT COMMONEVENT:508/149/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@20
+でも、ちょっとセンスが
+悪いかも～\\i[200]
+> CONTEXT COMMONEVENT:508/150/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@19
+気を失っていたのに無意識で
+これだけは必死に握ってましたわね…
+こんな安っぽいものを大事にするなんて
+随分と賤しいお方なのねぇ\\i[200]
+> CONTEXT COMMONEVENT:508/151/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+取り巻きの神官たちが
+パックジュエルを弄び嘲笑する。
+> CONTEXT COMMONEVENT:508/154/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+恩を受けているマーチ女王から授かったものを
+けなされる屈辱に\\cdb[0:0:0]は憤るが
+この状態では何もできない。
+> CONTEXT COMMONEVENT:508/155/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]は脱出の可能性を見出すために
+改めて自分の状態を確認した。
+> CONTEXT COMMONEVENT:508/156/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+巨大な板に枷が取り付けられており、それが
+自分の手・足・腹を拘束している。
+> CONTEXT COMMONEVENT:508/157/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+まるでこれから磔の刑でも行われるかのような
+格好だった。
+> CONTEXT COMMONEVENT:508/158/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+ふふふふ…そろそろ教典に則って
+彼を嫐りものにしてあげましょう\\i[200]
+うふふ…\\i[200]
+> CONTEXT COMMONEVENT:508/159/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+暗い笑みを浮かべながら
+キハー大四聖のひとり、ポーニャが
+近づいてくる。
+> CONTEXT COMMONEVENT:508/160/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+服装こそ聖職者らしくしているが
+内面は邪悪そのものだった。
+> CONTEXT COMMONEVENT:508/161/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女の歩調に合わせ
+周りの神官たちもじりじりと
+近づいてくる。
+> CONTEXT COMMONEVENT:508/162/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+わっ！？
+> CONTEXT COMMONEVENT:508/164/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+拘束していた板ごと倒されてしまい、
+\\cdb[0:0:0]は仰向けのような形になった。
+> CONTEXT COMMONEVENT:508/168/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ポーニャたちはそんな彼を見下ろし、
+満足気に笑みを浮かべている。
+> CONTEXT COMMONEVENT:508/169/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@18
+んっ…\\i[200]
+> CONTEXT COMMONEVENT:508/175/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+神官のうちの1人がおもむろに
+服をたくしあげ、乳房を見せてきた。
+> CONTEXT COMMONEVENT:508/176/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@47
+う！？
+> CONTEXT COMMONEVENT:508/177/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]は反射的に目を逸らした。
+が、そんな彼の反応をあざ笑うかのように
+彼女は微笑み、さらに距離を縮めてくる。
+> CONTEXT COMMONEVENT:508/178/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@18
+ふふふ…\\i[200]
+> CONTEXT COMMONEVENT:508/187/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女はぴったりと\\cdb[0:0:0]に
+寄り添い、ゆっくりと体をこすりつけてきた！
+> CONTEXT COMMONEVENT:508/188/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]の肩を彼女の乳房がいやらしく
+撫でつけ、少しずつ頭部のほうへ上がっていく。
+> CONTEXT COMMONEVENT:508/189/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+やがて顔に達し、彼女は悩ましげな声を
+あげながら\\cdb[0:0:0]の顔を乳房で
+踏みにじった。
+> CONTEXT COMMONEVENT:508/190/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@18
+どうですか…\\i[200]
+こういうのが苦手ってホントなんですか…？
+> CONTEXT COMMONEVENT:508/192/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@20
+おねえさんたちが
+かわいがってあげますからねぇ\\i[200]
+> CONTEXT COMMONEVENT:508/200/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+反対側に別の神官が張り付き、
+右腕の上に座り込んできた。
+> CONTEXT COMMONEVENT:508/201/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女の太ももの圧迫感がこちらの腕に
+伝わってくる。
+> CONTEXT COMMONEVENT:508/202/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そのまま自分の股間を
+こすりつけるように動かしてきた。
+> CONTEXT COMMONEVENT:508/203/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@20
+んん…\\i[200]万能剣士とも
+あろうお人がそんな体たらくでいいんですか\\i[200]
+> CONTEXT COMMONEVENT:508/206/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+快感と征服感が入り混じったような声を
+漏らしながら自らの肉体で蹂躙してくる。
+その視線は\\cdb[0:0:0]の股間に向けられていた。
+> CONTEXT COMMONEVENT:508/207/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+神官たちの行為によって
+\\cdb[0:0:0]のペニスはすっかり屹立して
+しまっていたのである。
+> CONTEXT COMMONEVENT:508/208/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+あら…\\i[200]すっかり自己主張しちゃって…
+素直でかわいいです\\i[200]
+> CONTEXT COMMONEVENT:508/216/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ポーニャは持っていた得物の角に
+自らの股間をこすりつけ、瞳を
+潤わせながら様子を見ている。
+> CONTEXT COMMONEVENT:508/217/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+はぁっ…\\i[200]あっ…\\i[200]
+> CONTEXT COMMONEVENT:508/218/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\cdb[0:0:0]を捕らえ、自分の好きなように
+できるという事実がよほど嬉しいのか、
+じっとりとした笑みを浮かべながら一心に
+腰を動かしている。
+> CONTEXT COMMONEVENT:508/220/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+ふふふ…\\i[200]
+お互いに準備バッチリですし、
+そろそろ\\i[200]
+> CONTEXT COMMONEVENT:508/221/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+そう言うと\\cdb[0:0:0]の股間の真上に
+またがり、自身の秘所をペニスに結合させた！
+> CONTEXT COMMONEVENT:508/223/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+ああッ！
+> CONTEXT COMMONEVENT:508/232/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+あああ…\\i[200]
+すっごい…気持ちいいですっ\\i[200]\\i[200]
+> CONTEXT COMMONEVENT:508/234/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ポーニャは一心不乱に腰を
+上下させ、その度にペニスは彼女の
+邪悪に満ちた淫膣でしごかれる。
+> CONTEXT COMMONEVENT:508/236/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+剣や槍を使った戦いならともかく、
+こうなってしまうと性の技巧を
+知らない\\cdb[0:0:0]は彼女らの
+なすがままになるしかなかった。
+> CONTEXT COMMONEVENT:508/237/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+まして拘束されている状態であり
+それが\\cdb[0:0:0]の諦念と、そして
+ポーニャたちの情欲を加速させた。
+> CONTEXT COMMONEVENT:508/238/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+あ\\i[200]あなたが…\\i[200]
+悪いんですよっ\\i[200]
+> CONTEXT COMMONEVENT:508/248/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+そんなにっ…\\i[200]強いからっ…\\i[200]、
+こんなにぃ…\\i[200]やらしい体してる…からッ\\i[200]\\i[200]
+> CONTEXT COMMONEVENT:508/249/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+興奮と快楽のあまりか途切れ途切れな
+言葉を投げつけ、さらに腰をいっそう
+激しく上下させてきた。
+> CONTEXT COMMONEVENT:508/250/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+あああ\\i[200]もう\\i[200]
+イッちゃいます…\\i[200]\\i[200]
+> CONTEXT COMMONEVENT:508/253/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+はふぅ…\\i[200]ん…\\i[200]
+> CONTEXT COMMONEVENT:508/268/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+ポーニャの絶頂と同時に射精してしまい、
+あまりの快感に気を失いかける。
+> CONTEXT COMMONEVENT:508/269/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+彼女は依然ペニスを吸い込んだまま
+だった。余韻に浸るようにゆっくりと
+腰を上下させている。
+> CONTEXT COMMONEVENT:508/270/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+はぁ…\\i[200]はぁ…\\i[200]
+でも、まだまだこれからです…\\i[200]
+> CONTEXT COMMONEVENT:508/271/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+じゃあ、お願いね\\i[200]
+> CONTEXT COMMONEVENT:508/272/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@18
+はっ\\i[200]
+> CONTEXT COMMONEVENT:508/273/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+見守っていた神官の1人が
+何やら唱え、杖を掲げる。
+> CONTEXT COMMONEVENT:508/275/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+つい先ほどまで息を弾ませていた
+ポーニャの呼吸がどんどん落ち着いたものに
+なり、ふたたび大きく腰を上下させ始める。
+> CONTEXT COMMONEVENT:508/279/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+あ…あっ！？
+か、回復呪文か…？そんな…
+> CONTEXT COMMONEVENT:508/285/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+ふふふ、その通りです\\i[200]
+> CONTEXT COMMONEVENT:508/287/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+私はエッチする前の元気な状態に
+戻りましたけど、あなただけは
+何度も何度もイかされる苦しみを味わってもらいます\\i[200]
+> CONTEXT COMMONEVENT:508/288/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+イったばかりで敏感になっているペニスが
+容赦なくしごかれ、\\cdb[0:0:0]は身悶えした。
+> CONTEXT COMMONEVENT:508/290/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+だが、その動きも拘束具と神官たちによる
+二重の拘束で封じられている。
+> CONTEXT COMMONEVENT:508/291/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+周りの神官たちがいつでも回復呪文を
+ポーニャに使えるように詠唱を始める。
+> CONTEXT COMMONEVENT:508/292/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+詠唱を唱えながらどの神官たちも
+不敵な笑みを浮かべ\\cdb[0:0:0]を
+見下していた。
+> CONTEXT COMMONEVENT:508/293/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+万能剣士さん…\\i[200]
+ここがあなたの終わりの場所です\\i[200]
+> CONTEXT COMMONEVENT:508/296/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ペニスが完全に萎えるまで、
+\\cdb[0:0:0]は徹底的に犯された。
+> CONTEXT COMMONEVENT:508/308/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回復呪文により体力が無尽蔵であったとはいえ、
+ポーニャの性欲は常軌を逸しており
+まさに貪るような勢いで\\cdb[0:0:0]を嫐り尽くした。
+> CONTEXT COMMONEVENT:508/309/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まだ日も高い頃に彼女らによって
+捕らえられ、それからずっと彼女らの
+おもちゃにされ続けていたのである。
+> CONTEXT COMMONEVENT:508/310/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして彼女らの陰惨な責めが終わったのは、
+もうすぐ朝になろうかという頃であった…。
+> CONTEXT COMMONEVENT:508/311/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+ふふふ…\\i[200]
+すっごく気持ちよかったです\\i[200]
+> CONTEXT COMMONEVENT:508/338/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@22
+明日はもっともっと
+激しいお仕置きが待ってますからね\\i[200]
+> CONTEXT COMMONEVENT:508/339/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+ぐっ…うう…
+> CONTEXT COMMONEVENT:508/351/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+ひ…ひどい目に…あった…
+> CONTEXT COMMONEVENT:508/352/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+拘束だけは解いていって
+くれたけど…ぐっ…
+> CONTEXT COMMONEVENT:508/353/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@46
+でも…なんとかして脱出しないと…
+そして宝玉を取り返さなくては…
+> CONTEXT COMMONEVENT:508/354/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+やっぱり鍵はかかってるか…
+> CONTEXT COMMONEVENT:508/368/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+そういえばちょっと前に依頼で解錠みたいな
+ことをしたっけ…
+> CONTEXT COMMONEVENT:508/371/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+よーし…
+> CONTEXT COMMONEVENT:508/372/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+開いた！やった…！
+> CONTEXT COMMONEVENT:508/375/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:510/115/Message < UNTRANSLATED
+
+> END STRING

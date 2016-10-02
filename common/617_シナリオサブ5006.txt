@@ -1,0 +1,137 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@77
+いやあ、よく来てくれた。
+> CONTEXT COMMONEVENT:617/22/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@77
+改めて言うが、君にお願いしたい仕事は
+悪徳カジノを壊滅させることなんだ。
+> CONTEXT COMMONEVENT:617/23/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+あの…カジノを壊滅と言われても僕は
+何をやればいいのか…
+> CONTEXT COMMONEVENT:617/24/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@77
+そのままだよ。
+カジノの従業員たちを全員やっつけて欲しいんだ。
+> CONTEXT COMMONEVENT:617/25/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+いいんですか？そんなことしてしまって…
+> CONTEXT COMMONEVENT:617/26/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@77
+あのカジノは…カジノ風に装っているが
+夜な夜な従業員総出で抜けだしては略奪や破壊を
+繰り返している悪の巣窟なんだ。
+> CONTEXT COMMONEVENT:617/27/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+悪徳カジノってそういう意味なんですか！？
+> CONTEXT COMMONEVENT:617/28/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@77
+うむ…\\!
+こちらでも何度か武力制圧を試みたのだが
+敵も手強くてな…ことごとく失敗している。
+> CONTEXT COMMONEVENT:617/29/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@77
+そこで君に依頼をしてみようということになったのさ。
+> CONTEXT COMMONEVENT:617/30/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+…わかりました。
+> CONTEXT COMMONEVENT:617/31/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@77
+よろしく頼む。
+> CONTEXT COMMONEVENT:617/32/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（見たところ普通のカジノみたいだけど…）
+> CONTEXT COMMONEVENT:617/45/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+（確かにあちこちに飾られてる武器は
+　どれも使い込まれてるし、ただのインテリアと
+　いうわけでもなさそうだ）
+> CONTEXT COMMONEVENT:617/46/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@78
+いらっしゃいませ\\i[200]
+> CONTEXT COMMONEVENT:617/47/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+…その鞭、何に使うんです？
+> CONTEXT COMMONEVENT:617/48/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@78
+はっ…あなたまさか万能剣士！
+> CONTEXT COMMONEVENT:617/50/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@78
+ふっふっふ…\\i[200]
+のこのこと足を踏み入れるとは間抜けな男！
+> CONTEXT COMMONEVENT:617/51/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@78
+みんな、やっちゃえ！
+> CONTEXT COMMONEVENT:617/52/Message < UNTRANSLATED
+
+> END STRING

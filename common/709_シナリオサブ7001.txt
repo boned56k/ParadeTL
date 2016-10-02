@@ -1,0 +1,160 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@65
+飛び入り参加も大歓迎でーす！
+ぜひ参加してみてくださいネ\\i[200]
+> CONTEXT COMMONEVENT:709/35/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+（あんまりいい思い出ないんだよな…
+　闘技大会…）
+> CONTEXT COMMONEVENT:709/41/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+うーん…なになに…
+「出場にあたって制限される事項は無し。
+ 　あらゆる手段を使ったうえで
+　　一番強い戦士は誰かを決める」
+> CONTEXT COMMONEVENT:709/44/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@65
+どうですか？
+あなたってあの万能剣士さんですよね？
+出場してくれたらこちらとしても話題になるし
+とっても嬉しいんですけど～
+> CONTEXT COMMONEVENT:709/45/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+あの…これって何でもありの
+闘技大会なんですよね？
+> CONTEXT COMMONEVENT:709/46/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@65
+ハイ！
+道具は使い放題だし
+どんな武器を持ってきても大丈夫ですし、
+何人でチームを作っても出場できます！
+> CONTEXT COMMONEVENT:709/47/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+女の人しか出れなかったり
+裸じゃないとダメだったりはしないですよね？
+> CONTEXT COMMONEVENT:709/50/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@65
+あはっ\\i[200]
+そんなのありませんよ～
+そんな闘技大会があるんですか？
+> CONTEXT COMMONEVENT:709/51/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+（そりゃそう言われるか…）
+> CONTEXT COMMONEVENT:709/52/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+わかりました。景品の「ギガントハンマー」もすごく
+気になる逸品だし…出場させてください！
+> CONTEXT COMMONEVENT:709/55/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@65
+わーっ\\i[200]やった！
+じゃあ、当日お待ちしてまーす！
+いっぱい宣伝しちゃお！
+> CONTEXT COMMONEVENT:709/56/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+さあみなさん！
+何でもありの大闘技会の時間がやってまいりました！
+> CONTEXT COMMONEVENT:709/73/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+本大会にはなんと…あの万能剣士レストが！
+選手としてエントリーしております！
+> CONTEXT COMMONEVENT:709/74/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+その影響からなのか
+男の戦士は全員出場を取りやめ、
+逆に女の戦士の出場が急増する事態となりました！
+> CONTEXT COMMONEVENT:709/75/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+その結果…この大会の出場者はレスト選手以外
+全員女性ということになってしまいました！
+> CONTEXT COMMONEVENT:709/76/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+えっ！？そうなの…？
+> CONTEXT COMMONEVENT:709/77/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+さあ、周知の通りこの大会は何でもあり！
+あらゆる手段を使って最強を決める過激な大会だ！
+> CONTEXT COMMONEVENT:709/79/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+頂点に立つのは一体誰なのか…！？
+> CONTEXT COMMONEVENT:709/80/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@64
+それでは第1試合…
+レスト選手　対　チーム「速攻スペシャル」！
+さあ、試合開始！
+> CONTEXT COMMONEVENT:709/81/Message < UNTRANSLATED
+
+> END STRING

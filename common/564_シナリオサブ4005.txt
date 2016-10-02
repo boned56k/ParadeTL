@@ -1,0 +1,145 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@8
+よく来てくれたわね。
+> CONTEXT COMMONEVENT:564/9/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+あなたがこの辺にいるっていう噂を聞いて、あなたを
+倒すためにみんなで準備してたんだけどね…
+仲間が1人多いの。
+> CONTEXT COMMONEVENT:564/10/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@9
+私が本物よ！
+> CONTEXT COMMONEVENT:564/11/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@73
+違うよ、ニセモノはあっち！
+> CONTEXT COMMONEVENT:564/12/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+姿がそっくりすぎて私たちには
+全然見分けがつかないの…
+> CONTEXT COMMONEVENT:564/13/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+どこが違うかが分かれば何とかなりそう
+なんだけど…
+> CONTEXT COMMONEVENT:564/14/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+それで情けなくもこれからやっつけにいく
+相手に何とかしてもらおうと思っちゃったの！
+ふん、悪い？
+> CONTEXT COMMONEVENT:564/15/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@6
+………
+> CONTEXT COMMONEVENT:564/16/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@4
+とにかく本物さんと偽者でどこか違うところが
+ないかを探せばいいんですね？
+> CONTEXT COMMONEVENT:564/17/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\c[3]違う箇所が\\c[0]5\\c[3]つあります。
+違うと思われる箇所をクリックしてください。
+> CONTEXT COMMONEVENT:564/33/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+あっ！ホントだ、良く見たらそこも違う！
+> CONTEXT COMMONEVENT:564/254/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+すごいわ…言われてみると確かに…
+> CONTEXT COMMONEVENT:564/255/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+こっちが偽者ね！
+> CONTEXT COMMONEVENT:564/256/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@73
+うう…
+> CONTEXT COMMONEVENT:564/257/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@17
+ご、ごめんなさい！
+ちょっといたずらしたくなったのでした…
+> CONTEXT COMMONEVENT:564/264/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@1
+\\c[3]スライムは逃げていった…\\c[0]
+> CONTEXT COMMONEVENT:564/266/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@9
+もう…どうなるかと思っちゃったよ。
+ありがとね、万能剣士さん\\i[200]
+> CONTEXT COMMONEVENT:564/269/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@8
+これに免じてあなたをいじめるのは
+また今度にしてあげる！
+> CONTEXT COMMONEVENT:564/270/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+これはお礼よ。
+> CONTEXT COMMONEVENT:564/271/Message < UNTRANSLATED
+
+> END STRING

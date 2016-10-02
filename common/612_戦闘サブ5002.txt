@@ -1,0 +1,46 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+@75
+敵に鋭い一撃を叩き込む技…
+一度間近で見てみたいのう。
+そう思っておぬしを呼んだんじゃが…
+> CONTEXT COMMONEVENT:612/10/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@10
+万能剣士！我が刃の餌食と
+なりなさい！
+> CONTEXT COMMONEVENT:612/13/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@75
+おぬしほんとに人気者なんじゃのう…
+ちょうどいい、あの者ら相手に技を見せてくれんか。
+> CONTEXT COMMONEVENT:612/14/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]カウンターを駆使し、FLASHカウントを\\c[0]500\\c[3]以上にせよ！\\c[0]
+> CONTEXT COMMONEVENT:612/16/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\E\\c[0]FLASHカウントを500以上にせよ\\c[0]
+> CONTEXT COMMONEVENT:612/18/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+@75
+す、すごい…これぞまさに絶技！
+感動じゃ…
+> CONTEXT COMMONEVENT:612/66/Message < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,36 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+「パレードバスター」体験版をダウンロード
+してくださりありがとうございます。
+> CONTEXT COMMONEVENT:386/2/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これから操作方法を説明する\\c[3]チュートリアル\\c[0]が
+始まります。
+> CONTEXT COMMONEVENT:386/3/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チュートリアルが終わると様々な準備ができる
+\\c[3]拠点\\c[0]へ移動します。
+> CONTEXT COMMONEVENT:386/4/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その後、\\c[3]ステージ選択\\c[0]で本格的な戦闘を
+始められます。
+> CONTEXT COMMONEVENT:386/5/Message < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なお、体験版のセーブデータは
+\\c[2]製品版に引き継ぐことはできません\\c[0]。
+> CONTEXT COMMONEVENT:386/7/Message < UNTRANSLATED
+
+> END STRING
