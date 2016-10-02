@@ -15,27 +15,29 @@ Clone this repository and begin modifying the translation text files. I've added
 
 I don't know shit about Git
 -------------
-OK
-1) https://git-scm.com/download
-2) use the green clone with HTTPS button in top right
-3) do some translations
-4) use this guide maybe http://rogerdudler.github.io/git-guide/
-5) **finally** create a pull request https://help.github.com/articles/creating-a-pull-request/
+
+OK  
+1) https://git-scm.com/download  
+2) use the green clone with HTTPS button in top right  
+3) do some translations  
+4) use this guide maybe http://rogerdudler.github.io/git-guide/  
+5) **finally** create a pull request https://help.github.com/articles/creating-a-pull-request/  
 
 How do I apply the translation patch?
 -------------
-It is complicated. 
-1) Get and use Arc_Converter
-2) Get Ruby (https://www.ruby-lang.org/)
-3) Follow the guide here (https://github.com/mathewv/wolftrans)
-4) Copy contents of this repository into the location you think makes sense
-5) Follow the guide in step 3 **again** and then maybe enjoy the results?
+
+It is complicated.  
+1) Get and use Arc_Converter  
+2) Get Ruby (https://www.ruby-lang.org/)  
+3) Follow the guide here (https://github.com/mathewv/wolftrans)  
+4) Copy contents of this repository into the location you think makes sense  
+5) Follow the guide in step 3 **again** and then maybe enjoy the results?  
 
 OR
 
 Just wait for the patched version on your favorite forums.
 
-Examples
+How to translate
 -------------
 
 Some original strings contain metadata characters and we need to make sure they do not get replaced.
@@ -43,21 +45,24 @@ Here is an example of what you will see in the translation patch **.txt** files.
 
 > **Before:**
 
-> \> BEGIN STRING
-�u�S�@�s�����{�[���v�ł̓A�C�e���═��������
-\\\c\[3]����������ł���\\\c\[0]�H�[�𗘗p�ł��܂��B
->\> CONTEXT COMMONEVENT:348/184/Message < UNTRANSLATED
+> \> BEGIN STRING  
+>「鉄機都ロンボーン」ではアイテムや武器を消費して  
+>\\\c\[3]武器を強化できる\\\c\[0]工房を利用できます。  
+>\> CONTEXT COMMONEVENT:348/184/Message < UNTRANSLATED  
 
 >\> END STRING
 
 The bold text is the added translation. It is very bad but it will work for this example. You do not need to remove the "**< UNTRANSLATED**" part of the metadata. Note that the weird **\\\c[3]** stuff is still in-tact. The game engine does stuff like replace it with an item or player name so keep it in the translation.
 > **After:**
 
-> \> BEGIN STRING
-�u�S�@�s�����{�[���v�ł̓A�C�e���═��������
-\\\c\[3]����������ł���\\\c\[0]�H�[�𗘗p�ł��܂��B
->\> CONTEXT COMMONEVENT:348/184/Message < UNTRANSLATED
-> **Putting items in �uIron machine Metropolitan Ronbon�vworkshop**
-> **\\\c\[3] will allow you to strengthen them \\\c\[0] **
+> \> BEGIN STRING  
+>「鉄機都ロンボーン」ではアイテムや武器を消費して  
+>\\\c\[3]武器を強化できる\\\c\[0]工房を利用できます。  
+>\> CONTEXT COMMONEVENT:348/184/Message < UNTRANSLATED  
+> **Putting items in 「Iron machine Metropolitan Ronbon」workshop**  
+> **\\\c\[3] will allow you to strengthen them \\\c\[0]**  
 >\> END STRING
 
+
+I will not accept pull requests for terrible translations like mine in the example above.
+-------------
