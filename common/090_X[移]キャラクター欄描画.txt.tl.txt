@@ -1,0 +1,19 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\f[\\cself[18]]\\-[1]\\E\\cself[7] \\cself[94]
+> CONTEXT COMMONEVENT:90/217/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[\\cself[17]]\\cself[7] \\cself[98]
+> CONTEXT COMMONEVENT:90/282/Picture < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[\\cself[17]]\\A-\\E\\cself[7]
+> CONTEXT COMMONEVENT:90/316/Picture < UNTRANSLATED
+
+> END STRING

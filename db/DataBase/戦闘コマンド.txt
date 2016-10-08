@@ -2,108 +2,108 @@
 
 > BEGIN STRING
 アイテム
-> CONTEXT COMMONEVENT:356/87/Choices < UNTRANSLATED
-> CONTEXT COMMONEVENT:799/5/SetString < UNTRANSLATED
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[1]アイテム/[0]コマンド名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[0][ﾒﾆｭｰ]アイテム < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/87/Choices
+> CONTEXT COMMONEVENT:799/5/SetString
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[1]アイテム/[0]コマンド名
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[0][ﾒﾆｭｰ]アイテム
+item
 > END STRING
 
 > BEGIN STRING
 通常攻撃
-> CONTEXT COMMONEVENT:356/206/Choices < UNTRANSLATED
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[0]通常攻撃/[0]コマンド名 < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/206/Choices
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[0]通常攻撃/[0]コマンド名
+Conventional attack
 > END STRING
 
 > BEGIN STRING
 普通に攻撃
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[0]通常攻撃/[1]コマンドの説明文 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[0]通常攻撃/[1]コマンドの説明文
+Normally attack
 > END STRING
 
 > BEGIN STRING
 アイテムを選択します
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[1]アイテム/[1]コマンドの説明文 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[1]アイテム/[1]コマンドの説明文
+Select an item
 > END STRING
 
 > BEGIN STRING
 特殊技能
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[2]特殊技能/[0]コマンド名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[1][ﾒﾆｭｰ]技能 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[2]特殊技能/[0]コマンド名
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[1][ﾒﾆｭｰ]技能
+Special skill
 > END STRING
 
 > BEGIN STRING
 特殊技能を選択します
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[2]特殊技能/[1]コマンドの説明文 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[2]特殊技能/[1]コマンドの説明文
+Select the special skills
 > END STRING
 
 > BEGIN STRING
 次ターンの攻撃力を高める。連続使用で超アップ
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[3]力ため/[1]コマンドの説明文 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[3]力ため/[1]コマンドの説明文
+Increase the attack power of the next turn. Ultra-up in continuous use
 > END STRING
 
 > BEGIN STRING
 2ターンの間、敵からのダメージを1/4にする
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[4]防御/[1]コマンドの説明文 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[4]防御/[1]コマンドの説明文
+And between the two turns, the damage from the enemy to 1/4
 > END STRING
 
 > BEGIN STRING
 身を隠して、敵から狙われなくなる
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[5]隠れる/[1]コマンドの説明文 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[5]隠れる/[1]コマンドの説明文
+Hiding, no longer being targeted from the enemy
 > END STRING
 
 > BEGIN STRING
 HPを10消費して、威力の高い攻撃を行う
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[6]強斬り/[1]コマンドの説明文 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[6]強斬り/[1]コマンドの説明文
+HP to 10 consume, carry out the power of high attack
 > END STRING
 
 > BEGIN STRING
 敵から攻撃を受けたとき、反撃を行う
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[7]カウンター/[1]コマンドの説明文 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[7]カウンター/[1]コマンドの説明文
+When subjected to attack from the enemy, make a counterattack
 > END STRING
 
 > BEGIN STRING
 --------------------------------
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[9]--------------------------------/[0]コマンド名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[11]--------------------------------/[0]コマンド名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[9]--------------------------------/[0]コマンド名
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[11]--------------------------------/[0]コマンド名
+--------------------------------
 > END STRING
 
 > BEGIN STRING
 HPを5消費して敵全体攻撃。威力は低い
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[12]全体攻撃/[1]コマンドの説明文 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[12]全体攻撃/[1]コマンドの説明文
+HP 5 consumption to the enemy the entire attack. Power is low
 > END STRING
 
 > BEGIN STRING
 マシンガン [\\cdb[7:18:0]]
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[13]マシンガン [\cdb[7:18:0]]/[0]コマンド名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[13]マシンガン [\cdb[7:18:0]]/[0]コマンド名
+Machine gun [\\cdb[7:18:0]]
 > END STRING
 
 > BEGIN STRING
 敵全体に攻撃、「マシンガンの弾」を消費する
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[13]マシンガン [\cdb[7:18:0]]/[1]コマンドの説明文 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[13]マシンガン [\cdb[7:18:0]]/[1]コマンドの説明文
+Attack on the entire enemy, consuming the "bullet of machine gun."
 > END STRING
 
 > BEGIN STRING
 カポエラキック
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[14]カポエラキック/[0]コマンド名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[14]カポエラキック/[0]コマンド名
+Capoeira kick
 > END STRING
 
 > BEGIN STRING
 HPを5消費して2倍の威力の攻撃！
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[14]カポエラキック/[1]コマンドの説明文 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[14]カポエラキック/[1]コマンドの説明文
+The HP 5 to consume twice the power of the attack!
 > END STRING

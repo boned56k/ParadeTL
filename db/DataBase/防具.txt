@@ -2,809 +2,809 @@
 
 > BEGIN STRING
 レザーアーマー
-> CONTEXT DB:DataBase/[4]防具/[3]レザーアーマー/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[3]レザーアーマー/[0]防具の名前
+Leather Armor
 > END STRING
 
 > BEGIN STRING
 なめし革で作られた鎧。
-> CONTEXT DB:DataBase/[4]防具/[3]レザーアーマー/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[3]レザーアーマー/[1]防具の説明[2行まで可]
+Armor made of leather.
 > END STRING
 
 > BEGIN STRING
 銅の胸当て
-> CONTEXT DB:DataBase/[4]防具/[4]銅の胸当て/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[4]銅の胸当て/[0]防具の名前
+Breastplate of copper
 > END STRING
 
 > BEGIN STRING
 スリーポイント
-> CONTEXT DB:DataBase/[4]防具/[5]スリーポイント/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[5]スリーポイント/[0]防具の名前
+Three-Point
 > END STRING
 
 > BEGIN STRING
 胸と両腕をカバーする鋼鉄製の防具。
-> CONTEXT DB:DataBase/[4]防具/[5]スリーポイント/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[5]スリーポイント/[1]防具の説明[2行まで可]
+Steel armor that covers the chest and arms.
 > END STRING
 
 > BEGIN STRING
 メインプレート
-> CONTEXT DB:DataBase/[4]防具/[6]メインプレート/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[6]メインプレート/[0]防具の名前
+Main plate
 > END STRING
 
 > BEGIN STRING
 鉄の胸当て
-> CONTEXT DB:DataBase/[4]防具/[9]鉄の胸当て/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[9]鉄の胸当て/[0]防具の名前
+Breastplate of iron
 > END STRING
 
 > BEGIN STRING
 ◆◆◆防具無し◆◆◆
-> CONTEXT DB:DataBase/[4]防具/[10]◆◆◆防具無し◆◆◆/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[10]◆◆◆防具無し◆◆◆/[0]防具の名前
+◆◆◆ armor without ◆◆◆
 > END STRING
 
 > BEGIN STRING
 ライトレザー
-> CONTEXT DB:DataBase/[4]防具/[11]ライトレザー/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[11]ライトレザー/[0]防具の名前
+Light Leather
 > END STRING
 
 > BEGIN STRING
 フルアーマー
-> CONTEXT DB:DataBase/[4]防具/[12]フルアーマー/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[12]フルアーマー/[0]防具の名前
+Full Armor
 > END STRING
 
 > BEGIN STRING
 貴婦人のドレス
-> CONTEXT DB:DataBase/[4]防具/[13]貴婦人のドレス/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[13]貴婦人のドレス/[0]防具の名前
+Lady of dress
 > END STRING
 
 > BEGIN STRING
 女性が着る一般的なドレス。戦闘には向かない。
-> CONTEXT DB:DataBase/[4]防具/[13]貴婦人のドレス/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[13]貴婦人のドレス/[1]防具の説明[2行まで可]
+Women wear typical dress. Not suitable for combat.
 > END STRING
 
 > BEGIN STRING
 シルバーアーマー
-> CONTEXT DB:DataBase/[4]防具/[15]シルバーアーマー/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[15]シルバーアーマー/[0]防具の名前
+Silver Armor
 > END STRING
 
 > BEGIN STRING
 ドラゴニックプレート
-> CONTEXT DB:DataBase/[4]防具/[16]ドラゴニックプレート/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[16]ドラゴニックプレート/[0]防具の名前
+Drago Nick plate
 > END STRING
 
 > BEGIN STRING
 ストラタムプレート
-> CONTEXT DB:DataBase/[4]防具/[17]ストラタムプレート/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[17]ストラタムプレート/[0]防具の名前
+Stratum plate
 > END STRING
 
 > BEGIN STRING
 くさりかたびら
-> CONTEXT DB:DataBase/[4]防具/[20]くさりかたびら/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[20]くさりかたびら/[0]防具の名前
+Chain mail
 > END STRING
 
 > BEGIN STRING
 忍装束
-> CONTEXT DB:DataBase/[4]防具/[21]忍装束/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[21]忍装束/[0]防具の名前
+Ninja outfit
 > END STRING
 
 > BEGIN STRING
 この地方の隠密が着用する防具。迅速な任務遂行を可能にする。
-> CONTEXT DB:DataBase/[4]防具/[21]忍装束/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[21]忍装束/[1]防具の説明[2行まで可]
+Armor covert of this region to wear. To enable rapid mission.
 > END STRING
 
 > BEGIN STRING
 当世具足
-> CONTEXT DB:DataBase/[4]防具/[22]当世具足/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[22]当世具足/[0]防具の名前
+Nowadays armor
 > END STRING
 
 > BEGIN STRING
 独特なデザインの防具。非常に高い防御能力を持つ。
-> CONTEXT DB:DataBase/[4]防具/[22]当世具足/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[22]当世具足/[1]防具の説明[2行まで可]
+Armor of unique design. With a very high defense capability.
 > END STRING
 
 > BEGIN STRING
 ミスリルメイル
-> CONTEXT DB:DataBase/[4]防具/[25]ミスリルメイル/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[25]ミスリルメイル/[0]防具の名前
+Mithril mail
 > END STRING
 
 > BEGIN STRING
 稀少な金属をふんだんに使った鎧。見た目より軽い。
-> CONTEXT DB:DataBase/[4]防具/[25]ミスリルメイル/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[25]ミスリルメイル/[1]防具の説明[2行まで可]
+Rare metal with lots armor. Lighter than it looks.
 > END STRING
 
 > BEGIN STRING
 奮起の鎧
-> CONTEXT DB:DataBase/[4]防具/[26]奮起の鎧/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[26]奮起の鎧/[0]防具の名前
+Rouse of armor
 > END STRING
 
 > BEGIN STRING
 ダブルシールドフルアーマー
-> CONTEXT DB:DataBase/[4]防具/[27]ダブルシールドフルアーマー/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[27]ダブルシールドフルアーマー/[0]防具の名前
+Double Shield Full Armor
 > END STRING
 
 > BEGIN STRING
 マギ・クロス
-> CONTEXT DB:DataBase/[4]防具/[28]マギ・クロス/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[28]マギ・クロス/[0]防具の名前
+Magi Cross
 > END STRING
 
 > BEGIN STRING
 プラチナアーマー
-> CONTEXT DB:DataBase/[4]防具/[31]プラチナアーマー/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[31]プラチナアーマー/[0]防具の名前
+Platinum Armor
 > END STRING
 
 > BEGIN STRING
 フレイムメイル
-> CONTEXT DB:DataBase/[4]防具/[32]フレイムメイル/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[32]フレイムメイル/[0]防具の名前
+Flame mail
 > END STRING
 
 > BEGIN STRING
 大要塞鎧
-> CONTEXT DB:DataBase/[4]防具/[33]大要塞鎧/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[33]大要塞鎧/[0]防具の名前
+Large fortress armor
 > END STRING
 
 > BEGIN STRING
 鏡の鎧
-> CONTEXT DB:DataBase/[4]防具/[35]鏡の鎧/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[35]鏡の鎧/[0]防具の名前
+Armor of the mirror
 > END STRING
 
 > BEGIN STRING
 ブラックスーツ
-> CONTEXT DB:DataBase/[4]防具/[36]ブラックスーツ/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[36]ブラックスーツ/[0]防具の名前
+Black Suit
 > END STRING
 
 > BEGIN STRING
 ギガントアーマー
-> CONTEXT DB:DataBase/[4]防具/[37]ギガントアーマー/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[37]ギガントアーマー/[0]防具の名前
+Gigant Armour
 > END STRING
 
 > BEGIN STRING
 ふるぼけた鎧
-> CONTEXT DB:DataBase/[4]防具/[41]ふるぼけた鎧/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[41]ふるぼけた鎧/[0]防具の名前
+Ancient armor
 > END STRING
 
 > BEGIN STRING
 錆びついた鎧
-> CONTEXT DB:DataBase/[4]防具/[42]錆びついた鎧/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[42]錆びついた鎧/[0]防具の名前
+Rusted armor
 > END STRING
 
 > BEGIN STRING
 翼魔の鎧
-> CONTEXT DB:DataBase/[4]防具/[44]翼魔の鎧/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[44]翼魔の鎧/[0]防具の名前
+Armor wings magic
 > END STRING
 
 > BEGIN STRING
 物理攻撃での即死を回避
-> CONTEXT DB:DataBase/[4]防具/[44]翼魔の鎧/[5]予備 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[44]翼魔の鎧/[5]予備
+Avoid instant death of the physical attack
 > END STRING
 
 > BEGIN STRING
 犠牲の鎧
-> CONTEXT DB:DataBase/[4]防具/[45]犠牲の鎧/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[45]犠牲の鎧/[0]防具の名前
+Armor of sacrifice
 > END STRING
 
 > BEGIN STRING
 祝福の鎧
-> CONTEXT DB:DataBase/[4]防具/[46]祝福の鎧/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[46]祝福の鎧/[0]防具の名前
+Armor of blessing
 > END STRING
 
 > BEGIN STRING
 怪力の腕輪
-> CONTEXT DB:DataBase/[4]防具/[57]怪力の腕輪/[0]防具の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[4]防具/[67]怪力の腕輪/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[57]怪力の腕輪/[0]防具の名前
+> CONTEXT DB:DataBase/[4]防具/[67]怪力の腕輪/[0]防具の名前
+Bracelet of steroids
 > END STRING
 
 > BEGIN STRING
 付けると攻撃力が上がる装飾品。
-> CONTEXT DB:DataBase/[4]防具/[57]怪力の腕輪/[1]防具の説明[2行まで可] < UNTRANSLATED
-> CONTEXT DB:DataBase/[4]防具/[67]怪力の腕輪/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[57]怪力の腕輪/[1]防具の説明[2行まで可]
+> CONTEXT DB:DataBase/[4]防具/[67]怪力の腕輪/[1]防具の説明[2行まで可]
+Put the ornaments that attack power goes up.
 > END STRING
 
 > BEGIN STRING
 守りの腕輪
-> CONTEXT DB:DataBase/[4]防具/[58]守りの腕輪/[0]防具の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[4]防具/[66]守りの腕輪/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[58]守りの腕輪/[0]防具の名前
+> CONTEXT DB:DataBase/[4]防具/[66]守りの腕輪/[0]防具の名前
+Defense of the bracelet
 > END STRING
 
 > BEGIN STRING
 集中力増強の指輪
-> CONTEXT DB:DataBase/[4]防具/[59]集中力増強の指輪/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[59]集中力増強の指輪/[0]防具の名前
+Ring of concentration enhancement
 > END STRING
 
 > BEGIN STRING
 武器の気力消費量が300減る。
-> CONTEXT DB:DataBase/[4]防具/[59]集中力増強の指輪/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[59]集中力増強の指輪/[1]防具の説明[2行まで可]
+Energy consumption of the weapon is reduced 300.
 > END STRING
 
 > BEGIN STRING
 トライアルビート
-> CONTEXT DB:DataBase/[4]防具/[60]トライアルビート/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[60]トライアルビート/[0]防具の名前
+Trial beat
 > END STRING
 
 > BEGIN STRING
 体験版でのみ手に入る装備品。与えるダメージが15％アップする。
-> CONTEXT DB:DataBase/[4]防具/[60]トライアルビート/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[60]トライアルビート/[1]防具の説明[2行まで可]
+Equipment to enter the hand only in the trial version. Damage is up 15 percent.
 > END STRING
 
 > BEGIN STRING
 武勲の羽飾り
-> CONTEXT DB:DataBase/[4]防具/[61]武勲の羽飾り/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[61]武勲の羽飾り/[0]防具の名前
+Feathers of the feat of valor
 > END STRING
 
 > BEGIN STRING
 女戦士が装着している羽飾り。敏捷性が少し上昇する。
-> CONTEXT DB:DataBase/[4]防具/[61]武勲の羽飾り/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[61]武勲の羽飾り/[1]防具の説明[2行まで可]
+Feathers that woman warrior is wearing. Agility is a little rise.
 > END STRING
 
 > BEGIN STRING
 過力の腕輪
-> CONTEXT DB:DataBase/[4]防具/[62]過力の腕輪/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[62]過力の腕輪/[0]防具の名前
+Of excessive force bracelet
 > END STRING
 
 > BEGIN STRING
 与えるダメージが増えるが気力消費量が増えてしまう。
-> CONTEXT DB:DataBase/[4]防具/[62]過力の腕輪/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[62]過力の腕輪/[1]防具の説明[2行まで可]
+Increase the damage, but would increase the energy consumption.
 > END STRING
 
 > BEGIN STRING
 フェザーブーツ
-> CONTEXT DB:DataBase/[4]防具/[63]フェザーブーツ/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[63]フェザーブーツ/[0]防具の名前
+Feather Boots
 > END STRING
 
 > BEGIN STRING
 装備すると敏捷性が上がる靴。
-> CONTEXT DB:DataBase/[4]防具/[63]フェザーブーツ/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[63]フェザーブーツ/[1]防具の説明[2行まで可]
+Shoes agility increases When equipped.
 > END STRING
 
 > BEGIN STRING
 気力の腕輪
-> CONTEXT DB:DataBase/[4]防具/[64]気力の腕輪/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[64]気力の腕輪/[0]防具の名前
+Bracelet of energy
 > END STRING
 
 > BEGIN STRING
 武器の気力消費量が500減る。
-> CONTEXT DB:DataBase/[4]防具/[64]気力の腕輪/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[64]気力の腕輪/[1]防具の説明[2行まで可]
+Energy consumption of the weapon is reduced 500.
 > END STRING
 
 > BEGIN STRING
 必殺の腕輪
-> CONTEXT DB:DataBase/[4]防具/[65]必殺の腕輪/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[65]必殺の腕輪/[0]防具の名前
+Deadly bracelet
 > END STRING
 
 > BEGIN STRING
 攻撃力が大幅に上がるが、気力消費量が増え敏捷性も大きく落ちる。
-> CONTEXT DB:DataBase/[4]防具/[65]必殺の腕輪/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[65]必殺の腕輪/[1]防具の説明[2行まで可]
+While attack power goes up significantly, agility energy consumption increases also fall significantly.
 > END STRING
 
 > BEGIN STRING
 装備するとガード耐久力が増える。
-> CONTEXT DB:DataBase/[4]防具/[66]守りの腕輪/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[66]守りの腕輪/[1]防具の説明[2行まで可]
+Guard endurance increases When equipped.
 > END STRING
 
 > BEGIN STRING
 溜力紋章
-> CONTEXT DB:DataBase/[4]防具/[68]溜力紋章/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[68]溜力紋章/[0]防具の名前
+Tamari force emblem
 > END STRING
 
 > BEGIN STRING
 チャージ攻撃の威力が上がる紋章。
-> CONTEXT DB:DataBase/[4]防具/[68]溜力紋章/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[68]溜力紋章/[1]防具の説明[2行まで可]
+Emblem power of the charge attack is increased.
 > END STRING
 
 > BEGIN STRING
 嫌色のチョーカー
-> CONTEXT DB:DataBase/[4]防具/[69]嫌色のチョーカー/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[69]嫌色のチョーカー/[0]防具の名前
+Unpleasant color of the choker
 > END STRING
 
 > BEGIN STRING
 エッチ攻撃によるダメージを50％遮断する。
-> CONTEXT DB:DataBase/[4]防具/[69]嫌色のチョーカー/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[69]嫌色のチョーカー/[1]防具の説明[2行まで可]
+The damage caused by the etching attack to cut off 50%.
 > END STRING
 
 > BEGIN STRING
 愛のペンダント
-> CONTEXT DB:DataBase/[4]防具/[70]愛のペンダント/[0]防具の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[4]防具/[100]愛のペンダント/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[70]愛のペンダント/[0]防具の名前
+> CONTEXT DB:DataBase/[4]防具/[100]愛のペンダント/[0]防具の名前
+I love pendant
 > END STRING
 
 > BEGIN STRING
 リチア姫のペンダント。全ての能力が上昇する。
-> CONTEXT DB:DataBase/[4]防具/[70]愛のペンダント/[1]防具の説明[2行まで可] < UNTRANSLATED
-> CONTEXT DB:DataBase/[4]防具/[100]愛のペンダント/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[70]愛のペンダント/[1]防具の説明[2行まで可]
+> CONTEXT DB:DataBase/[4]防具/[100]愛のペンダント/[1]防具の説明[2行まで可]
+Lithia princess pendant. All of the ability to rise.
 > END STRING
 
 > BEGIN STRING
 護りのお守り
-> CONTEXT DB:DataBase/[4]防具/[71]護りのお守り/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[71]護りのお守り/[0]防具の名前
+Amulet be safety
 > END STRING
 
 > BEGIN STRING
 ガード耐久力を高めてくれる装飾品。少しだけ防御力も上がる。
-> CONTEXT DB:DataBase/[4]防具/[71]護りのお守り/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[71]護りのお守り/[1]防具の説明[2行まで可]
+Ornaments that will enhance the guard endurance. Defense force just a little bit also go up.
 > END STRING
 
 > BEGIN STRING
 堅牢なガントレット
-> CONTEXT DB:DataBase/[4]防具/[72]堅牢なガントレット/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[72]堅牢なガントレット/[0]防具の名前
+Robust Gauntlet
 > END STRING
 
 > BEGIN STRING
 ガード耐久力を大幅に高めてくれる装飾品。
-> CONTEXT DB:DataBase/[4]防具/[72]堅牢なガントレット/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[72]堅牢なガントレット/[1]防具の説明[2行まで可]
+Ornaments that will significantly enhance the guard endurance.
 > END STRING
 
 > BEGIN STRING
 狐の妖面
-> CONTEXT DB:DataBase/[4]防具/[73]狐の妖面/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[73]狐の妖面/[0]防具の名前
+妖面 of fox
 > END STRING
 
 > BEGIN STRING
 武器の気力消費量が800減るが、攻撃力と防御力が落ちる。
-> CONTEXT DB:DataBase/[4]防具/[73]狐の妖面/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[73]狐の妖面/[1]防具の説明[2行まで可]
+Energy consumption of the weapon is reduced 800, but the attack and defense fall.
 > END STRING
 
 > BEGIN STRING
 炎の額当て
-> CONTEXT DB:DataBase/[4]防具/[74]炎の額当て/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[74]炎の額当て/[0]防具の名前
+Forehead rest of flame
 > END STRING
 
 > BEGIN STRING
 ダメージレデューサー
-> CONTEXT DB:DataBase/[4]防具/[75]ダメージレデューサー/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[75]ダメージレデューサー/[0]防具の名前
+Damage Reducer
 > END STRING
 
 > BEGIN STRING
 物理ダメージを35％軽減する装備品。首輪状になっている。
-> CONTEXT DB:DataBase/[4]防具/[75]ダメージレデューサー/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[75]ダメージレデューサー/[1]防具の説明[2行まで可]
+Equipment to reduce the physical damage 35%. It has become the collar-like.
 > END STRING
 
 > BEGIN STRING
 バリアのお守り
-> CONTEXT DB:DataBase/[4]防具/[76]バリアのお守り/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[76]バリアのお守り/[0]防具の名前
+Barrier amulet
 > END STRING
 
 > BEGIN STRING
 物理ダメージを50％軽減する装備品。
-> CONTEXT DB:DataBase/[4]防具/[76]バリアのお守り/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[76]バリアのお守り/[1]防具の説明[2行まで可]
+Physical damage to equipment to reduce by 50%.
 > END STRING
 
 > BEGIN STRING
 鋭敏の指輪
-> CONTEXT DB:DataBase/[4]防具/[77]鋭敏の指輪/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[77]鋭敏の指輪/[0]防具の名前
+Acuity of the ring
 > END STRING
 
 > BEGIN STRING
 戦神と女神の加護
-> CONTEXT DB:DataBase/[4]防具/[78]戦神と女神の加護/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[78]戦神と女神の加護/[0]防具の名前
+Blessings of war god and goddess
 > END STRING
 
 > BEGIN STRING
 アキュラシー・アイ
-> CONTEXT DB:DataBase/[4]防具/[79]アキュラシー・アイ/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[79]アキュラシー・アイ/[0]防具の名前
+Acura Sea Eye
 > END STRING
 
 > BEGIN STRING
 装備すると連続ヒット時のダメージ上昇量が増加する。
-> CONTEXT DB:DataBase/[4]防具/[79]アキュラシー・アイ/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[79]アキュラシー・アイ/[1]防具の説明[2行まで可]
+Damage amount at the time of consecutive hit and be equipped to increase.
 > END STRING
 
 > BEGIN STRING
 千烈手甲
-> CONTEXT DB:DataBase/[4]防具/[80]千烈手甲/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[80]千烈手甲/[0]防具の名前
+SenRetsu glove
 > END STRING
 
 > BEGIN STRING
 HIT数のカウントが2倍になる。
-> CONTEXT DB:DataBase/[4]防具/[80]千烈手甲/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[80]千烈手甲/[1]防具の説明[2行まで可]
+HIT number of count is doubled.
 > END STRING
 
 > BEGIN STRING
 スナッチシンボル
-> CONTEXT DB:DataBase/[4]防具/[81]スナッチシンボル/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[81]スナッチシンボル/[0]防具の名前
+Snatch symbol
 > END STRING
 
 > BEGIN STRING
 敵のアイテムドロップ率が3倍になる装備品。
-> CONTEXT DB:DataBase/[4]防具/[81]スナッチシンボル/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[81]スナッチシンボル/[1]防具の説明[2行まで可]
+Equipment that enemy of the item drop rate is three times.
 > END STRING
 
 > BEGIN STRING
 コンセントレイダー
-> CONTEXT DB:DataBase/[4]防具/[82]コンセントレイダー/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[82]コンセントレイダー/[0]防具の名前
+Outlet Raider
 > END STRING
 
 > BEGIN STRING
 チャージ時間半減
-> CONTEXT DB:DataBase/[4]防具/[82]コンセントレイダー/[5]予備 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[82]コンセントレイダー/[5]予備
+Charge time half
 > END STRING
 
 > BEGIN STRING
 盗賊のバンダナ
-> CONTEXT DB:DataBase/[4]防具/[83]盗賊のバンダナ/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[83]盗賊のバンダナ/[0]防具の名前
+Bandana Thieves
 > END STRING
 
 > BEGIN STRING
 装備すると敵から手に入るお金が2倍になる。
-> CONTEXT DB:DataBase/[4]防具/[83]盗賊のバンダナ/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[83]盗賊のバンダナ/[1]防具の説明[2行まで可]
+Money to enter the hand from the enemy and to equip is doubled.
 > END STRING
 
 > BEGIN STRING
 銀の宝珠
-> CONTEXT DB:DataBase/[4]防具/[84]銀の宝珠/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[84]銀の宝珠/[0]防具の名前
+Jewel of silver
 > END STRING
 
 > BEGIN STRING
 装備すると入手できる経験値が2倍になる。
-> CONTEXT DB:DataBase/[4]防具/[84]銀の宝珠/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[84]銀の宝珠/[1]防具の説明[2行まで可]
+Experience available to equipment is doubled.
 > END STRING
 
 > BEGIN STRING
 金の宝珠
-> CONTEXT DB:DataBase/[4]防具/[85]金の宝珠/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[85]金の宝珠/[0]防具の名前
+Jewel of gold
 > END STRING
 
 > BEGIN STRING
 無敵の極意・地
-> CONTEXT DB:DataBase/[4]防具/[86]無敵の極意・地/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[86]無敵の極意・地/[0]防具の名前
+Invincible secret-land
 > END STRING
 
 > BEGIN STRING
 無敵の極意・天
-> CONTEXT DB:DataBase/[4]防具/[87]無敵の極意・天/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[87]無敵の極意・天/[0]防具の名前
+Invincible secret heaven
 > END STRING
 
 > BEGIN STRING
 イーグルリング
-> CONTEXT DB:DataBase/[4]防具/[88]イーグルリング/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[88]イーグルリング/[0]防具の名前
+Eagle Ring
 > END STRING
 
 > BEGIN STRING
 雷神の冠
-> CONTEXT DB:DataBase/[4]防具/[89]雷神の冠/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[89]雷神の冠/[0]防具の名前
+Crown of the Thunder God
 > END STRING
 
 > BEGIN STRING
 与えるダメージと受けるダメージが20％上昇する装備品。
-> CONTEXT DB:DataBase/[4]防具/[89]雷神の冠/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[89]雷神の冠/[1]防具の説明[2行まで可]
+Equipment damage to receive the damage is increased by 20%.
 > END STRING
 
 > BEGIN STRING
 七星のベルト
-> CONTEXT DB:DataBase/[4]防具/[90]七星のベルト/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[90]七星のベルト/[0]防具の名前
+Belt of Seven Star
 > END STRING
 
 > BEGIN STRING
 炸雷の護符
-> CONTEXT DB:DataBase/[4]防具/[91]炸雷の護符/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[91]炸雷の護符/[0]防具の名前
+Talisman of 炸雷
 > END STRING
 
 > BEGIN STRING
 チャージ攻撃の威力が大幅にアップする。
-> CONTEXT DB:DataBase/[4]防具/[91]炸雷の護符/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[91]炸雷の護符/[1]防具の説明[2行まで可]
+Power of the charge attack is up significantly.
 > END STRING
 
 > BEGIN STRING
 千里の靴
-> CONTEXT DB:DataBase/[4]防具/[92]千里の靴/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[92]千里の靴/[0]防具の名前
+Chisato shoes
 > END STRING
 
 > BEGIN STRING
 武器の気力消費量が1000減る。
-> CONTEXT DB:DataBase/[4]防具/[92]千里の靴/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[92]千里の靴/[1]防具の説明[2行まで可]
+Energy consumption of the weapon is reduced 1000.
 > END STRING
 
 > BEGIN STRING
 魔鏡
-> CONTEXT DB:DataBase/[4]防具/[93]魔鏡/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[93]魔鏡/[0]防具の名前
+Makyo
 > END STRING
 
 > BEGIN STRING
 旋風の腕輪
-> CONTEXT DB:DataBase/[4]防具/[94]旋風の腕輪/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[94]旋風の腕輪/[0]防具の名前
+Bangles whirlwind
 > END STRING
 
 > BEGIN STRING
 敏捷性を大きく上昇させる腕輪。
-> CONTEXT DB:DataBase/[4]防具/[94]旋風の腕輪/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[94]旋風の腕輪/[1]防具の説明[2行まで可]
+Bracelet greatly increase agility.
 > END STRING
 
 > BEGIN STRING
 力だすき
-> CONTEXT DB:DataBase/[4]防具/[95]力だすき/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[95]力だすき/[0]防具の名前
+Power likes
 > END STRING
 
 > BEGIN STRING
 装備すると気合が入る。
-> CONTEXT DB:DataBase/[4]防具/[95]力だすき/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[95]力だすき/[1]防具の説明[2行まで可]
+Yell When equipped to enter.
 > END STRING
 
 > BEGIN STRING
 代替の紋章
-> CONTEXT DB:DataBase/[4]防具/[96]代替の紋章/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[96]代替の紋章/[0]防具の名前
+Coat of arms of the alternative
 > END STRING
 
 > BEGIN STRING
 敏捷性が大きく上昇するが気力消費量が大きく増加する装備品。
-> CONTEXT DB:DataBase/[4]防具/[96]代替の紋章/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[96]代替の紋章/[1]防具の説明[2行まで可]
+While agility is greatly increased equipment that energy consumption is greatly increased.
 > END STRING
 
 > BEGIN STRING
 氷の盾
-> CONTEXT DB:DataBase/[4]防具/[97]氷の盾/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[97]氷の盾/[0]防具の名前
+Shield of ice
 > END STRING
 
 > BEGIN STRING
 試練の鉢巻
-> CONTEXT DB:DataBase/[4]防具/[98]試練の鉢巻/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[98]試練の鉢巻/[0]防具の名前
+Headband of ordeal
 > END STRING
 
 > BEGIN STRING
 装備すると経験値がもらえなくなる。
-> CONTEXT DB:DataBase/[4]防具/[98]試練の鉢巻/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[98]試練の鉢巻/[1]防具の説明[2行まで可]
+Experience and be equipped will not get.
 > END STRING
 
 > BEGIN STRING
 絶倫の法
-> CONTEXT DB:DataBase/[4]防具/[101]絶倫の法/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[101]絶倫の法/[0]防具の名前
+Law of unequaled
 > END STRING
 
 > BEGIN STRING
 射精しても解放されない
-> CONTEXT DB:DataBase/[4]防具/[101]絶倫の法/[5]予備 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[101]絶倫の法/[5]予備
+Not be released even if ejaculation
 > END STRING
 
 > BEGIN STRING
 ミリオンアタッカー
-> CONTEXT DB:DataBase/[4]防具/[102]ミリオンアタッカー/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[102]ミリオンアタッカー/[0]防具の名前
+Million attacker
 > END STRING
 
 > BEGIN STRING
 連続で射精してしまう
-> CONTEXT DB:DataBase/[4]防具/[102]ミリオンアタッカー/[5]予備 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[102]ミリオンアタッカー/[5]予備
+Resulting in ejaculation in a row
 > END STRING
 
 > BEGIN STRING
 破壊の腕輪
-> CONTEXT DB:DataBase/[4]防具/[103]破壊の腕輪/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[103]破壊の腕輪/[0]防具の名前
+Bracelet of destruction
 > END STRING
 
 > BEGIN STRING
 魔獣の枷
-> CONTEXT DB:DataBase/[4]防具/[104]魔獣の枷/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[104]魔獣の枷/[0]防具の名前
+Shackles of the Beast
 > END STRING
 
 > BEGIN STRING
 紫電の腕輪
-> CONTEXT DB:DataBase/[4]防具/[105]紫電の腕輪/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[105]紫電の腕輪/[0]防具の名前
+Bangles Shiden
 > END STRING
 
 > BEGIN STRING
 武器の気力消費量が800減る。
-> CONTEXT DB:DataBase/[4]防具/[105]紫電の腕輪/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[105]紫電の腕輪/[1]防具の説明[2行まで可]
+Energy consumption of the weapon is reduced 800.
 > END STRING
 
 > BEGIN STRING
 沸血の冠
-> CONTEXT DB:DataBase/[4]防具/[106]沸血の冠/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[106]沸血の冠/[0]防具の名前
+Crown of Niechi
 > END STRING
 
 > BEGIN STRING
 射精しやすくなる
-> CONTEXT DB:DataBase/[4]防具/[106]沸血の冠/[5]予備 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[106]沸血の冠/[5]予備
+It tends to ejaculation
 > END STRING
 
 > BEGIN STRING
 光輝く兜
-> CONTEXT DB:DataBase/[4]防具/[107]光輝く兜/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[107]光輝く兜/[0]防具の名前
+Light shining helmet
 > END STRING
 
 > BEGIN STRING
 パーフェクター
-> CONTEXT DB:DataBase/[4]防具/[108]パーフェクター/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[108]パーフェクター/[0]防具の名前
+Perfector
 > END STRING
 
 > BEGIN STRING
 色々な能力を上昇させる装備品。
-> CONTEXT DB:DataBase/[4]防具/[108]パーフェクター/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[108]パーフェクター/[1]防具の説明[2行まで可]
+Equipment to increase the variety of ability.
 > END STRING
 
 > BEGIN STRING
 白金の宝珠
-> CONTEXT DB:DataBase/[4]防具/[118]白金の宝珠/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[118]白金の宝珠/[0]防具の名前
+Jewel of platinum
 > END STRING
 
 > BEGIN STRING
 閃光脚
-> CONTEXT DB:DataBase/[4]防具/[119]閃光脚/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[119]閃光脚/[0]防具の名前
+Senkoashi
 > END STRING
 
 > BEGIN STRING
 武器の気力消費量が2000減る。
-> CONTEXT DB:DataBase/[4]防具/[119]閃光脚/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[119]閃光脚/[1]防具の説明[2行まで可]
+Energy consumption of the weapon is reduced 2000.
 > END STRING
 
 > BEGIN STRING
 ヒドラの瞳
-> CONTEXT DB:DataBase/[4]防具/[120]ヒドラの瞳/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[120]ヒドラの瞳/[0]防具の名前
+Hydra Eye
 > END STRING
 
 > BEGIN STRING
 灼熱の心臓
-> CONTEXT DB:DataBase/[4]防具/[121]灼熱の心臓/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[121]灼熱の心臓/[0]防具の名前
+Burning of the heart
 > END STRING
 
 > BEGIN STRING
 フェンリルの腕
-> CONTEXT DB:DataBase/[4]防具/[122]フェンリルの腕/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[122]フェンリルの腕/[0]防具の名前
+Arm of Fenrir
 > END STRING
 
 > BEGIN STRING
 命輝のアミュレット
-> CONTEXT DB:DataBase/[4]防具/[123]命輝のアミュレット/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[123]命輝のアミュレット/[0]防具の名前
+Amulet of Inochiteru
 > END STRING
 
 > BEGIN STRING
 クリティカルゲッター
-> CONTEXT DB:DataBase/[4]防具/[124]クリティカルゲッター/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[124]クリティカルゲッター/[0]防具の名前
+Critical getter
 > END STRING
 
 > BEGIN STRING
 チャージ攻撃の威力が甚大に上昇する装備品。
-> CONTEXT DB:DataBase/[4]防具/[124]クリティカルゲッター/[1]防具の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[124]クリティカルゲッター/[1]防具の説明[2行まで可]
+Equipment that the power of the charge attack is enormous increase.
 > END STRING
 
 > BEGIN STRING
 恋の矢
-> CONTEXT DB:DataBase/[4]防具/[125]恋の矢/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[125]恋の矢/[0]防具の名前
+Arrows of love
 > END STRING
 
 > BEGIN STRING
 射精しても解放されない ＋ 連続で射精してしまう ＋ 射精しやすくなる
-> CONTEXT DB:DataBase/[4]防具/[125]恋の矢/[5]予備 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[125]恋の矢/[5]予備
+Become become + easier to ejaculation and ejaculation in the release that are not + continuous even if ejaculation
 > END STRING
 
 > BEGIN STRING
 捨て身の篭手
-> CONTEXT DB:DataBase/[4]防具/[126]捨て身の篭手/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[126]捨て身の篭手/[0]防具の名前
+Gauntlet of desperation
 > END STRING
 
 > BEGIN STRING
 影の盾
-> CONTEXT DB:DataBase/[4]防具/[127]影の盾/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[127]影の盾/[0]防具の名前
+Shield of shadow
 > END STRING
 
 > BEGIN STRING
 覚悟の兜
-> CONTEXT DB:DataBase/[4]防具/[128]覚悟の兜/[0]防具の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[4]防具/[128]覚悟の兜/[0]防具の名前
+Helmet of preparedness
 > END STRING

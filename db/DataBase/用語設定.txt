@@ -2,9 +2,9 @@
 
 > BEGIN STRING
 装備
-> CONTEXT COMMONEVENT:356/87/Choices < UNTRANSLATED
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[2][ﾒﾆｭｰ]装備 < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/87/Choices
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[2][ﾒﾆｭｰ]装備
+Equipment
 > END STRING
 
 > BEGIN STRING
@@ -16,16 +16,16 @@ System
 
 > BEGIN STRING
 武器
-> CONTEXT COMMONEVENT:799/10/SetString < UNTRANSLATED
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[19][装備]装備欄1<武器> < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:799/10/SetString
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[19][装備]装備欄1<武器>
+weapon
 > END STRING
 
 > BEGIN STRING
 防具
-> CONTEXT COMMONEVENT:799/15/SetString < UNTRANSLATED
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[20][装備]装備欄2<防具> < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:799/15/SetString
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[20][装備]装備欄2<防具>
+Protective gear
 > END STRING
 
 > BEGIN STRING
@@ -36,8 +36,8 @@ Lv
 
 > BEGIN STRING
 次Lvまで
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[6][ｽﾃｰﾀｽ]次LｖUP経験値 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[6][ｽﾃｰﾀｽ]次LｖUP経験値
+Until the next Lv
 > END STRING
 
 > BEGIN STRING
@@ -54,44 +54,44 @@ SP
 
 > BEGIN STRING
 攻撃力　　　
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[9][ｽﾃｰﾀｽ]攻撃力 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[9][ｽﾃｰﾀｽ]攻撃力
+Offensive power
 > END STRING
 
 > BEGIN STRING
 防御力　　　
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[10][ｽﾃｰﾀｽ]防御力 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[10][ｽﾃｰﾀｽ]防御力
+Defense power
 > END STRING
 
 > BEGIN STRING
 精神攻
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[11][ｽﾃｰﾀｽ]精神攻撃力 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[11][ｽﾃｰﾀｽ]精神攻撃力
+Spirit attack
 > END STRING
 
 > BEGIN STRING
 精神防御
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[12][ｽﾃｰﾀｽ]精神防御力 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[12][ｽﾃｰﾀｽ]精神防御力
+Spirit defense
 > END STRING
 
 > BEGIN STRING
 敏捷性　　　
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[13][ｽﾃｰﾀｽ]敏捷性 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[13][ｽﾃｰﾀｽ]敏捷性
+Agility
 > END STRING
 
 > BEGIN STRING
 命中率
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[14][ｽﾃｰﾀｽ]命中率 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[14][ｽﾃｰﾀｽ]命中率
+Hit probability
 > END STRING
 
 > BEGIN STRING
 回避率
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[15][ｽﾃｰﾀｽ]回避率 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[15][ｽﾃｰﾀｽ]回避率
+Evasion rate
 > END STRING
 
 > BEGIN STRING
@@ -102,8 +102,8 @@ Critical
 
 > BEGIN STRING
 経験値
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[17][ｽﾃｰﾀｽ]経験値の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[17][ｽﾃｰﾀｽ]経験値の名前
+Experience point
 > END STRING
 
 > BEGIN STRING
@@ -114,38 +114,38 @@ G
 
 > BEGIN STRING
 装飾1
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[21][装備]装備欄3<防具> < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[21][装備]装備欄3<防具>
+Decoration 1
 > END STRING
 
 > BEGIN STRING
 装飾2
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[22][装備]装備欄4<防具> < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[22][装備]装備欄4<防具>
+Decoration 2
 > END STRING
 
 > BEGIN STRING
 装飾3
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[23][装備]装備欄5<防具> < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[23][装備]装備欄5<防具>
+Decoration 3
 > END STRING
 
 > BEGIN STRING
 装飾4
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[24][装備]装備欄6<防具> < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[24][装備]装備欄6<防具>
+Decoration 4
 > END STRING
 
 > BEGIN STRING
 装飾5
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[25][装備]装備欄7<防具> < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[25][装備]装備欄7<防具>
+Decoration 5
 > END STRING
 
 > BEGIN STRING
 装飾6
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[26][装備]装備欄8<防具> < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[26][装備]装備欄8<防具>
+Decoration 6
 > END STRING
 
 > BEGIN STRING
@@ -168,26 +168,26 @@ Data
 
 > BEGIN STRING
 戦闘
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[30][戦闘] 戦闘コマンド名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[30][戦闘] 戦闘コマンド名
+combat
 > END STRING
 
 > BEGIN STRING
 逃走
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[31][戦闘] 逃走コマンド名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[31][戦闘] 逃走コマンド名
+Getaway
 > END STRING
 
 > BEGIN STRING
 気力消費量　
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[32][ｽﾃｰﾀｽ]気力消費量 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[32][ｽﾃｰﾀｽ]気力消費量
+Energy consumption
 > END STRING
 
 > BEGIN STRING
 ガード耐久力
-> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[33][ｽﾃｰﾀｽ]ガード耐久力 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[33][ｽﾃｰﾀｽ]ガード耐久力
+Guard endurance
 > END STRING
 
 > BEGIN STRING

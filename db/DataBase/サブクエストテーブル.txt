@@ -2,1067 +2,1067 @@
 
 > BEGIN STRING
 くノ一
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[40]くノ一/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[43]くノ一・脅威の変化術/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[40]くノ一/[0]敵キャラ名
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[43]くノ一・脅威の変化術/[1]依頼人
+Kunoichi
 > END STRING
 
 > BEGIN STRING
 リチア姫
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[58]リチア姫/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[44]はじめての…/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[27]リチア姫/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[77]リチア姫/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[58]リチア姫/[0]敵キャラ名
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[44]はじめての…/[1]依頼人
+> CONTEXT DB:DataBase/[27]住人テーブル/[27]リチア姫/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[77]リチア姫/[0]名前
+Lithia princess
 > END STRING
 
 > BEGIN STRING
 逆襲！戦乙女
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[0]逆襲！戦乙女/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[0]逆襲！戦乙女/[0]クエスト名
+Strikes Back! Valkyrie
 > END STRING
 
 > BEGIN STRING
 女戦士
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[0]逆襲！戦乙女/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[38]総力戦/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[0]逆襲！戦乙女/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[38]総力戦/[1]依頼人
+Woman warrior
 > END STRING
 
 > BEGIN STRING
 女戦士たちの撃退
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[0]逆襲！戦乙女/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[0]逆襲！戦乙女/[2]目標
+Repel of woman warriors
 > END STRING
 
 > BEGIN STRING
 3000\\udb[15:0:18]＆\\udb[4:63:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[0]逆襲！戦乙女/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[0]逆襲！戦乙女/[3]報酬_表示テキスト
+3000\\udb[15:0:18] & \\udb[4:63:0] (first time only)
 > END STRING
 
 > BEGIN STRING
 解錠依頼
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[1]解錠依頼/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[1]解錠依頼/[0]クエスト名
+Unlocking request
 > END STRING
 
 > BEGIN STRING
 ものぐさなヒゲ男
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[1]解錠依頼/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[1]解錠依頼/[1]依頼人
+Lazy beard man
 > END STRING
 
 > BEGIN STRING
 古い物置の解錠
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[1]解錠依頼/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[1]解錠依頼/[2]目標
+Unlocking of old barn
 > END STRING
 
 > BEGIN STRING
 1000\\udb[15:0:18]＆\\udb[4:64:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[1]解錠依頼/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[1]解錠依頼/[3]報酬_表示テキスト
+1000\\udb[15:0:18]＆\\udb[4:64:0](first time only)
 > END STRING
 
 > BEGIN STRING
 カウンターマニア
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[2]カウンターマニア/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[2]カウンターマニア/[0]クエスト名
+Counter mania
 > END STRING
 
 > BEGIN STRING
 いじわるな魔女
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[2]カウンターマニア/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[24]いじわるな魔女/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[2]カウンターマニア/[1]依頼人
+> CONTEXT DB:DataBase/[27]住人テーブル/[24]いじわるな魔女/[0]名前
+Wicked witch
 > END STRING
 
 > BEGIN STRING
 アマゾンウィッチ10人をカウンターのみで撃破
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[2]カウンターマニア/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[2]カウンターマニア/[2]目標
+Defeat 10 people Amazon witch only at the counter
 > END STRING
 
 > BEGIN STRING
 2000\\udb[15:0:18]＆\\udb[4:68:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[2]カウンターマニア/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[2]カウンターマニア/[3]報酬_表示テキスト
+2000\\udb[15:0:18]＆\\udb[4:68:0](first time only)
 > END STRING
 
 > BEGIN STRING
 マリマリマリン
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[3]マリマリマリン/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[3]マリマリマリン/[0]クエスト名
+Marimari Marin
 > END STRING
 
 > BEGIN STRING
 ？？？
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[3]マリマリマリン/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[4]遠くの敵を倒すには？/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[5]装備ショートカット？/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[19]悪夢をあなたに/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[3]マリマリマリン/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[4]遠くの敵を倒すには？/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[5]装備ショートカット？/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[19]悪夢をあなたに/[2]目標
+? ? ?
 > END STRING
 
 > BEGIN STRING
 マリン3人の撃退
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[3]マリマリマリン/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[3]マリマリマリン/[2]目標
+Marin three repel
 > END STRING
 
 > BEGIN STRING
 5000\\udb[15:0:18]＆\\udb[4:60:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[3]マリマリマリン/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[3]マリマリマリン/[3]報酬_表示テキスト
+5000\\udb[15:0:18]＆\\udb[4:60:0](first time only)
 > END STRING
 
 > BEGIN STRING
 遠くの敵を倒すには？
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[4]遠くの敵を倒すには？/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[4]遠くの敵を倒すには？/[0]クエスト名
+It is to defeat the enemy of far?
 > END STRING
 
 > BEGIN STRING
 遠くにいる敵の撃退
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[4]遠くの敵を倒すには？/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[4]遠くの敵を倒すには？/[2]目標
+Fight off enemies in the distance
 > END STRING
 
 > BEGIN STRING
 \\udb[2:51:0]1個
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[4]遠くの敵を倒すには？/[3]報酬_表示テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[5]装備ショートカット？/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[4]遠くの敵を倒すには？/[3]報酬_表示テキスト
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[5]装備ショートカット？/[3]報酬_表示テキスト
+\\udb[2:51:0]1 pieces
 > END STRING
 
 > BEGIN STRING
 装備ショートカット？
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[5]装備ショートカット？/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[5]装備ショートカット？/[0]クエスト名
+Equipped shortcut?
 > END STRING
 
 > BEGIN STRING
 ショートカット機能についての説明を受ける
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[5]装備ショートカット？/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[5]装備ショートカット？/[2]目標
+Receive a description of the shortcut function
 > END STRING
 
 > BEGIN STRING
 達成せよ！15連斬
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[6]達成せよ！15連斬/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[6]達成せよ！15連斬/[0]クエスト名
+Achieve event! 15 series Zan
 > END STRING
 
 > BEGIN STRING
 聞きかじりのお嬢様
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[6]達成せよ！15連斬/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[6]達成せよ！15連斬/[1]依頼人
+Princess of Kikikajiri
 > END STRING
 
 > BEGIN STRING
 15Hitの達成
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[6]達成せよ！15連斬/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[6]達成せよ！15連斬/[2]目標
+Achievement of 15Hit
 > END STRING
 
 > BEGIN STRING
 3500\\udb[15:0:18]＆\\udb[2:1:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[6]達成せよ！15連斬/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[6]達成せよ！15連斬/[3]報酬_表示テキスト
+3500\\udb[15:0:18]＆\\udb[2:1:0](first time only)
 > END STRING
 
 > BEGIN STRING
 正しい順序で討て！
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[7]正しい順序で討て！/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[7]正しい順序で討て！/[0]クエスト名
+Ute in the correct order!
 > END STRING
 
 > BEGIN STRING
 あやしい戦術家
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[7]正しい順序で討て！/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[7]正しい順序で討て！/[1]依頼人
+Suspicious tactician
 > END STRING
 
 > BEGIN STRING
 敵を正しい順番で討伐
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[7]正しい順序で討て！/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[7]正しい順序で討て！/[2]目標
+Subdue the enemy in the correct order
 > END STRING
 
 > BEGIN STRING
 3200\\udb[15:0:18]＆\\udb[4:71:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[7]正しい順序で討て！/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[7]正しい順序で討て！/[3]報酬_表示テキスト
+3200\\udb[15:0:18]＆\\udb[4:71:0](first time only)
 > END STRING
 
 > BEGIN STRING
 無傷のススメ
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[8]無傷のススメ/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[8]無傷のススメ/[0]クエスト名
+Intact recommend
 > END STRING
 
 > BEGIN STRING
 前衛的鍛冶職人
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[8]無傷のススメ/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[8]無傷のススメ/[1]依頼人
+Avant-garde blacksmith
 > END STRING
 
 > BEGIN STRING
 一切ダメージを受けずに敵を全滅させる
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[8]無傷のススメ/[2]目標 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[23]続・無傷のススメ/[2]目標 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[35]続々・無傷のススメ/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[8]無傷のススメ/[2]目標
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[23]続・無傷のススメ/[2]目標
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[35]続々・無傷のススメ/[2]目標
+Annihilate the enemy without any damage
 > END STRING
 
 > BEGIN STRING
 4500\\udb[15:0:18]＆\\udb[4:74:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[8]無傷のススメ/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[8]無傷のススメ/[3]報酬_表示テキスト
+4500\\udb[15:0:18]＆\\udb[4:74:0](first time only)
 > END STRING
 
 > BEGIN STRING
 ロックオン
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[9]ロックオン/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[9]ロックオン/[0]クエスト名
+Lock-on
 > END STRING
 
 > BEGIN STRING
 飲んだくれの商人
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[9]ロックオン/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[9]ロックオン/[1]依頼人
+Drunkard of merchants
 > END STRING
 
 > BEGIN STRING
 指定された敵だけを倒す
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[9]ロックオン/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[9]ロックオン/[2]目標
+Defeat only the specified enemy
 > END STRING
 
 > BEGIN STRING
 3500\\udb[15:0:18]＆\\udb[4:88:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[9]ロックオン/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[9]ロックオン/[3]報酬_表示テキスト
+3500\\udb[15:0:18]＆\\udb[4:88:0](first time only)
 > END STRING
 
 > BEGIN STRING
 激闘乙女伝説
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[10]激闘乙女伝説/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[10]激闘乙女伝説/[0]クエスト名
+Fierce Fighting maiden legend
 > END STRING
 
 > BEGIN STRING
 子煩悩な貴族
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[10]激闘乙女伝説/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[10]激闘乙女伝説/[1]依頼人
+Fond aristocratic
 > END STRING
 
 > BEGIN STRING
 闘技大会で優勝する
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[10]激闘乙女伝説/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[10]激闘乙女伝説/[2]目標
+Win the arena tournament
 > END STRING
 
 > BEGIN STRING
 20000\\udb[15:0:18]＆\\udb[3:57:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[10]激闘乙女伝説/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[10]激闘乙女伝説/[3]報酬_表示テキスト
+20000\\udb[15:0:18]＆\\udb[3:57:0](first time only)
 > END STRING
 
 > BEGIN STRING
 にゅるにゅる地獄
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[11]にゅるにゅる地獄/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[11]にゅるにゅる地獄/[0]クエスト名
+Nyurunyuru hell
 > END STRING
 
 > BEGIN STRING
 泣きっ面の農夫
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[11]にゅるにゅる地獄/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[11]にゅるにゅる地獄/[1]依頼人
+Farmer Nakimmen
 > END STRING
 
 > BEGIN STRING
 スライムたちの撃退
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[11]にゅるにゅる地獄/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[11]にゅるにゅる地獄/[2]目標
+Repel slime us
 > END STRING
 
 > BEGIN STRING
 3900\\udb[15:0:18]＆\\udb[4:75:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[11]にゅるにゅる地獄/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[11]にゅるにゅる地獄/[3]報酬_表示テキスト
+3900\\udb[15:0:18]＆\\udb[4:75:0](first time only)
 > END STRING
 
 > BEGIN STRING
 スライムの秘密研究
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[12]スライムの秘密研究/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[12]スライムの秘密研究/[0]クエスト名
+Slime of secret research
 > END STRING
 
 > BEGIN STRING
 悩める学者
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[12]スライムの秘密研究/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[12]スライムの秘密研究/[1]依頼人
+Beleaguered scholar
 > END STRING
 
 > BEGIN STRING
 \\udb[2:74:0]を5個納品
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[12]スライムの秘密研究/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[12]スライムの秘密研究/[2]目標
+Five deliver the \\udb[2:74:0]
 > END STRING
 
 > BEGIN STRING
 3000\\udb[15:0:18]＆\\udb[3:42:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[12]スライムの秘密研究/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[12]スライムの秘密研究/[3]報酬_表示テキスト
+3000\\udb[15:0:18]＆\\udb[3:42:0](first time only)
 > END STRING
 
 > BEGIN STRING
 恐怖の集団戦法
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[13]恐怖の集団戦法/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[13]恐怖の集団戦法/[0]クエスト名
+Population tactics of fear
 > END STRING
 
 > BEGIN STRING
 ズタボロの傭兵
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[13]恐怖の集団戦法/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[13]恐怖の集団戦法/[1]依頼人
+Mercenary of Zutaboro
 > END STRING
 
 > BEGIN STRING
 アマゾネスたちの撃退
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[13]恐怖の集団戦法/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[13]恐怖の集団戦法/[2]目標
+Repel of Amazones us
 > END STRING
 
 > BEGIN STRING
 4000\\udb[15:0:18]＆強化系アイテム各種(初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[13]恐怖の集団戦法/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[13]恐怖の集団戦法/[3]報酬_表示テキスト
+4000\\udb[15:0:18] & strengthening system item various (first time only)
 > END STRING
 
 > BEGIN STRING
 スペシャルマッチ・序盤の強敵
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[14]スペシャルマッチ・序盤の強敵/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[14]スペシャルマッチ・序盤の強敵/[0]クエスト名
+Special match early in the formidable enemy
 > END STRING
 
 > BEGIN STRING
 闇の手配人
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[14]スペシャルマッチ・序盤の強敵/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[29]スペシャルマッチ・大回復/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[45]スペシャルマッチ・完全防御/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[46]スペシャルマッチ・ふたつの爪牙/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[47]スペシャルマッチ・キハー大無限聖/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[48]スペシャルマッチ・翼の幻影/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[50]スペシャルマッチ・同時に倒せ！/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[70]ラストワン/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[14]スペシャルマッチ・序盤の強敵/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[29]スペシャルマッチ・大回復/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[45]スペシャルマッチ・完全防御/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[46]スペシャルマッチ・ふたつの爪牙/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[47]スペシャルマッチ・キハー大無限聖/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[48]スペシャルマッチ・翼の幻影/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[50]スペシャルマッチ・同時に倒せ！/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[70]ラストワン/[1]依頼人
+Arrange people of darkness
 > END STRING
 
 > BEGIN STRING
 8000\\udb[15:0:18]＆\\udb[4:62:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[14]スペシャルマッチ・序盤の強敵/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[14]スペシャルマッチ・序盤の強敵/[3]報酬_表示テキスト
+8000\\udb[15:0:18]＆\\udb[4:62:0](first time only)
 > END STRING
 
 > BEGIN STRING
 強大への挑戦
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[15]強大への挑戦/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[15]強大への挑戦/[0]クエスト名
+Challenge to brother
 > END STRING
 
 > BEGIN STRING
 ごつい戦士
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[15]強大への挑戦/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[26]限界への挑戦/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[41]極限への挑戦/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[42]無限への挑戦/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[15]強大への挑戦/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[26]限界への挑戦/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[41]極限への挑戦/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[42]無限への挑戦/[1]依頼人
+Rugged warrior
 > END STRING
 
 > BEGIN STRING
 一度の攻撃で5000ダメージを達成する
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[15]強大への挑戦/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[15]強大への挑戦/[2]目標
+To achieve the 5000 damage in a single attack
 > END STRING
 
 > BEGIN STRING
 5500\\udb[15:0:18]＆\\udb[4:89:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[15]強大への挑戦/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[15]強大への挑戦/[3]報酬_表示テキスト
+5500\\udb[15:0:18]＆\\udb[4:89:0](first time only)
 > END STRING
 
 > BEGIN STRING
 連撃への挑戦
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[16]連撃への挑戦/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[16]連撃への挑戦/[0]クエスト名
+Challenge to the communicating hammer
 > END STRING
 
 > BEGIN STRING
 やせた戦士
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[16]連撃への挑戦/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[40]憧れの百連斬/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[16]連撃への挑戦/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[40]憧れの百連斬/[1]依頼人
+Lean warrior
 > END STRING
 
 > BEGIN STRING
 30Hitの達成
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[16]連撃への挑戦/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[16]連撃への挑戦/[2]目標
+Achievement of 30Hit
 > END STRING
 
 > BEGIN STRING
 5500\\udb[15:0:18]＆\\udb[2:2:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[16]連撃への挑戦/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[16]連撃への挑戦/[3]報酬_表示テキスト
+5500\\udb[15:0:18]＆\\udb[2:2:0](初回のみ)(first time only)
 > END STRING
 
 > BEGIN STRING
 暗闇を見破れ！
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[17]暗闇を見破れ！/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[17]暗闇を見破れ！/[0]クエスト名
+See through the darkness!
 > END STRING
 
 > BEGIN STRING
 暗いところで戦う達人
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[17]暗闇を見破れ！/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[17]暗闇を見破れ！/[1]依頼人
+Guru to fight in the dark
 > END STRING
 
 > BEGIN STRING
 暗所で戦うコツを会得
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[17]暗闇を見破れ！/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[17]暗闇を見破れ！/[2]目標
+Mastered the knack to fight in the dark
 > END STRING
 
 > BEGIN STRING
 8000\\udb[15:0:18]＆\\udb[2:4:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[17]暗闇を見破れ！/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[17]暗闇を見破れ！/[3]報酬_表示テキスト
+8000\\udb[15:0:18]＆\\udb[2:4:0](first time only)
 > END STRING
 
 > BEGIN STRING
 違いのわかる男
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[18]違いのわかる男/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[18]違いのわかる男/[0]クエスト名
+A man who understands the difference
 > END STRING
 
 > BEGIN STRING
 女剣士
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[18]違いのわかる男/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[18]違いのわかる男/[1]依頼人
+Woman swordsman
 > END STRING
 
 > BEGIN STRING
 偽者を見極める
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[18]違いのわかる男/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[18]違いのわかる男/[2]目標
+Identify fake
 > END STRING
 
 > BEGIN STRING
 4500\\udb[15:0:18]＆\\udb[4:81:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[18]違いのわかる男/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[18]違いのわかる男/[3]報酬_表示テキスト
+4500\\udb[15:0:18]＆\\udb[4:81:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 悪夢をあなたに
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[19]悪夢をあなたに/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[19]悪夢をあなたに/[0]クエスト名
+To you a nightmare
 > END STRING
 
 > BEGIN STRING
 復讐の女占い師
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[19]悪夢をあなたに/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[19]悪夢をあなたに/[1]依頼人
+Woman fortune-teller of revenge
 > END STRING
 
 > BEGIN STRING
 12000\\udb[15:0:18]＆\\udb[4:90:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[19]悪夢をあなたに/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[19]悪夢をあなたに/[3]報酬_表示テキスト
+12000\\udb[15:0:18]＆\\udb[4:90:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 奉仕でリセット
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[20]奉仕でリセット/[0]クエスト名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[69]奉仕でリセット/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[20]奉仕でリセット/[0]クエスト名
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[69]奉仕でリセット/[0]クエスト名
+Reset in service
 > END STRING
 
 > BEGIN STRING
 闇の手配師
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[20]奉仕でリセット/[1]依頼人 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[69]奉仕でリセット/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[20]奉仕でリセット/[1]依頼人
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[69]奉仕でリセット/[1]依頼人
+Darkness arrangements nurses
 > END STRING
 
 > BEGIN STRING
 体を売る仕事をする
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[20]奉仕でリセット/[2]目標 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[69]奉仕でリセット/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[20]奉仕でリセット/[2]目標
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[69]奉仕でリセット/[2]目標
+To work to sell the body
 > END STRING
 
 > BEGIN STRING
 100\\udb[15:0:18]
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[20]奉仕でリセット/[3]報酬_表示テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[69]奉仕でリセット/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[20]奉仕でリセット/[3]報酬_表示テキスト
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[69]奉仕でリセット/[3]報酬_表示テキスト
+100\\udb[15:0:18]
 > END STRING
 
 > BEGIN STRING
 カウンターカウント
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[21]カウンターカウント/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[21]カウンターカウント/[0]クエスト名
+Counter count
 > END STRING
 
 > BEGIN STRING
 職人たちのまとめ役
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[21]カウンターカウント/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[21]カウンターカウント/[1]依頼人
+Craftsmen of facilitator
 > END STRING
 
 > BEGIN STRING
 カウンター成功時の無敵カウントを500まで伸ばす
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[21]カウンターカウント/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[21]カウンターカウント/[2]目標
+Extend the invincible count of the time counter success up to 500
 > END STRING
 
 > BEGIN STRING
 13000\\udb[15:0:18]＆\\udb[3:108:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[21]カウンターカウント/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[21]カウンターカウント/[3]報酬_表示テキスト
+13000\\udb[15:0:18]＆\\udb[3:108:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 裸の祭典？
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[22]裸の祭典？/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[22]裸の祭典？/[0]クエスト名
+Celebration of the naked?
 > END STRING
 
 > BEGIN STRING
 闘技大会運営委員会
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[22]裸の祭典？/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[22]裸の祭典？/[1]依頼人
+Arena tournament Steering Committee
 > END STRING
 
 > BEGIN STRING
 防具着用禁止の闘技大会に優勝
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[22]裸の祭典？/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[22]裸の祭典？/[2]目標
+It won the competition tournament of armor worn ban
 > END STRING
 
 > BEGIN STRING
 11000\\udb[15:0:18]＆\\udb[3:73:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[22]裸の祭典？/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[22]裸の祭典？/[3]報酬_表示テキスト
+11000\\udb[15:0:18]＆\\udb[3:73:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 続・無傷のススメ
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[23]続・無傷のススメ/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[23]続・無傷のススメ/[0]クエスト名
+Zoku intact recommend
 > END STRING
 
 > BEGIN STRING
 神経質な剣士
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[23]続・無傷のススメ/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[23]続・無傷のススメ/[1]依頼人
+Nervous swordsman
 > END STRING
 
 > BEGIN STRING
 11500\\udb[15:0:18]＆\\udb[4:82:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[23]続・無傷のススメ/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[23]続・無傷のススメ/[3]報酬_表示テキスト
+11500\\udb[15:0:18]＆\\udb[4:82:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 忍耐も実力のうち
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[24]忍耐も実力のうち/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[24]忍耐も実力のうち/[0]クエスト名
+Patience even of the ability
 > END STRING
 
 > BEGIN STRING
 押し付けがましいじいさん
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[24]忍耐も実力のうち/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[24]忍耐も実力のうち/[1]依頼人
+Intrusive old man
 > END STRING
 
 > BEGIN STRING
 30秒間敵を倒さず生き残る
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[24]忍耐も実力のうち/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[24]忍耐も実力のうち/[2]目標
+Survive without defeat for 30 seconds enemy
 > END STRING
 
 > BEGIN STRING
 8000\\udb[15:0:18]＆\\udb[4:83:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[24]忍耐も実力のうち/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[24]忍耐も実力のうち/[3]報酬_表示テキスト
+8000\\udb[15:0:18]＆\\udb[4:83:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 悪徳カジノに潜入せよ
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[25]悪徳カジノに潜入せよ/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[25]悪徳カジノに潜入せよ/[0]クエスト名
+Infiltrate the unscrupulous casino
 > END STRING
 
 > BEGIN STRING
 役人のおじさん
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[25]悪徳カジノに潜入せよ/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[25]悪徳カジノに潜入せよ/[1]依頼人
+Uncle of officials
 > END STRING
 
 > BEGIN STRING
 悪徳カジノ内の敵を全滅させる
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[25]悪徳カジノに潜入せよ/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[25]悪徳カジノに潜入せよ/[2]目標
+Annihilate the enemy in the unscrupulous casino
 > END STRING
 
 > BEGIN STRING
 10000\\udb[15:0:18]＆\\udb[3:74:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[25]悪徳カジノに潜入せよ/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[25]悪徳カジノに潜入せよ/[3]報酬_表示テキスト
+10000\\udb[15:0:18]＆\\udb[3:74:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 限界への挑戦
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[26]限界への挑戦/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[26]限界への挑戦/[0]クエスト名
+Challenge to the limit
 > END STRING
 
 > BEGIN STRING
 一度の攻撃で10000ダメージを達成する
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[26]限界への挑戦/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[26]限界への挑戦/[2]目標
+To achieve the 10000 damage in a single attack
 > END STRING
 
 > BEGIN STRING
 15500\\udb[15:0:18]＆\\udb[4:91:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[26]限界への挑戦/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[26]限界への挑戦/[3]報酬_表示テキスト
+15500\\udb[15:0:18]＆\\udb[4:91:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 魔の誘惑
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[27]魔の誘惑/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[27]魔の誘惑/[0]クエスト名
+Temptation of magic
 > END STRING
 
 > BEGIN STRING
 野心あふれる職人
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[27]魔の誘惑/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[27]魔の誘惑/[1]依頼人
+Ambitious craftsman
 > END STRING
 
 > BEGIN STRING
 ラミアのうろこを10枚納品
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[27]魔の誘惑/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[27]魔の誘惑/[2]目標
+10 sheets of the scales of Lamia delivery
 > END STRING
 
 > BEGIN STRING
 12000\\udb[15:0:18]＆\\udb[3:90:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[27]魔の誘惑/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[27]魔の誘惑/[3]報酬_表示テキスト
+12000\\udb[15:0:18]＆\\udb[3:90:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 迅速に撃滅せよ
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[28]迅速に撃滅せよ/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[28]迅速に撃滅せよ/[0]クエスト名
+Whether quick destruction
 > END STRING
 
 > BEGIN STRING
 隠密
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[28]迅速に撃滅せよ/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[28]迅速に撃滅せよ/[1]依頼人
+Secrecy
 > END STRING
 
 > BEGIN STRING
 30秒以内に敵を全滅させる
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[28]迅速に撃滅せよ/[2]目標 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[36]スピードスター/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[28]迅速に撃滅せよ/[2]目標
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[36]スピードスター/[2]目標
+Annihilate the enemy within 30 seconds
 > END STRING
 
 > BEGIN STRING
 14000\\udb[15:0:18]＆\\udb[3:89:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[28]迅速に撃滅せよ/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[28]迅速に撃滅せよ/[3]報酬_表示テキスト
+14000\\udb[15:0:18]＆\\udb[3:89:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 スペシャルマッチ・大回復
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[29]スペシャルマッチ・大回復/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[29]スペシャルマッチ・大回復/[0]クエスト名
+Special match large recovery
 > END STRING
 
 > BEGIN STRING
 20000\\udb[15:0:18]＆\\udb[4:79:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[29]スペシャルマッチ・大回復/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[29]スペシャルマッチ・大回復/[3]報酬_表示テキスト
+20000\\udb[15:0:18]＆\\udb[4:79:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 剣士はおねショタの夢を見る
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[30]剣士はおねショタの夢を見る/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[30]剣士はおねショタの夢を見る/[0]クエスト名
+Swordsman dream of ridge Shota
 > END STRING
 
 > BEGIN STRING
 あやしい学者
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[30]剣士はおねショタの夢を見る/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[30]剣士はおねショタの夢を見る/[1]依頼人
+Suspicious scholar
 > END STRING
 
 > BEGIN STRING
 夢の中での戦闘に勝利
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[30]剣士はおねショタの夢を見る/[2]目標 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[33]剣士の夢守る旅/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[30]剣士はおねショタの夢を見る/[2]目標
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[33]剣士の夢守る旅/[2]目標
+Victory in the battle of in a dream
 > END STRING
 
 > BEGIN STRING
 14000\\udb[15:0:18]＆\\udb[3:88:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[30]剣士はおねショタの夢を見る/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[30]剣士はおねショタの夢を見る/[3]報酬_表示テキスト
+14000\\udb[15:0:18]＆\\udb[3:88:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 へびをやっつけて
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[31]へびをやっつけて/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[31]へびをやっつけて/[0]クエスト名
+And beat the snake
 > END STRING
 
 > BEGIN STRING
 貧しい男子
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[31]へびをやっつけて/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[31]へびをやっつけて/[1]依頼人
+Poor boy
 > END STRING
 
 > BEGIN STRING
 ラミアたちの撃退
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[31]へびをやっつけて/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[31]へびをやっつけて/[2]目標
+Repel of Lamia us
 > END STRING
 
 > BEGIN STRING
 10\\udb[15:0:18]＆\\udb[4:77:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[31]へびをやっつけて/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[31]へびをやっつけて/[3]報酬_表示テキスト
+10\\udb[15:0:18]＆\\udb[4:77:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 ザ・コロシアム
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[32]ザ・コロシアム/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[32]ザ・コロシアム/[0]クエスト名
+The Coliseum
 > END STRING
 
 > BEGIN STRING
 闘技大会主催連盟
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[32]ザ・コロシアム/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[32]ザ・コロシアム/[1]依頼人
+Contest organizer Federation
 > END STRING
 
 > BEGIN STRING
 闘技大会に優勝
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[32]ザ・コロシアム/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[32]ザ・コロシアム/[2]目標
+It won the competition tournament
 > END STRING
 
 > BEGIN STRING
 25000\\udb[15:0:18]＆\\udb[3:99:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[32]ザ・コロシアム/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[32]ザ・コロシアム/[3]報酬_表示テキスト
+25000\\udb[15:0:18]＆\\udb[3:99:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 剣士の夢守る旅
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[33]剣士の夢守る旅/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[33]剣士の夢守る旅/[0]クエスト名
+Dream protect journey of swordsman
 > END STRING
 
 > BEGIN STRING
 サバメ
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[33]剣士の夢守る旅/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[33]剣士の夢守る旅/[1]依頼人
+Sabame
 > END STRING
 
 > BEGIN STRING
 21000\\udb[15:0:18]＆\\udb[2:9:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[33]剣士の夢守る旅/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[33]剣士の夢守る旅/[3]報酬_表示テキスト
+21000\\udb[15:0:18]＆\\udb[2:9:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 塵も積もれば
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[34]塵も積もれば/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[34]塵も積もれば/[0]クエスト名
+The dust also Piled
 > END STRING
 
 > BEGIN STRING
 卑劣な女戦士
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[34]塵も積もれば/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[34]塵も積もれば/[1]依頼人
+Sneaky woman warrior
 > END STRING
 
 > BEGIN STRING
 60Hitの達成
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[34]塵も積もれば/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[34]塵も積もれば/[2]目標
+Achievement of 60Hit
 > END STRING
 
 > BEGIN STRING
 24000\\udb[15:0:18]＆\\udb[4:78:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[34]塵も積もれば/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[34]塵も積もれば/[3]報酬_表示テキスト
+24000\\udb[15:0:18]＆\\udb[4:78:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 続々・無傷のススメ
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[35]続々・無傷のススメ/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[35]続々・無傷のススメ/[0]クエスト名
+One after another - intact recommend
 > END STRING
 
 > BEGIN STRING
 邪悪な女戦士
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[35]続々・無傷のススメ/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[35]続々・無傷のススメ/[1]依頼人
+Evil woman warrior
 > END STRING
 
 > BEGIN STRING
 60000\\udb[15:0:18]
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[35]続々・無傷のススメ/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[35]続々・無傷のススメ/[3]報酬_表示テキスト
+60000\\udb[15:0:18]
 > END STRING
 
 > BEGIN STRING
 スピードスター
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[36]スピードスター/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[36]スピードスター/[0]クエスト名
+Speed Star
 > END STRING
 
 > BEGIN STRING
 姑息な女戦士
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[36]スピードスター/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[36]スピードスター/[1]依頼人
+Temporizing woman warrior
 > END STRING
 
 > BEGIN STRING
 24000\\udb[15:0:18]＆\\udb[4:84:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[36]スピードスター/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[36]スピードスター/[3]報酬_表示テキスト
+24000\\udb[15:0:18]＆\\udb[4:84:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 白灰忍法帳
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[37]白灰忍法帳/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[37]白灰忍法帳/[0]クエスト名
+Shirohai Ninpou book
 > END STRING
 
 > BEGIN STRING
 悩む商人
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[37]白灰忍法帳/[1]依頼人 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[37]白灰忍法帳/[1]依頼人
+Merchant suffering
 > END STRING
 
 > BEGIN STRING
 くノ一たちの撃退
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[37]白灰忍法帳/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[37]白灰忍法帳/[2]目標
+Repel of Kunoichi us
 > END STRING
 
 > BEGIN STRING
 14000\\udb[15:0:18]＆\\udb[2:5:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[37]白灰忍法帳/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[37]白灰忍法帳/[3]報酬_表示テキスト
+14000\\udb[15:0:18]＆\\udb[2:5:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 総力戦
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[38]総力戦/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[38]総力戦/[0]クエスト名
+Total war
 > END STRING
 
 > BEGIN STRING
 55000\\udb[15:0:18]＆\\udb[4:85:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[38]総力戦/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[38]総力戦/[3]報酬_表示テキスト
+55000\\udb[15:0:18]＆\\udb[4:85:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 憧れの百連斬
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[40]憧れの百連斬/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[40]憧れの百連斬/[0]クエスト名
+Zan longing of hundred series
 > END STRING
 
 > BEGIN STRING
 100Hitの達成
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[40]憧れの百連斬/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[40]憧れの百連斬/[2]目標
+Achievement of 100Hit
 > END STRING
 
 > BEGIN STRING
 50000\\udb[15:0:18]＆\\udb[4:80:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[40]憧れの百連斬/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[40]憧れの百連斬/[3]報酬_表示テキスト
+50000\\udb[15:0:18]＆\\udb[4:80:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 極限への挑戦
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[41]極限への挑戦/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[41]極限への挑戦/[0]クエスト名
+Challenge to the extreme
 > END STRING
 
 > BEGIN STRING
 一度の攻撃で50000ダメージを達成する
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[41]極限への挑戦/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[41]極限への挑戦/[2]目標
+To achieve 50,000 damage in one attack
 > END STRING
 
 > BEGIN STRING
 50000\\udb[15:0:18]＆\\udb[3:98:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[41]極限への挑戦/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[41]極限への挑戦/[3]報酬_表示テキスト
+50000\\udb[15:0:18]＆\\udb[3:98:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 無限への挑戦
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[42]無限への挑戦/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[42]無限への挑戦/[0]クエスト名
+Challenge to infinity
 > END STRING
 
 > BEGIN STRING
 一度の攻撃で100000ダメージを達成する
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[42]無限への挑戦/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[42]無限への挑戦/[2]目標
+To achieve 100,000 damage in a single attack
 > END STRING
 
 > BEGIN STRING
 100000\\udb[15:0:18]＆\\udb[3:105:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[42]無限への挑戦/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[42]無限への挑戦/[3]報酬_表示テキスト
+100000\\udb[15:0:18]＆\\udb[3:105:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 くノ一・脅威の変化術
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[43]くノ一・脅威の変化術/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[43]くノ一・脅威の変化術/[0]クエスト名
+Kunoichi-threat surgery of change
 > END STRING
 
 > BEGIN STRING
 くノ一が変化した敵の撃退
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[43]くノ一・脅威の変化術/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[43]くノ一・脅威の変化術/[2]目標
+Repel enemy Kunoichi has changed
 > END STRING
 
 > BEGIN STRING
 40000\\udb[15:0:18]＆\\udb[3:102:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[43]くノ一・脅威の変化術/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[43]くノ一・脅威の変化術/[3]報酬_表示テキスト
+40000\\udb[15:0:18]＆\\udb[3:102:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 はじめての…
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[44]はじめての…/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[44]はじめての…/[0]クエスト名
+The first time of the ...
 > END STRING
 
 > BEGIN STRING
 リチア姫のお願いをきく
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[44]はじめての…/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[44]はじめての…/[2]目標
+Listen to ask of Lithia princess
 > END STRING
 
 > BEGIN STRING
 \\udb[4:100:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[44]はじめての…/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[44]はじめての…/[3]報酬_表示テキスト
+\\udb[4:100:0] (first time only)
 > END STRING
 
 > BEGIN STRING
 スペシャルマッチ・完全防御
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[45]スペシャルマッチ・完全防御/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[45]スペシャルマッチ・完全防御/[0]クエスト名
+Special Match complete protection
 > END STRING
 
 > BEGIN STRING
 25000\\udb[15:0:18]＆\\udb[2:6:0]、\\udb[4:98:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[45]スペシャルマッチ・完全防御/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[45]スペシャルマッチ・完全防御/[3]報酬_表示テキスト
+25000\\udb[15:0:18]＆\\udb[2:6:0]、\\udb[4:98:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 スペシャルマッチ・ふたつの爪牙
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[46]スペシャルマッチ・ふたつの爪牙/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[46]スペシャルマッチ・ふたつの爪牙/[0]クエスト名
+Special match two Soga
 > END STRING
 
 > BEGIN STRING
 70000\\udb[15:0:18]＆\\udb[3:109:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[46]スペシャルマッチ・ふたつの爪牙/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[46]スペシャルマッチ・ふたつの爪牙/[3]報酬_表示テキスト
+70000\\udb[15:0:18]＆\\udb[3:109:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 スペシャルマッチ・キハー大無限聖
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[47]スペシャルマッチ・キハー大無限聖/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[47]スペシャルマッチ・キハー大無限聖/[0]クエスト名
+Special match Kiha large infinite St.
 > END STRING
 
 > BEGIN STRING
 70000\\udb[15:0:18]＆\\udb[2:8:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[47]スペシャルマッチ・キハー大無限聖/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[47]スペシャルマッチ・キハー大無限聖/[3]報酬_表示テキスト
+70000\\udb[15:0:18]＆\\udb[2:8:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 スペシャルマッチ・翼の幻影
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[48]スペシャルマッチ・翼の幻影/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[48]スペシャルマッチ・翼の幻影/[0]クエスト名
+Illusion of special match-wing
 > END STRING
 
 > BEGIN STRING
 70000\\udb[15:0:18]＆\\udb[4:93:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[48]スペシャルマッチ・翼の幻影/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[48]スペシャルマッチ・翼の幻影/[3]報酬_表示テキスト
+70000\\udb[15:0:18]＆\\udb[4:93:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 スペシャルマッチ・同時に倒せ！
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[50]スペシャルマッチ・同時に倒せ！/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[50]スペシャルマッチ・同時に倒せ！/[0]クエスト名
+Special match at the same time Defeat!
 > END STRING
 
 > BEGIN STRING
 敵を全員同時に倒す
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[50]スペシャルマッチ・同時に倒せ！/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[50]スペシャルマッチ・同時に倒せ！/[2]目標
+Defeat the enemy all at the same time
 > END STRING
 
 > BEGIN STRING
 400000\\udb[15:0:18]＆\\udb[2:14:0](初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[50]スペシャルマッチ・同時に倒せ！/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[50]スペシャルマッチ・同時に倒せ！/[3]報酬_表示テキスト
+400000\\udb[15:0:18]＆\\udb[2:14:0](初回のみ)
 > END STRING
 
 > BEGIN STRING
 ラストワン
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[70]ラストワン/[0]クエスト名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[70]ラストワン/[0]クエスト名
+Last one
 > END STRING
 
 > BEGIN STRING
 敵を全員倒す
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[70]ラストワン/[2]目標 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[70]ラストワン/[2]目標
+Defeat all the enemies
 > END STRING
 
 > BEGIN STRING
 500000G＆魔戦矛パレードバスター(初回のみ)
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[70]ラストワン/[3]報酬_表示テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[70]ラストワン/[3]報酬_表示テキスト
+500000G & Magic game pike parade Buster (first time only)
 > END STRING

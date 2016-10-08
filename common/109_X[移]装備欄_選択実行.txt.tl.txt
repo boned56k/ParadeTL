@@ -1,0 +1,238 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+
+
+\\c[4]武器攻撃力：\\c[0]\\udb[3:\\cself[31]:8]　\\c[4]チャージ攻撃力：\\c[0]\\udb[3:\\cself[31]:40]
+\\c[4]気力消費量：\\c[0]\\udb[3:\\cself[31]:11]\\c[0]
+> CONTEXT COMMONEVENT:109/27/SetString < UNTRANSLATED
+
+
+\\c[4]Weapon attack force：\\c[0]\\udb[3:\\cself[31]:8]　\\c[4]Charge attack power：\\c[0]\\udb[3:\\cself[31]:40]
+\\c[4]Energy consumption：\\c[0]\\udb[3:\\cself[31]:11]\\c[0]
+> END STRING
+
+> BEGIN STRING
+　\\c[4]攻撃範囲：\\c[0]\\cself[50]\\c[0]
+> CONTEXT COMMONEVENT:109/30/SetString < UNTRANSLATED
+　\\c[4]Attack range：\\c[0]\\cself[50]\\c[0]
+> END STRING
+
+> BEGIN STRING
+近接
+> CONTEXT COMMONEVENT:109/34/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/280/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:623/33/SetString < UNTRANSLATED
+Proximity
+> END STRING
+
+> BEGIN STRING
+\\c[3]遠近両方\\c[0]
+> CONTEXT COMMONEVENT:109/37/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/283/SetString < UNTRANSLATED
+\\c[3]Perspective both\\c[0]
+> END STRING
+
+> BEGIN STRING
+　\\c[4]射程：\\c[0]\\cself[6]
+> CONTEXT COMMONEVENT:109/40/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/286/SetString < UNTRANSLATED
+　\\c[4]Firing range：\\c[0]\\cself[6]
+> END STRING
+
+> BEGIN STRING
+防御力無視　
+> CONTEXT COMMONEVENT:109/45/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/291/SetString < UNTRANSLATED
+Ignore defense force
+> END STRING
+
+> BEGIN STRING
+\\c[0]\\cself[6]
+> CONTEXT COMMONEVENT:109/51/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/297/SetString < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+右クリック攻撃あり
+> CONTEXT COMMONEVENT:109/55/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/301/SetString < UNTRANSLATED
+There right click attack
+> END STRING
+
+> BEGIN STRING
+(\\c[3]HP回復\\c[0])
+> CONTEXT COMMONEVENT:109/59/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/305/SetString < UNTRANSLATED
+(\\c[3]HP recovery\\c[0])
+> END STRING
+
+> BEGIN STRING
+(射程：近接)
+> CONTEXT COMMONEVENT:109/65/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/311/SetString < UNTRANSLATED
+(Range: Proximity)
+> END STRING
+
+> BEGIN STRING
+(射程：\\c[3]遠近両方\\c[0])
+> CONTEXT COMMONEVENT:109/68/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/314/SetString < UNTRANSLATED
+(Range：\\c[3]Perspective both\\c[0])
+> END STRING
+
+> BEGIN STRING
+\n\n
+> CONTEXT COMMONEVENT:109/93/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/288/SetString < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[0]防御力：\\c[3]＋\\cself[80]　
+> CONTEXT COMMONEVENT:109/99/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/353/SetString < UNTRANSLATED
+\\c[0]Defense power：\\c[3]＋\\cself[80]　
+> END STRING
+
+> BEGIN STRING
+\\c[0]防御力：\\c[2]\\cself[80]　
+> CONTEXT COMMONEVENT:109/102/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/356/SetString < UNTRANSLATED
+\\c[0]Defense power：\\c[2]\\cself[80]　
+> END STRING
+
+> BEGIN STRING
+\\c[0]ガード耐久値：\\c[3]＋\\cself[81]　
+> CONTEXT COMMONEVENT:109/112/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/366/SetString < UNTRANSLATED
+\\c[0]Guard endurance value：\\c[3]＋\\cself[81]　
+> END STRING
+
+> BEGIN STRING
+\\c[0]ガード耐久値：\\c[2]\\cself[81]　
+> CONTEXT COMMONEVENT:109/115/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/369/SetString < UNTRANSLATED
+\\c[0]Guard endurance value：\\c[2]\\cself[81]　
+> END STRING
+
+> BEGIN STRING
+\\c[0]攻撃力：\\c[3]＋\\cself[88]　
+> CONTEXT COMMONEVENT:109/126/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/380/SetString < UNTRANSLATED
+\\c[0]Offensive power：\\c[3]＋\\cself[88]　
+> END STRING
+
+> BEGIN STRING
+\\c[0]攻撃力：\\c[2]\\cself[88]　
+> CONTEXT COMMONEVENT:109/129/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/383/SetString < UNTRANSLATED
+\\c[0]Offensive power：\\c[2]\\cself[88]　
+> END STRING
+
+> BEGIN STRING
+\\c[0]敏捷性：\\c[3]＋\\cself[82]　
+> CONTEXT COMMONEVENT:109/148/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/402/SetString < UNTRANSLATED
+\\c[0]Agility：\\c[3]＋\\cself[82]　
+> END STRING
+
+> BEGIN STRING
+\\c[0]敏捷性：\\c[2]\\cself[82]　
+> CONTEXT COMMONEVENT:109/151/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/405/SetString < UNTRANSLATED
+\\c[0]Agility：\\c[2]\\cself[82]　
+> END STRING
+
+> BEGIN STRING
+\\c[0]与ダメージ：\\c[3]\\cself[83]％増加　
+> CONTEXT COMMONEVENT:109/170/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/424/SetString < UNTRANSLATED
+\\c[0]Given damage：\\c[3]\\cself[83]％increase
+> END STRING
+
+> BEGIN STRING
+\\c[0]与ダメージ：\\c[2]\\cself[83]％減少　
+> CONTEXT COMMONEVENT:109/174/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/428/SetString < UNTRANSLATED
+\\c[0]Given damage：\\c[2]\\cself[83]％Decrease
+> END STRING
+
+> BEGIN STRING
+\\c[0]被物理ダメージ：\\c[3]\\cself[84]％軽減　
+> CONTEXT COMMONEVENT:109/193/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/447/SetString < UNTRANSLATED
+\\c[0]The physical damage：\\c[3]\\cself[84]％Mitigation
+> END STRING
+
+> BEGIN STRING
+\\c[0]被物理ダメージ：\\c[2]\\cself[84]％増加　
+> CONTEXT COMMONEVENT:109/197/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/451/SetString < UNTRANSLATED
+\\c[0]The physical damage：\\c[2]\\cself[84]％increase
+> END STRING
+
+> BEGIN STRING
+\\c[0]被Hダメージ：\\c[3]\\cself[89]％軽減　
+> CONTEXT COMMONEVENT:109/216/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/470/SetString < UNTRANSLATED
+\\c[0]The H damage：\\c[3]\\cself[89]％Mitigation
+> END STRING
+
+> BEGIN STRING
+\\c[0]被Hダメージ：\\c[2]\\cself[89]％増加　
+> CONTEXT COMMONEVENT:109/220/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/474/SetString < UNTRANSLATED
+\\c[0]The H damage：\\c[2]\\cself[89]％increase
+> END STRING
+
+> BEGIN STRING
+\\c[0]チャージ攻撃力：\\c[3]＋\\cself[85]　
+> CONTEXT COMMONEVENT:109/239/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/493/SetString < UNTRANSLATED
+\\c[0]Charge attack power：\\c[3]＋\\cself[85]　
+> END STRING
+
+> BEGIN STRING
+\\c[0]チャージ攻撃力：\\c[2]\\cself[85]　
+> CONTEXT COMMONEVENT:109/242/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/496/SetString < UNTRANSLATED
+\\c[0]Charge attack power：\\c[2]\\cself[85]　
+> END STRING
+
+> BEGIN STRING
+\\c[0]気力消費量：\\c[2]＋\\cself[86]　
+> CONTEXT COMMONEVENT:109/261/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/515/SetString < UNTRANSLATED
+\\c[0]Energy consumption：\\c[2]＋\\cself[86]　
+> END STRING
+
+> BEGIN STRING
+\\c[0]気力消費量：\\c[3]\\cself[86]　
+> CONTEXT COMMONEVENT:109/264/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/518/SetString < UNTRANSLATED
+\\c[0]Energy consumption：\\c[3]\\cself[86]　
+> END STRING
+
+> BEGIN STRING
+\\c[0]状態異常発動率：\\c[3]\\cself[87]％増加　
+> CONTEXT COMMONEVENT:109/283/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/537/SetString < UNTRANSLATED
+\\c[0]State abnormal trigger percentage：\\c[3]\\cself[87]％increase
+> END STRING
+
+> BEGIN STRING
+\\c[0]状態異常発動率：\\c[2]\\cself[87]％減少　
+> CONTEXT COMMONEVENT:109/287/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/541/SetString < UNTRANSLATED
+\\c[0]State abnormal trigger percentage：\\c[2]\\cself[87]％Decrease　
+> END STRING
+
+> BEGIN STRING
+
+\\c[4]\\cself[6]
+> CONTEXT COMMONEVENT:109/298/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:112/552/SetString < UNTRANSLATED
+
+> END STRING

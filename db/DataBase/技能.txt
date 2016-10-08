@@ -2,545 +2,545 @@
 
 > BEGIN STRING
 防御
-> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
-> CONTEXT DB:DataBase/[0]技能/[25]防御/[0]技能の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[4]防御/[0]コマンド名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[8]状態設定/[5]防御/[0]状態名 < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/2/Choices
+> CONTEXT DB:DataBase/[0]技能/[25]防御/[0]技能の名前
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[4]防御/[0]コマンド名
+> CONTEXT DB:DataBase/[8]状態設定/[5]防御/[0]状態名
+defense
 > END STRING
 
 > BEGIN STRING
 カウンター
-> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
-> CONTEXT DB:DataBase/[0]技能/[29]カウンター/[0]技能の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[7]カウンター/[0]コマンド名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[8]状態設定/[11]カウンター/[0]状態名 < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/2/Choices
+> CONTEXT DB:DataBase/[0]技能/[29]カウンター/[0]技能の名前
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[7]カウンター/[0]コマンド名
+> CONTEXT DB:DataBase/[8]状態設定/[11]カウンター/[0]状態名
+counter
 > END STRING
 
 > BEGIN STRING
 通常攻撃（技能側）
-> CONTEXT DB:DataBase/[0]技能/[0]通常攻撃（技能側）/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[0]通常攻撃（技能側）/[0]技能の名前
+Normal attack (skill side)
 > END STRING
 
 > BEGIN STRING
 の攻撃！
-> CONTEXT DB:DataBase/[0]技能/[0]通常攻撃（技能側）/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[0]通常攻撃（技能側）/[3]使用時文章[戦闘](人名~
+Attack!
 > END STRING
 
 > BEGIN STRING
 --------------------
-> CONTEXT DB:DataBase/[0]技能/[1]--------------------/[0]技能の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[0]技能/[4]--------------------/[0]技能の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[0]技能/[15]--------------------/[0]技能の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[0]技能/[24]--------------------/[0]技能の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[0]技能/[32]--------------------/[0]技能の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[0]技能/[34]--------------------/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[1]--------------------/[0]技能の名前
+> CONTEXT DB:DataBase/[0]技能/[4]--------------------/[0]技能の名前
+> CONTEXT DB:DataBase/[0]技能/[15]--------------------/[0]技能の名前
+> CONTEXT DB:DataBase/[0]技能/[24]--------------------/[0]技能の名前
+> CONTEXT DB:DataBase/[0]技能/[32]--------------------/[0]技能の名前
+> CONTEXT DB:DataBase/[0]技能/[34]--------------------/[0]技能の名前
+--------------------
 > END STRING
 
 > BEGIN STRING
 ヒール
-> CONTEXT DB:DataBase/[0]技能/[2]ヒール/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[2]ヒール/[0]技能の名前
+Heel
 > END STRING
 
 > BEGIN STRING
 はヒールを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[2]ヒール/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[2]ヒール/[3]使用時文章[戦闘](人名~
+I have advocated the heel!
 > END STRING
 
 > BEGIN STRING
 ヒールレイン
-> CONTEXT DB:DataBase/[0]技能/[3]ヒールレイン/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[3]ヒールレイン/[0]技能の名前
+Heel Rain
 > END STRING
 
 > BEGIN STRING
 味方全員のHPを回復
-> CONTEXT DB:DataBase/[0]技能/[3]ヒールレイン/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[3]ヒールレイン/[1]説明
+Restore the HP of all allies
 > END STRING
 
 > BEGIN STRING
 はヒールレインを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[3]ヒールレイン/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[3]ヒールレイン/[3]使用時文章[戦闘](人名~
+It was cast heel rain!
 > END STRING
 
 > BEGIN STRING
 ファイアーボール
-> CONTEXT DB:DataBase/[0]技能/[5]ファイアーボール/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[5]ファイアーボール/[0]技能の名前
+Fast Company
 > END STRING
 
 > BEGIN STRING
 敵一体に炎の魔法攻撃
-> CONTEXT DB:DataBase/[0]技能/[5]ファイアーボール/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[5]ファイアーボール/[1]説明
+Magic attack of the enemy on earth in flames
 > END STRING
 
 > BEGIN STRING
 はファイアーボールを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[5]ファイアーボール/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[5]ファイアーボール/[3]使用時文章[戦闘](人名~
+He has advocated a fireball!
 > END STRING
 
 > BEGIN STRING
 フレイムピラー
-> CONTEXT DB:DataBase/[0]技能/[6]フレイムピラー/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[6]フレイムピラー/[0]技能の名前
+Flame pillar
 > END STRING
 
 > BEGIN STRING
 敵全体に火柱で魔法攻撃
-> CONTEXT DB:DataBase/[0]技能/[6]フレイムピラー/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[6]フレイムピラー/[1]説明
+Magic attack on the pillar of fire to the entire enemy
 > END STRING
 
 > BEGIN STRING
 はフレイムピラーを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[6]フレイムピラー/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[6]フレイムピラー/[3]使用時文章[戦闘](人名~
+It was cast Flame pillar!
 > END STRING
 
 > BEGIN STRING
 アイスエッジ
-> CONTEXT DB:DataBase/[0]技能/[7]アイスエッジ/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[7]アイスエッジ/[0]技能の名前
+Ice edge
 > END STRING
 
 > BEGIN STRING
 敵一体に強力な氷刃攻撃
-> CONTEXT DB:DataBase/[0]技能/[7]アイスエッジ/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[7]アイスエッジ/[1]説明
+Powerful ice blade attack the enemy on earth
 > END STRING
 
 > BEGIN STRING
 はアイスエッジを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[7]アイスエッジ/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[7]アイスエッジ/[3]使用時文章[戦闘](人名~
+I have advocated the ice edge!
 > END STRING
 
 > BEGIN STRING
 ストーンフォール
-> CONTEXT DB:DataBase/[0]技能/[8]ストーンフォール/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[8]ストーンフォール/[0]技能の名前
+Stone Fall
 > END STRING
 
 > BEGIN STRING
 ランダムな敵３体に岩を落として攻撃
-> CONTEXT DB:DataBase/[0]技能/[8]ストーンフォール/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[8]ストーンフォール/[1]説明
+Attack drop the rock to a random enemy three-body
 > END STRING
 
 > BEGIN STRING
 はストーンフォールを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[8]ストーンフォール/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[8]ストーンフォール/[3]使用時文章[戦闘](人名~
+Was cast stone Fall!
 > END STRING
 
 > BEGIN STRING
 ライトニング
-> CONTEXT DB:DataBase/[0]技能/[9]ライトニング/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[9]ライトニング/[0]技能の名前
+Lightning
 > END STRING
 
 > BEGIN STRING
 敵一体に強烈な稲妻攻撃
-> CONTEXT DB:DataBase/[0]技能/[9]ライトニング/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[9]ライトニング/[1]説明
+Intense lightning attack the enemy on earth
 > END STRING
 
 > BEGIN STRING
 はライトニングを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[9]ライトニング/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[9]ライトニング/[3]使用時文章[戦闘](人名~
+Was cast Lightning!
 > END STRING
 
 > BEGIN STRING
 エネルギーボルト
-> CONTEXT DB:DataBase/[0]技能/[10]エネルギーボルト/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[10]エネルギーボルト/[0]技能の名前
+Energy bolt
 > END STRING
 
 > BEGIN STRING
 敵一体に無属性攻撃
-> CONTEXT DB:DataBase/[0]技能/[10]エネルギーボルト/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[10]エネルギーボルト/[1]説明
+Non-attribute attack the enemy on earth
 > END STRING
 
 > BEGIN STRING
 はエネルギーボルトを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[10]エネルギーボルト/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[10]エネルギーボルト/[3]使用時文章[戦闘](人名~
+It advocated the energy bolt!
 > END STRING
 
 > BEGIN STRING
 ホーリー
-> CONTEXT DB:DataBase/[0]技能/[11]ホーリー/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[11]ホーリー/[0]技能の名前
+Holy
 > END STRING
 
 > BEGIN STRING
 敵全体に防御無視の神聖攻撃
-> CONTEXT DB:DataBase/[0]技能/[11]ホーリー/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[11]ホーリー/[1]説明
+Sacred attack of defense ignored the entire enemy
 > END STRING
 
 > BEGIN STRING
 はホーリーを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[11]ホーリー/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[11]ホーリー/[3]使用時文章[戦闘](人名~
+I was chanting Holy!
 > END STRING
 
 > BEGIN STRING
 ジャッジメント
-> CONTEXT DB:DataBase/[0]技能/[12]ジャッジメント/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[12]ジャッジメント/[0]技能の名前
+Judgement
 > END STRING
 
 > BEGIN STRING
 敵一体に防御無視の最強神聖攻撃
-> CONTEXT DB:DataBase/[0]技能/[12]ジャッジメント/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[12]ジャッジメント/[1]説明
+Strongest sacred attack of defense ignored the enemy on earth
 > END STRING
 
 > BEGIN STRING
 は神の裁きを下した！
-> CONTEXT DB:DataBase/[0]技能/[12]ジャッジメント/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[12]ジャッジメント/[3]使用時文章[戦闘](人名~
+It defeated the judgment of God!
 > END STRING
 
 > BEGIN STRING
 ダークスフィア
-> CONTEXT DB:DataBase/[0]技能/[13]ダークスフィア/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[13]ダークスフィア/[0]技能の名前
+Dark Sphere
 > END STRING
 
 > BEGIN STRING
 敵全体に、威力の変動が大きい暗黒攻撃
-> CONTEXT DB:DataBase/[0]技能/[13]ダークスフィア/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[13]ダークスフィア/[1]説明
+To the entire enemy, change of power is large dark attack
 > END STRING
 
 > BEGIN STRING
 はダークスフィアを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[13]ダークスフィア/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[13]ダークスフィア/[3]使用時文章[戦闘](人名~
+I was chanting Dark Sphere!
 > END STRING
 
 > BEGIN STRING
 スターフォール
-> CONTEXT DB:DataBase/[0]技能/[14]スターフォール/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[14]スターフォール/[0]技能の名前
+Stars Fall
 > END STRING
 
 > BEGIN STRING
 ランダムな敵一体に無属性の大ダメージ
-> CONTEXT DB:DataBase/[0]技能/[14]スターフォール/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[14]スターフォール/[1]説明
+Large damage of non-attribute to a random enemy on earth
 > END STRING
 
 > BEGIN STRING
 はスターフォールを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[14]スターフォール/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[14]スターフォール/[3]使用時文章[戦闘](人名~
+It was cast Star Fall!
 > END STRING
 
 > BEGIN STRING
 サイレンス
-> CONTEXT DB:DataBase/[0]技能/[16]サイレンス/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[16]サイレンス/[0]技能の名前
+silence
 > END STRING
 
 > BEGIN STRING
 敵全体の魔法系技能を封印する
-> CONTEXT DB:DataBase/[0]技能/[16]サイレンス/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[16]サイレンス/[1]説明
+Seal the magic-based skills of the entire enemy
 > END STRING
 
 > BEGIN STRING
 はサイレンスを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[16]サイレンス/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[16]サイレンス/[3]使用時文章[戦闘](人名~
+I have advocated the silence!
 > END STRING
 
 > BEGIN STRING
 には効果がなかった！
-> CONTEXT DB:DataBase/[0]技能/[16]サイレンス/[4]失敗時文章[(対象)～] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[16]サイレンス/[4]失敗時文章[(対象)～]
+There was no effect on!
 > END STRING
 
 > BEGIN STRING
 パラライズ
-> CONTEXT DB:DataBase/[0]技能/[17]パラライズ/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[17]パラライズ/[0]技能の名前
+Paralyze
 > END STRING
 
 > BEGIN STRING
 敵一体をマヒさせる
-> CONTEXT DB:DataBase/[0]技能/[17]パラライズ/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[17]パラライズ/[1]説明
+Paralyze the enemy on earth
 > END STRING
 
 > BEGIN STRING
 はパラライズを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[17]パラライズ/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[17]パラライズ/[3]使用時文章[戦闘](人名~
+It was cast paralyze!
 > END STRING
 
 > BEGIN STRING
 イリュージョン
-> CONTEXT DB:DataBase/[0]技能/[18]イリュージョン/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[18]イリュージョン/[0]技能の名前
+Illusion
 > END STRING
 
 > BEGIN STRING
 敵一体を命中率低下
-> CONTEXT DB:DataBase/[0]技能/[18]イリュージョン/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[18]イリュージョン/[1]説明
+Accuracy reduce the enemy on earth
 > END STRING
 
 > BEGIN STRING
 はイリュージョンを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[18]イリュージョン/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[18]イリュージョン/[3]使用時文章[戦闘](人名~
+I have advocated the illusion!
 > END STRING
 
 > BEGIN STRING
 ポイズンミスト
-> CONTEXT DB:DataBase/[0]技能/[19]ポイズンミスト/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[19]ポイズンミスト/[0]技能の名前
+Poison mist
 > END STRING
 
 > BEGIN STRING
 敵全体を毒にする
-> CONTEXT DB:DataBase/[0]技能/[19]ポイズンミスト/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[19]ポイズンミスト/[1]説明
+The entire enemy to poison
 > END STRING
 
 > BEGIN STRING
 はポイズンミストを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[19]ポイズンミスト/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[19]ポイズンミスト/[3]使用時文章[戦闘](人名~
+I was cast poison mist!
 > END STRING
 
 > BEGIN STRING
 ガードブレイク
-> CONTEXT DB:DataBase/[0]技能/[20]ガードブレイク/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[20]ガードブレイク/[0]技能の名前
+Guard Blake
 > END STRING
 
 > BEGIN STRING
 敵一体の防御力をダウンさせる
-> CONTEXT DB:DataBase/[0]技能/[20]ガードブレイク/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[20]ガードブレイク/[1]説明
+Bring down the defense forces of the enemy on earth
 > END STRING
 
 > BEGIN STRING
 はガードブレイクを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[20]ガードブレイク/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[20]ガードブレイク/[3]使用時文章[戦闘](人名~
+He has advocated a guard break!
 > END STRING
 
 > BEGIN STRING
 パワーアップ
-> CONTEXT DB:DataBase/[0]技能/[21]パワーアップ/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[21]パワーアップ/[0]技能の名前
+Power up
 > END STRING
 
 > BEGIN STRING
 味方一人の攻撃力を上昇させる
-> CONTEXT DB:DataBase/[0]技能/[21]パワーアップ/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[21]パワーアップ/[1]説明
+Raise the ally one of the attack force
 > END STRING
 
 > BEGIN STRING
 はパワーアップを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[21]パワーアップ/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[21]パワーアップ/[3]使用時文章[戦闘](人名~
+It has advocated the power-up!
 > END STRING
 
 > BEGIN STRING
 オーラシールド
-> CONTEXT DB:DataBase/[0]技能/[22]オーラシールド/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[22]オーラシールド/[0]技能の名前
+Aura shield
 > END STRING
 
 > BEGIN STRING
 味方一人の、敵から受ける物理ダメージを半減
-> CONTEXT DB:DataBase/[0]技能/[22]オーラシールド/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[22]オーラシールド/[1]説明
+Ally of one person, the physical damage received from enemy half
 > END STRING
 
 > BEGIN STRING
 はオーラシールドを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[22]オーラシールド/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[22]オーラシールド/[3]使用時文章[戦闘](人名~
+Cast an aura shield!
 > END STRING
 
 > BEGIN STRING
 スピードアップ
-> CONTEXT DB:DataBase/[0]技能/[23]スピードアップ/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[23]スピードアップ/[0]技能の名前
+speed up
 > END STRING
 
 > BEGIN STRING
 味方一人の速度・回避率を上昇させる
-> CONTEXT DB:DataBase/[0]技能/[23]スピードアップ/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[23]スピードアップ/[1]説明
+Raise the ally one speed and evasion rate of
 > END STRING
 
 > BEGIN STRING
 はスピードアップを唱えた！
-> CONTEXT DB:DataBase/[0]技能/[23]スピードアップ/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[23]スピードアップ/[3]使用時文章[戦闘](人名~
+It has advocated to speed up!
 > END STRING
 
 > BEGIN STRING
 敵のダメージを数ターン1/4にする。
-> CONTEXT DB:DataBase/[0]技能/[25]防御/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[25]防御/[1]説明
+The damage of the enemy in several turns 1/4.
 > END STRING
 
 > BEGIN STRING
 は身を守っている！
-> CONTEXT DB:DataBase/[0]技能/[25]防御/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[25]防御/[3]使用時文章[戦闘](人名~
+And protect themselves is!
 > END STRING
 
 > BEGIN STRING
 力ため
-> CONTEXT DB:DataBase/[0]技能/[26]力ため/[0]技能の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[3]力ため/[0]コマンド名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[8]状態設定/[7]力ため/[0]状態名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[26]力ため/[0]技能の名前
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[3]力ため/[0]コマンド名
+> CONTEXT DB:DataBase/[8]状態設定/[7]力ため/[0]状態名
+Force for
 > END STRING
 
 > BEGIN STRING
 力を溜めて、次の攻撃の威力を増す。
-> CONTEXT DB:DataBase/[0]技能/[26]力ため/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[26]力ため/[1]説明
+And reservoir power, increase the power of the next attack.
 > END STRING
 
 > BEGIN STRING
 全体攻撃
-> CONTEXT DB:DataBase/[0]技能/[27]全体攻撃/[0]技能の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[12]全体攻撃/[0]コマンド名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[27]全体攻撃/[0]技能の名前
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[12]全体攻撃/[0]コマンド名
+The entire attack
 > END STRING
 
 > BEGIN STRING
 威力が低めの全体攻撃を行う。
-> CONTEXT DB:DataBase/[0]技能/[27]全体攻撃/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[27]全体攻撃/[1]説明
+Power makes a lower overall attack.
 > END STRING
 
 > BEGIN STRING
 の全体攻撃！
-> CONTEXT DB:DataBase/[0]技能/[27]全体攻撃/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[27]全体攻撃/[3]使用時文章[戦闘](人名~
+The entire attack!
 > END STRING
 
 > BEGIN STRING
 隠れる
-> CONTEXT DB:DataBase/[0]技能/[28]隠れる/[0]技能の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[5]隠れる/[0]コマンド名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[8]状態設定/[6]隠れる/[0]状態名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[28]隠れる/[0]技能の名前
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[5]隠れる/[0]コマンド名
+> CONTEXT DB:DataBase/[8]状態設定/[6]隠れる/[0]状態名
+hide
 > END STRING
 
 > BEGIN STRING
 隠れることで、敵からの単体攻撃を受けなくなる。
-> CONTEXT DB:DataBase/[0]技能/[28]隠れる/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[28]隠れる/[1]説明
+By hiding, it will not receive a single attack from the enemy.
 > END STRING
 
 > BEGIN STRING
 は隠れた！
-> CONTEXT DB:DataBase/[0]技能/[28]隠れる/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[28]隠れる/[3]使用時文章[戦闘](人名~
+It was hidden!
 > END STRING
 
 > BEGIN STRING
 は迎撃の構えを取った！
-> CONTEXT DB:DataBase/[0]技能/[29]カウンター/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[29]カウンター/[3]使用時文章[戦闘](人名~
+It took the stance of interception!
 > END STRING
 
 > BEGIN STRING
 強斬り
-> CONTEXT DB:DataBase/[0]技能/[30]強斬り/[0]技能の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[6]強斬り/[0]コマンド名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[30]強斬り/[0]技能の名前
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[6]強斬り/[0]コマンド名
+Sword strength
 > END STRING
 
 > BEGIN STRING
 威力の高い斬り攻撃。HPを10消費する。
-> CONTEXT DB:DataBase/[0]技能/[30]強斬り/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[30]強斬り/[1]説明
+Power high sword attack. HP to consume 10.
 > END STRING
 
 > BEGIN STRING
 の強斬り！
-> CONTEXT DB:DataBase/[0]技能/[30]強斬り/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[30]強斬り/[3]使用時文章[戦闘](人名~
+The strength of the sword!
 > END STRING
 
 > BEGIN STRING
 には当たらなかった！
-> CONTEXT DB:DataBase/[0]技能/[30]強斬り/[4]失敗時文章[(対象)～] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[30]強斬り/[4]失敗時文章[(対象)～]
+It did not come as a!
 > END STRING
 
 > BEGIN STRING
 マシンガン攻撃
-> CONTEXT DB:DataBase/[0]技能/[35]マシンガン攻撃/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[35]マシンガン攻撃/[0]技能の名前
+Machine gun attack
 > END STRING
 
 > BEGIN STRING
 はマシンガンを乱射した！
-> CONTEXT DB:DataBase/[0]技能/[35]マシンガン攻撃/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[35]マシンガン攻撃/[3]使用時文章[戦闘](人名~
+Was spree a machine gun!
 > END STRING
 
 > BEGIN STRING
 ファイアーブレス
-> CONTEXT DB:DataBase/[0]技能/[36]ファイアーブレス/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[36]ファイアーブレス/[0]技能の名前
+Fire Breath
 > END STRING
 
 > BEGIN STRING
 敵全体に炎の息を吹きかける。
-> CONTEXT DB:DataBase/[0]技能/[36]ファイアーブレス/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[36]ファイアーブレス/[1]説明
+Blowing breath of flame to the entire enemy.
 > END STRING
 
 > BEGIN STRING
 のファイアーブレス！
-> CONTEXT DB:DataBase/[0]技能/[36]ファイアーブレス/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[36]ファイアーブレス/[3]使用時文章[戦闘](人名~
+Fire breath!
 > END STRING
 
 > BEGIN STRING
 カポエラキック(技能側)
-> CONTEXT DB:DataBase/[0]技能/[37]カポエラキック(技能側)/[0]技能の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[37]カポエラキック(技能側)/[0]技能の名前
+Capoeira kick (skill side)
 > END STRING
 
 > BEGIN STRING
 HPを5消費してダメージ2倍の攻撃をする
-> CONTEXT DB:DataBase/[0]技能/[37]カポエラキック(技能側)/[1]説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[37]カポエラキック(技能側)/[1]説明
+The damage twice the attack by the HP 5 to consumption
 > END STRING
 
 > BEGIN STRING
 「喰らえぇぇぇいカポエラキーック！！」
-> CONTEXT DB:DataBase/[0]技能/[37]カポエラキック(技能側)/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[0]技能/[37]カポエラキック(技能側)/[3]使用時文章[戦闘](人名~
+"Kuraeeeei Capoeira kick !!"
 > END STRING

@@ -2,60 +2,60 @@
 
 > BEGIN STRING
 マイセット1
-> CONTEXT DB:CDataBase/[31]装備マイセット/[0]マイセット1/[0]マイセット名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[31]装備マイセット/[0]マイセット1/[0]マイセット名
+My set 1
 > END STRING
 
 > BEGIN STRING
 マイセット2
-> CONTEXT DB:CDataBase/[31]装備マイセット/[1]マイセット2/[0]マイセット名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[31]装備マイセット/[1]マイセット2/[0]マイセット名
+My set 2
 > END STRING
 
 > BEGIN STRING
 マイセット3
-> CONTEXT DB:CDataBase/[31]装備マイセット/[2]マイセット3/[0]マイセット名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[31]装備マイセット/[2]マイセット3/[0]マイセット名
+My set 3
 > END STRING
 
 > BEGIN STRING
 マイセット4
-> CONTEXT DB:CDataBase/[31]装備マイセット/[3]マイセット4/[0]マイセット名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[31]装備マイセット/[3]マイセット4/[0]マイセット名
+My set 4
 > END STRING
 
 > BEGIN STRING
 マイセット5
-> CONTEXT DB:CDataBase/[31]装備マイセット/[4]マイセット5/[0]マイセット名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[31]装備マイセット/[4]マイセット5/[0]マイセット名
+My set 5
 > END STRING
 
 > BEGIN STRING
 マイセット6
-> CONTEXT DB:CDataBase/[31]装備マイセット/[5]マイセット6/[0]マイセット名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[31]装備マイセット/[5]マイセット6/[0]マイセット名
+My set 6
 > END STRING
 
 > BEGIN STRING
 マイセット7
-> CONTEXT DB:CDataBase/[31]装備マイセット/[6]マイセット7/[0]マイセット名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[31]装備マイセット/[6]マイセット7/[0]マイセット名
+My set 7
 > END STRING
 
 > BEGIN STRING
 マイセット8
-> CONTEXT DB:CDataBase/[31]装備マイセット/[7]マイセット8/[0]マイセット名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[31]装備マイセット/[7]マイセット8/[0]マイセット名
+My set 8
 > END STRING
 
 > BEGIN STRING
 マイセット9
-> CONTEXT DB:CDataBase/[31]装備マイセット/[8]マイセット9/[0]マイセット名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[31]装備マイセット/[8]マイセット9/[0]マイセット名
+My set 9
 > END STRING
 
 > BEGIN STRING
 マイセット10
-> CONTEXT DB:CDataBase/[31]装備マイセット/[9]マイセット10/[0]マイセット名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[31]装備マイセット/[9]マイセット10/[0]マイセット名
+My set 10
 > END STRING

@@ -2,432 +2,432 @@
 
 > BEGIN STRING
 ★解錠心得
-> CONTEXT DB:DataBase/[2]アイテム/[0]★解錠心得/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[0]★解錠心得/[0]アイテム名
+★ unlocking knowledge
 > END STRING
 
 > BEGIN STRING
 ★回復強化
-> CONTEXT DB:DataBase/[2]アイテム/[1]★回復強化/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[1]★回復強化/[0]アイテム名
+★ recovery strengthening
 > END STRING
 
 > BEGIN STRING
 ★獲得金増加
-> CONTEXT DB:DataBase/[2]アイテム/[2]★獲得金増加/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[2]★獲得金増加/[0]アイテム名
+★ winnings increase
 > END STRING
 
 > BEGIN STRING
 ★女装心得
-> CONTEXT DB:DataBase/[2]アイテム/[3]★女装心得/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[3]★女装心得/[0]アイテム名
+★ transvestite knowledge
 > END STRING
 
 > BEGIN STRING
 ★暗闘心得
-> CONTEXT DB:DataBase/[2]アイテム/[4]★暗闘心得/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[4]★暗闘心得/[0]アイテム名
+★ secret feud knowledge
 > END STRING
 
 > BEGIN STRING
 ★値引き交渉術
-> CONTEXT DB:DataBase/[2]アイテム/[5]★値引き交渉術/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[5]★値引き交渉術/[0]アイテム名
+★ discount negotiation technique
 > END STRING
 
 > BEGIN STRING
 ★効果的な服用
-> CONTEXT DB:DataBase/[2]アイテム/[6]★効果的な服用/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[6]★効果的な服用/[0]アイテム名
+★ effective dosing
 > END STRING
 
 > BEGIN STRING
 ★魔神の祝福
-> CONTEXT DB:DataBase/[2]アイテム/[7]★魔神の祝福/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[7]★魔神の祝福/[0]アイテム名
+★ blessing of Genie
 > END STRING
 
 > BEGIN STRING
 ★不屈の精神
-> CONTEXT DB:DataBase/[2]アイテム/[8]★不屈の精神/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[8]★不屈の精神/[0]アイテム名
+★ fortitude
 > END STRING
 
 > BEGIN STRING
 ★覇者の心得
-> CONTEXT DB:DataBase/[2]アイテム/[9]★覇者の心得/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[9]★覇者の心得/[0]アイテム名
+★ knowledge of champion
 > END STRING
 
 > BEGIN STRING
 ◆◆◆アイテム無し◆◆◆
-> CONTEXT DB:DataBase/[2]アイテム/[10]◆◆◆アイテム無し◆◆◆/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[10]◆◆◆アイテム無し◆◆◆/[0]アイテム名
+◆◆◆ items without ◆◆◆
 > END STRING
 
 > BEGIN STRING
 ★闘争の翼
-> CONTEXT DB:DataBase/[2]アイテム/[11]★闘争の翼/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[11]★闘争の翼/[0]アイテム名
+★ of struggle wing
 > END STRING
 
 > BEGIN STRING
 ★仙府への翼
-> CONTEXT DB:DataBase/[2]アイテム/[12]★仙府への翼/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[12]★仙府への翼/[0]アイテム名
+★ wings to Sen Office
 > END STRING
 
 > BEGIN STRING
 ★破天の翼
-> CONTEXT DB:DataBase/[2]アイテム/[13]★破天の翼/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[13]★破天の翼/[0]アイテム名
+★ Yabuten wings
 > END STRING
 
 > BEGIN STRING
 ★どくどく
-> CONTEXT DB:DataBase/[2]アイテム/[14]★どくどく/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[14]★どくどく/[0]アイテム名
+★ gushing
 > END STRING
 
 > BEGIN STRING
 ★プレッシャー
-> CONTEXT DB:DataBase/[2]アイテム/[16]★プレッシャー/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[16]★プレッシャー/[0]アイテム名
+★ pressure
 > END STRING
 
 > BEGIN STRING
 ★土壇場
-> CONTEXT DB:DataBase/[2]アイテム/[17]★土壇場/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[17]★土壇場/[0]アイテム名
+★ last minute
 > END STRING
 
 > BEGIN STRING
 ★絶対的自信
-> CONTEXT DB:DataBase/[2]アイテム/[18]★絶対的自信/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[18]★絶対的自信/[0]アイテム名
+★ absolute confidence
 > END STRING
 
 > BEGIN STRING
 WOLF RPGエディター
-> CONTEXT DB:DataBase/[2]アイテム/[20]WOLF RPGエディター/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[20]WOLF RPGエディター/[0]アイテム名
+WOLF RPG Editor
 > END STRING
 
 > BEGIN STRING
 全体攻撃君
-> CONTEXT DB:DataBase/[2]アイテム/[21]全体攻撃君/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[21]全体攻撃君/[0]アイテム名
+The entire attack you
 > END STRING
 
 > BEGIN STRING
 HP消費して敵全体を攻撃する
-> CONTEXT DB:DataBase/[2]アイテム/[21]全体攻撃君/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[21]全体攻撃君/[1]説明文[2行まで可]
+To attack the entire enemy to HP consumption
 > END STRING
 
 > BEGIN STRING
 の全体攻撃君！
-> CONTEXT DB:DataBase/[2]アイテム/[21]全体攻撃君/[3]使用時文章[戦](人名~ < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[21]全体攻撃君/[3]使用時文章[戦](人名~
+The entire attack kun!
 > END STRING
 
 > BEGIN STRING
 ヒールの巻物
-> CONTEXT DB:DataBase/[2]アイテム/[22]ヒールの巻物/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[22]ヒールの巻物/[0]アイテム名
+Heel of the scroll
 > END STRING
 
 > BEGIN STRING
 「ヒール」と同じ効果を発揮する
-> CONTEXT DB:DataBase/[2]アイテム/[22]ヒールの巻物/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[22]ヒールの巻物/[1]説明文[2行まで可]
+Exert the same effect as the "heel"
 > END STRING
 
 > BEGIN STRING
 ★夢幻のオーブ
-> CONTEXT DB:DataBase/[2]アイテム/[24]★夢幻のオーブ/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[24]★夢幻のオーブ/[0]アイテム名
+★ Phantom Orb
 > END STRING
 
 > BEGIN STRING
 ★夢幻の勾玉
-> CONTEXT DB:DataBase/[2]アイテム/[25]★夢幻の勾玉/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[25]★夢幻の勾玉/[0]アイテム名
+★ Phantom jewels
 > END STRING
 
 > BEGIN STRING
 ★夢幻の聖杯
-> CONTEXT DB:DataBase/[2]アイテム/[26]★夢幻の聖杯/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[26]★夢幻の聖杯/[0]アイテム名
+★ Phantom of the Holy Grail
 > END STRING
 
 > BEGIN STRING
 宝玉
-> CONTEXT DB:DataBase/[2]アイテム/[49]宝玉/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[49]宝玉/[0]アイテム名
+Jewel
 > END STRING
 
 > BEGIN STRING
 巨大な宝玉。値段のつけようがない超高級品だ。
-> CONTEXT DB:DataBase/[2]アイテム/[49]宝玉/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[49]宝玉/[1]説明文[2行まで可]
+Huge gem. You do not have put so price ultra-luxury goods.
 > END STRING
 
 > BEGIN STRING
 パックジュエル
-> CONTEXT DB:DataBase/[2]アイテム/[50]パックジュエル/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[50]パックジュエル/[0]アイテム名
+Pack Gel
 > END STRING
 
 > BEGIN STRING
 回復薬
-> CONTEXT DB:DataBase/[2]アイテム/[51]回復薬/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[51]回復薬/[0]アイテム名
+Recovery agents
 > END STRING
 
 > BEGIN STRING
 HPを最大の30％ぶん回復する。
-> CONTEXT DB:DataBase/[2]アイテム/[51]回復薬/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[51]回復薬/[1]説明文[2行まで可]
+HP to recover up to 30% min.
 > END STRING
 
 > BEGIN STRING
 チーズケーキ
-> CONTEXT DB:DataBase/[2]アイテム/[52]チーズケーキ/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[52]チーズケーキ/[0]アイテム名
+Cheesecake
 > END STRING
 
 > BEGIN STRING
 HPを最大の10％ぶん回復する。
-> CONTEXT DB:DataBase/[2]アイテム/[52]チーズケーキ/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[52]チーズケーキ/[1]説明文[2行まで可]
+HP to recover up to 10% min.
 > END STRING
 
 > BEGIN STRING
 アップルパイ
-> CONTEXT DB:DataBase/[2]アイテム/[53]アップルパイ/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[53]アップルパイ/[0]アイテム名
+Apple Pie
 > END STRING
 
 > BEGIN STRING
 食べると30秒間与えるダメージが25％アップする。
-> CONTEXT DB:DataBase/[2]アイテム/[53]アップルパイ/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[53]アップルパイ/[1]説明文[2行まで可]
+Damage to eat when the 30 seconds is up 25 percent.
 > END STRING
 
 > BEGIN STRING
 スイートポテト
-> CONTEXT DB:DataBase/[2]アイテム/[54]スイートポテト/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[54]スイートポテト/[0]アイテム名
+sweet potato
 > END STRING
 
 > BEGIN STRING
 食べると30秒間受けるダメージが25％ダウンする。
-> CONTEXT DB:DataBase/[2]アイテム/[54]スイートポテト/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[54]スイートポテト/[1]説明文[2行まで可]
+Damage caused eat and 30 seconds is down 25 percent.
 > END STRING
 
 > BEGIN STRING
 おまんじゅう
-> CONTEXT DB:DataBase/[2]アイテム/[55]おまんじゅう/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[55]おまんじゅう/[0]アイテム名
+Steamed bread
 > END STRING
 
 > BEGIN STRING
 食べると20秒間気力消費量が25％減少する。
-> CONTEXT DB:DataBase/[2]アイテム/[55]おまんじゅう/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[55]おまんじゅう/[1]説明文[2行まで可]
+Eat and 20 seconds energy consumption is reduced by 25%.
 > END STRING
 
 > BEGIN STRING
 しびれおにぎり
-> CONTEXT DB:DataBase/[2]アイテム/[56]しびれおにぎり/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[56]しびれおにぎり/[0]アイテム名
+Numbness rice ball
 > END STRING
 
 > BEGIN STRING
 良い回復薬
-> CONTEXT DB:DataBase/[2]アイテム/[57]良い回復薬/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[57]良い回復薬/[0]アイテム名
+Good recovery agents
 > END STRING
 
 > BEGIN STRING
 HPを最大の50％ぶん回復する。
-> CONTEXT DB:DataBase/[2]アイテム/[57]良い回復薬/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[57]良い回復薬/[1]説明文[2行まで可]
+HP to recover up to 50% min.
 > END STRING
 
 > BEGIN STRING
 神秘の秘薬
-> CONTEXT DB:DataBase/[2]アイテム/[58]神秘の秘薬/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[58]神秘の秘薬/[0]アイテム名
+Elixir of mystery
 > END STRING
 
 > BEGIN STRING
 増強の薬
-> CONTEXT DB:DataBase/[2]アイテム/[59]増強の薬/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[59]増強の薬/[0]アイテム名
+Enhancement of medicine
 > END STRING
 
 > BEGIN STRING
 使用すると30秒間与えるダメージが25％アップする薬。
-> CONTEXT DB:DataBase/[2]アイテム/[59]増強の薬/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[59]増強の薬/[1]説明文[2行まで可]
+Drugs that damage when you use 30 seconds is up 25 percent.
 > END STRING
 
 > BEGIN STRING
 破軍の薬
-> CONTEXT DB:DataBase/[2]アイテム/[60]破軍の薬/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[60]破軍の薬/[0]アイテム名
+Medicine of Yabugun
 > END STRING
 
 > BEGIN STRING
 使用すると30秒間与えるダメージが50％アップする薬。
-> CONTEXT DB:DataBase/[2]アイテム/[60]破軍の薬/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[60]破軍の薬/[1]説明文[2行まで可]
+Drugs that damage when you use 30 seconds is up 50 percent.
 > END STRING
 
 > BEGIN STRING
 耐久の種
-> CONTEXT DB:DataBase/[2]アイテム/[61]耐久の種/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[61]耐久の種/[0]アイテム名
+Kind of endurance
 > END STRING
 
 > BEGIN STRING
 使用すると30秒間受けるダメージが25％ダウンする種。
-> CONTEXT DB:DataBase/[2]アイテム/[61]耐久の種/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[61]耐久の種/[1]説明文[2行まで可]
+Species that damage to receive when you use 30 seconds to 25% down.
 > END STRING
 
 > BEGIN STRING
 鋼体の種
-> CONTEXT DB:DataBase/[2]アイテム/[62]鋼体の種/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[62]鋼体の種/[0]アイテム名
+Species of steel body
 > END STRING
 
 > BEGIN STRING
 使用すると30秒間受けるダメージが50％ダウンする種。
-> CONTEXT DB:DataBase/[2]アイテム/[62]鋼体の種/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[62]鋼体の種/[1]説明文[2行まで可]
+Species that damage to receive when you use 30 seconds is down 50 percent.
 > END STRING
 
 > BEGIN STRING
 乱舞の杯
-> CONTEXT DB:DataBase/[2]アイテム/[63]乱舞の杯/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[63]乱舞の杯/[0]アイテム名
+Cup of wild dance
 > END STRING
 
 > BEGIN STRING
 使用すると20秒間気力消費量が25％減少する杯。
-> CONTEXT DB:DataBase/[2]アイテム/[63]乱舞の杯/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[63]乱舞の杯/[1]説明文[2行まで可]
+Goblet to and that 20 seconds energy consumption use is reduced by 25%.
 > END STRING
 
 > BEGIN STRING
 夜叉の杯
-> CONTEXT DB:DataBase/[2]アイテム/[64]夜叉の杯/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[64]夜叉の杯/[0]アイテム名
+Goblet of Yasha
 > END STRING
 
 > BEGIN STRING
 使用すると20秒間気力消費量が半分になる杯。
-> CONTEXT DB:DataBase/[2]アイテム/[64]夜叉の杯/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[64]夜叉の杯/[1]説明文[2行まで可]
+Goblet that and 20 seconds energy consumption use is halved.
 > END STRING
 
 > BEGIN STRING
 滅邪の仙薬
-> CONTEXT DB:DataBase/[2]アイテム/[65]滅邪の仙薬/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[65]滅邪の仙薬/[0]アイテム名
+Dark evil of elixir
 > END STRING
 
 > BEGIN STRING
 使用すると30秒間与えるダメージが100％アップする薬。
-> CONTEXT DB:DataBase/[2]アイテム/[65]滅邪の仙薬/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[65]滅邪の仙薬/[1]説明文[2行まで可]
+Drugs that damage when you use 30 seconds is up 100%.
 > END STRING
 
 > BEGIN STRING
 不滅の仙種
-> CONTEXT DB:DataBase/[2]アイテム/[66]不滅の仙種/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[66]不滅の仙種/[0]アイテム名
+Immortal Sen species
 > END STRING
 
 > BEGIN STRING
 使用すると30秒間受けるダメージが75％ダウンする種。
-> CONTEXT DB:DataBase/[2]アイテム/[66]不滅の仙種/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[66]不滅の仙種/[1]説明文[2行まで可]
+Species that damage to receive when you use 30 seconds to 75 percent down.
 > END STRING
 
 > BEGIN STRING
 無限の仙杯
-> CONTEXT DB:DataBase/[2]アイテム/[67]無限の仙杯/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[67]無限の仙杯/[0]アイテム名
+Infinite Sen Cup
 > END STRING
 
 > BEGIN STRING
 使用すると10秒間気力消費量が0になる杯。
-> CONTEXT DB:DataBase/[2]アイテム/[67]無限の仙杯/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[67]無限の仙杯/[1]説明文[2行まで可]
+Goblet that if energy consumption by 10 seconds use is zero.
 > END STRING
 
 > BEGIN STRING
 猛劇薬
-> CONTEXT DB:DataBase/[2]アイテム/[68]猛劇薬/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[68]猛劇薬/[0]アイテム名
+Takeshi powerful drug
 > END STRING
 
 > BEGIN STRING
 飲むと残りHPが1になる危ない薬。
-> CONTEXT DB:DataBase/[2]アイテム/[68]猛劇薬/[1]説明文[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[68]猛劇薬/[1]説明文[2行まで可]
+Dangerous drugs remaining HP is 1 drink.
 > END STRING
 
 > BEGIN STRING
 手がかりのメモ1
-> CONTEXT DB:DataBase/[2]アイテム/[71]手がかりのメモ1/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[71]手がかりのメモ1/[0]アイテム名
+Clue of Note 1
 > END STRING
 
 > BEGIN STRING
 手がかりのメモ2
-> CONTEXT DB:DataBase/[2]アイテム/[72]手がかりのメモ2/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[72]手がかりのメモ2/[0]アイテム名
+Clue of Note 2
 > END STRING
 
 > BEGIN STRING
 手がかりのメモ3
-> CONTEXT DB:DataBase/[2]アイテム/[73]手がかりのメモ3/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[73]手がかりのメモ3/[0]アイテム名
+Clue of Note 3
 > END STRING
 
 > BEGIN STRING
 不思議な軟体
-> CONTEXT DB:DataBase/[2]アイテム/[74]不思議な軟体/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[74]不思議な軟体/[0]アイテム名
+Strange soft body
 > END STRING
 
 > BEGIN STRING
 ラミアのうろこ
-> CONTEXT DB:DataBase/[2]アイテム/[75]ラミアのうろこ/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[75]ラミアのうろこ/[0]アイテム名
+Scales of Lamia
 > END STRING
 
 > BEGIN STRING
 夢幻の砂
-> CONTEXT DB:DataBase/[2]アイテム/[80]夢幻の砂/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[80]夢幻の砂/[0]アイテム名
+Phantom of sand
 > END STRING
 
 > BEGIN STRING
 夢幻のかけら
-> CONTEXT DB:DataBase/[2]アイテム/[81]夢幻のかけら/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[81]夢幻のかけら/[0]アイテム名
+Phantom Fragments
 > END STRING
 
 > BEGIN STRING
 夢幻の結晶
-> CONTEXT DB:DataBase/[2]アイテム/[82]夢幻の結晶/[0]アイテム名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[2]アイテム/[82]夢幻の結晶/[0]アイテム名
+Phantom crystal
 > END STRING

@@ -2,30 +2,30 @@
 
 > BEGIN STRING
 炎攻撃
-> CONTEXT DB:DataBase/[7]属性名の設定/[1]炎攻撃/[0]属性名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[7]属性名の設定/[1]炎攻撃/[0]属性名
+Flame attack
 > END STRING
 
 > BEGIN STRING
 冷気攻撃
-> CONTEXT DB:DataBase/[7]属性名の設定/[2]冷気攻撃/[0]属性名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[7]属性名の設定/[2]冷気攻撃/[0]属性名
+Cold air attack
 > END STRING
 
 > BEGIN STRING
 雷攻撃
-> CONTEXT DB:DataBase/[7]属性名の設定/[3]雷攻撃/[0]属性名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[7]属性名の設定/[3]雷攻撃/[0]属性名
+Lightning attack
 > END STRING
 
 > BEGIN STRING
 神聖攻撃
-> CONTEXT DB:DataBase/[7]属性名の設定/[4]神聖攻撃/[0]属性名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[7]属性名の設定/[4]神聖攻撃/[0]属性名
+Sacred attack
 > END STRING
 
 > BEGIN STRING
 暗黒攻撃
-> CONTEXT DB:DataBase/[7]属性名の設定/[5]暗黒攻撃/[0]属性名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[7]属性名の設定/[5]暗黒攻撃/[0]属性名
+Dark attack
 > END STRING

@@ -2,123 +2,123 @@
 
 > BEGIN STRING
 レスト
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[0]レスト/[0]キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[0]レスト/[0]キャラ名
+Rest
 > END STRING
 
 > BEGIN STRING
 万能剣士
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[0]レスト/[1]肩書き < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[0]レスト/[1]肩書き
+Universal swordsman
 > END STRING
 
 > BEGIN STRING
 ファイターさん
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[1]ファイターさん/[0]キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[1]ファイターさん/[0]キャラ名
+Fighter's
 > END STRING
 
 > BEGIN STRING
 戦士
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[1]ファイターさん/[1]肩書き < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[1]ファイターさん/[1]肩書き
+Warrior
 > END STRING
 
 > BEGIN STRING
 ウィッチさん
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[2]ウィッチさん/[0]キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[2]ウィッチさん/[0]キャラ名
+Witch's
 > END STRING
 
 > BEGIN STRING
 魔法使い
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[2]ウィッチさん/[1]肩書き < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[2]ウィッチさん/[1]肩書き
+Witch
 > END STRING
 
 > BEGIN STRING
 プリーストさん
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[3]プリーストさん/[0]キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[3]プリーストさん/[0]キャラ名
+Priest's
 > END STRING
 
 > BEGIN STRING
 僧侶
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[3]プリーストさん/[1]肩書き < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[3]プリーストさん/[1]肩書き
+Monk
 > END STRING
 
 > BEGIN STRING
 パイレーツさん
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[4]パイレーツさん/[0]キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[4]パイレーツさん/[0]キャラ名
+Pirates's
 > END STRING
 
 > BEGIN STRING
 海賊
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[4]パイレーツさん/[1]肩書き < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[4]パイレーツさん/[1]肩書き
+Pirate
 > END STRING
 
 > BEGIN STRING
 シーフさん
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[5]シーフさん/[0]キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[5]シーフさん/[0]キャラ名
+Thief's
 > END STRING
 
 > BEGIN STRING
 盗賊
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[5]シーフさん/[1]肩書き < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[5]シーフさん/[1]肩書き
+Thief
 > END STRING
 
 > BEGIN STRING
 -----------------------
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[9]-----------------------/[0]キャラ名 < UNTRANSLATED
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[11]-----------------------/[0]キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[9]-----------------------/[0]キャラ名
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[11]-----------------------/[0]キャラ名
+-----------------------
 > END STRING
 
 > BEGIN STRING
 【以下、サンプルゲーム用】
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[10]【以下、サンプルゲーム用】/[0]キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[0]技能/[33]【以下、サンプルゲーム用】/[0]技能の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[6]戦闘コマンド/[10]【以下、サンプルゲーム用】/[0]コマンド名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[10]【以下、サンプルゲーム用】/[0]キャラ名
+> CONTEXT DB:DataBase/[0]技能/[33]【以下、サンプルゲーム用】/[0]技能の名前
+> CONTEXT DB:DataBase/[6]戦闘コマンド/[10]【以下、サンプルゲーム用】/[0]コマンド名
+[Below, the sample for the game]
 > END STRING
 
 > BEGIN STRING
 ウルファール
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[12]ウルファール/[0]キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[12]ウルファール/[0]キャラ名
+Urufaru
 > END STRING
 
 > BEGIN STRING
 案内人
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[12]ウルファール/[1]肩書き < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[12]ウルファール/[1]肩書き
+Guide
 > END STRING
 
 > BEGIN STRING
 P･G･エディ
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[13]P･G･エディ/[0]キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[13]P･G･エディ/[0]キャラ名
+P . G . Eddie
 > END STRING
 
 > BEGIN STRING
 ブラジル人
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[13]P･G･エディ/[1]肩書き < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[13]P･G･エディ/[1]肩書き
+Brazilian
 > END STRING
 
 > BEGIN STRING
 夕一
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[14]夕一/[0]キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[14]夕一/[0]キャラ名
+Evening one
 > END STRING
 
 > BEGIN STRING
 ニワトリ
-> CONTEXT DB:CDataBase/[0]主人公ステータス/[14]夕一/[1]肩書き < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[0]主人公ステータス/[14]夕一/[1]肩書き
+Chicken
 > END STRING

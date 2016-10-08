@@ -20,8 +20,8 @@ Iron Sword
 
 > BEGIN STRING
 スピエード
-> CONTEXT DB:DataBase/[3]武器/[3]スピエード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[3]スピエード/[0]武器の名前
+Supiedo
 > END STRING
 
 > BEGIN STRING
@@ -38,8 +38,8 @@ Unarmed
 
 > BEGIN STRING
 素手状態になる。
-> CONTEXT DB:DataBase/[3]武器/[5]素手/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[5]素手/[1]武器の説明[2行まで可]
+It becomes bare hands state.
 > END STRING
 
 > BEGIN STRING
@@ -51,22 +51,22 @@ Longbow
 
 > BEGIN STRING
 竹製の長弓。弓は遠近両方への攻撃が可能。
-> CONTEXT DB:DataBase/[3]武器/[6]ロングボウ/[1]武器の説明[2行まで可] < UNTRANSLATED
-> CONTEXT DB:DataBase/[3]武器/[27]ロングボウ/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[6]ロングボウ/[1]武器の説明[2行まで可]
+> CONTEXT DB:DataBase/[3]武器/[27]ロングボウ/[1]武器の説明[2行まで可]
+Bamboo long bow. Bow possible attack on the perspective both.
 > END STRING
 
 > BEGIN STRING
 炎の杖
-> CONTEXT DB:DataBase/[3]武器/[7]炎の杖/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[7]炎の杖/[0]武器の名前
+Wand of flame
 > END STRING
 
 > BEGIN STRING
 バトルグローブ
-> CONTEXT DB:DataBase/[3]武器/[8]バトルグローブ/[0]武器の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[3]武器/[26]バトルグローブ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[8]バトルグローブ/[0]武器の名前
+> CONTEXT DB:DataBase/[3]武器/[26]バトルグローブ/[0]武器の名前
+Battle Grove
 > END STRING
 
 > BEGIN STRING
@@ -83,14 +83,14 @@ Short spear & Shield
 
 > BEGIN STRING
 長い弓、攻撃力が25上がる。敏捷も上がる。
-> CONTEXT DB:DataBase/[3]武器/[10]◆◆◆武器無し◆◆◆/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[10]◆◆◆武器無し◆◆◆/[1]武器の説明[2行まで可]
+Long bow, attack power increases 25. Agile also go up.
 > END STRING
 
 > BEGIN STRING
 脱力剣
-> CONTEXT DB:DataBase/[3]武器/[11]脱力剣/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[11]脱力剣/[0]武器の名前
+Weakness sword
 > END STRING
 
 > BEGIN STRING
@@ -101,8 +101,8 @@ For testing
 
 > BEGIN STRING
 ----------------------
-> CONTEXT DB:DataBase/[3]武器/[12]----------------------/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[12]----------------------/[0]武器の名前
+----------------------
 > END STRING
 
 > BEGIN STRING
@@ -119,26 +119,26 @@ Plasma Fang
 
 > BEGIN STRING
 ラルゴスパーダ
-> CONTEXT DB:DataBase/[3]武器/[21]ラルゴスパーダ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[21]ラルゴスパーダ/[0]武器の名前
+Largo Spada
 > END STRING
 
 > BEGIN STRING
 ブランディストッコ
-> CONTEXT DB:DataBase/[3]武器/[22]ブランディストッコ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[22]ブランディストッコ/[0]武器の名前
+Brandis Tocco
 > END STRING
 
 > BEGIN STRING
 細長い刃が特徴的な槍で、比較的近代に考案された。
-> CONTEXT DB:DataBase/[3]武器/[22]ブランディストッコ/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[22]ブランディストッコ/[1]武器の説明[2行まで可]
+Elongated blade with a distinctive spear, has been devised to relatively modern.
 > END STRING
 
 > BEGIN STRING
 ギザルム
-> CONTEXT DB:DataBase/[3]武器/[23]ギザルム/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[23]ギザルム/[0]武器の名前
+Gizarumu
 > END STRING
 
 > BEGIN STRING
@@ -149,26 +149,26 @@ War Hammer
 
 > BEGIN STRING
 雷の杖
-> CONTEXT DB:DataBase/[3]武器/[25]雷の杖/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[25]雷の杖/[0]武器の名前
+Cane of thunder
 > END STRING
 
 > BEGIN STRING
 広範囲に雷を落とすことができる杖。
-> CONTEXT DB:DataBase/[3]武器/[25]雷の杖/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[25]雷の杖/[1]武器の説明[2行まで可]
+Cane that can drop a wide range of thunder.
 > END STRING
 
 > BEGIN STRING
 グランドクラッカー
-> CONTEXT DB:DataBase/[3]武器/[28]グランドクラッカー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[28]グランドクラッカー/[0]武器の名前
+Grand cracker
 > END STRING
 
 > BEGIN STRING
 イリアン愛用の斧。大地を切り裂く破壊力を持つ。
-> CONTEXT DB:DataBase/[3]武器/[28]グランドクラッカー/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[28]グランドクラッカー/[1]武器の説明[2行まで可]
+Ax of Irian favorite. With a destructive power that cuts through the earth.
 > END STRING
 
 > BEGIN STRING
@@ -191,8 +191,8 @@ Ninja Sword
 
 > BEGIN STRING
 異国の隠密たちが愛用している短剣。
-> CONTEXT DB:DataBase/[3]武器/[36]ニンジャソード/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[36]ニンジャソード/[1]武器の説明[2行まで可]
+Dagger covert our foreign country they know and love.
 > END STRING
 
 > BEGIN STRING
@@ -203,20 +203,20 @@ Twin Spear
 
 > BEGIN STRING
 2つの刃が取り付けてある槍。
-> CONTEXT DB:DataBase/[3]武器/[37]ツインスピア/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[37]ツインスピア/[1]武器の説明[2行まで可]
+Spear two of blade is attached.
 > END STRING
 
 > BEGIN STRING
 斬馬刀
-> CONTEXT DB:DataBase/[3]武器/[38]斬馬刀/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[38]斬馬刀/[0]武器の名前
+Kiumagatana
 > END STRING
 
 > BEGIN STRING
 氷の杖
-> CONTEXT DB:DataBase/[3]武器/[39]氷の杖/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[39]氷の杖/[0]武器の名前
+Cane ice
 > END STRING
 
 > BEGIN STRING
@@ -227,14 +227,14 @@ Morning star
 
 > BEGIN STRING
 聖十字槍
-> CONTEXT DB:DataBase/[3]武器/[41]聖十字槍/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[41]聖十字槍/[0]武器の名前
+Holy Cross spear
 > END STRING
 
 > BEGIN STRING
 灼魔眼
-> CONTEXT DB:DataBase/[3]武器/[42]灼魔眼/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[42]灼魔眼/[0]武器の名前
+灼魔 eye
 > END STRING
 
 > BEGIN STRING
@@ -263,8 +263,8 @@ Skull Hammer
 
 > BEGIN STRING
 マクハエラ
-> CONTEXT DB:DataBase/[3]武器/[49]マクハエラ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[49]マクハエラ/[0]武器の名前
+Makuhaera
 > END STRING
 
 > BEGIN STRING
@@ -275,8 +275,8 @@ Jitte
 
 > BEGIN STRING
 旋風斬
-> CONTEXT DB:DataBase/[3]武器/[51]旋風斬/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[51]旋風斬/[0]武器の名前
+Senpuki
 > END STRING
 
 > BEGIN STRING
@@ -287,14 +287,14 @@ Gemini Axe
 
 > BEGIN STRING
 巨大な刃が左右一対に取り付けられた斧。
-> CONTEXT DB:DataBase/[3]武器/[52]ジェミニアックス/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[52]ジェミニアックス/[1]武器の説明[2行まで可]
+Ax huge blades is attached to the right and left.
 > END STRING
 
 > BEGIN STRING
 バトルガンビエラ
-> CONTEXT DB:DataBase/[3]武器/[53]バトルガンビエラ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[53]バトルガンビエラ/[0]武器の名前
+Battle Cancer Vieira
 > END STRING
 
 > BEGIN STRING
@@ -323,8 +323,8 @@ Spider Sword
 
 > BEGIN STRING
 蜘蛛をモチーフとした意匠の剣。\\c[3]確率で敵を毒状態にする\\c[0]
-> CONTEXT DB:DataBase/[3]武器/[57]スパイダーソード/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[57]スパイダーソード/[1]武器の説明[2行まで可]
+Sword of the design, which was the motif spider.\\c[3] to the enemy to poison the state with a probability \\c[0]
 > END STRING
 
 > BEGIN STRING
@@ -335,8 +335,8 @@ Royal Umbrella
 
 > BEGIN STRING
 立派な傘。人を叩いたりするためのモノではない。
-> CONTEXT DB:DataBase/[3]武器/[58]ロイヤルアンブレラ/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[58]ロイヤルアンブレラ/[1]武器の説明[2行まで可]
+Respectable umbrella. Not a thing to clapping their people.
 > END STRING
 
 > BEGIN STRING
@@ -347,14 +347,14 @@ Easy Crossbow
 
 > BEGIN STRING
 歯車式鋼鉄硬弩
-> CONTEXT DB:DataBase/[3]武器/[60]歯車式鋼鉄硬弩/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[60]歯車式鋼鉄硬弩/[0]武器の名前
+Gear type steel Kataishiyumi
 > END STRING
 
 > BEGIN STRING
 弦を引く機構に歯車を使用した弩。
-> CONTEXT DB:DataBase/[3]武器/[60]歯車式鋼鉄硬弩/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[60]歯車式鋼鉄硬弩/[1]武器の説明[2行まで可]
+Crossbow using the gear in mechanism to pull the strings.
 > END STRING
 
 > BEGIN STRING
@@ -389,8 +389,8 @@ Pride Crusher
 
 > BEGIN STRING
 武骨な大槌。騎士の誇りたる鎧と剣を粉砕する。
-> CONTEXT DB:DataBase/[3]武器/[66]プライドクラッシャ/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[66]プライドクラッシャ/[1]武器の説明[2行まで可]
+Chuff sledgehammer. Grinding the pride serving as armor and sword of the knight.
 > END STRING
 
 > BEGIN STRING
@@ -419,8 +419,8 @@ Ten Thrasher
 
 > BEGIN STRING
 ワーウルフの持つ鋭い爪の斬れ味をさらに高める装具。
-> CONTEXT DB:DataBase/[3]武器/[70]テン・スラッシャー/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[70]テン・スラッシャー/[1]武器の説明[2行まで可]
+Further enhance brace the sharpness of the sharp claws with the Werewolf.
 > END STRING
 
 > BEGIN STRING
@@ -437,8 +437,8 @@ Stinger Spear
 
 > BEGIN STRING
 怒髪衝天牙
-> CONTEXT DB:DataBase/[3]武器/[74]怒髪衝天牙/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[74]怒髪衝天牙/[0]武器の名前
+Furious Shoten Fang
 > END STRING
 
 > BEGIN STRING
@@ -449,14 +449,14 @@ Curved Blade
 
 > BEGIN STRING
 アマゾネス愛用の剣。見た目より取り回しやすい。
-> CONTEXT DB:DataBase/[3]武器/[75]カーブドブレード/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[75]カーブドブレード/[1]武器の説明[2行まで可]
+Sword of Amazones favorite. Easy maneuverability than it looks.
 > END STRING
 
 > BEGIN STRING
 炎の槍
-> CONTEXT DB:DataBase/[3]武器/[76]炎の槍/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[76]炎の槍/[0]武器の名前
+Spear of flame
 > END STRING
 
 > BEGIN STRING
@@ -467,483 +467,490 @@ Japanese Sword
 
 > BEGIN STRING
 飛刀＆刃盾
-> CONTEXT DB:DataBase/[3]武器/[79]飛刀＆刃盾/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[79]飛刀＆刃盾/[0]武器の名前
+Hiha & blade shield
 > END STRING
 
 > BEGIN STRING
 十文字槍
-> CONTEXT DB:DataBase/[3]武器/[80]十文字槍/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[80]十文字槍/[0]武器の名前
+Cross spear
 > END STRING
 
 > BEGIN STRING
 大蛇矛
-> CONTEXT DB:DataBase/[3]武器/[81]大蛇矛/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[81]大蛇矛/[0]武器の名前
+Serpent pike
 > END STRING
 
 > BEGIN STRING
 霊樹戦鎚
-> CONTEXT DB:DataBase/[3]武器/[82]霊樹戦鎚/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[82]霊樹戦鎚/[0]武器の名前
+Spirit trees war hammer
 > END STRING
 
 > BEGIN STRING
 神聖な力が宿る大樹を材料として使用した大槌。
-> CONTEXT DB:DataBase/[3]武器/[82]霊樹戦鎚/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[82]霊樹戦鎚/[1]武器の説明[2行まで可]
+Otsuchi using Taiki that divine power dwells as material.
 > END STRING
 
 > BEGIN STRING
 灼熱手甲
-> CONTEXT DB:DataBase/[3]武器/[83]灼熱手甲/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[83]灼熱手甲/[0]武器の名前
+Burning glove
 > END STRING
 
 > BEGIN STRING
 炸裂大筒
-> CONTEXT DB:DataBase/[3]武器/[84]炸裂大筒/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[84]炸裂大筒/[0]武器の名前
+Explosion Ozutsu
 > END STRING
 
 > BEGIN STRING
 窮毒鉄扇
-> CONTEXT DB:DataBase/[3]武器/[85]窮毒鉄扇/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[85]窮毒鉄扇/[0]武器の名前
+Kyudoku Delicatessen
 > END STRING
 
 > BEGIN STRING
 マギ・ガントレット
-> CONTEXT DB:DataBase/[3]武器/[86]マギ・ガントレット/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[86]マギ・ガントレット/[0]武器の名前
+Magi Gauntlet
 > END STRING
 
 > BEGIN STRING
 マギ・クロー
-> CONTEXT DB:DataBase/[3]武器/[87]マギ・クロー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[87]マギ・クロー/[0]武器の名前
+Magi Claws
 > END STRING
 
 > BEGIN STRING
 リラックス・アックス
-> CONTEXT DB:DataBase/[3]武器/[88]リラックス・アックス/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[88]リラックス・アックス/[0]武器の名前
+Relax Axe
 > END STRING
 
 > BEGIN STRING
 毒針
-> CONTEXT DB:DataBase/[3]武器/[89]毒針/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[89]毒針/[0]武器の名前
+Stinger
 > END STRING
 
 > BEGIN STRING
 妖蛇の石剣
-> CONTEXT DB:DataBase/[3]武器/[90]妖蛇の石剣/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[90]妖蛇の石剣/[0]武器の名前
+Stone sword of 妖蛇
 > END STRING
 
 > BEGIN STRING
 氷の弓矢
-> CONTEXT DB:DataBase/[3]武器/[91]氷の弓矢/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[91]氷の弓矢/[0]武器の名前
+Bow and arrow of ice
 > END STRING
 
 > BEGIN STRING
 エンシェントグラディウス
-> CONTEXT DB:DataBase/[3]武器/[92]エンシェントグラディウス/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[92]エンシェントグラディウス/[0]武器の名前
+Ancient Gradius
 > END STRING
 
 > BEGIN STRING
 トライデント
-> CONTEXT DB:DataBase/[3]武器/[93]トライデント/[0]武器の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[3]武器/[106]トライデント/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[93]トライデント/[0]武器の名前
+> CONTEXT DB:DataBase/[3]武器/[106]トライデント/[0]武器の名前
+Trident
 > END STRING
 
 > BEGIN STRING
 セントハルバード
-> CONTEXT DB:DataBase/[3]武器/[94]セントハルバード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[94]セントハルバード/[0]武器の名前
+St. Hull Bird
 > END STRING
 
 > BEGIN STRING
 マウンテンカッター
-> CONTEXT DB:DataBase/[3]武器/[95]マウンテンカッター/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[95]マウンテンカッター/[0]武器の名前
+Mountain cutter
 > END STRING
 
 > BEGIN STRING
 サイクロンスペル
-> CONTEXT DB:DataBase/[3]武器/[96]サイクロンスペル/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[96]サイクロンスペル/[0]武器の名前
+Cyclone spell
 > END STRING
 
 > BEGIN STRING
 巨大な竜巻を呼び出す杖。
-> CONTEXT DB:DataBase/[3]武器/[96]サイクロンスペル/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[96]サイクロンスペル/[1]武器の説明[2行まで可]
+Cane to call a huge tornado.
 > END STRING
 
 > BEGIN STRING
 マルチウェポン
-> CONTEXT DB:DataBase/[3]武器/[97]マルチウェポン/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[97]マルチウェポン/[0]武器の名前
+Multi-Weapon
 > END STRING
 
 > BEGIN STRING
 吸血魔剣ドラクル
-> CONTEXT DB:DataBase/[3]武器/[98]吸血魔剣ドラクル/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[98]吸血魔剣ドラクル/[0]武器の名前
+Blood-sucking magic sword Dracul
 > END STRING
 
 > BEGIN STRING
 ギガントハンマー
-> CONTEXT DB:DataBase/[3]武器/[99]ギガントハンマー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[99]ギガントハンマー/[0]武器の名前
+Gigant hammer
 > END STRING
 
 > BEGIN STRING
 ヘイトスレイヤー
-> CONTEXT DB:DataBase/[3]武器/[100]ヘイトスレイヤー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[100]ヘイトスレイヤー/[0]武器の名前
+Hate Slayer
 > END STRING
 
 > BEGIN STRING
 有翼魔の力を宿した魔剣。敵の殺気を読み取り、断ち切る。
-> CONTEXT DB:DataBase/[3]武器/[100]ヘイトスレイヤー/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[100]ヘイトスレイヤー/[1]武器の説明[2行まで可]
+Maken harboring the power of Yutsubasama. Read the enemy of the thirst for blood, it cuts off.
 > END STRING
 
 > BEGIN STRING
 怨呪槍ユニコーン
-> CONTEXT DB:DataBase/[3]武器/[101]怨呪槍ユニコーン/[0]武器の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[3]武器/[158]怨呪槍ユニコーン/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[101]怨呪槍ユニコーン/[0]武器の名前
+> CONTEXT DB:DataBase/[3]武器/[158]怨呪槍ユニコーン/[0]武器の名前
+怨呪 spear Unicorn
 > END STRING
 
 > BEGIN STRING
 マサカラザオ
-> CONTEXT DB:DataBase/[3]武器/[102]マサカラザオ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[102]マサカラザオ/[0]武器の名前
+Masakarazao
 > END STRING
 
 > BEGIN STRING
 サンダーパイル
-> CONTEXT DB:DataBase/[3]武器/[103]サンダーパイル/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[103]サンダーパイル/[0]武器の名前
+Thunder pile
 > END STRING
 
 > BEGIN STRING
 円月輪
-> CONTEXT DB:DataBase/[3]武器/[104]円月輪/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[104]円月輪/[0]武器の名前
+Circle Getsurin
 > END STRING
 
 > BEGIN STRING
 豪岩塊鎚
-> CONTEXT DB:DataBase/[3]武器/[105]豪岩塊鎚/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[105]豪岩塊鎚/[0]武器の名前
+Goiwakatamaritsuchi
 > END STRING
 
 > BEGIN STRING
 ツバイヘンデル
-> CONTEXT DB:DataBase/[3]武器/[107]ツバイヘンデル/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[107]ツバイヘンデル/[0]武器の名前
+Zwei Handel
 > END STRING
 
 > BEGIN STRING
-斬撃というよりは打撃を与える目的で作られた剣。\\c[3]\\防御力無視c[0]
-> CONTEXT DB:DataBase/[3]武器/[107]ツバイヘンデル/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+斬撃というよりは打撃を与える目的で作られた剣。\\c[3]防御力無視\\c[0]
+> CONTEXT DB:DataBase/[3]武器/[107]ツバイヘンデル/[1]武器の説明[2行まで可]
+Zan shoot sword made for the purpose of giving a blow rather than.\\c[3] defense force ignored \\c[0]
 > END STRING
 
 > BEGIN STRING
 那伝斬り刀
-> CONTEXT DB:DataBase/[3]武器/[108]那伝斬り刀/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[108]那伝斬り刀/[0]武器の名前
+那伝 sword sword
 > END STRING
 
 > BEGIN STRING
 ゲイボルグ
-> CONTEXT DB:DataBase/[3]武器/[109]ゲイボルグ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[109]ゲイボルグ/[0]武器の名前
+Geiborugu
 > END STRING
 
 > BEGIN STRING
 大砲
-> CONTEXT DB:DataBase/[3]武器/[110]大砲/[0]武器の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[75]大砲/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[110]大砲/[0]武器の名前
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[75]大砲/[0]敵キャラ名
+Cannon
 > END STRING
 
 > BEGIN STRING
 巨大な大砲。巨大な一撃が持ち味。
-> CONTEXT DB:DataBase/[3]武器/[110]大砲/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[110]大砲/[1]武器の説明[2行まで可]
+Huge cannon. Huge blow is characteristic.
 > END STRING
 
 > BEGIN STRING
 イージーソード
-> CONTEXT DB:DataBase/[3]武器/[112]イージーソード/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[112]イージーソード/[0]武器の名前
+Easy Sword
 > END STRING
 
 > BEGIN STRING
 水鉄砲
-> CONTEXT DB:DataBase/[3]武器/[114]水鉄砲/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[114]水鉄砲/[0]武器の名前
+Water gun
 > END STRING
 
 > BEGIN STRING
 サッカーボール
-> CONTEXT DB:DataBase/[3]武器/[115]サッカーボール/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[115]サッカーボール/[0]武器の名前
+soccer ball
 > END STRING
 
 > BEGIN STRING
 魔矛パレードバスター
-> CONTEXT DB:DataBase/[3]武器/[117]魔矛パレードバスター/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[117]魔矛パレードバスター/[0]武器の名前
+Mahoko parade Buster
 > END STRING
 
 > BEGIN STRING
 バイティングプラズマ
-> CONTEXT DB:DataBase/[3]武器/[118]バイティングプラズマ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[118]バイティングプラズマ/[0]武器の名前
+Biting plasma
 > END STRING
 
 > BEGIN STRING
 灼炎旋風斬
-> CONTEXT DB:DataBase/[3]武器/[119]灼炎旋風斬/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[119]灼炎旋風斬/[0]武器の名前
+灼炎 Senpuki
 > END STRING
 
 > BEGIN STRING
 雷神の魔杖
-> CONTEXT DB:DataBase/[3]武器/[120]雷神の魔杖/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[120]雷神の魔杖/[0]武器の名前
+Matsue god of thunder
 > END STRING
 
 > BEGIN STRING
 ポイズンクロ―
-> CONTEXT DB:DataBase/[3]武器/[121]ポイズンクロ―/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[121]ポイズンクロ―/[0]武器の名前
+Poison Black -
 > END STRING
 
 > BEGIN STRING
 凍牙双刃
-> CONTEXT DB:DataBase/[3]武器/[122]凍牙双刃/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[122]凍牙双刃/[0]武器の名前
+Kokiba twin blade
 > END STRING
 
 > BEGIN STRING
 ブレイジングアイ
-> CONTEXT DB:DataBase/[3]武器/[123]ブレイジングアイ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[123]ブレイジングアイ/[0]武器の名前
+Blazing Eye
 > END STRING
 
 > BEGIN STRING
 ザ・フェンサー
-> CONTEXT DB:DataBase/[3]武器/[124]ザ・フェンサー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[124]ザ・フェンサー/[0]武器の名前
+The Fencer
 > END STRING
 
 > BEGIN STRING
 各地で売られている剣の技術を結集した逸品。
-> CONTEXT DB:DataBase/[3]武器/[124]ザ・フェンサー/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[124]ザ・フェンサー/[1]武器の説明[2行まで可]
+Gem that brings together the sword techniques that are sold in various places.
 > END STRING
 
 > BEGIN STRING
 双角の槍
-> CONTEXT DB:DataBase/[3]武器/[125]双角の槍/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[125]双角の槍/[0]武器の名前
+Spear of bicornuate
 > END STRING
 
 > BEGIN STRING
 ファルコネット
-> CONTEXT DB:DataBase/[3]武器/[126]ファルコネット/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[126]ファルコネット/[0]武器の名前
+Falco net
 > END STRING
 
 > BEGIN STRING
 鋼鉄弩・毒矢装填型
-> CONTEXT DB:DataBase/[3]武器/[127]鋼鉄弩・毒矢装填型/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[127]鋼鉄弩・毒矢装填型/[0]武器の名前
+Steel crossbow, poison dart-loaded
 > END STRING
 
 > BEGIN STRING
 フロンテイアアックス
-> CONTEXT DB:DataBase/[3]武器/[128]フロンテイアアックス/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[128]フロンテイアアックス/[0]武器の名前
+Frontier Axe
 > END STRING
 
 > BEGIN STRING
 ブリザードエッジ
-> CONTEXT DB:DataBase/[3]武器/[129]ブリザードエッジ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[129]ブリザードエッジ/[0]武器の名前
+Blizzard edge
 > END STRING
 
 > BEGIN STRING
 大火炎拳
-> CONTEXT DB:DataBase/[3]武器/[130]大火炎拳/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[130]大火炎拳/[0]武器の名前
+Large flame Fist
 > END STRING
 
 > BEGIN STRING
 柔力の光斧
-> CONTEXT DB:DataBase/[3]武器/[132]柔力の光斧/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[132]柔力の光斧/[0]武器の名前
+Light ax of soft power
 > END STRING
 
 > BEGIN STRING
 オールラウンダー
-> CONTEXT DB:DataBase/[3]武器/[133]オールラウンダー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[133]オールラウンダー/[0]武器の名前
+All-rounder
 > END STRING
 
 > BEGIN STRING
 邪石剣メデューサ
-> CONTEXT DB:DataBase/[3]武器/[134]邪石剣メデューサ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[134]邪石剣メデューサ/[0]武器の名前
+Wicked stone sword Medusa
 > END STRING
 
 > BEGIN STRING
 大蛇毒屠矛
-> CONTEXT DB:DataBase/[3]武器/[135]大蛇毒屠矛/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[135]大蛇毒屠矛/[0]武器の名前
+Snake venom Hofuhoko
 > END STRING
 
 > BEGIN STRING
 水神槍ポセイドン
-> CONTEXT DB:DataBase/[3]武器/[136]水神槍ポセイドン/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[136]水神槍ポセイドン/[0]武器の名前
+God of water spear Poseidon
 > END STRING
 
 > BEGIN STRING
 獄炎の鬼槍
-> CONTEXT DB:DataBase/[3]武器/[139]獄炎の鬼槍/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[139]獄炎の鬼槍/[0]武器の名前
+Oniyari prison flame
 > END STRING
 
 > BEGIN STRING
 禁術の杖
-> CONTEXT DB:DataBase/[3]武器/[140]禁術の杖/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[140]禁術の杖/[0]武器の名前
+Prohibited surgery wand
 > END STRING
 
 > BEGIN STRING
 封印された呪文を放つとても危ない杖。
-> CONTEXT DB:DataBase/[3]武器/[140]禁術の杖/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[140]禁術の杖/[1]武器の説明[2行まで可]
+Very dangerous wand that shoots sealed spell.
 > END STRING
 
 > BEGIN STRING
 マサカラザオ凶月
-> CONTEXT DB:DataBase/[3]武器/[141]マサカラザオ凶月/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[141]マサカラザオ凶月/[0]武器の名前
+Masakarazao Kyotsuki
 > END STRING
 
 > BEGIN STRING
 激昂穿天牙
-> CONTEXT DB:DataBase/[3]武器/[142]激昂穿天牙/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[142]激昂穿天牙/[0]武器の名前
+Incensed 穿天 Fang
 > END STRING
 
 > BEGIN STRING
 シューティングスター
-> CONTEXT DB:DataBase/[3]武器/[143]シューティングスター/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[143]シューティングスター/[0]武器の名前
+shooting star
 > END STRING
 
 > BEGIN STRING
 喰血餓剣ライオクモ
-> CONTEXT DB:DataBase/[3]武器/[146]喰血餓剣ライオクモ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[146]喰血餓剣ライオクモ/[0]武器の名前
+喰血 餓剣 Rakumo
 > END STRING
 
 > BEGIN STRING
 ヘビーレイン
-> CONTEXT DB:DataBase/[3]武器/[147]ヘビーレイン/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[147]ヘビーレイン/[0]武器の名前
+Heavy Rain
 > END STRING
 
 > BEGIN STRING
 プラズマオメガキバ
-> CONTEXT DB:DataBase/[3]武器/[148]プラズマオメガキバ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[148]プラズマオメガキバ/[0]武器の名前
+Plasma omega Kiba
 > END STRING
 
 > BEGIN STRING
 グランドディバイダー
-> CONTEXT DB:DataBase/[3]武器/[149]グランドディバイダー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[149]グランドディバイダー/[0]武器の名前
+Grand Divider
 > END STRING
 
 > BEGIN STRING
 グランドクラッカーの持つ破壊力をさらに増大させた斧。
-> CONTEXT DB:DataBase/[3]武器/[149]グランドディバイダー/[1]武器の説明[2行まで可] < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[149]グランドディバイダー/[1]武器の説明[2行まで可]
+Ax further increased the destructive power with the ground crackers.
 > END STRING
 
 > BEGIN STRING
 大双聖十字槍
-> CONTEXT DB:DataBase/[3]武器/[150]大双聖十字槍/[0]武器の名前 < UNTRANSLATED
+> CONTEXT DB:DataBase/[3]武器/[150]大双聖十字槍/[0]武器の名前
+Large twin Holy Cross spear
+> END STRING
 
+
+> BEGIN STRING
+斬撃というよりは打撃を与える目的で作られた剣。\\c[3]\\防御力無視c[0]
+> CONTEXT DB:DataBase/[3]武器/[107]ツバイヘンデル/[1]武器の説明[2行まで可]
+Zan shoot sword made for the purpose of giving a blow rather than. \\c[3] \\ defense force ignored c [0]
 > END STRING
 
 > BEGIN STRING
 アブソリュートウォール
-> CONTEXT DB:DataBase/[3]武器/[151]アブソリュートウォール/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[151]アブソリュートウォール/[0]武器の名前
+Absolute Wall
 > END STRING
 
 > BEGIN STRING
 レイドスラッシャー
-> CONTEXT DB:DataBase/[3]武器/[152]レイドスラッシャー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[152]レイドスラッシャー/[0]武器の名前
+Ride Thrasher
 > END STRING
 
 > BEGIN STRING
 マギ・クロスアームズ
-> CONTEXT DB:DataBase/[3]武器/[153]マギ・クロスアームズ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[153]マギ・クロスアームズ/[0]武器の名前
+Magi Cross Arms
 > END STRING
 
 > BEGIN STRING
 魔旋矛イビルエグゼクタ
-> CONTEXT DB:DataBase/[3]武器/[154]魔旋矛イビルエグゼクタ/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[154]魔旋矛イビルエグゼクタ/[0]武器の名前
+Ma 旋矛 Evil Exe Kuta
 > END STRING
 
 > BEGIN STRING
 ユナイトスコーピオン
-> CONTEXT DB:DataBase/[3]武器/[155]ユナイトスコーピオン/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[155]ユナイトスコーピオン/[0]武器の名前
+Unite Scorpion
 > END STRING
 
 > BEGIN STRING
 錆びついた剣
-> CONTEXT DB:DataBase/[3]武器/[157]錆びついた剣/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[157]錆びついた剣/[0]武器の名前
+Rusty sword
 > END STRING
 
 > BEGIN STRING
 聖剣レストレイション
-> CONTEXT DB:DataBase/[3]武器/[159]聖剣レストレイション/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[159]聖剣レストレイション/[0]武器の名前
+St. sword-less tray tion
 > END STRING
 
 > BEGIN STRING
 魔剣ディザスターゲート
-> CONTEXT DB:DataBase/[3]武器/[160]魔剣ディザスターゲート/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[160]魔剣ディザスターゲート/[0]武器の名前
+Maken disaster gate
 > END STRING
 
 > BEGIN STRING
 ドゥームインベーダー
-> CONTEXT DB:DataBase/[3]武器/[161]ドゥームインベーダー/[0]武器の名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[3]武器/[161]ドゥームインベーダー/[0]武器の名前
+Doom Invaders
 > END STRING

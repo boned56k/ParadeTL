@@ -2,36 +2,36 @@
 
 > BEGIN STRING
 何も装備していない状態です。
-> CONTEXT DB:DataBase/[21]武器分類/[0]なし/[1]特徴説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[21]武器分類/[0]なし/[1]特徴説明
+What is also a state that does not have.
 > END STRING
 
 > BEGIN STRING
 攻撃力・気力消費量・攻撃範囲全てが平均的な性能です。
-> CONTEXT DB:DataBase/[21]武器分類/[1]剣/[1]特徴説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[21]武器分類/[1]剣/[1]特徴説明
+All range attack and energy consumption and attack is the average performance.
 > END STRING
 
 > BEGIN STRING
 一点の破壊力に優れた攻撃が可能です。その分攻撃範囲が狭くなっています。
-> CONTEXT DB:DataBase/[21]武器分類/[3]槍/[1]特徴説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[21]武器分類/[3]槍/[1]特徴説明
+It can better attack to destructive power of one point. The minute attack range has become narrower.
 > END STRING
 
 > BEGIN STRING
 遠隔
-> CONTEXT DB:DataBase/[21]武器分類/[6]遠隔/[0]分類名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[21]武器分類/[6]遠隔/[0]分類名
+Remote
 > END STRING
 
 > BEGIN STRING
 特殊
-> CONTEXT DB:DataBase/[21]武器分類/[14]特殊/[0]分類名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[21]武器分類/[14]特殊/[0]分類名
+Special
 > END STRING
 
 > BEGIN STRING
 上記のいずれにも含まれない貴重な武器種です。
-> CONTEXT DB:DataBase/[21]武器分類/[14]特殊/[1]特徴説明 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[21]武器分類/[14]特殊/[1]特徴説明
+It is a valuable weapon species that are not included in any of the above.
 > END STRING

@@ -2,566 +2,566 @@
 
 > BEGIN STRING
 おしとやかなおねえさん
-> CONTEXT DB:DataBase/[27]住人テーブル/[0]おしとやかなおねえさん/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[0]おしとやかなおねえさん/[0]名前
+Ladylike older sister
 > END STRING
 
 > BEGIN STRING
 大柄な戦士
-> CONTEXT DB:DataBase/[27]住人テーブル/[1]大柄な戦士/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[1]大柄な戦士/[0]名前
+Large warrior
 > END STRING
 
 > BEGIN STRING
 すみっこにいる弓使い
-> CONTEXT DB:DataBase/[27]住人テーブル/[2]すみっこにいる弓使い/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[2]すみっこにいる弓使い/[0]名前
+Archer you are in the corner
 > END STRING
 
 > BEGIN STRING
 おどおどした大男
-> CONTEXT DB:DataBase/[27]住人テーブル/[3]おどおどした大男/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[64]おどおどした大男/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[65]おどおどした大男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[3]おどおどした大男/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[64]おどおどした大男/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[65]おどおどした大男/[0]名前
+Fearful big man
 > END STRING
 
 > BEGIN STRING
 よっぱらい
-> CONTEXT DB:DataBase/[27]住人テーブル/[4]よっぱらい/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[5]よっぱらい/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[4]よっぱらい/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[5]よっぱらい/[0]名前
+drunk
 > END STRING
 
 > BEGIN STRING
 あ～いわゆる「ほろよい」状態ですごくいい気分だ。
-> CONTEXT DB:DataBase/[27]住人テーブル/[4]よっぱらい/[2]メッセージ1 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[5]よっぱらい/[2]メッセージ1 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[4]よっぱらい/[2]メッセージ1
+> CONTEXT DB:DataBase/[27]住人テーブル/[5]よっぱらい/[2]メッセージ1
+Oh, it is a really good feeling in the so-called "tipsy" state.
 > END STRING
 
 > BEGIN STRING
 学者風の男
-> CONTEXT DB:DataBase/[27]住人テーブル/[6]学者風の男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[6]学者風の男/[0]名前
+Man of the scholar-style
 > END STRING
 
 > BEGIN STRING
 東側とはお店の品揃えも全然違いますよ。
-> CONTEXT DB:DataBase/[27]住人テーブル/[6]学者風の男/[3]メッセージ2 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[6]学者風の男/[3]メッセージ2
+Completely different also assortment of shops and east.
 > END STRING
 
 > BEGIN STRING
 金の亡者
-> CONTEXT DB:DataBase/[27]住人テーブル/[7]金の亡者/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[7]金の亡者/[0]名前
+Dead gold
 > END STRING
 
 > BEGIN STRING
 うっとりしている女
-> CONTEXT DB:DataBase/[27]住人テーブル/[8]うっとりしている女/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[66]うっとりしている女/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[8]うっとりしている女/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[66]うっとりしている女/[0]名前
+Entranced to have a woman
 > END STRING
 
 > BEGIN STRING
 そんな女王様もカッコよくてステキ…\\i[200]
-> CONTEXT DB:DataBase/[27]住人テーブル/[8]うっとりしている女/[3]メッセージ2 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[8]うっとりしている女/[3]メッセージ2
+Nice ... in such Queen also cool \\i[200]
 > END STRING
 
 > BEGIN STRING
 裸の男
-> CONTEXT DB:DataBase/[27]住人テーブル/[9]裸の男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[9]裸の男/[0]名前
+Man naked
 > END STRING
 
 > BEGIN STRING
 修行中の剣士
-> CONTEXT DB:DataBase/[27]住人テーブル/[10]修行中の剣士/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[10]修行中の剣士/[0]名前
+Swordsman in training
 > END STRING
 
 > BEGIN STRING
 戦い慣れしていそうな魔女
-> CONTEXT DB:DataBase/[27]住人テーブル/[11]戦い慣れしていそうな魔女/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[11]戦い慣れしていそうな魔女/[0]名前
+Likely have been familiar battle witch
 > END STRING
 
 > BEGIN STRING
 おばちゃん
-> CONTEXT DB:DataBase/[27]住人テーブル/[12]おばちゃん/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[12]おばちゃん/[0]名前
+Aunt
 > END STRING
 
 > BEGIN STRING
 あたしも何かお願いしてみようかしらねぇ…
-> CONTEXT DB:DataBase/[27]住人テーブル/[12]おばちゃん/[3]メッセージ2 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[12]おばちゃん/[3]メッセージ2
+I also wonder Hey let's do something, please ...
 > END STRING
 
 > BEGIN STRING
 ガード好き男
-> CONTEXT DB:DataBase/[27]住人テーブル/[13]ガード好き男/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[54]ガード好き男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[13]ガード好き男/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[54]ガード好き男/[0]名前
+Guard lover man
 > END STRING
 
 > BEGIN STRING
 お前\\c[3]防御\\c[0]は使ってるか？
-> CONTEXT DB:DataBase/[27]住人テーブル/[13]ガード好き男/[2]メッセージ1 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[54]ガード好き男/[2]メッセージ1 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[13]ガード好き男/[2]メッセージ1
+> CONTEXT DB:DataBase/[27]住人テーブル/[54]ガード好き男/[2]メッセージ1
+you\\c[3] defense \\c[0]I am using is?
 > END STRING
 
 > BEGIN STRING
 武器をいっぱい背負っている男
-> CONTEXT DB:DataBase/[27]住人テーブル/[14]武器をいっぱい背負っている男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[14]武器をいっぱい背負っている男/[0]名前
+Man you are carrying lots of weapons
 > END STRING
 
 > BEGIN STRING
 軽装の戦士
-> CONTEXT DB:DataBase/[27]住人テーブル/[15]軽装の戦士/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[15]軽装の戦士/[0]名前
+Diatomaceous warrior
 > END STRING
 
 > BEGIN STRING
 食材屋のせがれ
-> CONTEXT DB:DataBase/[27]住人テーブル/[16]食材屋のせがれ/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[62]食材屋のせがれ/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[63]食材屋のせがれ/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[16]食材屋のせがれ/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[62]食材屋のせがれ/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[63]食材屋のせがれ/[0]名前
+Son of Shokuzaiya
 > END STRING
 
 > BEGIN STRING
 特徴の無い男
-> CONTEXT DB:DataBase/[27]住人テーブル/[17]特徴の無い男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[17]特徴の無い男/[0]名前
+Man with no feature
 > END STRING
 
 > BEGIN STRING
 目がギラギラした剣士
-> CONTEXT DB:DataBase/[27]住人テーブル/[18]目がギラギラした剣士/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[18]目がギラギラした剣士/[0]名前
+Swordsman eyes were glistening
 > END STRING
 
 > BEGIN STRING
 常連風の男
-> CONTEXT DB:DataBase/[27]住人テーブル/[19]常連風の男/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[20]常連風の男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[19]常連風の男/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[20]常連風の男/[0]名前
+Man of the regular style
 > END STRING
 
 > BEGIN STRING
 ぼーっとしている女
-> CONTEXT DB:DataBase/[27]住人テーブル/[21]ぼーっとしている女/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[21]ぼーっとしている女/[0]名前
+Dopey is woman
 > END STRING
 
 > BEGIN STRING
 そわそわした男
-> CONTEXT DB:DataBase/[27]住人テーブル/[22]そわそわした男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[22]そわそわした男/[0]名前
+Restless man
 > END STRING
 
 > BEGIN STRING
 いじわるそうな魔女
-> CONTEXT DB:DataBase/[27]住人テーブル/[23]いじわるそうな魔女/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[23]いじわるそうな魔女/[0]名前
+A vicious witch
 > END STRING
 
 > BEGIN STRING
 あなた！もしかして万能剣士さん？
-> CONTEXT DB:DataBase/[27]住人テーブル/[23]いじわるそうな魔女/[2]メッセージ1 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[23]いじわるそうな魔女/[2]メッセージ1
+you! Did you mean universal swordsman's?
 > END STRING
 
 > BEGIN STRING
 落ち着いた態度の男
-> CONTEXT DB:DataBase/[27]住人テーブル/[25]落ち着いた態度の男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[25]落ち着いた態度の男/[0]名前
+Man of calm attitude
 > END STRING
 
 > BEGIN STRING
 お前さん魔物って見たことがあるか？
-> CONTEXT DB:DataBase/[27]住人テーブル/[25]落ち着いた態度の男/[2]メッセージ1 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[25]落ち着いた態度の男/[2]メッセージ1
+Have you ever seen me you's demons?
 > END STRING
 
 > BEGIN STRING
 黒い衣装の魔女
-> CONTEXT DB:DataBase/[27]住人テーブル/[26]黒い衣装の魔女/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[26]黒い衣装の魔女/[0]名前
+Witch of the black costume
 > END STRING
 
 > BEGIN STRING
 ………
-> CONTEXT DB:DataBase/[27]住人テーブル/[27]リチア姫/[4]メッセージ3 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[27]リチア姫/[4]メッセージ3
+.........
 > END STRING
 
 > BEGIN STRING
 ワラート王
-> CONTEXT DB:DataBase/[27]住人テーブル/[28]ワラート王/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[29]ワラート王/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[28]ワラート王/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[29]ワラート王/[0]名前
+Alert King
 > END STRING
 
 > BEGIN STRING
 あの魔剣の使い心地はいかがかな？
-> CONTEXT DB:DataBase/[27]住人テーブル/[29]ワラート王/[3]メッセージ2 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[29]ワラート王/[3]メッセージ2
+Kana comfortable to use How about of that magic sword?
 > END STRING
 
 > BEGIN STRING
 お詫びとして、これを受け取ってほしいの。
-> CONTEXT DB:DataBase/[27]住人テーブル/[30]マーチ女王/[5]メッセージ4 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[30]マーチ女王/[5]メッセージ4
+As apology, I want to receive it.
 > END STRING
 
 > BEGIN STRING
 元気の無い鎧男
-> CONTEXT DB:DataBase/[27]住人テーブル/[31]元気の無い鎧男/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[32]元気の無い鎧男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[31]元気の無い鎧男/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[32]元気の無い鎧男/[0]名前
+Armor man without Genki
 > END STRING
 
 > BEGIN STRING
 …お前も剣士か…
-> CONTEXT DB:DataBase/[27]住人テーブル/[31]元気の無い鎧男/[2]メッセージ1 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[31]元気の無い鎧男/[2]メッセージ1
+... You also do swordsman ...
 > END STRING
 
 > BEGIN STRING
 落ち着きのない男
-> CONTEXT DB:DataBase/[27]住人テーブル/[33]落ち着きのない男/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[34]落ち着きのない男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[33]落ち着きのない男/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[34]落ち着きのない男/[0]名前
+Man restless
 > END STRING
 
 > BEGIN STRING
 ねずみ顔の男
-> CONTEXT DB:DataBase/[27]住人テーブル/[35]ねずみ顔の男/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[36]ねずみ顔の男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[35]ねずみ顔の男/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[36]ねずみ顔の男/[0]名前
+Male rats face
 > END STRING
 
 > BEGIN STRING
 旅の商人
-> CONTEXT DB:DataBase/[27]住人テーブル/[37]旅の商人/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[38]旅の商人/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[37]旅の商人/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[38]旅の商人/[0]名前
+A traveling merchant
 > END STRING
 
 > BEGIN STRING
 あらくれ
-> CONTEXT DB:DataBase/[27]住人テーブル/[39]あらくれ/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[40]あらくれ/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[56]あらくれ/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[39]あらくれ/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[40]あらくれ/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[56]あらくれ/[0]名前
+Arakure
 > END STRING
 
 > BEGIN STRING
 ああ…2人の妹が領主に奪われちまった。
-> CONTEXT DB:DataBase/[27]住人テーブル/[39]あらくれ/[2]メッセージ1 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[39]あらくれ/[2]メッセージ1
+Oh ... two sister Chima' lost to the lord.
 > END STRING
 
 > BEGIN STRING
 職人風のおじさん
-> CONTEXT DB:DataBase/[27]住人テーブル/[41]職人風のおじさん/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[41]職人風のおじさん/[0]名前
+Uncle of craftsman-style
 > END STRING
 
 > BEGIN STRING
 あんたこのへんじゃ見ない顔だな。
-> CONTEXT DB:DataBase/[27]住人テーブル/[41]職人風のおじさん/[2]メッセージ1 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[41]職人風のおじさん/[2]メッセージ1
+Anta You're face I do not see 's this month.
 > END STRING
 
 > BEGIN STRING
 痩せ気味の魔女
-> CONTEXT DB:DataBase/[27]住人テーブル/[43]痩せ気味の魔女/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[43]痩せ気味の魔女/[0]名前
+Witch lean slightly
 > END STRING
 
 > BEGIN STRING
 工房初体験男
-> CONTEXT DB:DataBase/[27]住人テーブル/[44]工房初体験男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[44]工房初体験男/[0]名前
+Workshop first experience man
 > END STRING
 
 > BEGIN STRING
 いやー、ここの工房はすばらしい！
-> CONTEXT DB:DataBase/[27]住人テーブル/[44]工房初体験男/[2]メッセージ1 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[44]工房初体験男/[2]メッセージ1
+Well, here in the studio is great!
 > END STRING
 
 > BEGIN STRING
 工房常連男
-> CONTEXT DB:DataBase/[27]住人テーブル/[45]工房常連男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[45]工房常連男/[0]名前
+Workshop regular guy
 > END STRING
 
 > BEGIN STRING
 困り顔の婦人
-> CONTEXT DB:DataBase/[27]住人テーブル/[46]困り顔の婦人/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[46]困り顔の婦人/[0]名前
+Women of the troubled face
 > END STRING
 
 > BEGIN STRING
 船乗り
-> CONTEXT DB:DataBase/[27]住人テーブル/[47]船乗り/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[48]船乗り/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[47]船乗り/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[48]船乗り/[0]名前
+Sailor
 > END STRING
 
 > BEGIN STRING
 エスラの連中、引き上げていったよ。
-> CONTEXT DB:DataBase/[27]住人テーブル/[48]船乗り/[2]メッセージ1 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[48]船乗り/[2]メッセージ1
+Esura of guys, went and pulled up.
 > END STRING
 
 > BEGIN STRING
 元気のない男
-> CONTEXT DB:DataBase/[27]住人テーブル/[49]元気のない男/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[50]元気のない男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[49]元気のない男/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[50]元気のない男/[0]名前
+Man with no energy
 > END STRING
 
 > BEGIN STRING
 知識人
-> CONTEXT DB:DataBase/[27]住人テーブル/[51]知識人/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[55]知識人/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[51]知識人/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[55]知識人/[0]名前
+Intellectual
 > END STRING
 
 > BEGIN STRING
 憂える顔の老人
-> CONTEXT DB:DataBase/[27]住人テーブル/[52]憂える顔の老人/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[53]憂える顔の老人/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[52]憂える顔の老人/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[53]憂える顔の老人/[0]名前
+Old man of Fearing face
 > END STRING
 
 > BEGIN STRING
 装飾品がもたらしてくれる効果は千差万別…
-> CONTEXT DB:DataBase/[27]住人テーブル/[52]憂える顔の老人/[2]メッセージ1 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[53]憂える顔の老人/[2]メッセージ1 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[52]憂える顔の老人/[2]メッセージ1
+> CONTEXT DB:DataBase/[27]住人テーブル/[53]憂える顔の老人/[2]メッセージ1
+The effect of ornaments bring the infinite variety ...
 > END STRING
 
 > BEGIN STRING
 不機嫌そうな女性
-> CONTEXT DB:DataBase/[27]住人テーブル/[57]不機嫌そうな女性/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[58]不機嫌そうな女性/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[57]不機嫌そうな女性/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[58]不機嫌そうな女性/[0]名前
+Grumpy woman
 > END STRING
 
 > BEGIN STRING
 そうだ！もうアナタにあげちゃう！
-> CONTEXT DB:DataBase/[27]住人テーブル/[57]不機嫌そうな女性/[3]メッセージ2 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[57]不機嫌そうな女性/[3]メッセージ2
+I know! Would already up to you!
 > END STRING
 
 > BEGIN STRING
 悩ましげな戦士
-> CONTEXT DB:DataBase/[27]住人テーブル/[59]悩ましげな戦士/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[59]悩ましげな戦士/[0]名前
+Racked-up warrior
 > END STRING
 
 > BEGIN STRING
 垂れ目の若者
-> CONTEXT DB:DataBase/[27]住人テーブル/[60]垂れ目の若者/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[60]垂れ目の若者/[0]名前
+Young people of drooping eyes
 > END STRING
 
 > BEGIN STRING
 金持ちそうなおじさん
-> CONTEXT DB:DataBase/[27]住人テーブル/[61]金持ちそうなおじさん/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[61]金持ちそうなおじさん/[0]名前
+Rich likely uncle
 > END STRING
 
 > BEGIN STRING
 いや～よかったよかった。安心した…
-> CONTEXT DB:DataBase/[27]住人テーブル/[64]おどおどした大男/[3]メッセージ2 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[64]おどおどした大男/[3]メッセージ2
+Well it was good was good ~. Relieved ...
 > END STRING
 
 > BEGIN STRING
 ああ、素敵…\\i[200]
-> CONTEXT DB:DataBase/[27]住人テーブル/[66]うっとりしている女/[3]メッセージ2 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[66]うっとりしている女/[3]メッセージ2
+Oh, nice ...\\i[200]
 > END STRING
 
 > BEGIN STRING
 若旦那
-> CONTEXT DB:DataBase/[27]住人テーブル/[67]若旦那/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[68]若旦那/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[69]若旦那/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[67]若旦那/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[68]若旦那/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[69]若旦那/[0]名前
+Wakadanna
 > END STRING
 
 > BEGIN STRING
 大人のおねえさん
-> CONTEXT DB:DataBase/[27]住人テーブル/[71]大人のおねえさん/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[71]大人のおねえさん/[0]名前
+Adults older sister
 > END STRING
 
 > BEGIN STRING
 ルシマ親衛隊長
-> CONTEXT DB:DataBase/[27]住人テーブル/[72]ルシマ親衛隊長/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[72]ルシマ親衛隊長/[0]名前
+Rushima Guard length
 > END STRING
 
 > BEGIN STRING
 ぎょろ目の男
-> CONTEXT DB:DataBase/[27]住人テーブル/[73]ぎょろ目の男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[73]ぎょろ目の男/[0]名前
+Googly eyes of man
 > END STRING
 
 > BEGIN STRING
 親衛隊
-> CONTEXT DB:DataBase/[27]住人テーブル/[74]親衛隊/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[74]親衛隊/[0]名前
+Guards
 > END STRING
 
 > BEGIN STRING
 占い師の女性
-> CONTEXT DB:DataBase/[27]住人テーブル/[75]占い師の女性/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[75]占い師の女性/[0]名前
+Woman of fortune-teller
 > END STRING
 
 > BEGIN STRING
 見える…見えるわ…
-> CONTEXT DB:DataBase/[27]住人テーブル/[75]占い師の女性/[2]メッセージ1 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[75]占い師の女性/[2]メッセージ1
+Look ... it looks ...
 > END STRING
 
 > BEGIN STRING
 …でも頑張ってね…
-> CONTEXT DB:DataBase/[27]住人テーブル/[75]占い師の女性/[4]メッセージ3 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[75]占い師の女性/[4]メッセージ3
+I ... Good luck even ...
 > END STRING
 
 > BEGIN STRING
 何かを飲んでいる老人
-> CONTEXT DB:DataBase/[27]住人テーブル/[76]何かを飲んでいる老人/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[76]何かを飲んでいる老人/[0]名前
+Old man drinking something
 > END STRING
 
 > BEGIN STRING
 なかなか大変そうじゃのう。
-> CONTEXT DB:DataBase/[27]住人テーブル/[76]何かを飲んでいる老人/[4]メッセージ3 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[76]何かを飲んでいる老人/[4]メッセージ3
+Ja quite very likely.
 > END STRING
 
 > BEGIN STRING
 やんちゃくん
-> CONTEXT DB:DataBase/[27]住人テーブル/[78]やんちゃくん/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[78]やんちゃくん/[0]名前
+Naughty-kun
 > END STRING
 
 > BEGIN STRING
 ぼくもいつかその人に教えてもらっちゃお！
-> CONTEXT DB:DataBase/[27]住人テーブル/[78]やんちゃくん/[5]メッセージ4 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[78]やんちゃくん/[5]メッセージ4
+I also Ciao taught to that person someday!
 > END STRING
 
 > BEGIN STRING
 仙人みたいなおじいさん
-> CONTEXT DB:DataBase/[27]住人テーブル/[79]仙人みたいなおじいさん/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[89]仙人みたいなおじいさん/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[79]仙人みたいなおじいさん/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[89]仙人みたいなおじいさん/[0]名前
+Like a grandfather hermit
 > END STRING
 
 > BEGIN STRING
 \\c[3]「リコー大雪原」に行けるようになりました。\\c[0]
-> CONTEXT DB:DataBase/[27]住人テーブル/[79]仙人みたいなおじいさん/[5]メッセージ4 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[79]仙人みたいなおじいさん/[5]メッセージ4
+\\c[3] now able to go to the "Ricoh large snowfield." \\c[0]
 > END STRING
 
 > BEGIN STRING
 好奇心旺盛な船乗り
-> CONTEXT DB:DataBase/[27]住人テーブル/[81]好奇心旺盛な船乗り/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[81]好奇心旺盛な船乗り/[0]名前
+Curious sailor
 > END STRING
 
 > BEGIN STRING
 \\c[3]「魔棲島」に行けるようになりました。\\c[0]
-> CONTEXT DB:DataBase/[27]住人テーブル/[81]好奇心旺盛な船乗り/[7]メッセージ6 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[81]好奇心旺盛な船乗り/[7]メッセージ6
+\\c[3] now able to go to the "magic 棲島". \\c[0]
 > END STRING
 
 > BEGIN STRING
 元気そうなスライム
-> CONTEXT DB:DataBase/[27]住人テーブル/[83]元気そうなスライム/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[83]元気そうなスライム/[0]名前
+Cheerful likely slime
 > END STRING
 
 > BEGIN STRING
 おしとやかなラミア
-> CONTEXT DB:DataBase/[27]住人テーブル/[84]おしとやかなラミア/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[84]おしとやかなラミア/[0]名前
+Ladylike of Lamia
 > END STRING
 
 > BEGIN STRING
 巨人のおねえさん
-> CONTEXT DB:DataBase/[27]住人テーブル/[85]巨人のおねえさん/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[85]巨人のおねえさん/[0]名前
+Giant of older sister
 > END STRING
 
 > BEGIN STRING
 わっ！人間…はじめて見ました。
-> CONTEXT DB:DataBase/[27]住人テーブル/[85]巨人のおねえさん/[2]メッセージ1 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[85]巨人のおねえさん/[2]メッセージ1
+Wow! I was human ... for the first time seen.
 > END STRING
 
 > BEGIN STRING
 こんなにちっちゃいものだったんですね…\\i[200]
-> CONTEXT DB:DataBase/[27]住人テーブル/[85]巨人のおねえさん/[3]メッセージ2 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[85]巨人のおねえさん/[3]メッセージ2
+It's was something so little bitty ... \\i[200]
 > END STRING
 
 > BEGIN STRING
 氷の精
-> CONTEXT DB:DataBase/[27]住人テーブル/[86]氷の精/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[86]氷の精/[0]名前
+Accuracy of ice
 > END STRING
 
 > BEGIN STRING
 のんびりしたミノタウロス
-> CONTEXT DB:DataBase/[27]住人テーブル/[87]のんびりしたミノタウロス/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[87]のんびりしたミノタウロス/[0]名前
+Laid-back Minotaur
 > END STRING
 
 > BEGIN STRING
 私たちも恐くて近寄れないの。
-> CONTEXT DB:DataBase/[27]住人テーブル/[87]のんびりしたミノタウロス/[3]メッセージ2 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[87]のんびりしたミノタウロス/[3]メッセージ2
+We too scared not a Chikayore.
 > END STRING
 
 > BEGIN STRING
 変わった格好の男
-> CONTEXT DB:DataBase/[27]住人テーブル/[90]変わった格好の男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[90]変わった格好の男/[0]名前
+A man of unusual-looking
 > END STRING
 
 > BEGIN STRING
 若く見えるおねえさん
-> CONTEXT DB:DataBase/[27]住人テーブル/[91]若く見えるおねえさん/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[91]若く見えるおねえさん/[0]名前
+Young look her sister
 > END STRING
 
 > BEGIN STRING
 あなた…かなりツワモノなのね。
-> CONTEXT DB:DataBase/[27]住人テーブル/[91]若く見えるおねえさん/[4]メッセージ3 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[91]若く見えるおねえさん/[4]メッセージ3
+You ... it quite Is a strong man.
 > END STRING
 
 > BEGIN STRING
 門番の男
-> CONTEXT DB:DataBase/[27]住人テーブル/[92]門番の男/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[27]住人テーブル/[92]門番の男/[0]名前
+Man of the gatekeeper
 > END STRING

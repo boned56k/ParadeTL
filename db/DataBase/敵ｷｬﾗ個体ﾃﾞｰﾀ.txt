@@ -2,812 +2,812 @@
 
 > BEGIN STRING
 ソードソルジャー
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[0]ソードソルジャー/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[65]ソードソルジャー/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[77]ソードソルジャー/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[0]ソードソルジャー/[0]敵キャラ名
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[65]ソードソルジャー/[0]敵キャラ名
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[77]ソードソルジャー/[0]敵キャラ名
+Sword Soldier
 > END STRING
 
 > BEGIN STRING
 アマゾンウィッチ_遠
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[1]アマゾンウィッチ_遠/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[1]アマゾンウィッチ_遠/[0]敵キャラ名
+Amazon witch _ far
 > END STRING
 
 > BEGIN STRING
 チュートリアル_棒立ち
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[2]チュートリアル_棒立ち/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[2]チュートリアル_棒立ち/[0]敵キャラ名
+Tutorial _ standing upright
 > END STRING
 
 > BEGIN STRING
 チュートリアル_チャージ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[3]チュートリアル_チャージ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[3]チュートリアル_チャージ/[0]敵キャラ名
+Tutorial _ charge
 > END STRING
 
 > BEGIN STRING
 チュートリアル_防御
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[4]チュートリアル_防御/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[4]チュートリアル_防御/[0]敵キャラ名
+Tutorial _ defense
 > END STRING
 
 > BEGIN STRING
 チュートリアル_エッチ攻撃
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[5]チュートリアル_エッチ攻撃/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[5]チュートリアル_エッチ攻撃/[0]敵キャラ名
+Tutorial _ etch attack
 > END STRING
 
 > BEGIN STRING
 宝箱
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[6]宝箱/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[6]宝箱/[0]敵キャラ名
+Treasure Chest
 > END STRING
 
 > BEGIN STRING
 ダガーソルジャー
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[7]ダガーソルジャー/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[66]ダガーソルジャー/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[7]ダガーソルジャー/[0]敵キャラ名
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[66]ダガーソルジャー/[0]敵キャラ名
+Dagger Soldier
 > END STRING
 
 > BEGIN STRING
 ソードソルジャー強
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[8]ソードソルジャー強/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[8]ソードソルジャー強/[0]敵キャラ名
+Sword Soldier Strong
 > END STRING
 
 > BEGIN STRING
 シールドソルジャー
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[9]シールドソルジャー/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[71]シールドソルジャー/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[9]シールドソルジャー/[0]敵キャラ名
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[71]シールドソルジャー/[0]敵キャラ名
+Shield Soldier
 > END STRING
 
 > BEGIN STRING
 ダガーソルジャー強
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[11]ダガーソルジャー強/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[11]ダガーソルジャー強/[0]敵キャラ名
+Dagger Soldier Strong
 > END STRING
 
 > BEGIN STRING
 アマゾンウィッチ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[12]アマゾンウィッチ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[12]アマゾンウィッチ/[0]敵キャラ名
+Amazon witch
 > END STRING
 
 > BEGIN STRING
 シールドソルジャー強
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[13]シールドソルジャー強/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[13]シールドソルジャー強/[0]敵キャラ名
+Shield Soldier Strong
 > END STRING
 
 > BEGIN STRING
 アマゾンウィッチ強
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[14]アマゾンウィッチ強/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[14]アマゾンウィッチ強/[0]敵キャラ名
+Amazon witch Strong
 > END STRING
 
 > BEGIN STRING
 マリン
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[15]マリン/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[15]マリン/[0]敵キャラ名
+Marin
 > END STRING
 
 > BEGIN STRING
 マリン_弱
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[16]マリン_弱/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[16]マリン_弱/[0]敵キャラ名
+Marin _ weak
 > END STRING
 
 > BEGIN STRING
 チュートリアル_防御2
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[17]チュートリアル_防御2/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[17]チュートリアル_防御2/[0]敵キャラ名
+Tutorial _ defense 2
 > END STRING
 
 > BEGIN STRING
 アマゾネス棒立ち
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[19]アマゾネス棒立ち/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[19]アマゾネス棒立ち/[0]敵キャラ名
+Amazones standing upright
 > END STRING
 
 > BEGIN STRING
 スーパースライム
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[20]スーパースライム/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[20]スーパースライム/[0]敵キャラ名
+Super slime
 > END STRING
 
 > BEGIN STRING
 アマゾネス
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[21]アマゾネス/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[72]アマゾネス/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[21]アマゾネス/[0]敵キャラ名
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[72]アマゾネス/[0]敵キャラ名
+Amazones
 > END STRING
 
 > BEGIN STRING
 アマゾンランサー
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[22]アマゾンランサー/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[22]アマゾンランサー/[0]敵キャラ名
+Amazon Lancer
 > END STRING
 
 > BEGIN STRING
 スライム
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[23]スライム/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[23]スライム/[0]敵キャラ名
+Slime
 > END STRING
 
 > BEGIN STRING
 イリアン
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[24]イリアン/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[68]イリアン/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[24]イリアン/[0]敵キャラ名
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[68]イリアン/[0]敵キャラ名
+Irian
 > END STRING
 
 > BEGIN STRING
 有翼魔A_顔見せ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[25]有翼魔A_顔見せ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[25]有翼魔A_顔見せ/[0]敵キャラ名
+Show Yutsubasama A_ face
 > END STRING
 
 > BEGIN STRING
 有翼魔B_顔見せ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[26]有翼魔B_顔見せ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[26]有翼魔B_顔見せ/[0]敵キャラ名
+Show Yutsubasama B_ face
 > END STRING
 
 > BEGIN STRING
 プリースト
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[27]プリースト/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[69]プリースト/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[27]プリースト/[0]敵キャラ名
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[69]プリースト/[0]敵キャラ名
+Priest
 > END STRING
 
 > BEGIN STRING
 スターセージ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[28]スターセージ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[28]スターセージ/[0]敵キャラ名
+Star Sage
 > END STRING
 
 > BEGIN STRING
 ガーディアン
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[29]ガーディアン/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[70]ガーディアン/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[29]ガーディアン/[0]敵キャラ名
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[70]ガーディアン/[0]敵キャラ名
+Guardian
 > END STRING
 
 > BEGIN STRING
 ケーナ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[30]ケーナ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[30]ケーナ/[0]敵キャラ名
+Qena
 > END STRING
 
 > BEGIN STRING
 ポーニャ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[31]ポーニャ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[31]ポーニャ/[0]敵キャラ名
+Ponya
 > END STRING
 
 > BEGIN STRING
 ライチ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[32]ライチ/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[67]ライチ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[32]ライチ/[0]敵キャラ名
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[67]ライチ/[0]敵キャラ名
+Litchee
 > END STRING
 
 > BEGIN STRING
 チャラ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[33]チャラ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[33]チャラ/[0]敵キャラ名
+Be even
 > END STRING
 
 > BEGIN STRING
 ツヅミ_遠
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[34]ツヅミ_遠/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[34]ツヅミ_遠/[0]敵キャラ名
+The clutch _ far
 > END STRING
 
 > BEGIN STRING
 エスラ城兵士A
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[35]エスラ城兵士A/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[35]エスラ城兵士A/[0]敵キャラ名
+Esura Castle Soldier A
 > END STRING
 
 > BEGIN STRING
 エスラ城兵士B
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[36]エスラ城兵士B/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[36]エスラ城兵士B/[0]敵キャラ名
+Esura Castle soldier B
 > END STRING
 
 > BEGIN STRING
 エスラ城兵士C
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[37]エスラ城兵士C/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[37]エスラ城兵士C/[0]敵キャラ名
+Esura Castle Soldier C
 > END STRING
 
 > BEGIN STRING
 ツヅミ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[38]ツヅミ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[38]ツヅミ/[0]敵キャラ名
+The clutch
 > END STRING
 
 > BEGIN STRING
 エスラ城兵士_遠
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[39]エスラ城兵士_遠/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[39]エスラ城兵士_遠/[0]敵キャラ名
+_ Far Esura Castle soldier
 > END STRING
 
 > BEGIN STRING
 女足軽
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[41]女足軽/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[41]女足軽/[0]敵キャラ名
+Woman Ashigaru
 > END STRING
 
 > BEGIN STRING
 なぎなた兵
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[42]なぎなた兵/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[42]なぎなた兵/[0]敵キャラ名
+Halberd soldiers
 > END STRING
 
 > BEGIN STRING
 ささら
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[43]ささら/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[43]ささら/[0]敵キャラ名
+Sasara
 > END STRING
 
 > BEGIN STRING
 武芸者
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[44]武芸者/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[45]武芸者/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[44]武芸者/[0]敵キャラ名
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[45]武芸者/[0]敵キャラ名
+Bugeisha
 > END STRING
 
 > BEGIN STRING
 ラミア
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[46]ラミア/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[46]ラミア/[0]敵キャラ名
+Lamia
 > END STRING
 
 > BEGIN STRING
 バンデッド
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[47]バンデッド/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[47]バンデッド/[0]敵キャラ名
+Banded
 > END STRING
 
 > BEGIN STRING
 ワーウルフ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[48]ワーウルフ/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[76]ワーウルフ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[48]ワーウルフ/[0]敵キャラ名
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[76]ワーウルフ/[0]敵キャラ名
+Werewolf
 > END STRING
 
 > BEGIN STRING
 バニーガール
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[49]バニーガール/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[49]バニーガール/[0]敵キャラ名
+Bunny girl
 > END STRING
 
 > BEGIN STRING
 ベル
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[50]ベル/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[50]ベル/[0]敵キャラ名
+Bell
 > END STRING
 
 > BEGIN STRING
 リラ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[51]リラ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[51]リラ/[0]敵キャラ名
+Lilla
 > END STRING
 
 > BEGIN STRING
 マーチ親衛隊A
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[53]マーチ親衛隊A/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[53]マーチ親衛隊A/[0]敵キャラ名
+March SS A
 > END STRING
 
 > BEGIN STRING
 マーチ親衛隊B
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[54]マーチ親衛隊B/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[54]マーチ親衛隊B/[0]敵キャラ名
+March SS B
 > END STRING
 
 > BEGIN STRING
 マーチ親衛隊C
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[55]マーチ親衛隊C/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[55]マーチ親衛隊C/[0]敵キャラ名
+March SS C
 > END STRING
 
 > BEGIN STRING
 ルシマ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[56]ルシマ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[56]ルシマ/[0]敵キャラ名
+Rushima
 > END STRING
 
 > BEGIN STRING
 マーチ女王
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[57]マーチ女王/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[30]マーチ女王/[0]名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[42]マーチ女王/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[57]マーチ女王/[0]敵キャラ名
+> CONTEXT DB:DataBase/[27]住人テーブル/[30]マーチ女王/[0]名前
+> CONTEXT DB:DataBase/[27]住人テーブル/[42]マーチ女王/[0]名前
+March queen
 > END STRING
 
 > BEGIN STRING
 ミュゼット
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[59]ミュゼット/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[59]ミュゼット/[0]敵キャラ名
+Musette
 > END STRING
 
 > BEGIN STRING
 影ミュゼット
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[60]影ミュゼット/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[60]影ミュゼット/[0]敵キャラ名
+Shadow musette
 > END STRING
 
 > BEGIN STRING
 町娘
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[61]町娘/[0]敵キャラ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[27]住人テーブル/[70]町娘/[0]名前 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[61]町娘/[0]敵キャラ名
+> CONTEXT DB:DataBase/[27]住人テーブル/[70]町娘/[0]名前
+Machimusume
 > END STRING
 
 > BEGIN STRING
 倒すとゲームオーバーになる。
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[61]町娘/[12]敵解説 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[61]町娘/[12]敵解説
+Kill the game is over when.
 > END STRING
 
 > BEGIN STRING
 偽マーチ女王
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[62]偽マーチ女王/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[62]偽マーチ女王/[0]敵キャラ名
+False march queen
 > END STRING
 
 > BEGIN STRING
 偽リチア姫
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[63]偽リチア姫/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[63]偽リチア姫/[0]敵キャラ名
+False Lithia princess
 > END STRING
 
 > BEGIN STRING
 イリアン_ダメージ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[73]イリアン_ダメージ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[73]イリアン_ダメージ/[0]敵キャラ名
+Irian _ Damage
 > END STRING
 
 > BEGIN STRING
 ダガーソルジャー_ステップ無し
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[74]ダガーソルジャー_ステップ無し/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[74]ダガーソルジャー_ステップ無し/[0]敵キャラ名
+No dagger Soldier _ step
 > END STRING
 
 > BEGIN STRING
 水着のおねえさん
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[78]水着のおねえさん/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[78]水着のおねえさん/[0]敵キャラ名
+Swimwear older sister
 > END STRING
 
 > BEGIN STRING
 OLその1
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[79]OLその1/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[79]OLその1/[0]敵キャラ名
+OL Part 1
 > END STRING
 
 > BEGIN STRING
 OLその2
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[80]OLその2/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[80]OLその2/[0]敵キャラ名
+OL Part 2
 > END STRING
 
 > BEGIN STRING
 水着リーダー
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[81]水着リーダー/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[81]水着リーダー/[0]敵キャラ名
+Swimsuit leader
 > END STRING
 
 > BEGIN STRING
 ベル（翼無し）
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[82]ベル（翼無し）/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[82]ベル（翼無し）/[0]敵キャラ名
+Bell (without wings)
 > END STRING
 
 > BEGIN STRING
 リラ（翼無し）
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[83]リラ（翼無し）/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[83]リラ（翼無し）/[0]敵キャラ名
+Lira (without wings)
 > END STRING
 
 > BEGIN STRING
 ミュゼット（翼無し）
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[84]ミュゼット（翼無し）/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[84]ミュゼット（翼無し）/[0]敵キャラ名
+Musette (without wings)
 > END STRING
 
 > BEGIN STRING
 スノウ
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[85]スノウ/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[85]スノウ/[0]敵キャラ名
+Snow
 > END STRING
 
 > BEGIN STRING
 ギガンティア
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[86]ギガンティア/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[86]ギガンティア/[0]敵キャラ名
+Gigantia
 > END STRING
 
 > BEGIN STRING
 ミノタウロス
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[87]ミノタウロス/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[87]ミノタウロス/[0]敵キャラ名
+Minotaur
 > END STRING
 
 > BEGIN STRING
 サキュバス
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[91]サキュバス/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[91]サキュバス/[0]敵キャラ名
+Succubus
 > END STRING
 
 > BEGIN STRING
 ササン
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[92]ササン/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[92]ササン/[0]敵キャラ名
+Sasan
 > END STRING
 
 > BEGIN STRING
 ソードソルジャー_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[100]ソードソルジャー_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[100]ソードソルジャー_塔/[0]敵キャラ名
+Sword Soldier _ tower
 > END STRING
 
 > BEGIN STRING
 ダガーソルジャー_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[101]ダガーソルジャー_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[101]ダガーソルジャー_塔/[0]敵キャラ名
+Dagger Soldier _ tower
 > END STRING
 
 > BEGIN STRING
 シールドソルジャー_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[102]シールドソルジャー_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[102]シールドソルジャー_塔/[0]敵キャラ名
+Shield Soldier _ tower
 > END STRING
 
 > BEGIN STRING
 アマゾンウィッチ_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[103]アマゾンウィッチ_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[103]アマゾンウィッチ_塔/[0]敵キャラ名
+Amazon witch _ tower
 > END STRING
 
 > BEGIN STRING
 マリン_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[104]マリン_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[104]マリン_塔/[0]敵キャラ名
+Marin _ tower
 > END STRING
 
 > BEGIN STRING
 アマゾネス_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[105]アマゾネス_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[105]アマゾネス_塔/[0]敵キャラ名
+Amazones _ tower
 > END STRING
 
 > BEGIN STRING
 アマゾンランサー_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[106]アマゾンランサー_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[106]アマゾンランサー_塔/[0]敵キャラ名
+Amazon Lancer _ tower
 > END STRING
 
 > BEGIN STRING
 スライム_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[107]スライム_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[107]スライム_塔/[0]敵キャラ名
+Slime _ tower
 > END STRING
 
 > BEGIN STRING
 イリアン_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[108]イリアン_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[108]イリアン_塔/[0]敵キャラ名
+Irian _ tower
 > END STRING
 
 > BEGIN STRING
 スーパースライム_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[109]スーパースライム_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[109]スーパースライム_塔/[0]敵キャラ名
+Super slime _ tower
 > END STRING
 
 > BEGIN STRING
 プリースト_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[110]プリースト_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[110]プリースト_塔/[0]敵キャラ名
+Priest _ tower
 > END STRING
 
 > BEGIN STRING
 スターセージ_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[111]スターセージ_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[111]スターセージ_塔/[0]敵キャラ名
+Star sage _ tower
 > END STRING
 
 > BEGIN STRING
 ガーディアン_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[112]ガーディアン_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[112]ガーディアン_塔/[0]敵キャラ名
+Guardian _ tower
 > END STRING
 
 > BEGIN STRING
 ケーナ_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[113]ケーナ_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[113]ケーナ_塔/[0]敵キャラ名
+Qena _ tower
 > END STRING
 
 > BEGIN STRING
 ポーニャ_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[114]ポーニャ_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[114]ポーニャ_塔/[0]敵キャラ名
+Ponya _ tower
 > END STRING
 
 > BEGIN STRING
 ライチ_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[115]ライチ_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[115]ライチ_塔/[0]敵キャラ名
+Lychee _ tower
 > END STRING
 
 > BEGIN STRING
 チャラ_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[116]チャラ_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[116]チャラ_塔/[0]敵キャラ名
+Chala _ tower
 > END STRING
 
 > BEGIN STRING
 エスラ城兵士A_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[117]エスラ城兵士A_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[117]エスラ城兵士A_塔/[0]敵キャラ名
+Esura Castle soldier A_ tower
 > END STRING
 
 > BEGIN STRING
 エスラ城兵士B_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[118]エスラ城兵士B_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[118]エスラ城兵士B_塔/[0]敵キャラ名
+Esura Castle soldier B_ tower
 > END STRING
 
 > BEGIN STRING
 エスラ城兵士C_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[119]エスラ城兵士C_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[119]エスラ城兵士C_塔/[0]敵キャラ名
+Esura Castle soldier C_ tower
 > END STRING
 
 > BEGIN STRING
 ツヅミ_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[120]ツヅミ_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[120]ツヅミ_塔/[0]敵キャラ名
+The clutch _ tower
 > END STRING
 
 > BEGIN STRING
 くノ一_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[121]くノ一_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[121]くノ一_塔/[0]敵キャラ名
+Kunoichi _ tower
 > END STRING
 
 > BEGIN STRING
 女足軽_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[122]女足軽_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[122]女足軽_塔/[0]敵キャラ名
+Woman Ashigaru _ tower
 > END STRING
 
 > BEGIN STRING
 なぎなた兵_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[123]なぎなた兵_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[123]なぎなた兵_塔/[0]敵キャラ名
+Halberd soldiers _ tower
 > END STRING
 
 > BEGIN STRING
 ささら_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[124]ささら_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[124]ささら_塔/[0]敵キャラ名
+Sasara _ tower
 > END STRING
 
 > BEGIN STRING
 武芸者_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[125]武芸者_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[125]武芸者_塔/[0]敵キャラ名
+Person of hands _ tower
 > END STRING
 
 > BEGIN STRING
 ラミア_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[126]ラミア_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[126]ラミア_塔/[0]敵キャラ名
+Lamia _ tower
 > END STRING
 
 > BEGIN STRING
 バンデッド_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[127]バンデッド_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[127]バンデッド_塔/[0]敵キャラ名
+Banded _ tower
 > END STRING
 
 > BEGIN STRING
 ワーウルフ_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[128]ワーウルフ_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[128]ワーウルフ_塔/[0]敵キャラ名
+Werewolf _ tower
 > END STRING
 
 > BEGIN STRING
 バニーガール_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[129]バニーガール_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[129]バニーガール_塔/[0]敵キャラ名
+Bunny Girl _ tower
 > END STRING
 
 > BEGIN STRING
 ベル_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[130]ベル_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[130]ベル_塔/[0]敵キャラ名
+Bell _ tower
 > END STRING
 
 > BEGIN STRING
 リラ_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[131]リラ_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[131]リラ_塔/[0]敵キャラ名
+Lira _ tower
 > END STRING
 
 > BEGIN STRING
 マーチ親衛隊A_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[132]マーチ親衛隊A_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[132]マーチ親衛隊A_塔/[0]敵キャラ名
+March Guards A_ tower
 > END STRING
 
 > BEGIN STRING
 マーチ親衛隊B_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[133]マーチ親衛隊B_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[133]マーチ親衛隊B_塔/[0]敵キャラ名
+March Guards B_ tower
 > END STRING
 
 > BEGIN STRING
 マーチ親衛隊C_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[134]マーチ親衛隊C_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[134]マーチ親衛隊C_塔/[0]敵キャラ名
+March Guards C_ tower
 > END STRING
 
 > BEGIN STRING
 ルシマ_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[135]ルシマ_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[135]ルシマ_塔/[0]敵キャラ名
+Rushima _ tower
 > END STRING
 
 > BEGIN STRING
 ミュゼット_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[136]ミュゼット_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[136]ミュゼット_塔/[0]敵キャラ名
+Musette _ tower
 > END STRING
 
 > BEGIN STRING
 偽マーチ女王_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[137]偽マーチ女王_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[137]偽マーチ女王_塔/[0]敵キャラ名
+False march queen _ tower
 > END STRING
 
 > BEGIN STRING
 偽リチア姫_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[138]偽リチア姫_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[138]偽リチア姫_塔/[0]敵キャラ名
+False Lithia princess _ tower
 > END STRING
 
 > BEGIN STRING
 水着のおねえさん_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[139]水着のおねえさん_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[139]水着のおねえさん_塔/[0]敵キャラ名
+Swimsuit older sister _ tower
 > END STRING
 
 > BEGIN STRING
 OLその1_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[140]OLその1_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[140]OLその1_塔/[0]敵キャラ名
+OL its 1_ tower
 > END STRING
 
 > BEGIN STRING
 OLその2_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[141]OLその2_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[141]OLその2_塔/[0]敵キャラ名
+OL its 2_ tower
 > END STRING
 
 > BEGIN STRING
 水着リーダー_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[142]水着リーダー_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[142]水着リーダー_塔/[0]敵キャラ名
+Swimsuit leader _ tower
 > END STRING
 
 > BEGIN STRING
 スノウ_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[143]スノウ_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[143]スノウ_塔/[0]敵キャラ名
+Snow _ tower
 > END STRING
 
 > BEGIN STRING
 ギガンティア_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[144]ギガンティア_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[144]ギガンティア_塔/[0]敵キャラ名
+Gigantia _ tower
 > END STRING
 
 > BEGIN STRING
 ミノタウロス_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[145]ミノタウロス_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[145]ミノタウロス_塔/[0]敵キャラ名
+Minotaur _ tower
 > END STRING
 
 > BEGIN STRING
 サキュバス_塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[146]サキュバス_塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[146]サキュバス_塔/[0]敵キャラ名
+Succubus _ tower
 > END STRING
 
 > BEGIN STRING
 アマゾンウィッチ_遠塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[147]アマゾンウィッチ_遠塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[147]アマゾンウィッチ_遠塔/[0]敵キャラ名
+Amazon witch _ far tower
 > END STRING
 
 > BEGIN STRING
 エスラ城兵士_遠塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[148]エスラ城兵士_遠塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[148]エスラ城兵士_遠塔/[0]敵キャラ名
+Esura Castle soldier _ far tower
 > END STRING
 
 > BEGIN STRING
 ツヅミ_遠塔
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[149]ツヅミ_遠塔/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[149]ツヅミ_遠塔/[0]敵キャラ名
+The clutch _ far tower
 > END STRING
 
 > BEGIN STRING
 ササン_マリントレース
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[151]ササン_マリントレース/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[151]ササン_マリントレース/[0]敵キャラ名
+Sasan _ Marin trace
 > END STRING
 
 > BEGIN STRING
 ササン_ウルフトレース
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[152]ササン_ウルフトレース/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[152]ササン_ウルフトレース/[0]敵キャラ名
+Sasan _ Wolf trace
 > END STRING
 
 > BEGIN STRING
 ササン_ケーナトレース
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[153]ササン_ケーナトレース/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[153]ササン_ケーナトレース/[0]敵キャラ名
+Sasan _ quena trace
 > END STRING
 
 > BEGIN STRING
 ササン_ポーニャトレース
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[154]ササン_ポーニャトレース/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[154]ササン_ポーニャトレース/[0]敵キャラ名
+Sasan _ Pau Nha trace
 > END STRING
 
 > BEGIN STRING
 ササン_ライチトレース
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[155]ササン_ライチトレース/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[155]ササン_ライチトレース/[0]敵キャラ名
+Sasan _ lychee trace
 > END STRING
 
 > BEGIN STRING
 ササン_チャラトレース
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[156]ササン_チャラトレース/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[156]ササン_チャラトレース/[0]敵キャラ名
+Sasan _ Chala trace
 > END STRING
 
 > BEGIN STRING
 ササン_ささらトレース
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[157]ササン_ささらトレース/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[157]ササン_ささらトレース/[0]敵キャラ名
+Sasan _ sasara trace
 > END STRING
 
 > BEGIN STRING
 ササン_怒り
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[158]ササン_怒り/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[158]ササン_怒り/[0]敵キャラ名
+Sasan _ anger
 > END STRING
 
 > BEGIN STRING
 無限サキュバス
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[159]無限サキュバス/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[159]無限サキュバス/[0]敵キャラ名
+Infinite succubus
 > END STRING
 
 > BEGIN STRING
 回復サキュバス
-> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[160]回復サキュバス/[0]敵キャラ名 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[9]敵ｷｬﾗ個体ﾃﾞｰﾀ/[160]回復サキュバス/[0]敵キャラ名
+Recovery succubus
 > END STRING

@@ -1,0 +1,15 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+[お店]ｱｲﾃﾑ登録個数
+> CONTEXT COMMONEVENT:83/6/Database < UNTRANSLATED
+[Store] item registration number
+> END STRING
+
+> BEGIN STRING
+
+\\c[3]攻撃範囲：\\cself[30]\\c[0]
+> CONTEXT COMMONEVENT:83/37/SetString < UNTRANSLATED
+
+\\c[3]Attack range：\\cself[30]\\c[0]
+> END STRING

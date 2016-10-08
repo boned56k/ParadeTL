@@ -1,0 +1,37 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+万能ウィンドウ表示Y
+> CONTEXT COMMONEVENT:62/2/Database < UNTRANSLATED
+Universal window display Y
+> END STRING
+
+> BEGIN STRING
+万能ウィンドウ横サイズ
+> CONTEXT COMMONEVENT:62/3/Database < UNTRANSLATED
+Universal window horizontal size
+> END STRING
+
+> BEGIN STRING
+万能ウィンドウ縦サイズ
+> CONTEXT COMMONEVENT:62/4/Database < UNTRANSLATED
+Universal window vertical size
+> END STRING
+
+> BEGIN STRING
+万能ウィンドウ横項目数
+> CONTEXT COMMONEVENT:62/5/Database < UNTRANSLATED
+The number of all-purpose window next to item
+> END STRING
+
+> BEGIN STRING
+万能ウィンドウ縦項目数
+> CONTEXT COMMONEVENT:62/6/Database < UNTRANSLATED
+The number of all-purpose window vertical item
+> END STRING
+
+> BEGIN STRING
+万能ウィンドウ表示X
+> CONTEXT COMMONEVENT:62/14/Database < UNTRANSLATED
+Universal window display X
+> END STRING

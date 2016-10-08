@@ -1,0 +1,34 @@
+> WOLF TRANS PATCH FILE VERSION 1.0
+
+> BEGIN STRING
+\\f[\\cself[19]]購入
+> CONTEXT COMMONEVENT:85/192/SetString < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[\\cself[19]]売却
+> CONTEXT COMMONEVENT:85/215/SetString < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[\\cself[18]]所持金\\ax[\\cself[13]]
+<R\>\\f[\\cself[19]]\\cself[95]\\f[\\cself[18]] \\cself[7]
+> CONTEXT COMMONEVENT:85/291/SetString < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[\\cself[19]]所持数\\ax[\\cself[13]]
+\\ay[0]<R\>\\f[\\cself[19]]\\c[2]\\cself[97]\\c[0]
+> CONTEXT COMMONEVENT:85/360/SetString < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\f[\\cself[19]]所持数\\ax[\\cself[13]]
+\\ay[0]<R\>\\f[\\cself[19]]\\cself[97]
+> CONTEXT COMMONEVENT:85/363/SetString < UNTRANSLATED
+
+> END STRING

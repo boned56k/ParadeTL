@@ -59,14 +59,16 @@ Don't
 \\f[20]\\c[2]※注意※
 ・このモードで敵を倒しても経験値・お金・アイテムは手に入りません。
 ・主人公がやられるとゲームオーバーになります。
-> CONTEXT COMMONEVENT:384/38/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/38/Picture
+\\f[20]\\c[2]※Caution※
+・Money, items, and experience will not be gained by defeating enemies。
+・When the hero has been defeated, the game will end。
 > END STRING
 
 > BEGIN STRING
 \\E何人と戦う？
-> CONTEXT COMMONEVENT:384/39/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/39/Picture
+\\EHow many enemies to fight？
 > END STRING
 
 > BEGIN STRING
@@ -216,20 +218,20 @@ Lv.\\c[2]\\cself[25]\\c[0]
 
 > BEGIN STRING
 \\c[3]敵が無限に出現するようにしますか？\\c[0]
-> CONTEXT COMMONEVENT:384/820/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/820/Message
+\\c[3]Would you like to fight infinite enemies?\\c[0]
 > END STRING
 
 > BEGIN STRING
 無限に出現させる
-> CONTEXT COMMONEVENT:384/821/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/821/Choices
+Infinite
 > END STRING
 
 > BEGIN STRING
 出現させない
-> CONTEXT COMMONEVENT:384/821/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/821/Choices
+No
 > END STRING
 
 > BEGIN STRING
@@ -241,8 +243,15 @@ Lv.\\c[2]\\cself[25]\\c[0]
 \\cdb[18:161:1]
 Lv.\\c[2]\\cself[25]\\c[0]
 無限出現:あり
-> CONTEXT COMMONEVENT:384/826/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/826/Picture
+\\E\\cdb[18:156:1]
+\\cdb[18:157:1]
+\\cdb[18:158:1]
+\\cdb[18:159:1]
+\\cdb[18:160:1]
+\\cdb[18:161:1]
+Lv.\\c[2]\\cself[25]\\c[0]
+Infinite appearance: Yes
 > END STRING
 
 > BEGIN STRING
