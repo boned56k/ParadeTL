@@ -3,32 +3,39 @@
 > BEGIN STRING
 @4
 …奴らは一体何だったんだ…
-> CONTEXT COMMONEVENT:455/20/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:455/20/Message
+@4
+ ... we've got was what the heck ...
 > END STRING
 
 > BEGIN STRING
 @4
 なぜ有翼魔なんかが人間の宝物に
 興味を示すんだ？
-> CONTEXT COMMONEVENT:455/21/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:455/21/Message
+@4
+ Why something winged devil human treasure
+You show interest?
 > END STRING
 
 > BEGIN STRING
 @4
 それに…あの鎧の男も宝玉を
 欲しがっていた。
-> CONTEXT COMMONEVENT:455/22/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:455/22/Message
+@4
+ And ... the jewel of the man in armor
+I had wanted.
 > END STRING
 
 > BEGIN STRING
 @4
 …ただ高価なだけのモノじゃないということ
 なのか、この宝玉は…
-> CONTEXT COMMONEVENT:455/24/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:455/24/Message
+@4
+ ... just expensive only of the fact that things not a
+Or such of, this gem is ...
 > END STRING
 
 > BEGIN STRING
@@ -36,32 +43,37 @@
 よし、行くか…
 分からないことだらけだけど、
 とにかく宝玉をエスラ城に届ける事だけ考えよう。
-> CONTEXT COMMONEVENT:455/36/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:455/36/Message
+@4
+ Okay, go ...
+It's full of it you do not know,
+Consider only anyway that deliver the jewel in Esura Castle.
 > END STRING
 
 > BEGIN STRING
 @4
 道が3つに分かれてるな…
 どの道を行こう？
-> CONTEXT COMMONEVENT:455/47/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:455/47/Message
+@4
+ I are divided on the road are three ...
+Let's go Which way?
 > END STRING
 
 > BEGIN STRING
 左：川沿いの道
-> CONTEXT COMMONEVENT:455/50/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:455/50/Choices
+Left: road along the river
 > END STRING
 
 > BEGIN STRING
 中央：山肌の道
-> CONTEXT COMMONEVENT:455/50/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:455/50/Choices
+Center: mountainside road
 > END STRING
 
 > BEGIN STRING
 右：木々が生い茂る道
-> CONTEXT COMMONEVENT:455/50/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:455/50/Choices
+Right: the trees lush road
 > END STRING

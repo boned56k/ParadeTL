@@ -4,6 +4,8 @@
 \\c[3]サブクエスト
 「\\cself[8]」
 が選べるようになりました！\\c[0]
-> CONTEXT COMMONEVENT:349/92/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:349/92/Message
+\\c[3]Sub Quest
+「\\cself[8]」
+Now to choose from!\\c[0]
 > END STRING

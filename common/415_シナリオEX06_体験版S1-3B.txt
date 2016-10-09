@@ -4,6 +4,8 @@
 @4
 …もう出口が近いぞ！
 あの洞窟、実は近道になっていたんだな。
-> CONTEXT COMMONEVENT:415/7/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:415/7/Message
+@4
+ ... The other exit is near!
+It's that cave, in fact, had become a shortcut.
 > END STRING

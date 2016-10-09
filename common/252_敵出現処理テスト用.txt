@@ -2,12 +2,12 @@
 
 > BEGIN STRING
 \\cself[0],\\cself[1]
-> CONTEXT COMMONEVENT:252/5/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:252/5/Picture
+\\cself[0], \\cself[1]
 > END STRING
 
 > BEGIN STRING
 \\cself[2],\\cself[3]
-> CONTEXT COMMONEVENT:252/6/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:252/6/Picture
+\\cself[2], \\cself[3]
 > END STRING

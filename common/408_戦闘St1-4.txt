@@ -2,26 +2,28 @@
 
 > BEGIN STRING
 ふふ…お手柔らかにおねがいね\\i[200]
-> CONTEXT COMMONEVENT:408/26/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:408/26/Message
+Hehe ... your hand softly ask \\i[200]
 > END STRING
 
 > BEGIN STRING
 @11
 信じたくないけど…
 完全に私の負けね
-> CONTEXT COMMONEVENT:408/169/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:408/169/Message
+@11
+ I do not want to believe ...
+Completely I guess of losing
 > END STRING
 
 > BEGIN STRING
 「\\cdb[24:2:0]」に行けるようになりました！
-> CONTEXT COMMONEVENT:408/196/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:408/196/Message
+Now go to "\\cdb[24:2:0]"!
 > END STRING
 
 > BEGIN STRING
 「\\cdb[24:3:0]」に行けるようになりました！
-> CONTEXT COMMONEVENT:408/198/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:408/198/Message
+Now go to "\\cdb[24:3:0]"!
 > END STRING

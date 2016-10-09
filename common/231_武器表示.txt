@@ -2,12 +2,12 @@
 
 > BEGIN STRING
 Picture/none.png
-> CONTEXT COMMONEVENT:231/32/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:231/32/SetString
+Pi c him / it to. p N g
 > END STRING
 
 > BEGIN STRING
 \\font[1]\\c[3]\\E\\f[40]\\cdb[18:138:0] \\f[20]Hit
-> CONTEXT COMMONEVENT:231/65/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:231/65/Picture
+\\font[1] \\c[3] \\E\\f[40]\\cdb[18:138:0] \\f[20]Hit
 > END STRING

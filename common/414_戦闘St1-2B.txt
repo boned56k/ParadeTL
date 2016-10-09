@@ -4,22 +4,28 @@
 @4
 これは…！
 宝箱だ！
-> CONTEXT COMMONEVENT:414/171/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:414/171/Message
+@4
+ This is ...!
+A treasure box!
 > END STRING
 
 > BEGIN STRING
 @4
 こんな武器がこんな洞窟に…
 まさか本当にあるとは思わなかった
-> CONTEXT COMMONEVENT:414/183/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:414/183/Message
+@4
+ in such a weapon is this cave ...
+I did not think I did not think I'd really do
 > END STRING
 
 > BEGIN STRING
 @4
 あとはこのまま進んで出口を
 目指すぞ！
-> CONTEXT COMMONEVENT:414/184/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:414/184/Message
+@4
+ After that the exit go left this
+Aim!
 > END STRING

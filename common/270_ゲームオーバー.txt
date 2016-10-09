@@ -3,12 +3,12 @@
 > BEGIN STRING
 
 \\c[2]<ゲームオーバー\>\\c[0]
-> CONTEXT COMMONEVENT:270/61/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:270/61/SetString
+\\c[2]<Game over\>\\c[0]
 > END STRING
 
 > BEGIN STRING
 \\f[20]\\E敗北イベントへ
-> CONTEXT COMMONEVENT:270/68/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:270/68/Picture
+\\f[20]\\E敗北イベントへ
 > END STRING

@@ -3,45 +3,53 @@
 > BEGIN STRING
 @4
 今日はこのあたりで休むか。
-> CONTEXT COMMONEVENT:405/20/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/20/Message
+@4
+ or today rest around this.
 > END STRING
 
 > BEGIN STRING
 @4
 リチア姫…早く見つかるといいけど
-> CONTEXT COMMONEVENT:405/31/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/31/Message
+@4
+ Lithia princess ... I hope you find early
 > END STRING
 
 > BEGIN STRING
 @45
 \\cdb[0:0:0]くん！
-> CONTEXT COMMONEVENT:405/43/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/43/Message
+@45
+\\cdb[0:0:0] kun!
 > END STRING
 
 > BEGIN STRING
 @4
 あ…リチア姫。
-> CONTEXT COMMONEVENT:405/44/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/44/Message
+@4
+ Alicia princess.
 > END STRING
 
 > BEGIN STRING
 @45
 一言お礼が言いたくて。
 いつも母のお願いを聞いてくれてありがとう。
-> CONTEXT COMMONEVENT:405/45/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/45/Message
+@45
+ word thanks is want to say.
+Always Thank you for listening to the wish of the mother.
 > END STRING
 
 > BEGIN STRING
 @4
 ほんのちょっとでもお役に
 立てていれば嬉しいです。
-> CONTEXT COMMONEVENT:405/46/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/46/Message
+@4
+ in a little bit, even your role
+I'm happy if the stand.
 > END STRING
 
 > BEGIN STRING
@@ -49,31 +57,39 @@
 ふふ…謙遜しなくていいんだよ？
 母は本当に感謝しているし、私も
 あなたがいてくれて良かったと思ってるんだから。
-> CONTEXT COMMONEVENT:405/47/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/47/Message
+@45
+ Hehe ... I say without humility?
+My mother really to thank, I also
+Because I'm thought you was good being here for me.
 > END STRING
 
 > BEGIN STRING
 @45
 あと、これをあなたに差し上げたくて…。
-> CONTEXT COMMONEVENT:405/48/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/48/Message
+@45
+ after, which I wanted to give to you ....
 > END STRING
 
 > BEGIN STRING
 @4
 これは…
 (ずっしりと重い)
-> CONTEXT COMMONEVENT:405/55/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/55/Message
+@4
+ This is ...
+(Hefty)
 > END STRING
 
 > BEGIN STRING
 @45
 城下町の職人さんにお願いして
 こしらえてもらったの。
-> CONTEXT COMMONEVENT:405/56/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/56/Message
+@45
+ to ask the craftsman's castle town
+The I had leftover.
 > END STRING
 
 > BEGIN STRING
@@ -81,41 +97,50 @@
 旅をしていると野外で夜を過ごす事も
 多いと聞いたから、\\cdb[0:0:0]くんが少しでもその時を
 豊かに過ごせればといいな、って…。
-> CONTEXT COMMONEVENT:405/57/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/57/Message
+@45
+ is also the journey you are doing and to spend the night in the open air
+Because I heard that many, when the \\cdb[0:0:0] kun even a little
+Richly be nice and if Sugosere, I ....
 > END STRING
 
 > BEGIN STRING
 @4
 あ、ありがとうございます。
 大事に使います！
-> CONTEXT COMMONEVENT:405/58/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/58/Message
+@4
+ Oh, thank you.
+Use cherish!
 > END STRING
 
 > BEGIN STRING
 @45
 今度、旅のお話たくさん聞かせてね！
-> CONTEXT COMMONEVENT:405/60/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/60/Message
+@45
+ This time, I let a lot of talk of the trip!
 > END STRING
 
 > BEGIN STRING
 @4
 …
-> CONTEXT COMMONEVENT:405/73/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:551/27/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:553/38/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:603/18/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:605/91/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:753/60/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/73/Message
+> CONTEXT COMMONEVENT:551/27/Message
+> CONTEXT COMMONEVENT:553/38/Message
+> CONTEXT COMMONEVENT:603/18/Message
+> CONTEXT COMMONEVENT:605/91/Message
+> CONTEXT COMMONEVENT:753/60/Message
+@4
+ ...
 > END STRING
 
 > BEGIN STRING
 @4
 次の村までもう一息だ。
 このまま突っ切る！
-> CONTEXT COMMONEVENT:405/86/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:405/86/Message
+@4
+I've had a break until the next village.
+This remains breaks new ground!
 > END STRING

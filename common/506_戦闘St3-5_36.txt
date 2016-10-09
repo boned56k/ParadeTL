@@ -5,25 +5,29 @@
 信じられない…
 あ…あなたのどこに…そんな
 力が…？
-> CONTEXT COMMONEVENT:506/49/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:506/49/Message
+@21
+ not believe ...
+Oh ... anywhere you ... I
+Force ...?
 > END STRING
 
 > BEGIN STRING
 @21
 かはっ…
-> CONTEXT COMMONEVENT:506/50/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:506/50/Message
+@21
+ Kaha' ...
 > END STRING
 
 > BEGIN STRING
 「\\cdb[24:6:0]」に行けるようになりました！
-> CONTEXT COMMONEVENT:506/75/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:506/75/Message
+Now go to "\\cdb[24:6:0]"!
 > END STRING
 
 > BEGIN STRING
 「\\cdb[24:7:0]」に行けるようになりました！
-> CONTEXT COMMONEVENT:506/77/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:506/77/Message
+Now go to "\\cdb[24:7:0]"!
 > END STRING

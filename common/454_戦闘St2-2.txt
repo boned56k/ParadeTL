@@ -4,16 +4,20 @@
 @16
 へえ…おどろいた～
 結構やるじゃん\\i[200]
-> CONTEXT COMMONEVENT:454/42/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:454/42/Message
+@16
+ Oh ... surprised ~
+Thats do quite \\i[200]
 > END STRING
 
 > BEGIN STRING
 @15
 そろそろ帰ろっか\\i[200]
 この子の力も大体わかったし
-> CONTEXT COMMONEVENT:454/43/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:454/43/Message
+@15
+ soon Kaerokka \\i[200]
+The power of this child also to was found roughly
 > END STRING
 
 > BEGIN STRING
@@ -21,6 +25,9 @@
 そうね…
 また会いましょう！
 レストくん\\i[200]
-> CONTEXT COMMONEVENT:454/44/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:454/44/Message
+@16
+ Well ...
+See you again!
+Rest-kun \\i[200]
 > END STRING

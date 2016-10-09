@@ -4,8 +4,10 @@
 @4
 暗くなってきた…
 そろそろ休めそうな場所を探そう。
-> CONTEXT COMMONEVENT:453/20/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/20/Message
+@4
+ was getting dark ...
+Trying to find the soon rest likely location.
 > END STRING
 
 > BEGIN STRING
@@ -13,8 +15,11 @@
 そういえばいつかもこの山に
 うっかり入って襲われたことが
 あったっけ…
-> CONTEXT COMMONEVENT:453/30/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/30/Message
+@4
+ also someday Speaking to this mountain
+That was attacked by inadvertently entered
+There did we ...
 > END STRING
 
 > BEGIN STRING
@@ -22,181 +27,214 @@
 ワラートの輸送隊の人達が
 襲われた山賊ってここの連中のこと
 なのかな…
-> CONTEXT COMMONEVENT:453/31/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/31/Message
+@4
+ people of the convoy of Warato
+That of the guys here, it attacked the bandit
+Wonder if such the ...
 > END STRING
 
 > BEGIN STRING
 @4
 ！！
-> CONTEXT COMMONEVENT:453/40/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/40/Message
+@4
+! !
 > END STRING
 
 > BEGIN STRING
 @4
 誰だっ…？
 この気配は！？
-> CONTEXT COMMONEVENT:453/41/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/41/Message
+@4
+ Who was ...?
+This sign is! ?
 > END STRING
 
 > BEGIN STRING
 @4
 …何者だ！
-> CONTEXT COMMONEVENT:453/53/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/53/Message
+@4
+ ... Who are you!
 > END STRING
 
 > BEGIN STRING
 @50
 …宝玉をこちらに渡してくれ。
-> CONTEXT COMMONEVENT:453/55/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/55/Message
+@50
+ ... here to pass me the jewel.
 > END STRING
 
 > BEGIN STRING
 @4
 （宝玉のことを知っている…！？）
-> CONTEXT COMMONEVENT:453/56/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/56/Message
+@4
+ (know that of jewel ... !?)
 > END STRING
 
 > BEGIN STRING
 @4
 欲しかったら力づくで奪ってみろ！
-> CONTEXT COMMONEVENT:453/57/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/57/Message
+@4
+ dare robbing by force Tara wanted!
 > END STRING
 
 > BEGIN STRING
 @50
 …
-> CONTEXT COMMONEVENT:453/59/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:511/22/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:551/101/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:553/26/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/59/Message
+> CONTEXT COMMONEVENT:511/22/Message
+> CONTEXT COMMONEVENT:551/101/Message
+> CONTEXT COMMONEVENT:553/26/Message
+@50
+ ...
 > END STRING
 
 > BEGIN STRING
 @50
 …！
-> CONTEXT COMMONEVENT:453/60/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:551/435/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/60/Message
+> CONTEXT COMMONEVENT:551/435/Message
+@50
+ ...!
 > END STRING
 
 > BEGIN STRING
 @4
 消えた…
-> CONTEXT COMMONEVENT:453/73/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/73/Message
+@4
+ disappeared ...
 > END STRING
 
 > BEGIN STRING
 @4
 （今の「鎧の男」…
 何だったんだ？）
-> CONTEXT COMMONEVENT:453/74/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/74/Message
+@4
+ ( "man of armor" now ...
+It was what was? )
 > END STRING
 
 > BEGIN STRING
 @4
 （宝玉目当てで近づいてくるなんて…
 これまでの連中とは違う）
-> CONTEXT COMMONEVENT:453/75/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/75/Message
+@4
+ (Nante approaching in mercenary jewel ...
+Different from the past guys)
 > END STRING
 
 > BEGIN STRING
 @4
 （気配も人間のものとは違っていた…
 　あれは一体…？）
-> CONTEXT COMMONEVENT:453/76/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/76/Message
+@4
+ (signs were also different from those of human beings ...
+That hell ...? )
 > END STRING
 
 > BEGIN STRING
 @1
 ねー\\i[200]
 汗びっしょりみたいだけど大丈夫？
-> CONTEXT COMMONEVENT:453/78/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/78/Message
+@1
+ Ne \\i[200]
+I sweat okay But drenched like?
 > END STRING
 
 > BEGIN STRING
 @4
 ！？
-> CONTEXT COMMONEVENT:453/79/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:607/27/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/79/Message
+> CONTEXT COMMONEVENT:607/27/Message
+@4
+! ?
 > END STRING
 
 > BEGIN STRING
 @48
 こんにちは\\i[200]
-> CONTEXT COMMONEVENT:453/92/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/92/Message
+@48
+ Hello \\i[200]
 > END STRING
 
 > BEGIN STRING
 @49
 きみ、凄腕で有名なんだって？
 かわいい顔してこわいね～
-> CONTEXT COMMONEVENT:453/93/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/93/Message
+@49
+ you, Even'm famous in the go-getter?
+Cute face and I afraid to ~
 > END STRING
 
 > BEGIN STRING
 @48
 宝玉、ちゃんと守れてる？
-> CONTEXT COMMONEVENT:453/94/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/94/Message
+@48
+ jewel, is protect properly?
 > END STRING
 
 > BEGIN STRING
 @4
 （こ、こいつらも宝玉のことを…！？）
-> CONTEXT COMMONEVENT:453/95/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/95/Message
+@4
+ (this, ... !? that these guys also of Jewel)
 > END STRING
 
 > BEGIN STRING
 @4
 お前たちは一体どういう…？
-> CONTEXT COMMONEVENT:453/96/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/96/Message
+@4
+ you're hell What ...?
 > END STRING
 
 > BEGIN STRING
 @49
 やっぱこの姿じゃわかんないか…\\i[200]
-> CONTEXT COMMONEVENT:453/97/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/97/Message
+@49
+ I thought if I do not know 's this figure ... \\i[200]
 > END STRING
 
 > BEGIN STRING
 @4
 翼…！
-> CONTEXT COMMONEVENT:453/108/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/108/Message
+@4
+ wing ...!
 > END STRING
 
 > BEGIN STRING
 @4
 お前たち、まさか\\c[3]有翼魔\\c[0]か！？
-> CONTEXT COMMONEVENT:453/109/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/109/Message
+@4
+ ye, No way\\c[3] Yutsubasama \\c[0]Do! ?
 > END STRING
 
 > BEGIN STRING
 @4
 （有翼魔…基本的には魔物だが、
 　その中でも翼を持った者のことを言う）
-> CONTEXT COMMONEVENT:453/112/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/112/Message
+@4
+ (Yutsubasama ... but basically it is a demon,
+It refers to a person who has a wing among them)
 > END STRING
 
 > BEGIN STRING
@@ -204,30 +242,37 @@
 （この世界にはいろんな魔物がいるが
 　翼を持った魔物は目撃情報がほとんど無く、
 　空想上の存在とさえ言われている）
-> CONTEXT COMMONEVENT:453/113/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/113/Message
+@4
+ (in this world, but there are many demons
+Demon with a wing has almost no sightings,
+Has even been said that the presence of the fantasy)
 > END STRING
 
 > BEGIN STRING
 @4
 （初めて見た…有翼魔）
-> CONTEXT COMMONEVENT:453/114/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/114/Message
+@4
+ (for the first time saw ... Yutsubasama)
 > END STRING
 
 > BEGIN STRING
 @49
 有翼魔？そんな品の無い名前で
 呼ばれちゃってるわけ？私たちって。
-> CONTEXT COMMONEVENT:453/117/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/117/Message
+@49
+ Yutsubasama? With no name for such goods
+So I've been called? We me.
 > END STRING
 
 > BEGIN STRING
 @48
 ま、人間の想像力じゃそんなもんでしょ\\i[200]
-> CONTEXT COMMONEVENT:453/118/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/118/Message
+@48
+ Well, would such is human imagination\\i[200]
 > END STRING
 
 > BEGIN STRING
@@ -235,69 +280,82 @@
 私たちね…
 あなたがしっかり宝玉を守っていけるかどうか
 試しにきたの。
-> CONTEXT COMMONEVENT:453/120/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/120/Message
+@48
+ we ne ...
+Whether you lie within easy Observe the firm jewel
+I had come to trial.
 > END STRING
 
 > BEGIN STRING
 @4
 何…！？
-> CONTEXT COMMONEVENT:453/121/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/121/Message
+@4
+ What ...! ?
 > END STRING
 
 > BEGIN STRING
 @49
 なんて言うとかっこいいけど
 ほんとはちょっかい出しに来ただけね\\i[200]
-> CONTEXT COMMONEVENT:453/122/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/122/Message
+@49
+ Nante but cool and say
+It only came to dabble out really \\i[200]
 > END STRING
 
 > BEGIN STRING
 @48
 それッ！
-> CONTEXT COMMONEVENT:453/123/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/123/Message
+@48
+ Sore'!
 > END STRING
 
 > BEGIN STRING
 @4
 ！
-> CONTEXT COMMONEVENT:453/124/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:460/24/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:508/49/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:551/265/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:701/63/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:705/21/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/124/Message
+> CONTEXT COMMONEVENT:460/24/Message
+> CONTEXT COMMONEVENT:508/49/Message
+> CONTEXT COMMONEVENT:551/265/Message
+> CONTEXT COMMONEVENT:701/63/Message
+> CONTEXT COMMONEVENT:705/21/Message
+@4
+!
 > END STRING
 
 > BEGIN STRING
 @4
 ぐッ！？
-> CONTEXT COMMONEVENT:453/141/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/141/Message
+@4
+ a jerk! ?
 > END STRING
 
 > BEGIN STRING
 @4
 （こ、この衝撃は…剣を防いだ時とも
 　魔法を防いだ時とも違うこの感覚は…！？）
-> CONTEXT COMMONEVENT:453/142/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/142/Message
+@4
+ (this, also when this impact is that prevented the ... sword
+This feeling is also different with the time that prevented the magic ...! ? )
 > END STRING
 
 > BEGIN STRING
 @4
 （これが有翼魔の力なのか…！）
-> CONTEXT COMMONEVENT:453/143/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/143/Message
+@4
+ (if this is the force of the winged demons ...!)
 > END STRING
 
 > BEGIN STRING
 @49
 安心なさい…ちょっぴり手加減はしてあげるから\\i[200]
-> CONTEXT COMMONEVENT:453/145/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:453/145/Message
+@49
+ may leave peace of mind ... because little allowance is'll \\i[200]
 > END STRING

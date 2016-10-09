@@ -3,8 +3,8 @@
 > BEGIN STRING
 
 \\c[3]攻撃範囲：\\cself[50]\\c[0]
-> CONTEXT COMMONEVENT:86/134/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:86/134/SetString
+\\c[3]Attack range：\\cself[50]\\c[0]
 > END STRING
 
 > BEGIN STRING
@@ -18,33 +18,36 @@
 
 > BEGIN STRING
 ×装備不能
-> CONTEXT COMMONEVENT:86/288/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:86/288/SetString
+× non-equipped
 > END STRING
 
 > BEGIN STRING
 ○装備可能
-> CONTEXT COMMONEVENT:86/291/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:86/291/SetString
+○ can be equipped
 > END STRING
 
 > BEGIN STRING
 ■装備中
-> CONTEXT COMMONEVENT:86/294/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:86/294/SetString
+■ equipment in
 > END STRING
 
 > BEGIN STRING
 \\ay[-15]攻撃力　　　\\cself[40]
 気力消費量　\\cself[41]
 \\ax[-40]\\img[\\cself[5]]
-> CONTEXT COMMONEVENT:86/301/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:86/301/SetString
+\\ay[-15]Offense　　　\\cself[40]
+Energy　\\cself[41]
+\\ax[-40]\\img[\\cself[5]]
 > END STRING
 
 > BEGIN STRING
 \\ay[-15]防御力　　　\\cself[40]
 ガード耐久　\\cself[41]
-> CONTEXT COMMONEVENT:86/304/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:86/304/SetString
+\\ay[-15]Defense　　　\\cself[40]
+Endurance　\\cself[41]
 > END STRING

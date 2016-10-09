@@ -55,13 +55,13 @@ SP
 > BEGIN STRING
 攻撃力　　　
 > CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[9][ｽﾃｰﾀｽ]攻撃力
-Offensive power
+Offense
 > END STRING
 
 > BEGIN STRING
 防御力　　　
 > CONTEXT DB:DataBase/[15]用語設定/[0]用語基本設定/[10][ｽﾃｰﾀｽ]防御力
-Defense power
+Defense
 > END STRING
 
 > BEGIN STRING

@@ -2,7 +2,7 @@
 
 > BEGIN STRING
 \\c[3]一定時間気力消費量を軽減！
-> CONTEXT COMMONEVENT:394/36/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:395/36/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:394/36/Message
+> CONTEXT COMMONEVENT:395/36/Message
+\\c[3] relief for a certain period of time energy consumption!
 > END STRING

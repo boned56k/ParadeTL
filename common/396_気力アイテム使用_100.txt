@@ -2,6 +2,6 @@
 
 > BEGIN STRING
 \\c[3]一定時間気力を消費しない！
-> CONTEXT COMMONEVENT:396/36/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:396/36/Message
+\\c[3] does not consume a certain time energy!
 > END STRING

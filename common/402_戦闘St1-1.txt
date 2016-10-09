@@ -3,41 +3,43 @@
 > BEGIN STRING
 \\f[17]\\font[1]HINT
 \\font[0]←このMENUボタンをクリックするとメニューが開ける
-> CONTEXT COMMONEVENT:402/41/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:402/41/Picture
+\\f[17] \\font[1] HINT \\font[0] ← menu is open when you click the MENU button
 > END STRING
 
 > BEGIN STRING
 \\f[17]\\font[1]HINT
 \\font[0]メニューを開くとアイテムを使ったり武器を変えたりできる
-> CONTEXT COMMONEVENT:402/84/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:402/84/Picture
+You can changing the weapon or use the item \\f[17] \\font[1] HINT \\font[0] open the menu
 > END STRING
 
 > BEGIN STRING
 \\f[17]\\font[1]HINT
 \\font[0]守りの固い敵にはチャージ攻撃や"斧・鎚"の攻撃が有効だ
-> CONTEXT COMMONEVENT:402/141/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:402/141/Picture
+It enabled attack of charge attack or "ax-hammer" in \\f[17] \\font[1] HINT \\font[0] protect stiff enemy
 > END STRING
 
 > BEGIN STRING
 \\f[17]\\font[1]HINT
 \\font[0] 「\\i[201]」が出ている攻撃は防御できないがカウンターが簡単
-> CONTEXT COMMONEVENT:402/204/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:402/204/Picture
+\\f[17] \\font[1] HINT \\font[0] attack the "\\i[201]" has come out easily, but can not be defense counter
 > END STRING
 
 > BEGIN STRING
 @9
 こ、ここまで強いなんて…！
-> CONTEXT COMMONEVENT:402/302/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:402/302/Message
+@9
+ this, Nante strong up here ...!
 > END STRING
 
 > BEGIN STRING
 @8
 ひとまず退却よ！
-> CONTEXT COMMONEVENT:402/303/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:402/303/Message
+@8
+ for now retreat!
 > END STRING

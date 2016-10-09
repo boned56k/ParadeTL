@@ -2,44 +2,44 @@
 
 > BEGIN STRING
 \\f[28]ステータス
-> CONTEXT COMMONEVENT:385/2/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/2/Picture
+\\f[28] status
 > END STRING
 
 > BEGIN STRING
 \\f[24]\\cself[5]
-> CONTEXT COMMONEVENT:385/13/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/13/Picture
+\\f[24]\\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[20]\\c[3]\\cself[5]
-> CONTEXT COMMONEVENT:385/15/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/15/Picture
+\\f[20]\\c[3] \\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[24]Lv \\cself[10]
-> CONTEXT COMMONEVENT:385/17/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/17/Picture
+\\f[24]Lv \\cself[10]
 > END STRING
 
 > BEGIN STRING
 \\f[20]次Lvまで　 \\cself[12] Exp
-> CONTEXT COMMONEVENT:385/31/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/31/Picture
+\\f[20] \\cself[12] up to the next Lv Exp
 > END STRING
 
 > BEGIN STRING
 \\f[24]所持金
-> CONTEXT COMMONEVENT:385/33/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/33/Picture
+\\f[24] possession gold
 > END STRING
 
 > BEGIN STRING
 \\f[20]\\cself[10] \\udb[15:0:18]
-> CONTEXT COMMONEVENT:385/34/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/34/Picture
+\\f[20]\\cself[10] \\udb[15:0:18]
 > END STRING
 
 > BEGIN STRING
@@ -52,8 +52,15 @@
 イかされちゃった回数
 撃退した敵の数
 与えたダメージ累計
-> CONTEXT COMMONEVENT:385/35/Picture < UNTRANSLATED
+> CONTEXT COMMONEVENT:385/35/Picture
+\\f[24]HP attack force
+Defense power
+Guard endurance
+Agility
 
+Raped
+Enemy defeated
+Damage dealt
 > END STRING
 
 > BEGIN STRING
@@ -62,299 +69,312 @@
 \\cself[13]
 \\cself[15]
 \\cself[14]\n
-> CONTEXT COMMONEVENT:385/42/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/42/Picture
+\\f[24]\\cself[11] / \\cself[10]
+\\cself[12]
+\\cself[13]
+\\cself[15]
+\\cself[14]\n
 > END STRING
 
 > BEGIN STRING
 \\f[24]\\c[2]\\cself[10]\\c[0]
 \\cself[12]
 \\cself[11]\n\n
-> CONTEXT COMMONEVENT:385/48/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/48/Picture
+\\f[24]\\c[2]\\cself[10]\\c[0]
+\\cself[12]
+\\cself[11]\n\n
 > END STRING
 
 > BEGIN STRING
 \\f[24]\\cself[10]
 \\cself[12]
 \\cself[11]\n\n
-> CONTEXT COMMONEVENT:385/51/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/51/Picture
+\\f[24]\\cself[10]
+\\cself[12]
+\\cself[11]\n\n
 > END STRING
 
 > BEGIN STRING
 ★
-> CONTEXT COMMONEVENT:385/59/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/59/SetString
+★
 > END STRING
 
 > BEGIN STRING
 \\c[4]\\f[14]\\cself[5]
-> CONTEXT COMMONEVENT:385/67/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/67/Picture
+\\c[4]\\f[14]\\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[20]武器
 　\\cself[5]
-> CONTEXT COMMONEVENT:385/78/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/78/Picture
+\\f[20] weapon
+ \\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[20]防具
 　\\cself[5]
-> CONTEXT COMMONEVENT:385/89/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/89/Picture
+\\f[20] armor
+ \\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[20]装飾品1
 　\\cself[5]
-> CONTEXT COMMONEVENT:385/100/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/100/Picture
+\\f[20] ornaments 1
+ \\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[20]装飾品2
 　\\cself[5]
-> CONTEXT COMMONEVENT:385/111/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/111/Picture
+\\f[20] ornaments 2
+ \\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[20]装飾品3
 　\\cself[5]
-> CONTEXT COMMONEVENT:385/122/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/122/Picture
+\\f[20] ornaments 3
+ \\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[16]決定・キャンセル：閉じる
-> CONTEXT COMMONEVENT:385/123/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/123/Picture
+\\f[16] decision cancellation: Close
 > END STRING
 
 > BEGIN STRING
 \\f[20]詳しく見る\>
-> CONTEXT COMMONEVENT:385/125/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/125/Picture
+\\f[20]see in detail\>
 > END STRING
 
 > BEGIN STRING
 攻撃力：\n
-> CONTEXT COMMONEVENT:385/135/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/135/SetString
+ATK:\n
 > END STRING
 
 > BEGIN STRING
  \\cself[30]\n
-> CONTEXT COMMONEVENT:385/136/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/136/SetString
+\\cself[30]\n
 > END STRING
 
 > BEGIN STRING
 防御力：\n
-> CONTEXT COMMONEVENT:385/138/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/138/SetString
+Defense:\n
 > END STRING
 
 > BEGIN STRING
 ガード耐久力：\n
-> CONTEXT COMMONEVENT:385/141/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/141/SetString
+Guard endurance:\n
 > END STRING
 
 > BEGIN STRING
 敏捷性：\n
-> CONTEXT COMMONEVENT:385/144/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/144/SetString
+Agility:\n
 > END STRING
 
 > BEGIN STRING
 気力消費量：\n
-> CONTEXT COMMONEVENT:385/147/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/147/SetString
+Energy consumption:\n
 > END STRING
 
 > BEGIN STRING
 \\c[4]
-> CONTEXT COMMONEVENT:385/150/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/150/SetString
+\\c[4]
 > END STRING
 
 > BEGIN STRING
  \\cself[30]\\c[0]\n
-> CONTEXT COMMONEVENT:385/156/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/156/SetString
+\\cself[30]\\c[0]\n
 > END STRING
 
 > BEGIN STRING
 チャージ攻撃力：\n
-> CONTEXT COMMONEVENT:385/158/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/158/SetString
+Charge attack power:\n
 > END STRING
 
 > BEGIN STRING
 与ダメージ：\n
-> CONTEXT COMMONEVENT:385/163/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/163/SetString
+Given Damage:\n
 > END STRING
 
 > BEGIN STRING
  \\cself[30] ％\\c[3]増加\\c[0]\n
-> CONTEXT COMMONEVENT:385/166/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/166/SetString
+\\cself[30]%\\c[3] increase \\c[0]\n
 > END STRING
 
 > BEGIN STRING
  \\cself[30] ％\\c[2]減少\\c[0]\n
-> CONTEXT COMMONEVENT:385/170/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/170/SetString
+\\cself[30]%\\c[2] decrease \\c[0]\n
 > END STRING
 
 > BEGIN STRING
 被物理ダメージ：\n
-> CONTEXT COMMONEVENT:385/178/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/178/SetString
+The physical damage:\n
 > END STRING
 
 > BEGIN STRING
  \\cself[30] ％\\c[3]軽減\\c[0]\n
-> CONTEXT COMMONEVENT:385/186/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/186/SetString
+\\cself[30]%\\c[3] mitigation \\c[0]\n
 > END STRING
 
 > BEGIN STRING
  \\cself[30] ％\\c[2]増加\\c[0]\n
-> CONTEXT COMMONEVENT:385/190/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/190/SetString
+\\cself[30]%\\c[2] increase \\c[0]\n
 > END STRING
 
 > BEGIN STRING
 被Hダメージ：\n
-> CONTEXT COMMONEVENT:385/198/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/198/SetString
+The H Damage:\n
 > END STRING
 
 > BEGIN STRING
 状態異常発動率：\n
-> CONTEXT COMMONEVENT:385/218/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/218/SetString
+State abnormal trigger percentage:\n
 > END STRING
 
 > BEGIN STRING
  \\cself[30]％\n
-> CONTEXT COMMONEVENT:385/221/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/221/SetString
+\\cself[30]%\n
 > END STRING
 
 > BEGIN STRING
 0％
-> CONTEXT COMMONEVENT:385/224/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/224/SetString
+0%
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]チャージ高速化
-> CONTEXT COMMONEVENT:385/231/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/231/SetString
+\\c[4] charge faster
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]連続HITダメージ増加
-> CONTEXT COMMONEVENT:385/236/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/236/SetString
+\\c[4] continuous HIT damage increase
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]連続HIT数2倍
-> CONTEXT COMMONEVENT:385/241/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/241/SetString
+\\c[4] continuous HIT number twice
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]獲得経験値2倍
-> CONTEXT COMMONEVENT:385/246/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/246/SetString
+\\c[4] acquisition experience value twice
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]獲得経験値20倍
-> CONTEXT COMMONEVENT:385/249/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/249/SetString
+\\c[4] acquisition experience value 20 times
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]獲得経験値50倍
-> CONTEXT COMMONEVENT:385/252/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/252/SetString
+\\c[4] acquisition experience value of 50 times
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]戦闘時獲得金2倍
-> CONTEXT COMMONEVENT:385/257/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/257/SetString
+\\c[4] 2 times during the winnings combat
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]アイテムドロップ率3倍
-> CONTEXT COMMONEVENT:385/262/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/262/SetString
+\\c[4] item drop rate of 3 times
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]カウンターしやすくなる
-> CONTEXT COMMONEVENT:385/267/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/267/SetString
+\\c[4] tends to be counter
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]FLASHカウント＋20
-> CONTEXT COMMONEVENT:385/272/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/272/SetString
+\\c[4] FLASH count +20
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]射精しても解放されない
-> CONTEXT COMMONEVENT:385/277/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/277/SetString
+\\c[4] not be released even if ejaculation
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]何度も射精
-> CONTEXT COMMONEVENT:385/282/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/282/SetString
+\\c[4] many times ejaculation
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]射精しやすい
-> CONTEXT COMMONEVENT:385/287/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/287/SetString
+\\c[4] easy to ejaculation
 > END STRING
 
 > BEGIN STRING
 
 \\c[4]ガード時HP回復
-> CONTEXT COMMONEVENT:385/292/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/292/SetString
+\\c[4] guard at the HP recovery
 > END STRING
 
 > BEGIN STRING
 \\f[20]\\cself[7]
-> CONTEXT COMMONEVENT:385/298/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:385/298/Picture
+\\f[20]\\cself[7]
 > END STRING

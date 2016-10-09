@@ -3,8 +3,9 @@
 > BEGIN STRING
 @4
 ふう…もうすぐ麓に着くぞ。
-> CONTEXT COMMONEVENT:460/23/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:460/23/Message
+@4
+ Fu ... arrive at the foot soon.
 > END STRING
 
 > BEGIN STRING
@@ -12,22 +13,29 @@
 この山を正面から登って
 ここまでたどり着くとは…
 さすがだな、万能剣士。
-> CONTEXT COMMONEVENT:460/30/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:460/30/Message
+@14
+ climbed the mountain from the front
+And reach up to here ...
+Do I truly, universal swordsman.
 > END STRING
 
 > BEGIN STRING
 @14
 だが、仲間たちを傷つけた
 報いは受けてもらうぞ！
-> CONTEXT COMMONEVENT:460/31/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:460/31/Message
+@14
+ But, hurt friends
+Reward is get received!
 > END STRING
 
 > BEGIN STRING
 @12
 イリアン様の斧の前に
 屈するがいい！
-> CONTEXT COMMONEVENT:460/32/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:460/32/Message
+@12
+In front of the Irian like ax
+Succumb, but good!
 > END STRING

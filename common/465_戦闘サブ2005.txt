@@ -3,28 +3,33 @@
 > BEGIN STRING
 @17
 こうなったら…みんなでがったいよ！
-> CONTEXT COMMONEVENT:465/162/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:465/162/Message
+@17
+ When this happens ... I want with everyone!
 > END STRING
 
 > BEGIN STRING
 @17
 それーっ！
-> CONTEXT COMMONEVENT:465/164/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:465/164/Message
+@17
+ Sore'!
 > END STRING
 
 > BEGIN STRING
 @17
 うふふ…これならどーお？
-> CONTEXT COMMONEVENT:465/176/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:465/176/Message
+@17
+ Planning is ... if you if this?
 > END STRING
 
 > BEGIN STRING
 @17
 うう…ごめんなさい…
 もういたずらしませんん…
-> CONTEXT COMMONEVENT:465/205/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:465/205/Message
+@17
+ uhh ... I'm sorry ...
+No longer a prank ...
 > END STRING

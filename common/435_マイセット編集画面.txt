@@ -2,9 +2,9 @@
 
 > BEGIN STRING
 \\cself[7]
-> CONTEXT COMMONEVENT:179/188/Picture < UNTRANSLATED
-> CONTEXT COMMONEVENT:435/14/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:179/188/Picture
+> CONTEXT COMMONEVENT:435/14/Choices
+\\cself[7]
 > END STRING
 
 > BEGIN STRING
@@ -44,19 +44,19 @@ Equipment has been changed.
 > BEGIN STRING
 武器を装備していない状態のため
 ショートカットが解除されます。
-> CONTEXT COMMONEVENT:435/243/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:435/243/Message
+Shortcut will be canceled because of the state that does not have a weapon.
 > END STRING
 
 > BEGIN STRING
 現在の装備をマイセットに登録しました。
 マイセットに名前をつけますか？
-> CONTEXT COMMONEVENT:435/326/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:435/326/Message
+It has registered a current of equipment in my set. Do you put a name to my set?
 > END STRING
 
 > BEGIN STRING
 名前を付けました。
-> CONTEXT COMMONEVENT:435/336/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:435/336/Message
+We put a name.
 > END STRING

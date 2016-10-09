@@ -5,16 +5,21 @@
 ここですここ。
 いやーすいません剣士さんに
 こんなこと頼んじゃって…
-> CONTEXT COMMONEVENT:411/12/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/12/Message
+@63
+ is here and here.
+Well I'm sorry swordsman's in
+What I am asked such a thing ...
 > END STRING
 
 > BEGIN STRING
 @63
 鍵が古くなってるみたいで
 回らないんですよ…
-> CONTEXT COMMONEVENT:411/13/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/13/Message
+@63
+ was like the key is out of date
+It does not turn ...
 > END STRING
 
 > BEGIN STRING
@@ -22,31 +27,39 @@
 もし開けてくださったら中に入ってるもので
 いら…あいや掘り出し物があったら
 それを差し上げますから。
-> CONTEXT COMMONEVENT:411/14/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/14/Message
+One that is contained within Once @63
+ who have opened if
+If you have a need ... Aiya bargains
+Because we will give it.
 > END STRING
 
 > BEGIN STRING
 @6
 （…なんでこんなことしなくちゃいけないんだ？）
-> CONTEXT COMMONEVENT:411/15/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/15/Message
+@6
+ (... I Why do not not have to such a thing?)
 > END STRING
 
 > BEGIN STRING
 @6
 （だいたい鍵なんてどうやって
 　開けるんだよ…）
-> CONTEXT COMMONEVENT:411/16/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/16/Message
+@6
+ (in roughly doing How about key
+It's open ...)
 > END STRING
 
 > BEGIN STRING
 @4
 …どうやるかは全然わかりませんが
 これを使ってみます。
-> CONTEXT COMMONEVENT:411/17/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/17/Message
+@4
+ ... if I want to, but do not know at all
+Try using this.
 > END STRING
 
 > BEGIN STRING
@@ -54,114 +67,130 @@
 おおっ針金！
 さすがは万能剣士さんだ！
 何でも持ってますね。
-> CONTEXT COMMONEVENT:411/20/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/20/Message
+@63
+ covering wire!
+Truly is a universal swordsman's!
+I will not have anything.
 > END STRING
 
 > BEGIN STRING
 \\c[3]マウスポインタが白い部分にぶつからないように
 動かしてください。\\c[0]
-> CONTEXT COMMONEVENT:411/23/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:510/4/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/23/Message
+> CONTEXT COMMONEVENT:510/4/Message
+\\c[3] Please move to the mouse pointer is not hitting the white part. \\c[0]
 > END STRING
 
 > BEGIN STRING
 @4
 あっダメかなこれ…
-> CONTEXT COMMONEVENT:411/116/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/116/Message
+@4
+ Addame kana this ...
 > END STRING
 
 > BEGIN STRING
 再チャレンジ
-> CONTEXT COMMONEVENT:411/118/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/118/Choices
+Re-challenge
 > END STRING
 
 > BEGIN STRING
 諦めて帰る
-> CONTEXT COMMONEVENT:411/118/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/118/Choices
+Return give up
 > END STRING
 
 > BEGIN STRING
 @6
 ごめんなさい。
 やっぱり無理みたいでした…
-> CONTEXT COMMONEVENT:411/124/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/124/Message
+@6
+ I'm sorry.
+It was still impossible like ...
 > END STRING
 
 > BEGIN STRING
 @4
 うっ
-> CONTEXT COMMONEVENT:411/141/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/141/Message
+@4
+ Ugh
 > END STRING
 
 > BEGIN STRING
 @4
 もしかしたらいけるかもしれません！
-> CONTEXT COMMONEVENT:411/142/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/142/Message
+@4
+ might go Maybe!
 > END STRING
 
 > BEGIN STRING
 @63
 おおーっ！さすがは万能剣士殿！
-> CONTEXT COMMONEVENT:411/143/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/143/Message
+@63
+ O'! Truly is universal swordsman dono!
 > END STRING
 
 > BEGIN STRING
 @4
 もうちょっとでいけそうな
 気がする…！
-> CONTEXT COMMONEVENT:411/266/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/266/Message
+@4
+ little in the pond it seems anymore
+Mind to ...!
 > END STRING
 
 > BEGIN STRING
 @63
 緊張してきましたぞ…
-> CONTEXT COMMONEVENT:411/267/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/267/Message
+@63
+ has been tension ...
 > END STRING
 
 > BEGIN STRING
 @4
 …開いた！？
-> CONTEXT COMMONEVENT:411/399/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/399/Message
+@4
+ ... open! ?
 > END STRING
 
 > BEGIN STRING
 @63
 おおーーーっ！！素晴らしい！
 あなたに頼んでよかった…！
-> CONTEXT COMMONEVENT:411/401/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/401/Message
+@63
+ Oh Tsu ｰｰｰ! ! Great!
+I'm glad asking you ...!
 > END STRING
 
 > BEGIN STRING
 \\c[3]名前の頭に「★」がついているアイテムは
 「アイテムスキル」です。\\c[0]
-> CONTEXT COMMONEVENT:411/416/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/416/Message
+\\c[3] items that the head of the name has been attached "★" is "item skill". \\c[0]
 > END STRING
 
 > BEGIN STRING
 \\c[3]アイテムスキルは持っているだけで
 効果を発揮します。\\c[0]
-> CONTEXT COMMONEVENT:411/417/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/417/Message
+\\c[3] item skill will effective in only have. \\c[0]
 > END STRING
 
 > BEGIN STRING
 \\c[3]イベントの進行をスムーズにしたり、
 戦闘を有利に進めるなど様々な効力を
 持つアイテムスキルが存在します。\\c[0]
-> CONTEXT COMMONEVENT:411/418/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:411/418/Message
+\\c[3] or to smooth the progress of the event, a variety of effect, such as advantageous to advance the battle
+Item skill with exists. \\c[0]
 > END STRING

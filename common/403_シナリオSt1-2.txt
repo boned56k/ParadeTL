@@ -3,29 +3,35 @@
 > BEGIN STRING
 @4
 今のところ順調だな…
-> CONTEXT COMMONEVENT:403/13/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:403/13/Message
+@4
+ it is going well at the moment ...
 > END STRING
 
 > BEGIN STRING
 @4
 ん？この洞窟はなんだろう
-> CONTEXT COMMONEVENT:403/14/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:403/14/Message
+@4
+ do? The cave would be what
 > END STRING
 
 > BEGIN STRING
 @4
 どこに繋がってるか分からないし
 入るのはやめておくか…
-> CONTEXT COMMONEVENT:403/15/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:403/15/Message
+@4
+To I do not know where they are connected
+Whether you quit from entering ...
 > END STRING
 
 > BEGIN STRING
 @4
 見なかったことにして
 順路を進もう。
-> CONTEXT COMMONEVENT:403/16/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:403/16/Message
+@4
+ saw did not thing to
+Let Susumo the usual route.
 > END STRING

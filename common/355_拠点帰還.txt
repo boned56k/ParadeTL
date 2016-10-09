@@ -2,14 +2,14 @@
 
 > BEGIN STRING
 この機能はまだ使えません。
-> CONTEXT COMMONEVENT:355/3/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:355/3/Message
+This feature is not available yet.
 > END STRING
 
 > BEGIN STRING
 最後に立ち寄った拠点に戻ります。
 よろしいですか？
 (経験値、お金、戦利品は入手したまま戻ります)
-> CONTEXT COMMONEVENT:355/7/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:355/7/Message
+It will return to the base, which was dropped in the end. Is it OK? (Experience value, money, loot will return as received)
 > END STRING

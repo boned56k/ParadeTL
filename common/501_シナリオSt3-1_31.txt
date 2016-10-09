@@ -4,93 +4,104 @@
 @4
 …この門には閉門の術が
 かけられている。
-> CONTEXT COMMONEVENT:501/8/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/8/Message
+@4
+ ... the art of this is the gate closed gate is
+It is exerted.
 > END STRING
 
 > BEGIN STRING
 @4
 手がかりを全部集められたし
 解錠できるかもしれない！
-> CONTEXT COMMONEVENT:501/25/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/25/Message
+@4
+ I collected all the clues
+You might be able to unlock!
 > END STRING
 
 > BEGIN STRING
 @4
 解錠の手がかりを東・西・南の砦から
 見つけてこなくては。
-> CONTEXT COMMONEVENT:501/28/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/28/Message
+@4
+ clues of unlocking from the east, west, south of the fort
+It will not come find.
 > END STRING
 
 > BEGIN STRING
 正門に進み仕掛けを解く
-> CONTEXT COMMONEVENT:501/34/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/34/Choices
+Solve the gimmick proceed to the main gate
 > END STRING
 
 > BEGIN STRING
 @4
 ここで手に入るメモはもう
 持ってるけど…もう1回行ってみようか？
-> CONTEXT COMMONEVENT:501/38/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/38/Message
+@4
+ memo to enter the hand here anymore
+Or let's go but ... one more time have?
 > END STRING
 
 > BEGIN STRING
 もう一度行く
-> CONTEXT COMMONEVENT:501/39/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/39/Choices
+Go again
 > END STRING
 
 > BEGIN STRING
 考えなおす
-> CONTEXT COMMONEVENT:501/39/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/39/Choices
+Re-thinking
 > END STRING
 
 > BEGIN STRING
 @4
 よし、解錠の合言葉を唱えてみよう。
-> CONTEXT COMMONEVENT:501/95/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/95/Message
+@4
+ Alright, let's cast a watchword of unlocking.
 > END STRING
 
 > BEGIN STRING
 @4
 開いた…！よし、脱出だ！
-> CONTEXT COMMONEVENT:501/97/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/97/Message
+@4
+ open ...! Well, it is escape!
 > END STRING
 
 > BEGIN STRING
 \\f[40]\\EACB
-> CONTEXT COMMONEVENT:501/104/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/104/Picture
+\\f[40]\\EACB
 > END STRING
 
 > BEGIN STRING
 \\f[34]\\E↓
-> CONTEXT COMMONEVENT:501/105/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/105/Picture
+\\f[34]\\E ↓
 > END STRING
 
 > BEGIN STRING
 \\c[3]合言葉をキーボードで入力してください。\\c[0]
-> CONTEXT COMMONEVENT:501/131/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/131/Message
+\\c[3] Please enter on the keyboard the secret word to watch this show. \\c[0]
 > END STRING
 
 > BEGIN STRING
 277953182
-> CONTEXT COMMONEVENT:501/133/StringCondition < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/133/StringCondition
+277953182
 > END STRING
 
 > BEGIN STRING
 @4
 うーん…何か違うな。
-> CONTEXT COMMONEVENT:501/157/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:501/157/Message
+@4
+ Hmm ... Do something different.
 > END STRING

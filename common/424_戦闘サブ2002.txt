@@ -4,163 +4,179 @@
 @67
 えー…ではこれより私の持論が正しいかどうか
 実験を始める！協力感謝するぞ。
-> CONTEXT COMMONEVENT:424/9/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/9/Message
+@67
+Well ... In this than whether my theory is correct
+Start the experiment! Cooperate thanks.
 > END STRING
 
 > BEGIN STRING
 @67
 私が指示する順番で敵を倒してくれたまえ！
-> CONTEXT COMMONEVENT:424/10/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/10/Message
+@67
+ Pearl River me I have defeated the enemy in order to tell!
 > END STRING
 
 > BEGIN STRING
 @1
 \\c[3]敵の前に数字が表示されます。
 その数字の順番に敵を攻撃してください。
-> CONTEXT COMMONEVENT:424/11/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/11/Message
+@1
+\\c[3] number will be displayed in front of the enemy.
+Please attack the enemy in the order of the numbers.
 > END STRING
 
 > BEGIN STRING
 @1
 \\c[2]一度に複数の敵を攻撃してしまうと
 失敗となります。
-> CONTEXT COMMONEVENT:424/12/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/12/Message
+@1
+\\c[2] and will to attack multiple enemies at a time
+It will fail.
 > END STRING
 
 > BEGIN STRING
 \\E\\c[0]正しい順序で敵を倒せ\\c[0]
-> CONTEXT COMMONEVENT:424/14/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/14/Picture
+\\E\\c[0]defeat the enemy in the correct order\\c[0]
 > END STRING
 
 > BEGIN STRING
 \\E\\font[1]\\f[90]2
-> CONTEXT COMMONEVENT:424/33/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/33/Picture
+\\E \\font[1] \\f[90]2
 > END STRING
 
 > BEGIN STRING
 \\E\\font[1]\\f[90]1
-> CONTEXT COMMONEVENT:424/34/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/34/Picture
+\\E \\font[1] \\f[90]1
 > END STRING
 
 > BEGIN STRING
 A
-> CONTEXT COMMONEVENT:424/40/SetString < UNTRANSLATED
-> CONTEXT COMMONEVENT:464/47/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/40/SetString
+> CONTEXT COMMONEVENT:464/47/SetString
+Ah
 > END STRING
 
 > BEGIN STRING
 B
-> CONTEXT COMMONEVENT:424/50/SetString < UNTRANSLATED
-> CONTEXT COMMONEVENT:464/57/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/50/SetString
+> CONTEXT COMMONEVENT:464/57/SetString
+B
 > END STRING
 
 > BEGIN STRING
 BA
-> CONTEXT COMMONEVENT:424/61/StringCondition < UNTRANSLATED
-> CONTEXT COMMONEVENT:464/222/StringCondition < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/61/StringCondition
+> CONTEXT COMMONEVENT:464/222/StringCondition
+Place
 > END STRING
 
 > BEGIN STRING
 @67
 よし、いいぞ…次だ！
-> CONTEXT COMMONEVENT:424/63/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/63/Message
+@67
+ Okay, all right ... you are next!
 > END STRING
 
 > BEGIN STRING
 @67
 違う！また来るぞ！
-> CONTEXT COMMONEVENT:424/67/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/67/Message
+@67
+ different! Also coming!
 > END STRING
 
 > BEGIN STRING
 \\E\\font[1]\\f[90]3
-> CONTEXT COMMONEVENT:424/101/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/101/Picture
+\\E \\font[1] \\f[90]3
 > END STRING
 
 > BEGIN STRING
 C
-> CONTEXT COMMONEVENT:424/127/SetString < UNTRANSLATED
-> CONTEXT COMMONEVENT:464/67/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/127/SetString
+> CONTEXT COMMONEVENT:464/67/SetString
+C
 > END STRING
 
 > BEGIN STRING
 BAC
-> CONTEXT COMMONEVENT:424/138/StringCondition < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/138/StringCondition
+If C
 > END STRING
 
 > BEGIN STRING
 @67
 素晴らしい…素晴らしい！
 さあ、また来るぞ！
-> CONTEXT COMMONEVENT:424/140/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/140/Message
+@67
+ great ... great!
+Come on, come again!
 > END STRING
 
 > BEGIN STRING
 \\E\\font[1]\\f[90]4
-> CONTEXT COMMONEVENT:424/181/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/181/Picture
+\\E \\font[1] \\f[90]4
 > END STRING
 
 > BEGIN STRING
 D
-> CONTEXT COMMONEVENT:424/219/SetString < UNTRANSLATED
-> CONTEXT COMMONEVENT:464/77/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/219/SetString
+> CONTEXT COMMONEVENT:464/77/SetString
+D
 > END STRING
 
 > BEGIN STRING
 DACB
-> CONTEXT COMMONEVENT:424/230/StringCondition < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/230/StringCondition
+I CB
 > END STRING
 
 > BEGIN STRING
 @67
 よおし、次が最後だ！
-> CONTEXT COMMONEVENT:424/232/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/232/Message
+@67
+ bro, next is the last!
 > END STRING
 
 > BEGIN STRING
 @67
 違う！ほらまた来るぞ！
-> CONTEXT COMMONEVENT:424/236/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/236/Message
+@67
+ different! Look also come!
 > END STRING
 
 > BEGIN STRING
 ACBD
-> CONTEXT COMMONEVENT:424/322/StringCondition < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/322/StringCondition
+Oh CBD
 > END STRING
 
 > BEGIN STRING
 @67
 うーむ…これはあんま意味なさそうだな…
-> CONTEXT COMMONEVENT:424/348/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/348/Message
+@67
+ Hmmmm ... it This is a massage meaning is unlikely ...
 > END STRING
 
 > BEGIN STRING
 @67
 え！？いやなんでもないぞ…
 協力感謝する。では約束の報酬だ。
-> CONTEXT COMMONEVENT:424/349/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:424/349/Message
+@67
+ e! ? No not anything ...
+Cooperation thank. In reward of promise.
 > END STRING

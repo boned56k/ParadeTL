@@ -3,14 +3,17 @@
 > BEGIN STRING
 @13
 や、やるぅ…
-> CONTEXT COMMONEVENT:458/245/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:458/245/Message
+@13
+ and, Yaruu ...
 > END STRING
 
 > BEGIN STRING
 @13
 リーダー…あとは…
 おねがいしますっ…
-> CONTEXT COMMONEVENT:458/246/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:458/246/Message
+@13
+ leader ... After that ...
+Tsu Thank you ...
 > END STRING

@@ -3,15 +3,15 @@
 > BEGIN STRING
 逃げるなんて
 悪い子…
-> CONTEXT COMMONEVENT:502/155/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:502/155/Message
+Being bad Nante run away ...
 > END STRING
 
 > BEGIN STRING
 まだまだお仕置きが必要
 みたいですね\\i[200]
-> CONTEXT COMMONEVENT:502/156/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:502/156/Message
+It is still like a necessary punishment \\i[200]
 > END STRING
 
 > BEGIN STRING
@@ -19,13 +19,17 @@
 くっ…\\i[200]
 ここは退かせて
 いただきますっ…
-> CONTEXT COMMONEVENT:502/247/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:502/247/Message
+@22
+ Damn ... \\i[200]
+Here let retire
+We will Tsu ...
 > END STRING
 
 > BEGIN STRING
 @22
 またお会いしましょう\\i[200]
-> CONTEXT COMMONEVENT:502/248/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:502/248/Message
+@22
+ See you \\i[200]
 > END STRING

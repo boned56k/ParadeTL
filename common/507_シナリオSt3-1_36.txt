@@ -4,97 +4,117 @@
 @4
 この橋を渡ればエスラ城は
 近い！
-> CONTEXT COMMONEVENT:507/26/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/26/Message
+@4
+ Esura Castle if this cross the bridge
+close!
 > END STRING
 
 > BEGIN STRING
 @4
 ！
 あ…あれは！
-> CONTEXT COMMONEVENT:507/27/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/27/Message
+@Four!
+Oh ... it is!
 > END STRING
 
 > BEGIN STRING
 @22
 キハー大四聖が一人、ポーニャ\\i[200]
-> CONTEXT COMMONEVENT:507/31/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/31/Message
+@22
+ KIHA large Four Holy one person, Ponya \\i[200]
 > END STRING
 
 > BEGIN STRING
 @23
 同じく、ライチ！
-> CONTEXT COMMONEVENT:507/33/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/33/Message
+@23
+ Similarly, lychee!
 > END STRING
 
 > BEGIN STRING
 @24
 同じくチャラ！
-> CONTEXT COMMONEVENT:507/35/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/35/Message
+@24
+ same blah!
 > END STRING
 
 > BEGIN STRING
 @21
 同じくキハー大四聖、ケーナ！
-> CONTEXT COMMONEVENT:507/37/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/37/Message
+@21
+ also Kiha large Four Holy, quena!
 > END STRING
 
 > BEGIN STRING
 @21
 まさか私たち4人全員で相手を
 する事になるとはね…
-> CONTEXT COMMONEVENT:507/39/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/39/Message
+@21
+ No way their opponents with four of us all
+It is to be the be ...
 > END STRING
 
 > BEGIN STRING
 @21
 どこかであなたの事を見くびって
 いたのかもしれないわ、万能剣士。
-> CONTEXT COMMONEVENT:507/40/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/40/Message
+@21
+ somewhere in the underestimate the things you
+It might have had, universal swordsman.
 > END STRING
 
 > BEGIN STRING
 @22
 今素直に捕まってくれれば
 勝手に逃げたことは忘れてあげますよ\\i[200]
-> CONTEXT COMMONEVENT:507/41/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/41/Message
+@22
+ if give me obediently to caught now
+I will give forget that arbitrarily fled \\i[200]
 > END STRING
 
 > BEGIN STRING
 @23
 冗談じゃないよ、ポーニャ！
 私はさっきこの子に痛い目にあわされたんだ。
-> CONTEXT COMMONEVENT:507/42/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/42/Message
+@23
+ I do not joke, Ponya!
+I I was engaged in painful eye on this child a little while ago.
 > END STRING
 
 > BEGIN STRING
 @23
 今度こそおもいっきり
 いじめてやらなきゃ気が済まないんだから\\i[200]
-> CONTEXT COMMONEVENT:507/43/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/43/Message
+@23
+ Omoikkiri what now
+Because I'm sorry cares unless Yara bully \\i[200]
 > END STRING
 
 > BEGIN STRING
 @24
 大聖廓で狼藉を働いた者には
 然るべき厳罰を…\\i[200]
-> CONTEXT COMMONEVENT:507/44/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/44/Message
+@24
+ Daisho to a person who has worked the violence in Kuruwa is
+The appropriate severe punishment ... \\i[200]
 > END STRING
 
 > BEGIN STRING
 @21
 さあみんな、行くわよ！
-> CONTEXT COMMONEVENT:507/45/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:507/45/Message
+@21
+ Come on guys, you go!
 > END STRING

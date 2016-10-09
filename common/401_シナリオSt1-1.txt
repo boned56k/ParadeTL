@@ -3,48 +3,58 @@
 > BEGIN STRING
 @4
 さて、行くか。
-> CONTEXT COMMONEVENT:401/20/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:401/20/Message
+@4
+ Well, go.
 > END STRING
 
 > BEGIN STRING
 @4
 エスラ城は遠いけど道中にある町を拠点に
 していけば問題なくたどりつけるはずだ。
-> CONTEXT COMMONEVENT:401/21/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:401/21/Message
+@4
+ Esura Castle based in town in along the way but far
+It should Tadoritsukeru without a problem if we were.
 > END STRING
 
 > BEGIN STRING
 @8
 万能剣士ね！
 私たちと勝負してもらうわよ。
-> CONTEXT COMMONEVENT:401/29/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:401/29/Message
+@8
+ I universal swordsman!
+We have them compete with us.
 > END STRING
 
 > BEGIN STRING
 @4
 くっ…
-> CONTEXT COMMONEVENT:401/30/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:770/15/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:401/30/Message
+> CONTEXT COMMONEVENT:770/15/Message
+@4
+ Damn ...
 > END STRING
 
 > BEGIN STRING
 @4
 なぜどいつもこいつも
 僕をつけ狙うんだ！？
-> CONTEXT COMMONEVENT:401/31/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:401/31/Message
+@4
+ Why etc. always this fellow also
+It prowls after me! ?
 > END STRING
 
 > BEGIN STRING
 @8
 だってあなたってすっごい
 わかりやすい弱点があるって有名だし～
-> CONTEXT COMMONEVENT:401/32/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:401/32/Message
+@8
+ Even really me you
+It's famous for me there is a meaningful weakness ~
 > END STRING
 
 > BEGIN STRING
@@ -52,8 +62,11 @@
 他の凄腕の戦士さんたちにはちょっと
 手が出せないけど…あなたなら
 弱点をつつけば倒せるかもって\\i[200]
-> CONTEXT COMMONEVENT:401/33/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:401/33/Message
+@8
+ little warrior's our other go-getter
+I hand is not put out ... if you
+I might beat if Tsutsuke weaknesses\\i[200]
 > END STRING
 
 > BEGIN STRING
@@ -61,6 +74,9 @@
 ごめんね\\i[200]
 私たち、強い剣士を倒したっていう
 実績が欲しいの！
-> CONTEXT COMMONEVENT:401/34/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:401/34/Message
+@9
+ I'm sorry \\i[200]
+Tteyuu us, we defeated a strong swordsman
+Track record do you want!
 > END STRING

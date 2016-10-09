@@ -2,6 +2,6 @@
 
 > BEGIN STRING
 [戦闘]現在ターン数
-> CONTEXT COMMONEVENT:198/8/Database < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:198/8/Database
+[Combat] current number of turns
 > END STRING

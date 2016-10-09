@@ -2,21 +2,23 @@
 
 > BEGIN STRING
 狼藉はそこまでです！
-> CONTEXT COMMONEVENT:504/165/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:504/165/Message
+Violence is up there!
 > END STRING
 
 > BEGIN STRING
 万能剣士…！我が鉄壁の防御術を
 崩せるものなら崩してみなさい！
-> CONTEXT COMMONEVENT:504/166/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:504/166/Message
+Universal swordsman ...! Take a break if things Kuzuseru the defense surgery of my iron-clad!
 > END STRING
 
 > BEGIN STRING
 @24
 こ、こんなにたやすく
 やられるなんて…
-> CONTEXT COMMONEVENT:504/226/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:504/226/Message
+@24
+, so easily
+Nante is done ...
 > END STRING

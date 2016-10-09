@@ -4,8 +4,10 @@
 @4
 教えてもらった洞窟って
 ここかな？
-> CONTEXT COMMONEVENT:413/9/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:413/9/Message
+@4
+ tell me ask cave
+Do not here either?
 > END STRING
 
 > BEGIN STRING
@@ -13,26 +15,31 @@
 単純な道らしいし
 おそらく迷ったりもしないだろう…
 どうしよう？
-> CONTEXT COMMONEVENT:413/10/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:413/10/Message
+@4
+ It seems a simple road
+It would not be probably lost or ...
+What should I do?
 > END STRING
 
 > BEGIN STRING
 洞窟に入る
-> CONTEXT COMMONEVENT:413/12/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:413/12/Choices
+Enter the cave
 > END STRING
 
 > BEGIN STRING
 普通の道を進む
-> CONTEXT COMMONEVENT:413/12/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:413/12/Choices
+Advance an ordinary road
 > END STRING
 
 > BEGIN STRING
 @4
 さて、どっちの道を
 行こう…
-> CONTEXT COMMONEVENT:413/21/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:413/21/Message
+@4
+ Well, the Which Way
+let's go…
 > END STRING

@@ -2,6 +2,6 @@
 
 > BEGIN STRING
 システムミニフォントサイズ
-> CONTEXT COMMONEVENT:182/15/Database < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:182/15/Database
+System mini font size
 > END STRING

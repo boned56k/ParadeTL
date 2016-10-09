@@ -3,13 +3,15 @@
 > BEGIN STRING
 @1
 \\cself[0]\\cself[9]を手に入れた。
-> CONTEXT COMMONEVENT:3/10/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:3/10/Message
+@1
+\\cself[0]\\cself[9] got the.
 > END STRING
 
 > BEGIN STRING
 @1
 \\cself[0]\\cself[9]を失った。
-> CONTEXT COMMONEVENT:3/14/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:3/14/Message
+@1
+Lost \\cself[0]\\cself[9].
 > END STRING

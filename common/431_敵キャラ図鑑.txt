@@ -2,26 +2,26 @@
 
 > BEGIN STRING
 敵キャラクター図鑑　\\cself[34] / \\cself[31]
-> CONTEXT COMMONEVENT:431/61/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/61/Picture
+Enemy character picture book \\cself[34] / \\cself[31]
 > END STRING
 
 > BEGIN STRING
 \\cself[32]％
-> CONTEXT COMMONEVENT:431/62/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/62/Picture
+\\cself[32]%
 > END STRING
 
 > BEGIN STRING
 \\E\\cself[8]
-> CONTEXT COMMONEVENT:431/86/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/86/Picture
+\\E\\cself[8]
 > END STRING
 
 > BEGIN STRING
 \\E\\f[19]\\cself[8]
-> CONTEXT COMMONEVENT:431/88/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/88/Picture
+\\E\\f[19]\\cself[8]
 > END STRING
 
 > BEGIN STRING
@@ -34,95 +34,102 @@
 ドロップアイテム：
 
 エッチ攻撃：
-> CONTEXT COMMONEVENT:431/89/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:431/89/SetString
+Basic HP: basic attack power:
+Basic defense force:
+Basic experience:
+Basic acquisition funds:
 
+Drop item:
+
+Etch attack:
 > END STRING
 
 > BEGIN STRING
 \\f[19]\\cself[8]
-> CONTEXT COMMONEVENT:431/90/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/90/Picture
+\\f[19]\\cself[8]
 > END STRING
 
 > BEGIN STRING
 <R\>\\cself[49]\n
-> CONTEXT COMMONEVENT:431/92/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/92/SetString
+<R \> \\cself[49]
 > END STRING
 
 > BEGIN STRING
 \\cself[49]\n
-> CONTEXT COMMONEVENT:431/94/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/94/SetString
+\\cself[49]
 > END STRING
 
 > BEGIN STRING
 \\udb[2:\\cself[49]:0]
-> CONTEXT COMMONEVENT:431/107/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/107/SetString
+\\udb[2:\\cself[49]:0]
 > END STRING
 
 > BEGIN STRING
 　\\cself[49]％
-> CONTEXT COMMONEVENT:431/109/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/109/SetString
+\\cself[49]%
 > END STRING
 
 > BEGIN STRING
 \\udb[3:\\cself[49]:0]
-> CONTEXT COMMONEVENT:431/115/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/115/SetString
+\\udb[3:\\cself[49]:0]
 > END STRING
 
 > BEGIN STRING
 \\udb[4:\\cself[49]:0]
-> CONTEXT COMMONEVENT:431/123/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/123/SetString
+\\udb[4:\\cself[49]:0]
 > END STRING
 
 > BEGIN STRING
 <R\>\\f[19]\\cself[8]
-> CONTEXT COMMONEVENT:431/128/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/128/Picture
+<R\>\\f[19]\\cself[8]
 > END STRING
 
 > BEGIN STRING
 \\f[19]\\c[3]←→：絵の切り替え
-> CONTEXT COMMONEVENT:431/131/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/131/Picture
+\\f[19]\\c[3] ← →: switching of the picture
 > END STRING
 
 > BEGIN STRING
 この敵キャラクターは
 絵がありません。
-> CONTEXT COMMONEVENT:431/166/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/166/Picture
+The enemy character does not have a picture.
 > END STRING
 
 > BEGIN STRING
 この敵キャラクターは
 攻撃の絵がありません。
-> CONTEXT COMMONEVENT:431/177/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/177/Picture
+The enemy character does not have a picture of the attack.
 > END STRING
 
 > BEGIN STRING
 この敵キャラクターは
 色仕掛けの絵がありません。
-> CONTEXT COMMONEVENT:431/188/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/188/Picture
+The enemy character does not have a picture of a Venus flytrap.
 > END STRING
 
 > BEGIN STRING
 この敵キャラクターは
 やられた時の絵がありません。
-> CONTEXT COMMONEVENT:431/199/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/199/Picture
+The enemy character does not have a picture of when it was done.
 > END STRING
 
 > BEGIN STRING
 \\f[15]絵をクリック：
 ボイス再生
-> CONTEXT COMMONEVENT:431/308/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:431/308/Picture
+Click the \\f[15] picture: voice playback
 > END STRING

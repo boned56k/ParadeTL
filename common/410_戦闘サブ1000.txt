@@ -4,6 +4,8 @@
 @8
 こ、この強さ…
 私たちの理解を超えてる!!
-> CONTEXT COMMONEVENT:410/398/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:410/398/Message
+@8
+ this, this strength ...
+It is beyond our understanding !!
 > END STRING

@@ -99,54 +99,61 @@ Skip
 @44
 \\cdb[0:0:0]殿。
 私の呼びかけに応じてくれてありがとう。
-> CONTEXT COMMONEVENT:359/35/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/35/Message
+@44
+\\cdb[0:0:0] dono. Thank you in response to my call.
 > END STRING
 
 > BEGIN STRING
 @44
 あなたを呼んだのはある「依頼」を
 引き受けて頂きたいからなのです。
-> CONTEXT COMMONEVENT:359/36/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/36/Message
+@44
+ is it is because I would like you to assume the "request" of calling you.
 > END STRING
 
 > BEGIN STRING
 @4
 はっ。
 どのような依頼でしょうか？
-> CONTEXT COMMONEVENT:359/37/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/37/Message
+@4
+ ha ha. What would request?
 > END STRING
 
 > BEGIN STRING
 @44
 ルシマ親衛隊長。
 説明をお願いします。
-> CONTEXT COMMONEVENT:359/38/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/38/Message
+@44
+ Rushima Guards length. Please give me an explanation.
 > END STRING
 
 > BEGIN STRING
 @40
 はっ。
-> CONTEXT COMMONEVENT:359/39/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/39/Message
+@40
+ ha ha.
 > END STRING
 
 > BEGIN STRING
 @40
 この宝玉をエスラ城まで
 送り届けてもらいたい。
-> CONTEXT COMMONEVENT:359/49/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/49/Message
+@40
+ I want to forwarded this gem until Esura Castle.
 > END STRING
 
 > BEGIN STRING
 @4
 これを…？
-> CONTEXT COMMONEVENT:359/50/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/50/Message
+@4
+ this ...?
 > END STRING
 
 > BEGIN STRING
@@ -154,16 +161,18 @@ Skip
 そう。
 以前我らの軍で輸送隊を編成したのだが、
 エスラ城に向かう途中で山賊に襲われてしまってな。
-> CONTEXT COMMONEVENT:359/51/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/51/Message
+@40
+ likely. It was to organize a convoy in our army before, but I have got attacked by bandits on the way to Esura Castle.
 > END STRING
 
 > BEGIN STRING
 @40
 宝玉こそ無事だったが輸送隊はほとんど
 打倒され作戦の中断を余儀なくされてしまった。
-> CONTEXT COMMONEVENT:359/52/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/52/Message
+@40
+ Jewel what successful was that although transport Corps had been forced to interruption of almost subverted strategy.
 > END STRING
 
 > BEGIN STRING
@@ -171,25 +180,28 @@ Skip
 だから今回は目立たぬように単独で、
 そして腕の立つ人物に輸送を依頼しようと思い
 そなたにお願いする事になったのだ。
-> CONTEXT COMMONEVENT:359/53/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/53/Message
+@40
+ So this time alone so as not to stand out, and he was supposed to ask the Sonata I will try to request the transport to the person standing with arms.
 > END STRING
 
 > BEGIN STRING
 @40
 本当は我らの軍で輸送を行いたい気持ちもあったが、
 リチア姫の件で軍を割けないという事情もあってな。
-> CONTEXT COMMONEVENT:359/54/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/54/Message
+@40
+ The truth is there was also the feeling you want to transport in our military, but I there is also reason that does not avoid the army in the matter of Lithia princess.
 > END STRING
 
 > BEGIN STRING
 @4
 リチア姫…
-> CONTEXT COMMONEVENT:359/56/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:405/72/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:551/284/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/56/Message
+> CONTEXT COMMONEVENT:405/72/Message
+> CONTEXT COMMONEVENT:551/284/Message
+@4
+ Lithia princess ...
 > END STRING
 
 > BEGIN STRING
@@ -197,8 +209,9 @@ Skip
 （リチア姫はマーチ女王のご息女だ。
 　以前謁見した時はお元気そうだったが
 　先日突然姿を消したらしい）
-> CONTEXT COMMONEVENT:359/60/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/60/Message
+@4
+ (Lithia princess's your Sokujo of March queen. When the previous audience seems but was Ogenki likely turned off the sudden appearance the other day)
 > END STRING
 
 > BEGIN STRING
@@ -206,8 +219,9 @@ Skip
 （さらに1年ほど前に元国王のワラート様も
 　謎の失踪を遂げており、今はマーチ女王が
 　1人でこの国をまとめあげている）
-> CONTEXT COMMONEVENT:359/61/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/61/Message
+@4
+ (further Warato like the former king to about a year ago also has made the disappearance of mystery, is now march queen has put together this country by one person)
 > END STRING
 
 > BEGIN STRING
@@ -215,8 +229,10 @@ Skip
 あなたにはこれまで何度も色々な依頼に
 応じていただきました。\\!危険な任務ですが
 どうか遂行してもらいたいのです。
-> CONTEXT COMMONEVENT:359/65/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/65/Message
+@44
+ you many times far it was in response to a variety of requests. \\!
+Is a dangerous mission I would like to have accomplished if.
 > END STRING
 
 > BEGIN STRING
@@ -224,56 +240,64 @@ Skip
 このワラート国には大いなる恩があります。\\!
 外部の人間である私を何度もお引き立てくださり、
 武技を研鑽させる機会をいただけました。
-> CONTEXT COMMONEVENT:359/66/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/66/Message
+@4
+ in this Warato countries there is a great favor. \\!
+Which is an external human also patronage under .. me many times, we can an opportunity to study the martial arts.
 > END STRING
 
 > BEGIN STRING
 @4
 お引き受けいたします。
 そして必ずや任務を成功させます！
-> CONTEXT COMMONEVENT:359/67/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/67/Message
+@4
+ will undertake. And to be sure a successful mission!
 > END STRING
 
 > BEGIN STRING
 @44
 ああ…ありがとう。\\cdb[0:0:0]殿。
 本当に頼もしい御仁ね。
-> CONTEXT COMMONEVENT:359/68/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/68/Message
+@44
+ Oh ... Thank you. \\cdb[0:0:0] dono. I really dependable Gojin.
 > END STRING
 
 > BEGIN STRING
 @40
 頼りにしているぞ、\\cdb[0:0:0]殿。
 エスラは我が国に負けるとも劣らぬ大国…
-> CONTEXT COMMONEVENT:359/69/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/69/Message
+@40
+'ll have to rely on, \\cdb[0:0:0] dono. Esura is no less so lose to Japan's major powers ...
 > END STRING
 
 > BEGIN STRING
 @40
 今回の任務が成功すれば友好な関係を築く
 きっかけになる。
-> CONTEXT COMMONEVENT:359/70/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/70/Message
+@40
+ if successful is this mission becomes an opportunity to build a friendly relationship.
 > END STRING
 
 > BEGIN STRING
 @44
 それと、この依頼にとりかかって頂くにあたり
 これを受け取っていただきたいのです。
-> CONTEXT COMMONEVENT:359/71/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/71/Message
+@44
+ At the same, I'd like to receive this Upon I am working on this request.
 > END STRING
 
 > BEGIN STRING
 @4
 これは…
-> CONTEXT COMMONEVENT:359/79/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:777/21/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/79/Message
+> CONTEXT COMMONEVENT:777/21/Message
+@4
+ This is ...
 > END STRING
 
 > BEGIN STRING
@@ -281,23 +305,28 @@ Skip
 \\c[3]パックジュエル\\c[0]です。
 念じると宝石の中に沢山の道具をしまいこむ事が
 できます。
-> CONTEXT COMMONEVENT:359/80/Message < UNTRANSLATED
+> CONTEXT COMMONEVENT:359/80/Message
+@44
 
+\\c[3] pack Jewel \\c[0]
+is. Remembrance and you can tuck away a lot of tools in the gem.
 > END STRING
 
 > BEGIN STRING
 @44
 この任務においてあなたの助けになるはずです…。
-> CONTEXT COMMONEVENT:359/81/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/81/Message
+@44
+ should be your help in this mission ....
 > END STRING
 
 > BEGIN STRING
 @40
 パックジュエルは我が国でも限られた人間しか
 使用を許されていない。大事に使ってくれ。
-> CONTEXT COMMONEVENT:359/82/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/82/Message
+@40
+ Pack Jewel is not allowed to use only human limited in Japan. Me with the important.
 > END STRING
 
 > BEGIN STRING
@@ -305,69 +334,78 @@ Skip
 あとこれらの武器も渡しておこう。
 「万能剣士」と名高いそなたなら
 どれも問題なく使いこなせるだろう。
-> CONTEXT COMMONEVENT:359/83/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/83/Message
+@40
+ after Let us also pass these weapons. Which if famous sonata as a "universal swordsman" will also mastered without problems.
 > END STRING
 
 > BEGIN STRING
 @4
 あ、ありがとうございます…
 （ホントに全部入った…すごい）
-> CONTEXT COMMONEVENT:359/91/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/91/Message
+@4
+ Ah, thank you ... (went all to really ... amazing)
 > END STRING
 
 > BEGIN STRING
 @44
 それでは宝玉をお渡しします…
 どうかお願いね？
-> CONTEXT COMMONEVENT:359/93/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/93/Message
+@44
+ Then you will be given a jewel ... I ask how?
 > END STRING
 
 > BEGIN STRING
 @4
 はっ！
 必ずや達成いたします。
-> CONTEXT COMMONEVENT:359/95/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/95/Message
+@4
+ ha ha! I always will be achieved.
 > END STRING
 
 > BEGIN STRING
 @4
 宝玉か…国同士の関係を良くするなんて
 よほど価値のあるものなんだろうな。
-> CONTEXT COMMONEVENT:359/107/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/107/Message
+@4
+ jewel or ... I guess that some of the compelling value Nante to improve the relationship between countries.
 > END STRING
 
 > BEGIN STRING
 @1
 見つけたわよ！万能剣士！
-> CONTEXT COMMONEVENT:359/108/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/108/Message
+@1
+ I found! Universal swordsman!
 > END STRING
 
 > BEGIN STRING
 @4
 …！
-> CONTEXT COMMONEVENT:359/115/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:508/63/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/115/Message
+> CONTEXT COMMONEVENT:508/63/Message
+@4
+ ...!
 > END STRING
 
 > BEGIN STRING
 @9
 この子があの万能剣士なの？
-> CONTEXT COMMONEVENT:359/116/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/116/Message
+@9
+ this child's the that universal swordsman?
 > END STRING
 
 > BEGIN STRING
 @8
 ええ。間違いないわ。
-> CONTEXT COMMONEVENT:359/117/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/117/Message
+@8
+ Yeah. No doubt.
 > END STRING
 
 > BEGIN STRING
@@ -375,64 +413,74 @@ Skip
 ふふふ…あなたを倒して
 戦士としての名声もらっちゃうんだから！
 覚悟しなさい！
-> CONTEXT COMMONEVENT:359/118/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/118/Message
+@8
+ hehehe ... because I would get fame as a warrior to defeat you! Make ready!
 > END STRING
 
 > BEGIN STRING
 @4
 こんな町中でやる気か！？
-> CONTEXT COMMONEVENT:359/119/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/119/Message
+@4
+ or motivation in this town! ?
 > END STRING
 
 > BEGIN STRING
 @8
 ほれっ\\i[200]
-> CONTEXT COMMONEVENT:359/123/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/123/Message
+@8
+ Hore' \\i[200]
 > END STRING
 
 > BEGIN STRING
 @47
 うっ！？
-> CONTEXT COMMONEVENT:359/124/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/124/Message
+@47
+ Whoo! ?
 > END STRING
 
 > BEGIN STRING
 @47
 わわわ…
-> CONTEXT COMMONEVENT:359/126/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/126/Message
+@47
+ Wawawa ...
 > END STRING
 
 > BEGIN STRING
 @9
 スキあり！
-> CONTEXT COMMONEVENT:359/135/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/135/Message
+@9
+ liked Yes!
 > END STRING
 
 > BEGIN STRING
 @46
 うわっ！？
-> CONTEXT COMMONEVENT:359/136/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/136/Message
+@46
+ Wow! ?
 > END STRING
 
 > BEGIN STRING
 @8
 ふっふっふ…まさかここまで効果てきめんとはね。
 色仕掛け作戦でたっぷりいためつけてあげる\\i[200]
-> CONTEXT COMMONEVENT:359/140/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/140/Message
+@8
+ Fuffuffu ... Surely it is a work wonders so far.
+ There will be Plenty of hurt in the Venus flytrap strategy \\i[200]
 > END STRING
 
 > BEGIN STRING
 @46
 くっ…
-> CONTEXT COMMONEVENT:359/141/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:557/65/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:359/141/Message
+> CONTEXT COMMONEVENT:557/65/Message
+@46
+ Damn ...
 > END STRING

@@ -2,13 +2,13 @@
 
 > BEGIN STRING
 ゲームオーバーになってしまった！
-> CONTEXT COMMONEVENT:213/1/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:213/1/Message
+It has become a game over!
 > END STRING
 
 > BEGIN STRING
 でもサンプルゲームなのでそのまま続行が可能！
 引き続きお楽しみ下さい！
-> CONTEXT COMMONEVENT:213/2/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:213/2/Message
+But as it is possible to continue because the sample game! Enjoy continue!
 > END STRING

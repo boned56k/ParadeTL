@@ -2,30 +2,32 @@
 
 > BEGIN STRING
 \\c[3]一切ダメージを受けずに敵を全滅させろ！\\c[0]
-> CONTEXT COMMONEVENT:463/11/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:614/11/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:714/11/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:463/11/Message
+> CONTEXT COMMONEVENT:614/11/Message
+> CONTEXT COMMONEVENT:714/11/Message
+\\c[3] ey annihilate the enemy without any damage! \\c[0]
 > END STRING
 
 > BEGIN STRING
 \\E\\c[0]ノーダメージで勝利せよ\\c[0]
-> CONTEXT COMMONEVENT:463/13/Picture < UNTRANSLATED
-> CONTEXT COMMONEVENT:614/13/Picture < UNTRANSLATED
-> CONTEXT COMMONEVENT:714/13/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:463/13/Picture
+> CONTEXT COMMONEVENT:614/13/Picture
+> CONTEXT COMMONEVENT:714/13/Picture
+\\E\\c[0]victory by a no damage\\c[0]
 > END STRING
 
 > BEGIN STRING
 @13
 傷ひとつ…つけられないなん…て…
-> CONTEXT COMMONEVENT:463/135/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:463/135/Message
+@13
+ is not one ... attached scratch What ... on ...
 > END STRING
 
 > BEGIN STRING
 @13
 格が…ちが…う…
-> CONTEXT COMMONEVENT:463/136/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:463/136/Message
+@13
+ case is ... blood ... cormorant ...
 > END STRING

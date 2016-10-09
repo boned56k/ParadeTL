@@ -3,6 +3,7 @@
 > BEGIN STRING
 @12
 だめ…私たちじゃ…かてな…い…
-> CONTEXT COMMONEVENT:467/178/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:467/178/Message
+@12
+ no good ... we'm ... Catena ... have ...
 > END STRING

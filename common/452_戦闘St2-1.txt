@@ -5,14 +5,19 @@
 わ…私たちでは
 歯が立たないっていうの…？
 これほどとは…！
-> CONTEXT COMMONEVENT:452/147/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:452/147/Message
+@12
+ ring ... In our
+The Tteyuu hard to chew ...?
+This much and is ...!
 > END STRING
 
 > BEGIN STRING
 @13
 リーダーに報告しましょう！
 覚えてらっしゃい！
-> CONTEXT COMMONEVENT:452/148/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:452/148/Message
+@13
+ Let's report to the leader!
+Have a nice day to remember!
 > END STRING

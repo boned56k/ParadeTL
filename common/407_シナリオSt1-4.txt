@@ -3,23 +3,27 @@
 > BEGIN STRING
 @4
 むっ…
-> CONTEXT COMMONEVENT:407/20/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:407/20/Message
+@4
+ stuffy ...
 > END STRING
 
 > BEGIN STRING
 @11
 うふふ…こんにちは。
 私はマリン。
-> CONTEXT COMMONEVENT:407/28/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:407/28/Message
+@11
+ Planning is ... Hello.
+I Marin.
 > END STRING
 
 > BEGIN STRING
 @4
 マリン…雷光のマリンか！
-> CONTEXT COMMONEVENT:407/29/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:407/29/Message
+@4
+ Marin ... lightning of Marinka!
 > END STRING
 
 > BEGIN STRING
@@ -27,37 +31,47 @@
 あら\\i[200]
 万能剣士さんに知っていてもらえてたとは
 光栄ね。
-> CONTEXT COMMONEVENT:407/30/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:407/30/Message
+@11
+ rough \\i[200]
+And had me knew to universal swordsman Mr.
+I honored.
 > END STRING
 
 > BEGIN STRING
 @8
 あんたなんかマリン様の剣技で
 イチコロなんだから！
-> CONTEXT COMMONEVENT:407/31/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:407/31/Message
+@8
+ Anta something in the marine-like sword
+Because Ichikoro that do!
 > END STRING
 
 > BEGIN STRING
 @11
 あなたたち、\\cdb[0:0:0]くんが逃げられないように
 周りを取り囲みなさい\\i[200]
-> CONTEXT COMMONEVENT:407/32/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:407/32/Message
+@11
+, as you guys, \\cdb[0:0:0] kun not escape
+Please surrounds around \\i[200]
 > END STRING
 
 > BEGIN STRING
 @8
 はーい！
-> CONTEXT COMMONEVENT:407/33/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:407/33/Message
+@8
+ yesss!
 > END STRING
 
 > BEGIN STRING
 @11
 ちょっとだけおねえさんにつきあって
 もらうから\\i[200]
-> CONTEXT COMMONEVENT:407/34/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:407/34/Message
+@11
+ going out to a little bit her sister
+Because get \\i[200]
 > END STRING

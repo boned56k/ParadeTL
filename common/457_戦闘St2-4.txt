@@ -4,14 +4,18 @@
 @12
 ふ、フフフ…この先には我らの
 リーダーが待っている…
-> CONTEXT COMMONEVENT:457/143/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:457/143/Message
+@12
+ fu, hehehe ... to this earlier of us
+Leader is waiting ...
 > END STRING
 
 > BEGIN STRING
 @12
 行って無様にやられてくるが
 いいわ…
-> CONTEXT COMMONEVENT:457/144/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:457/144/Message
+@12
+ go come beaten to awkward and although
+Right on…
 > END STRING

@@ -22,6 +22,7 @@ P･G･エディは、なぜかいやらしい顔をしている！
 > BEGIN STRING
 そして夕一は今日の
 晩ゴハンのことしか考えていなかった！
-> CONTEXT COMMONEVENT:214/4/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:214/4/Message
+And evening one is today
+Only I did not think that the evening meal!
 > END STRING

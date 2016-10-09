@@ -2,6 +2,6 @@
 
 > BEGIN STRING
 自分以外の対象が存在しませんでした。
-> CONTEXT COMMONEVENT:161/18/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:161/18/SetString
+It did not exist the target other than your own.
 > END STRING

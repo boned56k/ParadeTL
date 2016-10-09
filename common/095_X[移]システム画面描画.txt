@@ -9,20 +9,20 @@
 
 > BEGIN STRING
 \\f[\\cself[19]]- システム設定 -
-> CONTEXT COMMONEVENT:95/147/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/147/Picture
+\\f[\\cself[19]]- System setting -
 > END STRING
 
 > BEGIN STRING
 \\f[\\cself[19]]ここに説明が表示されます
-> CONTEXT COMMONEVENT:95/187/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/187/Picture
+\\f[\\cself[19]]Here description is displayed
 > END STRING
 
 > BEGIN STRING
  キー位置保存
-> CONTEXT COMMONEVENT:95/224/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/224/SetString
+キー位置保存
 > END STRING
 
 > BEGIN STRING
@@ -45,8 +45,8 @@
 
 > BEGIN STRING
  ＢＧＭ音量
-> CONTEXT COMMONEVENT:95/274/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/274/SetString
+BGM Volume
 > END STRING
 
 > BEGIN STRING
@@ -57,8 +57,8 @@
 
 > BEGIN STRING
  ＳＥ音量
-> CONTEXT COMMONEVENT:95/313/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/313/SetString
+SE Volume
 > END STRING
 
 > BEGIN STRING
@@ -69,107 +69,112 @@
 
 > BEGIN STRING
  決定キー
-> CONTEXT COMMONEVENT:95/361/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/361/SetString
+Decision key
 > END STRING
 
 > BEGIN STRING
  キャンセル
-> CONTEXT COMMONEVENT:95/364/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/364/SetString
+Cancel
 > END STRING
 
 > BEGIN STRING
  サブキー
-> CONTEXT COMMONEVENT:95/367/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/367/SetString
+Subkey
 > END STRING
 
 > BEGIN STRING
 キーボード
-> CONTEXT COMMONEVENT:95/399/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/399/SetString
+Keyboard
 > END STRING
 
 > BEGIN STRING
 パッド
-> CONTEXT COMMONEVENT:95/402/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/402/SetString
+Pad
 > END STRING
 
 > BEGIN STRING
 リセット
-> CONTEXT COMMONEVENT:95/490/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/490/SetString
+Reset
 > END STRING
 
 > BEGIN STRING
 設定完了
-> CONTEXT COMMONEVENT:95/494/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/494/SetString
+Setting complete
 > END STRING
 
 > BEGIN STRING
 アイテム画面を開いたときの
 カーソル位置を保存します
-> CONTEXT COMMONEVENT:95/569/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/569/SetString
+When you open the item screen
+Save the cursor position
 > END STRING
 
 > BEGIN STRING
 キーのリピート速度を変更します。
 速いほど、キーの反応が早くなります。
-> CONTEXT COMMONEVENT:95/572/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/572/SetString
+Change the repeat rate of the key.
+The faster, the reaction of key faster.
 > END STRING
 
 > BEGIN STRING
 戦闘時、キーを押しっぱなしにしたとき
 ターンを越えても連打を続けるか設定
-> CONTEXT COMMONEVENT:95/575/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/575/SetString
+During the battle, when you hold down a key
+Set or continue to roll even beyond the turn
 > END STRING
 
 > BEGIN STRING
 ＢＧＭの音量を設定します
-> CONTEXT COMMONEVENT:95/580/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/580/SetString
+Set the volume of the BGM
 > END STRING
 
 > BEGIN STRING
 効果音の音量を設定します
-> CONTEXT COMMONEVENT:95/583/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/583/SetString
+Set the volume of the sound effects
 > END STRING
 
 > BEGIN STRING
 パッドのキー設定を設定します。
 変更したいボタンを押して下さい。
-> CONTEXT COMMONEVENT:95/590/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/590/SetString
+Set the pad of the key setting.
+Press the button you want to change.
 > END STRING
 
 > BEGIN STRING
 キーボードのキー設定を設定します。
 変更したいキーを押して下さい。
-> CONTEXT COMMONEVENT:95/593/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/593/SetString
+It sets the keyboard of the key setting.
+Press the key you want to change.
 > END STRING
 
 > BEGIN STRING
 すべての設定を元に戻します
-> CONTEXT COMMONEVENT:95/598/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/598/SetString
+Returns all settings to the original
 > END STRING
 
 > BEGIN STRING
 この設定を反映します
-> CONTEXT COMMONEVENT:95/601/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/601/SetString
+To reflect this setting
 > END STRING
 
 > BEGIN STRING
 ここに説明文が表示されます
-> CONTEXT COMMONEVENT:95/604/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:95/604/SetString
+Here in the description will be displayed
 > END STRING

@@ -2,27 +2,30 @@
 
 > BEGIN STRING
 \\c[3]カウンターだけで敵を倒せ！\\c[0]
-> CONTEXT COMMONEVENT:416/13/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:416/13/Message
+\\c[3] Defeat the enemy only at the counter! \\c[0]
 > END STRING
 
 > BEGIN STRING
 \\E\\c[0]カウンターのみで敵を倒せ\\c[0]
-> CONTEXT COMMONEVENT:416/17/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:416/17/Picture
+\\E\\c[0] defeat the enemy only at the counter\\c[0]
 > END STRING
 
 > BEGIN STRING
 @7
 ふふふ…やっぱりその程度なのね\\i[200]
-> CONTEXT COMMONEVENT:416/35/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:416/35/Message
+@7
+ hehehe ... I thought I Are the extent \\i[200]
 > END STRING
 
 > BEGIN STRING
 @7
 くぅぅ…み、認めてあげる！
 これでおいしいものでも食べれば？
-> CONTEXT COMMONEVENT:416/176/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:416/176/Message
+@7
+ Kuwu ... look, I'll admit to!
+If you eat this in also delicious?
 > END STRING

@@ -3,6 +3,6 @@
 > BEGIN STRING
 
  残り x \\cself[11]
-> CONTEXT COMMONEVENT:99/86/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:99/86/SetString
+The remaining x \\cself[11]
 > END STRING

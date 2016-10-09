@@ -4,16 +4,19 @@
 遠くにいる敵を倒すには、
 \\c[3]遠距離攻撃が可能な武器を使うか、
 敵の魔法弾を攻撃して跳ね返す\\c[0]必要があります。
-> CONTEXT COMMONEVENT:417/10/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:417/10/Message
+To defeat the enemies in the distance,\\c[3] or long-range attacks using the available weapons,
+repel attacks the magic bullets of the enemy\\c[0]
+There is a need.
 > END STRING
 
 > BEGIN STRING
 ＜遠距離攻撃＞
 \\c[3]ロングボウ\\c[0]などの遠隔系武器、
 \\c[3]炎の杖\\c[0]などの魔法系武器で可能です。
-> CONTEXT COMMONEVENT:417/11/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:417/11/Message
+<Long distance attack>\\c[3] Longbow \\c[0]Remote-based weapons, such as,
+\\c[3] cane of flame \\c[0]It is possible with the magic-based weapons such as.
 > END STRING
 
 > BEGIN STRING
@@ -21,8 +24,10 @@
 敵の魔法弾はこちらに近づいてくると
 \\c[2]赤く\\c[0]変色します。
 その際に攻撃すると魔法弾を反射できます。
-> CONTEXT COMMONEVENT:417/13/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:417/13/Message
+<Reflective> When the magic bullets of the enemy is approaching here
+\\c[2] red \\c[0]And discoloration.
+You can reflect the magic bullet to attack at that time.
 > END STRING
 
 > BEGIN STRING
@@ -30,6 +35,8 @@
 また、魔法弾そのものに攻撃を当てる必要はなく、
 タイミングがあっていれば照準が
 どこにあっても反射可能です。
-> CONTEXT COMMONEVENT:417/14/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:417/14/Message
+Reflection is also available in the perspective both of weapon. In addition, there is no need to hit the attack to the magic bullet itself,
+Sighting if there is a timing
+Wherever there is a possible reflection.
 > END STRING

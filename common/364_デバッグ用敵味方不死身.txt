@@ -6,14 +6,18 @@ H1：\\v[13]
 H2：\\v[14]
 H3：\\v[15]
 無敵：\\cdb[18:106:0]
-> CONTEXT COMMONEVENT:364/18/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:364/18/Picture
+During the attack?：\\v[2]
+H1：\\v[13]
+H2：\\v[14]
+H3：\\v[15]
+invincible：\\cdb[18:106:0]
 > END STRING
 
 > BEGIN STRING
 \\E\\cdb[18:152:0] / \\cdb[18:153:0]
-> CONTEXT COMMONEVENT:364/22/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:364/22/Picture
+\\E\\cdb[18:152:0] / \\cdb[18:153:0]
 > END STRING
 
 > BEGIN STRING
@@ -23,6 +27,11 @@ H3：\\v[15]
 \\E\\cdb[10:13:10]
 \\E\\cdb[10:14:10]
 \\E\\cdb[10:15:10]\n
-> CONTEXT COMMONEVENT:364/35/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:364/35/Picture
+\\E\\cdb[10:10:10]
+\\E\\cdb[10:11:10]
+\\E\\cdb[10:12:10]
+\\E\\cdb[10:13:10]
+\\E\\cdb[10:14:10]
+\\E\\cdb[10:15:10]\n
 > END STRING

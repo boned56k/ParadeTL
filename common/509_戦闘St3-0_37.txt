@@ -4,22 +4,26 @@
 @19
 あっ！貴様…
 どうやって脱出を！？
-> CONTEXT COMMONEVENT:509/22/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/22/Message
+@19
+ there! you…
+The how escape! ?
 > END STRING
 
 > BEGIN STRING
 @4
 うっ！見張りか…！？
-> CONTEXT COMMONEVENT:509/23/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/23/Message
+@4
+ sold! Watch or ...!?
 > END STRING
 
 > BEGIN STRING
 @4
 （まずい…こっちには武器がなんにも無いんだ）
-> CONTEXT COMMONEVENT:509/24/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/24/Message
+@4
+ (bad ... I have nothing weapons over here)
 > END STRING
 
 > BEGIN STRING
@@ -27,107 +31,127 @@
 フフ…まあいいわ\\i[200]
 丸腰の万能剣士がどのぐらい
 戦えるのか見てあげる！
-> CONTEXT COMMONEVENT:509/25/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/25/Message
+@19
+ Hehe ... Well I say \\i[200]
+Universal swordsman of unarmed is how much
+Fight I'll see what!
 > END STRING
 
 > BEGIN STRING
 @4
 くっ…！
-> CONTEXT COMMONEVENT:509/26/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/26/Message
+@4
+ Ku ...!
 > END STRING
 
 > BEGIN STRING
 @1
 レスト！
-> CONTEXT COMMONEVENT:509/28/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/28/Message
+@1
+ Rest!
 > END STRING
 
 > BEGIN STRING
 @19
 ！？
-> CONTEXT COMMONEVENT:509/29/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/29/Message
+@19
+! ?
 > END STRING
 
 > BEGIN STRING
 @4
 あ…！
 鎧の男…！？なぜここに！
-> CONTEXT COMMONEVENT:509/32/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/32/Message
+@4
+ Ah ...!
+Man of armor ...! ? Why here!
 > END STRING
 
 > BEGIN STRING
 @50
 これを使え！
-> CONTEXT COMMONEVENT:509/33/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/33/Message
+@50
+ can use this!
 > END STRING
 
 > BEGIN STRING
 @4
 この剣は…！？
-> CONTEXT COMMONEVENT:509/40/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/40/Message
+@4
+ This sword ...! ?
 > END STRING
 
 > BEGIN STRING
 @4
 ううっ！？
 なんだこの剣…！？
-> CONTEXT COMMONEVENT:509/60/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/60/Message
+@4
+ Uu'! ?
+What this sword ...! ?
 > END STRING
 
 > BEGIN STRING
 @4
 ぐ、うおおッ…
-> CONTEXT COMMONEVENT:509/61/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/61/Message
+@4
+ fixture, Uoo' ...
 > END STRING
 
 > BEGIN STRING
 @4
 な…なんて破壊力なんだ…！？
 この剣は一体…？
-> CONTEXT COMMONEVENT:509/85/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/85/Message
+@4
+ a ...'m destructive power is ....! ?
+This sword on earth ...?
 > END STRING
 
 > BEGIN STRING
 @19
 ぐああ…
-> CONTEXT COMMONEVENT:509/112/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/112/Message
+@19
+ Gua ...
 > END STRING
 
 > BEGIN STRING
 @18
 そ、そんなっ…
-> CONTEXT COMMONEVENT:509/113/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/113/Message
+@18
+ its, Tsu such ...
 > END STRING
 
 > BEGIN STRING
 @4
 パックジュエル！
 こいつらが持ってたのか…
-> CONTEXT COMMONEVENT:509/121/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/121/Message
+@4
+ pack jewel!
+Do these guys have had ...
 > END STRING
 
 > BEGIN STRING
 \\c[3]武器を取り返した！\\c[0]
-> CONTEXT COMMONEVENT:509/125/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/125/Message
+\\c[3] took back the weapon! \\c[0]
 > END STRING
 
 > BEGIN STRING
 @4
 よかった…思ったよりすぐ見つかった。
-> CONTEXT COMMONEVENT:509/126/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:509/126/Message
+@4
+ was immediately found than was ... I thought good.
 > END STRING

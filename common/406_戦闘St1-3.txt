@@ -3,21 +3,24 @@
 > BEGIN STRING
 \\f[17]\\font[1]HINT
 \\font[0]遠くの敵は"弓"、"杖"での攻撃や魔法弾の跳ね返しで倒せる
-> CONTEXT COMMONEVENT:406/34/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:406/34/Picture
+\\f[17] \\font[1] HINT \\font[0] distant enemy "bow", beat in the sloshing of attacks and magic bullets in the "stick"
 > END STRING
 
 > BEGIN STRING
 @8
 この人数でも勝てないなんて…
 ウソでしょ！？
-> CONTEXT COMMONEVENT:406/234/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:406/234/Message
+@8
+ Nante not win even this number of people ...
+Probably a lie! ?
 > END STRING
 
 > BEGIN STRING
 @8
 くやしい～っ…
-> CONTEXT COMMONEVENT:406/235/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:406/235/Message
+@8
+ mortifying Tsu ~
 > END STRING

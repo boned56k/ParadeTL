@@ -2,73 +2,86 @@
 
 > BEGIN STRING
 ここから先は製品版でプレイできます。
-> CONTEXT COMMONEVENT:451/2/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:451/2/Message
+Earlier you can play in the full version from here.
 > END STRING
 
 > BEGIN STRING
 @4
 この山地一帯は「あいつら」の
 テリトリーだからあまり入りたくはないけど…
-> CONTEXT COMMONEVENT:451/26/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:451/26/Message
+@4
+ This mountainous zone is of "Aitsura"
+I do not want to go too much because it is territory ...
 > END STRING
 
 > BEGIN STRING
 @12
 そこで止まりなさい！
-> CONTEXT COMMONEVENT:451/32/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:451/32/Message
+@12
+ So please stop!
 > END STRING
 
 > BEGIN STRING
 @12
 ここを通りたかったら、
 有り金を全て出してもらうわよ。
-> CONTEXT COMMONEVENT:451/33/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:451/33/Message
+@12
+ If you want street here,
+I get out of all his money.
 > END STRING
 
 > BEGIN STRING
 @4
 断る！
-> CONTEXT COMMONEVENT:451/34/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:451/34/Message
+@4
+ refuse!
 > END STRING
 
 > BEGIN STRING
 @12
 いい度胸ね…\\i[200]
-> CONTEXT COMMONEVENT:451/35/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:451/35/Message
+@12
+ I hope courage ... \\i[200]
 > END STRING
 
 > BEGIN STRING
 @13
 この顔…こいつもしかして万能剣士かもよ？
-> CONTEXT COMMONEVENT:451/37/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:451/37/Message
+@13
+ be this face ... this guy Did you mean universal swordsman?
 > END STRING
 
 > BEGIN STRING
 @12
 こいつが…！？
 ふ～ん、思ってたよりちっこいのねぇ\\i[200]
-> CONTEXT COMMONEVENT:451/38/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:451/38/Message
+@12
+ this guy is ...! ?
+Fu Mmm, hey of Chikkoi than I thought \\i[200]
 > END STRING
 
 > BEGIN STRING
 @12
 万能剣士\\cdb[0:0:0]！
 お金は勘弁してあげる。そのかわり…
-> CONTEXT COMMONEVENT:451/39/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:451/39/Message
+@12
+ universal swordsman \\cdb[0:0:0]!
+Money'll forgive me. Instead…
 > END STRING
 
 > BEGIN STRING
 @12
 貴様の命をもらう！
-> CONTEXT COMMONEVENT:451/40/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:451/40/Message
+@12
+ get a life of differents!
 > END STRING

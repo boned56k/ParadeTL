@@ -4,8 +4,8 @@
 ウルファール
 「この相談コマンドは、コモンイベントから
 　呼び出されているんです。
-> CONTEXT COMMONEVENT:212/1/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:212/1/Message
+Urufaru "This consultation command, it has been called from the common events.
 > END STRING
 
 > BEGIN STRING
@@ -13,6 +13,6 @@
 「こんな風にメニューからコモンイベントを
 　呼び出すこともできるので、
 　自作のコマンドもラクラク追加できますね！
-> CONTEXT COMMONEVENT:212/2/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:212/2/Message
+Since Urufaru "can also be called the common event from the menu like this, you also can be added Ease own command!
 > END STRING

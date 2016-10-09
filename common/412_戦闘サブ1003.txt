@@ -6,14 +6,20 @@
 「そっくりな影武者を集めて
 みんなでいじめちゃえ\\i[200]」
 作戦も失敗…
-> CONTEXT COMMONEVENT:412/31/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:412/31/Message
+@11
+ Ku' ...
+Collect the "look-alike Kagemusha
+Once you bully everyone \\i[200] "
+Strategy also failed ...
 > END STRING
 
 > BEGIN STRING
 @11
 あなた…
 本当にとっても強いわね
-> CONTEXT COMMONEVENT:412/32/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:412/32/Message
+@11
+ you ...
+It 's very strong really
 > END STRING

@@ -3,32 +3,34 @@
 > BEGIN STRING
 よくも好き放題に
 やってくれたわね…
-> CONTEXT COMMONEVENT:459/35/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:459/35/Message
+I did a great job to dare love unlimited ...
 > END STRING
 
 > BEGIN STRING
 私の斧を受けなさい！！
-> CONTEXT COMMONEVENT:459/36/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:459/36/Message
+Please accept my ax! !
 > END STRING
 
 > BEGIN STRING
 @14
 完敗だわ…
 これが万能剣士の力…
-> CONTEXT COMMONEVENT:459/164/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:459/164/Message
+@14
+'s complete defeat ...
+This is a universal swordsman power ...
 > END STRING
 
 > BEGIN STRING
 「\\cdb[24:4:0]」に行けるようになりました！
-> CONTEXT COMMONEVENT:459/188/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:459/188/Message
+Now go to "\\cdb[24:4:0]"!
 > END STRING
 
 > BEGIN STRING
 「\\cdb[24:5:0]」に行けるようになりました！
-> CONTEXT COMMONEVENT:459/190/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:459/190/Message
+Now go to "\\cdb[24:5:0]"!
 > END STRING

@@ -2,9 +2,9 @@
 
 > BEGIN STRING
 \\f[15]クリック ：決定　/　右クリック ：キャンセル　/　マウスホイール：↑↓　/　中ボタンクリック：→
-> CONTEXT COMMONEVENT:348/7/Picture < UNTRANSLATED
-> CONTEXT COMMONEVENT:360/4/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/7/Picture
+> CONTEXT COMMONEVENT:360/4/Picture
+\\f[15] click: decision / right-click: Cancel / mouse wheel: ↑ ↓ / middle button click: →
 > END STRING
 
 > BEGIN STRING
@@ -61,32 +61,32 @@ Auto-skip events
 > BEGIN STRING
 \\c[3]戦闘中に主人公の顔を表示するかどうかを選べます。
 （現在の設定：\\c[0]\\cdb[18:169:1]\\c[3]）
-> CONTEXT COMMONEVENT:348/250/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:360/148/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/250/Message
+> CONTEXT COMMONEVENT:360/148/Message
+\\c[3] You can choose whether or not to display the face of the hero in combat. (The current setting: \\c[0] \\cdb[18:169:1]\\c[3])
 > END STRING
 
 > BEGIN STRING
 表示する
-> CONTEXT COMMONEVENT:348/251/Choices < UNTRANSLATED
-> CONTEXT COMMONEVENT:360/149/Choices < UNTRANSLATED
-> CONTEXT COMMONEVENT:384/968/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/251/Choices
+> CONTEXT COMMONEVENT:360/149/Choices
+> CONTEXT COMMONEVENT:384/968/Choices
+indicate
 > END STRING
 
 > BEGIN STRING
 表示しない
-> CONTEXT COMMONEVENT:348/251/Choices < UNTRANSLATED
-> CONTEXT COMMONEVENT:360/149/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/251/Choices
+> CONTEXT COMMONEVENT:360/149/Choices
+Do not show
 > END STRING
 
 > BEGIN STRING
 \\c[3]スキップできるイベントを自動でスキップします。
 （現在の設定：\\c[0]\\cdb[18:181:1]\\c[3]）
-> CONTEXT COMMONEVENT:348/274/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:360/172/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/274/Message
+> CONTEXT COMMONEVENT:360/172/Message
+\\c[3] to skip the skip events that can be automated. (The current setting: \\c[0] \\cdb[18:181:1]\\c[3])
 > END STRING
 
 > BEGIN STRING
@@ -140,8 +140,8 @@ the equipment shortcuts have been reset.
 
 > BEGIN STRING
 \\f[20]チェックポイント
-> CONTEXT COMMONEVENT:360/9/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:360/9/Picture
+\\f[20] checkpoint
 > END STRING
 
 > BEGIN STRING
@@ -149,12 +149,14 @@ the equipment shortcuts have been reset.
 ここではゲームデータのセーブ、ロード等ができます。\\!
 また、ここにたどり着くと主人公の
 HPが全回復します。
-> CONTEXT COMMONEVENT:360/94/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:360/94/Message
+"Check Point" \\!
+Here, the game data saved, you can load and the like. \\!
+In addition, HP of the hero will all recover and get to here.
 > END STRING
 
 > BEGIN STRING
 次へ進みます。よろしいですか？
-> CONTEXT COMMONEVENT:360/252/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:360/252/Message
+Proceed to the next. Is it OK?
 > END STRING

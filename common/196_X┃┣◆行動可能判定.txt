@@ -2,8 +2,8 @@
 
 > BEGIN STRING
 がなかった！
-> CONTEXT COMMONEVENT:196/42/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:196/42/SetString
+there wasn't!
 > END STRING
 
 > BEGIN STRING
@@ -15,12 +15,13 @@
 > BEGIN STRING
 \\\>マップ専用の技能は使用できません。
 ＞戦闘スロット \\cself[18]　技能 \\cself[34]
-> CONTEXT COMMONEVENT:196/316/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:196/316/Message
+\\\>Map dedicated skills can not be used.
+＞Combat slot \\cself[18]　skill \\cself[34]
 > END STRING
 
 > BEGIN STRING
 が足りない！
-> CONTEXT COMMONEVENT:196/345/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:196/345/SetString
+It is not enough!
 > END STRING

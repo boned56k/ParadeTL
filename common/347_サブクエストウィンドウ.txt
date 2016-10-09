@@ -8,13 +8,14 @@
 
 > BEGIN STRING
 \\c[3]サブクエストが追加されました！\\c[0]
-> CONTEXT COMMONEVENT:347/106/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:347/106/Message
+\\c[3]Sub quests have been added!\\c[0]
 > END STRING
 
 > BEGIN STRING
 このクエストを受注します。
 よろしいですか？
-> CONTEXT COMMONEVENT:347/126/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:347/126/Message
+We received an order for this quest.
+Is it OK?
 > END STRING

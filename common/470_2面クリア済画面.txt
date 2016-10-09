@@ -2,24 +2,24 @@
 
 > BEGIN STRING
 ステージ2-1　女戦士たちの縄張り
-> CONTEXT COMMONEVENT:470/18/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:470/18/Picture
+Stage 2-1 woman warriors of the turf
 > END STRING
 
 > BEGIN STRING
 ステージ2-2　渦巻く陰謀
-> CONTEXT COMMONEVENT:470/29/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:470/29/Picture
+Stage 2-2 swirling conspiracy
 > END STRING
 
 > BEGIN STRING
 ステージ2-3　3つの道
-> CONTEXT COMMONEVENT:470/40/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:470/40/Picture
+Stage 2-3 three road
 > END STRING
 
 > BEGIN STRING
 ステージ2-4　一撃必殺・イリアン登場
-> CONTEXT COMMONEVENT:470/51/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:470/51/Picture
+Stage 2-4 blow mortal, Irian appearance
 > END STRING

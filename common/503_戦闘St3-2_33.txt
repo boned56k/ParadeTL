@@ -3,27 +3,29 @@
 > BEGIN STRING
 なにをコソコソ嗅ぎまわって
 いるのかしら？
-> CONTEXT COMMONEVENT:503/166/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:503/166/Message
+I wonder What are you sniffing sneak a?
 > END STRING
 
 > BEGIN STRING
 ２度と馬鹿げた考えを起こさないように
 徹底的にぶちのめしてあげる\\i[200]
-> CONTEXT COMMONEVENT:503/167/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:503/167/Message
+So as not to cause the idea was ridiculous and twice I'll thoroughly Buchinomeshi \\i[200]
 > END STRING
 
 > BEGIN STRING
 このスピードについてきてごらんッ！
-> CONTEXT COMMONEVENT:503/168/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:503/168/Message
+Goran' come about this speed!
 > END STRING
 
 > BEGIN STRING
 @23
 わ…わたしの技が
 通用しないなんて！？
-> CONTEXT COMMONEVENT:503/232/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:503/232/Message
+@23
+ Wa ... my technique
+Nante not Spoken! ?
 > END STRING

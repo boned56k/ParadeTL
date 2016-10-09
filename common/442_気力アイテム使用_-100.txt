@@ -2,6 +2,6 @@
 
 > BEGIN STRING
 \\c[3]気力消費量が倍になってしまった！
-> CONTEXT COMMONEVENT:442/36/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:442/36/Message
+\\c[3] energy consumption has become a double!
 > END STRING

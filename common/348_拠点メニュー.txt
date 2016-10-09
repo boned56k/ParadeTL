@@ -3,100 +3,105 @@
 > BEGIN STRING
 「鉄機都ロンボーン」ではアイテムや武器を消費して
 \\c[3]武器を強化できる\\c[0]工房を利用できます。
-> CONTEXT COMMONEVENT:348/184/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/184/Message
+Consuming items and weapons in the "Tecchi Metropolitan Ronbon"
+\\c[3]You can strengthen the weapon\\c[0]You can use the workshop.
 > END STRING
 
 > BEGIN STRING
 ステージをクリアしていくと
 作成可能な装備品が増えていきます。
-> CONTEXT COMMONEVENT:348/185/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/185/Message
+As you clear the stage
+That can be created equipment will continue to increase.
 > END STRING
 
 > BEGIN STRING
 「拠点メニュー」\\!
 ここではアイテムや武器、防具を買ったり
 装備を整えたりすることができます。
-> CONTEXT COMMONEVENT:348/194/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/194/Message
+"Base menu"\\!
+Here or buy items and weapons, the armor
+Or you can equip.
 > END STRING
 
 > BEGIN STRING
 世界中にはいくつもの拠点となる町が存在し、\\!
 売られているものも変わってきます。
-> CONTEXT COMMONEVENT:348/195/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/195/Message
+There is a town that becomes the base for a number of the world,\\!
+Also it has changed what is sold.
 > END STRING
 
 > BEGIN STRING
 また、クリアするとお金や特別なアイテム等が貰える
 「サブクエスト」に挑戦したりもできます。
-> CONTEXT COMMONEVENT:348/196/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/196/Message
+You can also or to challenge and clear such money and special items Nowak "sub-Quest".
 > END STRING
 
 > BEGIN STRING
 難易度設定
-> CONTEXT COMMONEVENT:348/222/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/222/Choices
+Difficulty settings
 > END STRING
 
 > BEGIN STRING
 説明書
-> CONTEXT COMMONEVENT:348/297/Choices < UNTRANSLATED
-> CONTEXT DB:DataBase/[17]システム設定/[0]システム基本設定/[2]■特殊メニューC名称 < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/297/Choices
+> CONTEXT DB:DataBase/[17]システム設定/[0]システム基本設定/[2]■特殊メニューC名称
+Instructions
 > END STRING
 
 > BEGIN STRING
 敵キャラクター図鑑
-> CONTEXT COMMONEVENT:348/297/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/297/Choices
+Enemy character picture book
 > END STRING
 
 > BEGIN STRING
 エッチイベント閲覧
-> CONTEXT COMMONEVENT:348/297/Choices < UNTRANSLATED
-> CONTEXT COMMONEVENT:433/207/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/297/Choices
+> CONTEXT COMMONEVENT:433/207/Picture
+Etch events View
 > END STRING
 
 > BEGIN STRING
 イベントCG閲覧
-> CONTEXT COMMONEVENT:348/297/Choices < UNTRANSLATED
-> CONTEXT COMMONEVENT:432/3/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/297/Choices
+> CONTEXT COMMONEVENT:432/3/Picture
+Events CG View
 > END STRING
 
 > BEGIN STRING
 武器屋[Weapon]
-> CONTEXT COMMONEVENT:348/410/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/410/SetString
+Weapon Shop [Weapon]
 > END STRING
 
 > BEGIN STRING
 \\cself[8]
-> CONTEXT COMMONEVENT:348/413/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/413/Choices
+\\cself[8]
 > END STRING
 
 > BEGIN STRING
 防具屋[Armor]
-> CONTEXT COMMONEVENT:348/413/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/413/Choices
+Boguya [Armor]
 > END STRING
 
 > BEGIN STRING
 アイテム屋[Item]
-> CONTEXT COMMONEVENT:348/413/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/413/Choices
+Aitemuya [Item]
 > END STRING
 
 > BEGIN STRING
 ショートカットに登録されている武器が
 売却されました。
 ショートカット設定をリセットします。
-> CONTEXT COMMONEVENT:348/455/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/455/Message
+Weapons that are registered in the shortcut has been sold. It resets the shortcut setting.
 > END STRING

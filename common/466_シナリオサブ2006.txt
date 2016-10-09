@@ -4,37 +4,45 @@
 このクエストには「\\udb[2:74:0]」が5個必要です。
 「\\udb[2:74:0]」は
 「スライム」を倒すことで入手できます。
-> CONTEXT COMMONEVENT:466/4/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:466/4/Message
+「\\udb[2:74:0] is the five required for this quest. \\udb[2:74:0] is
+You can get by defeating the "slime".
 > END STRING
 
 > BEGIN STRING
 @68
 あなたが\\c[3]\\udb[2:74:0]\\c[0]を譲ってくださるという
 剣士さんですか！
-> CONTEXT COMMONEVENT:466/30/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:466/30/Message
+@68
+ you\\c[3] \\udb[2:74:0]\\c[0]That he will hand over the
+Is swordsman's!
 > END STRING
 
 > BEGIN STRING
 @68
 いやあとっても助かります…
 これで私の研究も進みそうですよ！
-> CONTEXT COMMONEVENT:466/31/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:466/31/Message
+@68
+ Well you very helpful ...
+This is my advances likely to research!
 > END STRING
 
 > BEGIN STRING
 @1
 \\c[3]「\\udb[2:74:0]」を5個渡しました。
-> CONTEXT COMMONEVENT:466/33/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:466/33/Message
+@1
+\\c[3] the "\\udb[2:74:0]" I gave five.
 > END STRING
 
 > BEGIN STRING
 @68
 では、これが約束の報酬です！
 どうもありがとうございました！
-> CONTEXT COMMONEVENT:466/34/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:466/34/Message
+In @68
+, this is the reward of promise!
+Thank you very much!
 > END STRING
