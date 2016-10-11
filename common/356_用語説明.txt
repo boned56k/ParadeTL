@@ -1,58 +1,59 @@
 > WOLF TRANS PATCH FILE VERSION 1.0
-
+#Still doing
 > BEGIN STRING
 攻撃
-> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/2/Choices
+Attack
 > END STRING
 
 > BEGIN STRING
 武器の種類
-> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/2/Choices
+Weapon Type
 > END STRING
 
 > BEGIN STRING
 チャージ攻撃
-> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/2/Choices
+Charge Attack
 > END STRING
 
 > BEGIN STRING
 HPの回復方法
-> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/2/Choices
+HP Recovery
 > END STRING
 
 > BEGIN STRING
 戦闘時メニュー
-> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/2/Choices
+Combat Menu
 > END STRING
 
 > BEGIN STRING
 装備ショートカット
-> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/2/Choices
+Equipment Shortcut
 > END STRING
 
 > BEGIN STRING
 各能力値の説明
-> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/2/Choices
+Ability Explanation
 > END STRING
 
 > BEGIN STRING
 \\c[3]次へ\\c[0]
-> CONTEXT COMMONEVENT:356/2/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/2/Choices
+\\c[3]Next\\c[0]
 > END STRING
 
 > BEGIN STRING
 攻撃はマウスを照準で動かし、攻撃したい敵に重ねて
 \\c[3]クリック\\c[0]で行います。
-> CONTEXT COMMONEVENT:356/4/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/4/Message
+Attack using the mouse to aim.
+Do this by repeatedly \\c[3]clicking\\c[0].
 > END STRING
 
 > BEGIN STRING
@@ -97,7 +98,7 @@ HPの回復方法
 > CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
 > CONTEXT DB:DataBase/[5]┗装備タイプ/[1]剣/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
 > CONTEXT DB:DataBase/[21]武器分類/[1]剣/[0]分類名 < UNTRANSLATED
-
+Sword
 > END STRING
 
 > BEGIN STRING
@@ -105,7 +106,7 @@ HPの回復方法
 > CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
 > CONTEXT DB:DataBase/[5]┗装備タイプ/[0]短剣/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
 > CONTEXT DB:DataBase/[21]武器分類/[2]短剣/[0]分類名 < UNTRANSLATED
-
+Dagger
 > END STRING
 
 > BEGIN STRING
@@ -113,34 +114,34 @@ HPの回復方法
 > CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
 > CONTEXT DB:DataBase/[5]┗装備タイプ/[2]槍/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
 > CONTEXT DB:DataBase/[21]武器分類/[3]槍/[0]分類名 < UNTRANSLATED
-
+Spear
 > END STRING
 
 > BEGIN STRING
 大剣・矛
 > CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
 > CONTEXT DB:DataBase/[21]武器分類/[4]大剣・矛/[0]分類名 < UNTRANSLATED
-
+Long Sword
 > END STRING
 
 > BEGIN STRING
 斧・鎚
 > CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
 > CONTEXT DB:DataBase/[21]武器分類/[5]斧・鎚/[0]分類名 < UNTRANSLATED
-
+Axe Hammer
 > END STRING
 
 > BEGIN STRING
 遠距離
 > CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
-
+Long Distance
 > END STRING
 
 > BEGIN STRING
 格闘
 > CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
 > CONTEXT DB:DataBase/[21]武器分類/[8]格闘/[0]分類名 < UNTRANSLATED
-
+CQC
 > END STRING
 
 > BEGIN STRING
@@ -148,13 +149,13 @@ HPの回復方法
 > CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
 > CONTEXT DB:DataBase/[5]┗装備タイプ/[6]杖/[0]装備タイプ名(剣･鎧など） < UNTRANSLATED
 > CONTEXT DB:DataBase/[21]武器分類/[7]杖/[0]分類名 < UNTRANSLATED
-
+Wand
 > END STRING
 
 > BEGIN STRING
 特殊系
 > CONTEXT COMMONEVENT:356/14/Choices < UNTRANSLATED
-
+Special
 > END STRING
 
 > BEGIN STRING
@@ -544,13 +545,13 @@ HPがなくなると\\c[2]ゲームオーバー\\c[0]です。
 > BEGIN STRING
 拠点
 > CONTEXT COMMONEVENT:356/145/Choices < UNTRANSLATED
-
+Base
 > END STRING
 
 > BEGIN STRING
 遠くにいる敵を倒すには
 > CONTEXT COMMONEVENT:356/145/Choices < UNTRANSLATED
-
+Can defeat enemies from a distance
 > END STRING
 
 > BEGIN STRING
@@ -598,50 +599,50 @@ HPがなくなると\\c[2]ゲームオーバー\\c[0]です。
 
 > BEGIN STRING
 セーブ・ロード
-> CONTEXT COMMONEVENT:356/150/Choices
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
 Save・Load
 > END STRING
 
 > BEGIN STRING
 指南書・アニメ設定
 > CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
-
+Instructions・Animation Config
 > END STRING
 
 > BEGIN STRING
 装備ショートカット設定
-> CONTEXT COMMONEVENT:356/150/Choices
-Equipment shortcut configuration
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+Equipment Shortcut Config
 > END STRING
 
 > BEGIN STRING
 アイテム屋・武具屋
-> CONTEXT COMMONEVENT:356/150/Choices
-Item Shop
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+Item shop・Armour shop
 > END STRING
 
 > BEGIN STRING
 情報収集
-> CONTEXT COMMONEVENT:356/150/Choices
-Gather Information
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+Gather information
 > END STRING
 
 > BEGIN STRING
 サブクエスト
-> CONTEXT COMMONEVENT:356/150/Choices
-Subquest
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+Subquests
 > END STRING
 
 > BEGIN STRING
 ステージ選択
 > CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
-
+Stage Select
 > END STRING
 
 > BEGIN STRING
 \\c[3]もどる\\c[0]
-> CONTEXT COMMONEVENT:356/150/Choices
-\\c[3]Return\\c[0]
+> CONTEXT COMMONEVENT:356/150/Choices < UNTRANSLATED
+\\c[3]Back\\c[0]
 > END STRING
 
 > BEGIN STRING
@@ -682,8 +683,9 @@ Subquest
 > BEGIN STRING
 町の人達から話を聞きます。
 ゲームに関するヒントを得られます。
-> CONTEXT COMMONEVENT:356/172/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:356/172/Message
+Hear stories from people in town.
+Hints for the game can be obtained.
 > END STRING
 
 > BEGIN STRING
