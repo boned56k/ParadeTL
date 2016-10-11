@@ -3,11 +3,11 @@
 > BEGIN STRING
 引き返す
 > CONTEXT DB:DataBase/[17]システム設定/[0]システム基本設定/[1]■特殊メニューB名称 < UNTRANSLATED
-
+Turn back
 > END STRING
 
 > BEGIN STRING
 は逃げ出した！
 > CONTEXT DB:DataBase/[17]システム設定/[0]システム基本設定/[5][戦闘]敵逃走文 [対象～ < UNTRANSLATED
-
+ ran away!
 > END STRING
