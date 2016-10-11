@@ -2,148 +2,149 @@
 
 > BEGIN STRING
 ワラート城下町
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[0]ワラート城下町/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[23]土地コード/[0]ワラート城下町/[0]街の名前 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[0]ワラート城下町/[0]マップ名
+> CONTEXT DB:DataBase/[23]土地コード/[0]ワラート城下町/[0]街の名前
+Warato Castle
 > END STRING
 
 > BEGIN STRING
 ハーモニ街道
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[1]ハーモニ街道/[0]マップ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[1]ハーモニ街道/[0]マップ名
+Harmony Highway
 > END STRING
 
 > BEGIN STRING
 スネアドラ村
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[2]スネアドラ村/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[23]土地コード/[1]スネアドラ村/[0]街の名前 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[2]スネアドラ村/[0]マップ名
+> CONTEXT DB:DataBase/[23]土地コード/[1]スネアドラ村/[0]街の名前
+Sombrera Village
 > END STRING
 
 > BEGIN STRING
 ゴピチャン登山道
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[3]ゴピチャン登山道/[0]マップ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[3]ゴピチャン登山道/[0]マップ名
+Gopichan mountain trail
 > END STRING
 
 > BEGIN STRING
 シャクハ町
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[4]シャクハ町/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[23]土地コード/[2]シャクハ町/[0]街の名前 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[4]シャクハ町/[0]マップ名
+> CONTEXT DB:DataBase/[23]土地コード/[2]シャクハ町/[0]街の名前
+Shakuha Town
 > END STRING
 
 > BEGIN STRING
 キハー大聖廓
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[5]キハー大聖廓/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[28]背景リスト/[28]キハー大聖廓/[0]背景名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[5]キハー大聖廓/[0]マップ名
+> CONTEXT DB:DataBase/[28]背景リスト/[28]キハー大聖廓/[0]背景名
+Kia district
 > END STRING
 
 > BEGIN STRING
 エスラ城下町
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[6]エスラ城下町/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[23]土地コード/[3]エスラ城下町/[0]街の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[28]背景リスト/[39]エスラ城下町/[0]背景名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[6]エスラ城下町/[0]マップ名
+> CONTEXT DB:DataBase/[23]土地コード/[3]エスラ城下町/[0]街の名前
+> CONTEXT DB:DataBase/[28]背景リスト/[39]エスラ城下町/[0]背景名
+Esura Castle Town
 > END STRING
 
 > BEGIN STRING
 エスラ城
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[7]エスラ城/[0]マップ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[7]エスラ城/[0]マップ名
+Esura Castle
 > END STRING
 
 > BEGIN STRING
 鉄機都ロンボーン
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[8]鉄機都ロンボーン/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[23]土地コード/[4]鉄機都ロンボーン/[0]街の名前 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[8]鉄機都ロンボーン/[0]マップ名
+> CONTEXT DB:DataBase/[23]土地コード/[4]鉄機都ロンボーン/[0]街の名前
+Iron Machine capital Ronbon
 > END STRING
 
 > BEGIN STRING
 パイプオル岩窟
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[9]パイプオル岩窟/[0]マップ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[9]パイプオル岩窟/[0]マップ名
+Paipuoru Cavern
 > END STRING
 
 > BEGIN STRING
 ひちり京
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[10]ひちり京/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[23]土地コード/[5]ひちり京/[0]街の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[28]背景リスト/[81]ひちり京/[0]背景名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[10]ひちり京/[0]マップ名
+> CONTEXT DB:DataBase/[23]土地コード/[5]ひちり京/[0]街の名前
+> CONTEXT DB:DataBase/[28]背景リスト/[81]ひちり京/[0]背景名
+Hisari Capital
 > END STRING
 
 > BEGIN STRING
 ひちり京・大屋敷
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[11]ひちり京・大屋敷/[0]マップ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[11]ひちり京・大屋敷/[0]マップ名
+Hisari Capital-residence
 > END STRING
 
 > BEGIN STRING
 ワラート城下町・西
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[12]ワラート城下町・西/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[23]土地コード/[6]ワラート城下町・西/[0]街の名前 < UNTRANSLATED
-> CONTEXT DB:DataBase/[28]背景リスト/[62]ワラート城下町・西/[0]背景名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[12]ワラート城下町・西/[0]マップ名
+> CONTEXT DB:DataBase/[23]土地コード/[6]ワラート城下町・西/[0]街の名前
+> CONTEXT DB:DataBase/[28]背景リスト/[62]ワラート城下町・西/[0]背景名
+Warato Castle Town・West
 > END STRING
 
 > BEGIN STRING
 ワラート城・正門前
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[13]ワラート城・正門前/[0]マップ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[13]ワラート城・正門前/[0]マップ名
+Warato Castle・Main gate
 > END STRING
 
 > BEGIN STRING
 ワラート城
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[14]ワラート城/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[23]土地コード/[7]ワラート城/[0]街の名前 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[14]ワラート城/[0]マップ名
+> CONTEXT DB:DataBase/[23]土地コード/[7]ワラート城/[0]街の名前
+Warato Castle
 > END STRING
 
 > BEGIN STRING
 ファイナルバトル
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[15]ファイナルバトル/[0]マップ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[15]ファイナルバトル/[0]マップ名
+Final Battle
 > END STRING
 
 > BEGIN STRING
 チュートリアル
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[16]チュートリアル/[0]マップ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[16]チュートリアル/[0]マップ名
+Tutorial
 > END STRING
 
 > BEGIN STRING
 リコー大雪原
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[17]リコー大雪原/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[28]背景リスト/[86]リコー大雪原/[0]背景名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[17]リコー大雪原/[0]マップ名
+> CONTEXT DB:DataBase/[28]背景リスト/[86]リコー大雪原/[0]背景名
+Rico Snow Field
 > END STRING
 
 > BEGIN STRING
 仙棲郷クレレ
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[18]仙棲郷クレレ/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[23]土地コード/[9]仙棲郷クレレ/[0]街の名前 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[18]仙棲郷クレレ/[0]マップ名
+> CONTEXT DB:DataBase/[23]土地コード/[9]仙棲郷クレレ/[0]街の名前
+Hamlet Kurere
 > END STRING
 
 > BEGIN STRING
 魔棲島
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[19]魔棲島/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[28]背景リスト/[90]魔棲島/[0]背景名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[19]魔棲島/[0]マップ名
+> CONTEXT DB:DataBase/[28]背景リスト/[90]魔棲島/[0]背景名
+Manitou Islands
 > END STRING
 
 > BEGIN STRING
 ガタ村
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[20]ガタ村/[0]マップ名 < UNTRANSLATED
-> CONTEXT DB:DataBase/[23]土地コード/[10]ガタ村/[0]街の名前 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[20]ガタ村/[0]マップ名
+> CONTEXT DB:DataBase/[23]土地コード/[10]ガタ村/[0]街の名前
+Gata Village
 > END STRING
 
 > BEGIN STRING
 翼幻の塔
-> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[21]翼幻の塔/[0]マップ名 < UNTRANSLATED
-
+> CONTEXT DB:CDataBase/[24]ワールドマップ情報/[21]翼幻の塔/[0]マップ名
+Phantom Tower
 > END STRING
+
