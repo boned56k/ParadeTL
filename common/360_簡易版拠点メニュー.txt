@@ -2,9 +2,9 @@
 
 > BEGIN STRING
 \\f[15]クリック ：決定　/　右クリック ：キャンセル　/　マウスホイール：↑↓　/　中ボタンクリック：→
-> CONTEXT COMMONEVENT:348/7/Picture < UNTRANSLATED
-> CONTEXT COMMONEVENT:360/4/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/7/Picture
+> CONTEXT COMMONEVENT:360/4/Picture
+\\f[15]Click ：Select　/　Right click ：Cancel　/　Mouse wheel：↑↓　/　Wheel click：→
 > END STRING
 
 > BEGIN STRING
@@ -41,66 +41,68 @@ Effect Settings
 システム設定
 > CONTEXT COMMONEVENT:348/222/Choices
 > CONTEXT COMMONEVENT:360/120/Choices
-System Settings
+System Config
 > END STRING
 
 > BEGIN STRING
 主人公顔グラフィック表示
 > CONTEXT COMMONEVENT:348/222/Choices
 > CONTEXT COMMONEVENT:360/120/Choices
-Display hero's face
+Hero face graphics
 > END STRING
 
 > BEGIN STRING
 イベントオートスキップ
 > CONTEXT COMMONEVENT:348/222/Choices
 > CONTEXT COMMONEVENT:360/120/Choices
-Auto-skip events
+Event auto skip
 > END STRING
 
 > BEGIN STRING
 \\c[3]戦闘中に主人公の顔を表示するかどうかを選べます。
 （現在の設定：\\c[0]\\cdb[18:169:1]\\c[3]）
-> CONTEXT COMMONEVENT:348/250/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:360/148/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/250/Message
+> CONTEXT COMMONEVENT:360/148/Message
+\\c[3]Set if the hero’s face appears during combat.
+（Currently：\\c[0]\\cdb[18:169:1]\\c[3]）
 > END STRING
 
 > BEGIN STRING
 表示する
-> CONTEXT COMMONEVENT:348/251/Choices < UNTRANSLATED
-> CONTEXT COMMONEVENT:360/149/Choices < UNTRANSLATED
-> CONTEXT COMMONEVENT:384/968/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/251/Choices
+> CONTEXT COMMONEVENT:360/149/Choices
+> CONTEXT COMMONEVENT:384/968/Choices
+Display
 > END STRING
 
 > BEGIN STRING
 表示しない
-> CONTEXT COMMONEVENT:348/251/Choices < UNTRANSLATED
-> CONTEXT COMMONEVENT:360/149/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/251/Choices
+> CONTEXT COMMONEVENT:360/149/Choices
+Do not display
 > END STRING
 
 > BEGIN STRING
 \\c[3]スキップできるイベントを自動でスキップします。
 （現在の設定：\\c[0]\\cdb[18:181:1]\\c[3]）
-> CONTEXT COMMONEVENT:348/274/Message < UNTRANSLATED
-> CONTEXT COMMONEVENT:360/172/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:348/274/Message
+> CONTEXT COMMONEVENT:360/172/Message
+\\c[3]Enable automatic event skipping.
+（Currently：\\c[0]\\cdb[18:181:1]\\c[3]）
 > END STRING
 
 > BEGIN STRING
 自動スキップあり
 > CONTEXT COMMONEVENT:348/275/Choices
 > CONTEXT COMMONEVENT:360/173/Choices
-Auto-skip enabled
+Enable auto skip
 > END STRING
 
 > BEGIN STRING
 自動スキップなし
 > CONTEXT COMMONEVENT:348/275/Choices
 > CONTEXT COMMONEVENT:360/173/Choices
-No auto-skip
+Do not enable auto skip
 > END STRING
 
 > BEGIN STRING
@@ -109,7 +111,7 @@ No auto-skip
 > CONTEXT COMMONEVENT:356/150/Choices
 > CONTEXT COMMONEVENT:360/208/Choices
 > CONTEXT COMMONEVENT:798/19/Choices
-Change equipment
+Change Equipment
 > END STRING
 
 > BEGIN STRING
@@ -117,7 +119,7 @@ Change equipment
 > CONTEXT COMMONEVENT:348/352/Choices
 > CONTEXT COMMONEVENT:360/208/Choices
 > CONTEXT COMMONEVENT:798/19/Choices
-Weapon shortcut configuration
+Weapon shortcut settings
 > END STRING
 
 > BEGIN STRING
@@ -125,7 +127,7 @@ Weapon shortcut configuration
 > CONTEXT COMMONEVENT:348/352/Choices
 > CONTEXT COMMONEVENT:360/208/Choices
 > CONTEXT COMMONEVENT:798/19/Choices
-My equipment set
+Equip set
 > END STRING
 
 > BEGIN STRING
@@ -134,14 +136,14 @@ My equipment set
 > CONTEXT COMMONEVENT:348/361/Message
 > CONTEXT COMMONEVENT:360/217/Message
 > CONTEXT COMMONEVENT:798/28/Message
-In order to remove the weapon,
-the equipment shortcuts have been reset.
+As the main weapon has been removed,
+the equipment shortcut setting was reset.
 > END STRING
 
 > BEGIN STRING
 \\f[20]チェックポイント
-> CONTEXT COMMONEVENT:360/9/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:360/9/Picture
+\\f[20]Checkpoint
 > END STRING
 
 > BEGIN STRING
@@ -149,12 +151,16 @@ the equipment shortcuts have been reset.
 ここではゲームデータのセーブ、ロード等ができます。\\!
 また、ここにたどり着くと主人公の
 HPが全回復します。
-> CONTEXT COMMONEVENT:360/94/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:360/94/Message
+「Checkpoint」\\!
+You may save and load files here.\\!
+HP is also fully recovered when the hero
+reaches here.
 > END STRING
 
 > BEGIN STRING
 次へ進みます。よろしいですか？
-> CONTEXT COMMONEVENT:360/252/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:360/252/Message
+This will advance to the next stage.
+Are you ready?
 > END STRING
