@@ -2,1262 +2,1262 @@
 
 > BEGIN STRING
 どう？そろそろ限界…？
-> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[5]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[0]発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[5]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[0]発射時テキスト
+How is it? Being at your limit…?
 > END STRING
 
 > BEGIN STRING
 くすっ…か細い腕\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[5]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[8]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[5]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[8]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[7]エッチ攻撃2テキスト
+Kuhu… Such a fragile arm\\i[201]
 > END STRING
 
 > BEGIN STRING
 逃げなくていいの～？
-> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[8]敗北後エッチ攻撃2TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[5]/[8]敗北後エッチ攻撃2TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[8]/[8]敗北後エッチ攻撃2TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[8]敗北後エッチ攻撃2TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[8]敗北後エッチ攻撃2TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[8]敗北後エッチ攻撃2TXT < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[8]敗北後エッチ攻撃2TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[5]/[8]敗北後エッチ攻撃2TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[8]/[8]敗北後エッチ攻撃2TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[8]敗北後エッチ攻撃2TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[8]敗北後エッチ攻撃2TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[8]敗北後エッチ攻撃2TXT
+You don’t want to run away～
 > END STRING
 
 > BEGIN STRING
 逃がさないからね\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[5]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[8]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[5]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[8]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[9]エッチ攻撃3テキスト
+I won’t let you go okay?\\i[201]
 > END STRING
 
 > BEGIN STRING
 手コキ
-> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[28]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[40]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[111]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[121]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[28]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[40]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[111]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[121]/[12]図鑑用エッチテキスト
+Handjob
 > END STRING
 
 > BEGIN STRING
 ほら、もっともっと出しちゃいなさい！
-> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[5]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[8]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[5]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[8]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[15]追い打ち射精時
+Hora… More, please take out more!
 > END STRING
 
 > BEGIN STRING
 まだ出るでしょ～？ねーえ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[5]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[8]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[0]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[5]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[8]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[100]/[16]追い打ち射精時_敗北後
+You put it all out～ didn’t you♪
 > END STRING
 
 > BEGIN STRING
 万能剣士ですって？煩悩剣士に改名なさい\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[1]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[12]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[14]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[103]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[147]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[1]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[12]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[14]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[103]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[147]/[4]敗北時テキスト
+Unlimited Swardsman? Change it to lust swordsman\\i[200]
 > END STRING
 
 > BEGIN STRING
 何気持ちよさそうな顔してるの～？
-> CONTEXT DB:DataBase/[20]敵テキスト/[1]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[12]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[14]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[103]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[147]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[1]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[12]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[14]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[103]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[147]/[5]敗北後発射時テキスト
+What face tempts you the most～？
 > END STRING
 
 > BEGIN STRING
 どうだ…？私のももの味は？
-> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[0]発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[0]発射時テキスト
+How is it…? The tase of my thighs?
 > END STRING
 
 > BEGIN STRING
 ちょっと…また出す気…？
-> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[5]敗北後発射時テキスト
+Empty your mind… for just a moment…?
 > END STRING
 
 > BEGIN STRING
 無駄な抵抗はやめて。
-> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[7]エッチ攻撃2テキスト
+Pointless resistance will be stopped.
 > END STRING
 
 > BEGIN STRING
 …嗅ぎなさい。
-> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[9]エッチ攻撃3テキスト
+…smell it.
 > END STRING
 
 > BEGIN STRING
 ももコキ
-> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[44]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[45]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[125]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[44]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[45]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[125]/[12]図鑑用エッチテキスト
+Thighjob
 > END STRING
 
 > BEGIN STRING
 まだまだイッてもらうからな…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[15]追い打ち射精時
+Still a bit more before you cum…♪
 > END STRING
 
 > BEGIN STRING
 この程度では済まさないぞ？
-> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[7]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[11]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[101]/[16]追い打ち射精時_敗北後
+Will you finish this time?
 > END STRING
 
 > BEGIN STRING
 どんな隙も\\i[200]見逃しませんわよ\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[9]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[13]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[71]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[102]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[9]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[13]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[71]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[102]/[4]敗北時テキスト
+Did we overlook this \\i[200]weakpoint\\i[200]?
 > END STRING
 
 > BEGIN STRING
 フェラチオ
-> CONTEXT DB:DataBase/[20]敵テキスト/[9]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[13]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[71]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[102]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[9]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[13]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[71]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[102]/[12]図鑑用エッチテキスト
+Fellatio
 > END STRING
 
 > BEGIN STRING
 ん♪んく♪ふふ…
-> CONTEXT DB:DataBase/[20]敵テキスト/[9]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[13]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[71]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[102]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[9]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[13]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[71]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[102]/[15]追い打ち射精時
+Mm♪Mmph♪Fufu…
 > END STRING
 
 > BEGIN STRING
 ん♪んっ♪ん…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[9]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[13]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[71]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[102]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[9]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[13]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[71]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[102]/[16]追い打ち射精時_敗北後
+Mm♪mm♪Mm…♪
 > END STRING
 
 > BEGIN STRING
 足コキ(踏みつけ)
-> CONTEXT DB:DataBase/[20]敵テキスト/[12]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[14]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[103]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[12]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[14]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[103]/[12]図鑑用エッチテキスト
+Footjob (trampling)
 > END STRING
 
 > BEGIN STRING
 まだまだやられ足りないようね♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[12]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[14]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[103]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[12]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[14]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[103]/[15]追い打ち射精時
+You have a long way before you deserve sex huh?♪
 > END STRING
 
 > BEGIN STRING
 これは罰なんだからね！
-> CONTEXT DB:DataBase/[20]敵テキスト/[12]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[14]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[103]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[12]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[14]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[103]/[16]追い打ち射精時_敗北後
+This is your punishment!
 > END STRING
 
 > BEGIN STRING
 騎乗位
-> CONTEXT DB:DataBase/[20]敵テキスト/[15]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[16]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[32]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[33]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[47]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[48]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[56]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[67]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[76]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[104]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[115]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[116]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[127]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[128]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[135]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[15]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[16]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[32]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[33]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[47]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[48]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[56]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[67]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[76]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[104]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[115]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[116]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[127]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[128]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[135]/[12]図鑑用エッチテキスト
+Horse Riding
 > END STRING
 
 > BEGIN STRING
 んくっ…もっと…ちょうだい♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[15]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[16]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[104]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[15]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[16]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[104]/[15]追い打ち射精時
+Mmm…more…give it to me♪
 > END STRING
 
 > BEGIN STRING
 尻コキ
-> CONTEXT DB:DataBase/[20]敵テキスト/[19]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[21]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[53]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[72]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[105]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[132]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[19]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[21]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[53]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[72]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[105]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[132]/[12]図鑑用エッチテキスト
+Hipjob
 > END STRING
 
 > BEGIN STRING
 こんなによわっちいんだもん\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[20]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[109]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[20]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[109]/[6]敗北後射精後テキスト
+So you are weak to this sort of thing\\i[201]
 > END STRING
 
 > BEGIN STRING
 ん～？なにかした～？
-> CONTEXT DB:DataBase/[20]敵テキスト/[20]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[109]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[20]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[109]/[15]追い打ち射精時
+Mm～? You want to do something～?
 > END STRING
 
 > BEGIN STRING
 もっとくるしみなさい♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[20]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[109]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[20]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[109]/[16]追い打ち射精時_敗北後
+Moan more for me♪
 > END STRING
 
 > BEGIN STRING
 しょうがない子ね…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[21]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[72]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[105]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[21]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[72]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[105]/[16]追い打ち射精時_敗北後
+Nothing can help this poor child…♪
 > END STRING
 
 > BEGIN STRING
 腋コキ
-> CONTEXT DB:DataBase/[20]敵テキスト/[22]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[106]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[22]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[106]/[12]図鑑用エッチテキスト
+Armpitjob
 > END STRING
 
 > BEGIN STRING
 もっと出しちゃってよね♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[22]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[106]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[22]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[106]/[16]追い打ち射精時_敗北後
+Shoot more out okay♪
 > END STRING
 
 > BEGIN STRING
 偽騎乗位
-> CONTEXT DB:DataBase/[20]敵テキスト/[23]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[107]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[23]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[107]/[12]図鑑用エッチテキスト
+Fake horse riding
 > END STRING
 
 > BEGIN STRING
 どーお？まいった？
-> CONTEXT DB:DataBase/[20]敵テキスト/[23]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[107]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[23]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[107]/[15]追い打ち射精時
+Hmm? Giving up?
 > END STRING
 
 > BEGIN STRING
 たいしたことないねぇ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[23]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[107]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[23]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[107]/[16]追い打ち射精時_敗北後
+This is nothing for me♪
 > END STRING
 
 > BEGIN STRING
 ほ～ら\\i[201]どうだ…？
-> CONTEXT DB:DataBase/[20]敵テキスト/[24]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[68]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[73]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[108]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[24]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[68]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[73]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[108]/[5]敗北後発射時テキスト
+Ho～ra \\i[201]you want it…?
 > END STRING
 
 > BEGIN STRING
 逃げられまい\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[24]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[68]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[73]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[108]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[24]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[68]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[73]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[108]/[7]エッチ攻撃2テキスト
+You cannot escape\\i[201]
 > END STRING
 
 > BEGIN STRING
 弱い…\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[24]/[8]敗北後エッチ攻撃2TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[68]/[8]敗北後エッチ攻撃2TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[73]/[8]敗北後エッチ攻撃2TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[108]/[8]敗北後エッチ攻撃2TXT < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[24]/[8]敗北後エッチ攻撃2TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[68]/[8]敗北後エッチ攻撃2TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[73]/[8]敗北後エッチ攻撃2TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[108]/[8]敗北後エッチ攻撃2TXT
+Weak…\\i[201]
 > END STRING
 
 > BEGIN STRING
 まだまだ…これからだぞ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[24]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[68]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[73]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[108]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[24]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[68]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[73]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[108]/[15]追い打ち射精時
+Not yet… There’s still more♪
 > END STRING
 
 > BEGIN STRING
 女で男を踏みにじる…たまらない♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[24]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[68]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[73]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[108]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[24]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[68]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[73]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[108]/[16]追い打ち射精時_敗北後
+Woman trampling men… You can’t endure♪
 > END STRING
 
 > BEGIN STRING
 こっちよ\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[25]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[50]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[82]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[130]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[25]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[50]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[82]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[130]/[9]エッチ攻撃3テキスト
+Gotcha!\\i[201]
 > END STRING
 
 > BEGIN STRING
 人間ごときに私たちが倒せると思いまして？
-> CONTEXT DB:DataBase/[20]敵テキスト/[26]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[51]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[83]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[131]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[26]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[51]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[83]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[131]/[4]敗北時テキスト
+Do you think we can knock down this man?
 > END STRING
 
 > BEGIN STRING
 息しちゃだめ\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[26]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[51]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[83]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[131]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[26]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[51]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[83]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[131]/[7]エッチ攻撃2テキスト
+No way… you can’t be serious
 > END STRING
 
 > BEGIN STRING
 すっかり虫の息ねぇ？
-> CONTEXT DB:DataBase/[20]敵テキスト/[26]/[10]敗北後エッチ攻撃3TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[51]/[10]敗北後エッチ攻撃3TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[83]/[10]敗北後エッチ攻撃3TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[131]/[10]敗北後エッチ攻撃3TXT < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[26]/[10]敗北後エッチ攻撃3TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[51]/[10]敗北後エッチ攻撃3TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[83]/[10]敗北後エッチ攻撃3TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[131]/[10]敗北後エッチ攻撃3TXT
+Is your breathing getting faint?
 > END STRING
 
 > BEGIN STRING
 パイズリ
-> CONTEXT DB:DataBase/[20]敵テキスト/[27]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[29]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[69]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[70]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[110]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[112]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[27]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[29]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[69]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[70]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[110]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[112]/[12]図鑑用エッチテキスト
+Paizuri
 > END STRING
 
 > BEGIN STRING
 あ…\\i[200]すごくビクビクしてる…\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[28]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[111]/[1]射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[28]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[111]/[1]射精後テキスト
+Ah…\\i[200]It’s twitching so much…\\i[200]
 > END STRING
 
 > BEGIN STRING
 不届き者にはふさわしい結果です！
-> CONTEXT DB:DataBase/[20]敵テキスト/[28]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[111]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[28]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[111]/[4]敗北時テキスト
+A suitable result for an insolent person!
 > END STRING
 
 > BEGIN STRING
 どこまでも堕ちてしまいなさいっ！
-> CONTEXT DB:DataBase/[20]敵テキスト/[28]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[111]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[28]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[111]/[6]敗北後射精後テキスト
+I will bring you down just like this!
 > END STRING
 
 > BEGIN STRING
 ま、まだまだっ…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[28]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[111]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[28]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[111]/[15]追い打ち射精時
+There is still much more to come…♪
 > END STRING
 
 > BEGIN STRING
 絶対許してあげないもん！
-> CONTEXT DB:DataBase/[20]敵テキスト/[28]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[111]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[28]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[111]/[16]追い打ち射精時_敗北後
+I will absolutely never forgive this！
 > END STRING
 
 > BEGIN STRING
 つかまえた\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[29]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[70]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[112]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[29]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[70]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[112]/[7]エッチ攻撃2テキスト
+Caught you
 > END STRING
 
 > BEGIN STRING
 もっともっとイキつづけなさい\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[30]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[113]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[30]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[113]/[6]敗北後射精後テキスト
+More… Become hard once again
 > END STRING
 
 > BEGIN STRING
 もっと…ちょうだい♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[30]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[57]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[62]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[113]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[137]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[30]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[57]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[62]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[113]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[137]/[16]追い打ち射精時_敗北後
+More… Give it to me♪
 > END STRING
 
 > BEGIN STRING
 ああっ…すごい…すごいです…\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[31]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[114]/[0]発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[31]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[114]/[0]発射時テキスト
+Aaah…amazing…it’s so amazing…\\i[200]
 > END STRING
 
 > BEGIN STRING
 うふ…もう1回ッ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[31]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[114]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[31]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[114]/[16]追い打ち射精時_敗北後
+Ufu… First time already♪
 > END STRING
 
 > BEGIN STRING
 ほら、もっとイキなよッ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[32]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[67]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[115]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[32]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[67]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[115]/[15]追い打ち射精時
+Hora, cum even more♪
 > END STRING
 
 > BEGIN STRING
 まだまだ出るでしょ？
-> CONTEXT DB:DataBase/[20]敵テキスト/[32]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[67]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[115]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[32]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[67]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[115]/[16]追い打ち射精時_敗北後
+Is it still coming out?
 > END STRING
 
 > BEGIN STRING
 うふふ\\i[200]すっごく効果的みたい\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[33]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[116]/[1]射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[33]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[116]/[1]射精後テキスト
+Ufufu…\\i[200]This is incredibly effective\\i[200]
 > END STRING
 
 > BEGIN STRING
 なぶり殺しにしてあげます！
-> CONTEXT DB:DataBase/[20]敵テキスト/[33]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[116]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[33]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[116]/[16]追い打ち射精時_敗北後
+I will torture you to death!
 > END STRING
 
 > BEGIN STRING
 あっ…！ふふふ、無様ね\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[35]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[117]/[1]射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[35]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[117]/[1]射精後テキスト
+Aah…! Fufufu, so unsightly\\i[200]
 > END STRING
 
 > BEGIN STRING
 薄汚い罪人には相応の敗北を…\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[35]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[117]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[35]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[117]/[4]敗北時テキスト
+A suitable defeat for a dirty criminal…\\i[200]
 > END STRING
 
 > BEGIN STRING
 プライドというものがないのかしら\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[35]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[117]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[35]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[117]/[6]敗北後射精後テキスト
+It seems you have no pride at all
 > END STRING
 
 > BEGIN STRING
 どこまでも堕ちなさい♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[35]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[117]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[35]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[117]/[15]追い打ち射精時
+Drop down anywhere you like♪
 > END STRING
 
 > BEGIN STRING
 もっとみじめな姿を…ッ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[35]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[117]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[35]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[117]/[16]追い打ち射精時_敗北後
+Your appearance is becoming more miserable…♪
 > END STRING
 
 > BEGIN STRING
 意外と大したことないのね\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[36]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[118]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[36]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[118]/[4]敗北時テキスト
+Oh! It’s become so big!
 > END STRING
 
 > BEGIN STRING
 まだまだ…じっくり後悔させてあげる\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[36]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[118]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[36]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[118]/[6]敗北後射精後テキスト
+Not yet… I will show no remorse\\i[201]
 > END STRING
 
 > BEGIN STRING
 これであなたも終わりよ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[36]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[118]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[36]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[118]/[16]追い打ち射精時_敗北後
+With this you too will finish♪
 > END STRING
 
 > BEGIN STRING
 あら？もっとやってほしいのかしら？
-> CONTEXT DB:DataBase/[20]敵テキスト/[37]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[119]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[37]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[119]/[15]追い打ち射精時
+Oh？You want to do it even more?
 > END STRING
 
 > BEGIN STRING
 男の限界というものを思い知りなさい\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[38]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[120]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[149]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[38]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[120]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[149]/[4]敗北時テキスト
+I’m starting to see what man’s limit is
 > END STRING
 
 > BEGIN STRING
 これで全部なハズないでしょ？
-> CONTEXT DB:DataBase/[20]敵テキスト/[38]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[120]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[38]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[120]/[16]追い打ち射精時_敗北後
+With this your like my husband now right?
 > END STRING
 
 > BEGIN STRING
 …そろそろかな…？
-> CONTEXT DB:DataBase/[20]敵テキスト/[40]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[121]/[0]発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[40]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[121]/[0]発射時テキスト
+…any time now…
 > END STRING
 
 > BEGIN STRING
 その程度なの？万能剣士…\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[40]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[121]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[40]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[121]/[4]敗北時テキスト
+To this extent? Unlimited Swordsman…\\i[200]
 > END STRING
 
 > BEGIN STRING
 まだこんなに出るなんて…\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[40]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[121]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[40]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[121]/[6]敗北後射精後テキスト
+And still leaving in this way…
 > END STRING
 
 > BEGIN STRING
 …抵抗は無駄よ。
-> CONTEXT DB:DataBase/[20]敵テキスト/[40]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[121]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[40]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[121]/[15]追い打ち射精時
+…resistance is futile.
 > END STRING
 
 > BEGIN STRING
 あきらめなさい。
-> CONTEXT DB:DataBase/[20]敵テキスト/[40]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[121]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[40]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[121]/[16]追い打ち射精時_敗北後
+Give it up.
 > END STRING
 
 > BEGIN STRING
 素直な子は大好きよ\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[41]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[122]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[41]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[122]/[5]敗北後発射時テキスト
+I really like obedient children
 > END STRING
 
 > BEGIN STRING
 すまた
-> CONTEXT DB:DataBase/[20]敵テキスト/[41]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[122]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[41]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[122]/[12]図鑑用エッチテキスト
+Thighs
 > END STRING
 
 > BEGIN STRING
 もっと気持ちよくしてあげる、ね…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[41]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[122]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[41]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[122]/[16]追い打ち射精時_敗北後
+I’ll make you feel really good, okay…?♪
 > END STRING
 
 > BEGIN STRING
 私の武技、殿方にも遅れはとりません\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[42]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[123]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[42]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[123]/[4]敗北時テキスト
+Men are too slow to take on my martial arts\\i[200]
 > END STRING
 
 > BEGIN STRING
 ほんとにいやらしい子…\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[42]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[123]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[42]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[123]/[6]敗北後射精後テキスト
+A truly lewd child…\\i[201]
 > END STRING
 
 > BEGIN STRING
 足コキ(挟みこみ)
-> CONTEXT DB:DataBase/[20]敵テキスト/[42]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[123]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[42]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[123]/[12]図鑑用エッチテキスト
+Footjob (sissors)
 > END STRING
 
 > BEGIN STRING
 どーお？まさに蹂躙ね…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[42]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[123]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[42]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[123]/[15]追い打ち射精時
+How is it? Tramples just like this…♪
 > END STRING
 
 > BEGIN STRING
 まだまだ…まだまだ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[42]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[123]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[42]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[123]/[16]追い打ち射精時_敗北後
+Nearly there… Nearly there♪
 > END STRING
 
 > BEGIN STRING
 もっと…もっとちょうだい♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[43]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[124]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[43]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[124]/[15]追い打ち射精時
+More… give more to me♪
 > END STRING
 
 > BEGIN STRING
 んんっ…全っ然足りないわ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[43]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[124]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[43]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[124]/[16]追い打ち射精時_敗北後
+Mmmm… This is more than enough♪
 > END STRING
 
 > BEGIN STRING
 我が秘技の本領はここからよ！
-> CONTEXT DB:DataBase/[20]敵テキスト/[44]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[45]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[125]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[44]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[45]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[125]/[15]追い打ち射精時
+This secret technique is my specialty!
 > END STRING
 
 > BEGIN STRING
 蛇コキ
-> CONTEXT DB:DataBase/[20]敵テキスト/[46]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[126]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[46]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[126]/[12]図鑑用エッチテキスト
+Snake job
 > END STRING
 
 > BEGIN STRING
 私からは逃げられないわよ？
-> CONTEXT DB:DataBase/[20]敵テキスト/[46]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[126]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[46]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[126]/[15]追い打ち射精時
+It’s not possible to run away from me you know?
 > END STRING
 
 > BEGIN STRING
 これでっ…、トドメよ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[47]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[127]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[47]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[127]/[15]追い打ち射精時
+With this… You will be finished♪
 > END STRING
 
 > BEGIN STRING
 しつこいわねえ？
-> CONTEXT DB:DataBase/[20]敵テキスト/[47]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[127]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[47]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[127]/[16]追い打ち射精時_敗北後
+Quite persistent aren’t you?
 > END STRING
 
 > BEGIN STRING
 あふぅ…\\i[200]いっぱいでてるっ…\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[48]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[76]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[128]/[1]射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[48]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[76]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[128]/[1]射精後テキスト
+Afuu…\\i[200]so much…\\i[200]
 > END STRING
 
 > BEGIN STRING
 もっと…もっとぉ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[48]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[76]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[128]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[48]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[76]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[128]/[15]追い打ち射精時
+More… Moore♪
 > END STRING
 
 > BEGIN STRING
 いっぱいだしてぇ…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[48]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[76]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[128]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[48]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[76]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[128]/[16]追い打ち射精時_敗北後
+Take it all out…♪
 > END STRING
 
 > BEGIN STRING
 あらら…こんなに出しちゃって…\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[49]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[129]/[1]射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[49]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[129]/[1]射精後テキスト
+Oh my… This takes out so much…
 > END STRING
 
 > BEGIN STRING
 もっとみじめな姿を見せてちょうだい\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[49]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[129]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[49]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[129]/[6]敗北後射精後テキスト
+I want to see more of your miserable appearance\\i[201]
 > END STRING
 
 > BEGIN STRING
 もっと出しなさい♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[49]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[129]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[49]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[129]/[16]追い打ち射精時_敗北後
+Take out more♪
 > END STRING
 
 > BEGIN STRING
 これはほんの序の口…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[51]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[83]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[131]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[51]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[83]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[131]/[16]追い打ち射精時_敗北後
+This is only a taster of what’s to come…♪
 > END STRING
 
 > BEGIN STRING
 徹底的に押しつぶしてやる！
-> CONTEXT DB:DataBase/[20]敵テキスト/[53]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[132]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[53]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[132]/[15]追い打ち射精時
+I will crush you completely!
 > END STRING
 
 > BEGIN STRING
 も～っと苦しめてあげるね♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[53]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[132]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[53]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[132]/[16]追い打ち射精時_敗北後
+You are being such a bother～♪
 > END STRING
 
 > BEGIN STRING
 この勝利、女王様に捧げます\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[54]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[133]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[54]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[133]/[4]敗北時テキスト
+This victory, I lift up to the queen\\i[200]
 > END STRING
 
 > BEGIN STRING
 膝裏コキ
-> CONTEXT DB:DataBase/[20]敵テキスト/[54]/[12]図鑑用エッチテキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[133]/[12]図鑑用エッチテキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[54]/[12]図鑑用エッチテキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[133]/[12]図鑑用エッチテキスト
+Knee back job
 > END STRING
 
 > BEGIN STRING
 そんな目をしてもダメですよ～だ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[54]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[133]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[54]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[133]/[15]追い打ち射精時
+You shouldn’t stare at such things you know～♪
 > END STRING
 
 > BEGIN STRING
 これでトドメです！
-> CONTEXT DB:DataBase/[20]敵テキスト/[54]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[133]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[54]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[133]/[16]追い打ち射精時_敗北後
+This is the finishing blow!
 > END STRING
 
 > BEGIN STRING
 すっかりこの道具の虜みたいねぇ\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[55]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[134]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[55]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[134]/[6]敗北後射精後テキスト
+You are like a complete prisoner to this toy\\i[201]
 > END STRING
 
 > BEGIN STRING
 なっさけないの\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[55]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[134]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[55]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[134]/[9]エッチ攻撃3テキスト
+How pathetic\\i[201]
 > END STRING
 
 > BEGIN STRING
 なーに？そんなに気持ちいいの？
-> CONTEXT DB:DataBase/[20]敵テキスト/[55]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[134]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[55]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[134]/[16]追い打ち射精時_敗北後
+Wh-at? Does it really feel that good?
 > END STRING
 
 > BEGIN STRING
 ほらぁ…もっと出しなさい♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[56]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[135]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[56]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[135]/[16]追い打ち射精時_敗北後
+Horaa… Cum even more♪
 > END STRING
 
 > BEGIN STRING
 わずかな精気も残してやるものですか\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[57]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[62]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[137]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[57]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[62]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[137]/[6]敗北後射精後テキスト
+It seems you have just a little bit of spirit left\\i[201]
 > END STRING
 
 > BEGIN STRING
 ごめんなさいね…\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[57]/[10]敗北後エッチ攻撃3TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[62]/[10]敗北後エッチ攻撃3TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[137]/[10]敗北後エッチ攻撃3TXT < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[57]/[10]敗北後エッチ攻撃3TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[62]/[10]敗北後エッチ攻撃3TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[137]/[10]敗北後エッチ攻撃3TXT
+I’m sorry…\\i[201]
 > END STRING
 
 > BEGIN STRING
 逃げ場はなくってよ？
-> CONTEXT DB:DataBase/[20]敵テキスト/[57]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[62]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[137]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[57]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[62]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[137]/[15]追い打ち射精時
+Is this the refugee?
 > END STRING
 
 > BEGIN STRING
 レストくん…\\i[200]おねがい…出して…\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[58]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[63]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[138]/[0]発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[58]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[63]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[138]/[0]発射時テキスト
+Wrest-kun…\\i[200]Please…cum…\\i[200]
 > END STRING
 
 > BEGIN STRING
 はあっ…はっ…レストくん…大好きだよ\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[58]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[63]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[138]/[1]射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[58]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[63]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[138]/[1]射精後テキスト
+Haah…has…Wrest-kun…is so good!\\i[200]
 > END STRING
 
 > BEGIN STRING
 レストくん…私と一緒に堕ちましょう\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[58]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[63]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[138]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[58]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[63]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[138]/[4]敗北時テキスト
+Wrest-kun…Fall down and sleep with me…\\i[200]
 > END STRING
 
 > BEGIN STRING
 レストくん…\\i[201]一緒にイこう、ね？
-> CONTEXT DB:DataBase/[20]敵テキスト/[58]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[63]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[138]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[58]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[63]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[138]/[5]敗北後発射時テキスト
+Wrest-Kin…\\i[201] Let’s cum togeather, okay?
 > END STRING
 
 > BEGIN STRING
 ああっ…♪好きっ…大好きっ…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[58]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[63]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[138]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[58]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[63]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[138]/[15]追い打ち射精時
+Aaaah…♪Lovely…so lovely…♪
 > END STRING
 
 > BEGIN STRING
 あはっ…もっとぉ…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[58]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[63]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[138]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[58]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[63]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[138]/[16]追い打ち射精時_敗北後
+Ahaa…moree…♪
 > END STRING
 
 > BEGIN STRING
 いっしょに寝てあげる\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[59]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[84]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[136]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[59]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[84]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[136]/[7]エッチ攻撃2テキスト
+Sleep together with me\\i[201]
 > END STRING
 
 > BEGIN STRING
 あなたの全てをもらってあげる♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[59]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[84]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[136]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[59]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[84]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[136]/[15]追い打ち射精時
+I want all of you♪
 > END STRING
 
 > BEGIN STRING
 もうあなたは私のものよ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[59]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[84]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[136]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[59]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[84]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[136]/[16]追い打ち射精時_敗北後
+Now you are my thing♪
 > END STRING
 
 > BEGIN STRING
 ほら、もっと出しちゃいなさい！
-> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[65]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[77]/[16]追い打ち射精時_敗北後
+Hora, cum more for me!
 > END STRING
 
 > BEGIN STRING
 ふん、愚かな…\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[66]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[74]/[4]敗北時テキスト
+Fufufu, how foolish…\\i[200]
 > END STRING
 
 > BEGIN STRING
 ここだけはまだまだ元気ね\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[78]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[139]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[78]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[139]/[5]敗北後発射時テキスト
+You have a little bit of spirit left right?\\i[201]
 > END STRING
 
 > BEGIN STRING
 ああっ…出てる…いっぱい出てる♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[78]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[139]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[78]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[139]/[15]追い打ち射精時
+Aaah…cum…so much cum♪
 > END STRING
 
 > BEGIN STRING
 ふふふ…この感触、いかがかしら？
-> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[0]発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[0]発射時テキスト
+Fluff… This feeling, I wonder how it feels?
 > END STRING
 
 > BEGIN STRING
 気に入ってくれたみたいね\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[1]射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[1]射精後テキスト
+I really like this sort of thing\\i[200]
 > END STRING
 
 > BEGIN STRING
 あらら、大丈夫？
-> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[4]敗北時テキスト
+Oh, a fine man?
 > END STRING
 
 > BEGIN STRING
 男の子でしょ？もっとがんばりなさい\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[5]敗北後発射時テキスト
+A boy is it? Persevere a bit more\\i[201]
 > END STRING
 
 > BEGIN STRING
 うふ…\\i[201]いい子いい子\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[6]敗北後射精後テキスト
+Ufufu…\\i[201]Good boy… Good boy…\\i[201]
 > END STRING
 
 > BEGIN STRING
 ふん♪まだ出るでしょ？
-> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[15]追い打ち射精時
+Fufu♪ Still cuming are you?
 > END STRING
 
 > BEGIN STRING
 もっと出して♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[79]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[140]/[16]追い打ち射精時_敗北後
+Cum more♪
 > END STRING
 
 > BEGIN STRING
 ちょっとぉ、もうへばっちゃったわけ？
-> CONTEXT DB:DataBase/[20]敵テキスト/[80]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[141]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[80]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[141]/[4]敗北時テキスト
+Wait, are you exhausted already?
 > END STRING
 
 > BEGIN STRING
 まだまだおもちゃになってもらうからね？
-> CONTEXT DB:DataBase/[20]敵テキスト/[80]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[141]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[80]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[141]/[5]敗北後発射時テキスト
+You still are becoming my plaything you know?
 > END STRING
 
 > BEGIN STRING
 ふふふ…よくできました\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[80]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[141]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[80]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[141]/[6]敗北後射精後テキスト
+Fufufu… You did really well\\i[201]
 > END STRING
 
 > BEGIN STRING
 逃がさないからね？
-> CONTEXT DB:DataBase/[20]敵テキスト/[80]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[141]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[80]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[141]/[7]エッチ攻撃2テキスト
+Don’t let go okay?
 > END STRING
 
 > BEGIN STRING
 ね、こっち見て\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[80]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[141]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[80]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[141]/[9]エッチ攻撃3テキスト
+Hey, look over here\\i[201]
 > END STRING
 
 > BEGIN STRING
 もっとちょうだい♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[80]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[141]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[80]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[141]/[15]追い打ち射精時
+Give more to me♪
 > END STRING
 
 > BEGIN STRING
 ふふっ…\\i[201]どうだ…？
-> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[0]発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[0]発射時テキスト
+Fufufu…\\i[201] How is it…?
 > END STRING
 
 > BEGIN STRING
 もう、エッチ…\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[1]射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[1]射精後テキスト
+Acting lewd already…\\i[200]
 > END STRING
 
 > BEGIN STRING
 ふん、思い知ったか\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[4]敗北時テキスト
+Fufufu, you realised?\\i[200]
 > END STRING
 
 > BEGIN STRING
 また出すのか…？いけない子ね\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[5]敗北後発射時テキスト
+Still cuming…? Such a bad child\\i[201]
 > END STRING
 
 > BEGIN STRING
 スキだらけだな\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[7]エッチ攻撃2テキスト
+You like being dumb don’t you\\i[201]
 > END STRING
 
 > BEGIN STRING
 もっと苦しめ\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[8]敗北後エッチ攻撃2TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[8]敗北後エッチ攻撃2TXT < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[8]敗北後エッチ攻撃2TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[8]敗北後エッチ攻撃2TXT
+Suffer more\\i[201]
 > END STRING
 
 > BEGIN STRING
 絶体絶命ね\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[9]エッチ攻撃3テキスト
+You’re backed in a corner now…\\i[201]
 > END STRING
 
 > BEGIN STRING
 ああっ…もっとぉ…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[15]追い打ち射精時
+Aaaah… Moree…♪
 > END STRING
 
 > BEGIN STRING
 私…こんなにやらしくっ…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[81]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[142]/[16]追い打ち射精時_敗北後
+I… Will do this lewd thing…♪
 > END STRING
 
 > BEGIN STRING
 ふふふ…ひんやりすべすべでしょ…\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[0]発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[0]発射時テキスト
+Fufufu… It’s like cool and smooth velvet right?…\\i[200]
 > END STRING
 
 > BEGIN STRING
 身も心も凍てついてしまいなさい\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[4]敗北時テキスト
+Your body and mind are freezing over\\i[200]
 > END STRING
 
 > BEGIN STRING
 もっと出しちゃえ…\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[5]敗北後発射時テキスト
+Cum more for me…\\i[201]
 > END STRING
 
 > BEGIN STRING
 すごい…\\i[201]私の心が、熱いよ…\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[6]敗北後射精後テキスト
+Amazing…\\i[201]My heart, is melting…\\i[201]
 > END STRING
 
 > BEGIN STRING
 逃がさないわよ\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[7]エッチ攻撃2テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[7]エッチ攻撃2テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[7]エッチ攻撃2テキスト
+Let it go and give in\\i[201]
 > END STRING
 
 > BEGIN STRING
 ほら、がんばって\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[9]エッチ攻撃3テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[9]エッチ攻撃3テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[9]エッチ攻撃3テキスト
+Hora, can you hold out?\\i[201]
 > END STRING
 
 > BEGIN STRING
 もっと…出しなさい♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[15]追い打ち射精時
+More… Cum♪
 > END STRING
 
 > BEGIN STRING
 これで終わりよ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[85]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[143]/[16]追い打ち射精時_敗北後
+This is your end♪
 > END STRING
 
 > BEGIN STRING
 ほ～ら、抵抗してみなさい\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[86]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[144]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[86]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[144]/[5]敗北後発射時テキスト
+Ho～ra, I want to see you struggle\\i[201]
 > END STRING
 
 > BEGIN STRING
 楽勝、楽勝\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[86]/[10]敗北後エッチ攻撃3TXT < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[144]/[10]敗北後エッチ攻撃3TXT < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[86]/[10]敗北後エッチ攻撃3TXT
+> CONTEXT DB:DataBase/[20]敵テキスト/[144]/[10]敗北後エッチ攻撃3TXT
+Easy victory, easy victory! \\i[201]
 > END STRING
 
 > BEGIN STRING
 まだまだ！
-> CONTEXT DB:DataBase/[20]敵テキスト/[86]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[144]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[86]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[144]/[15]追い打ち射精時
+We aren’t done yet!
 > END STRING
 
 > BEGIN STRING
 手加減しないからね！
-> CONTEXT DB:DataBase/[20]敵テキスト/[86]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[144]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[86]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[144]/[16]追い打ち射精時_敗北後
+We aren’t going to go easy on you!
 > END STRING
 
 > BEGIN STRING
 ねえ、イくの…？いつでもいいよ\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[87]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[145]/[0]発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[87]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[145]/[0]発射時テキスト
+Hey, can you cum…? Anytime is fine\\i[200]
 > END STRING
 
 > BEGIN STRING
 もっととろけさせてあげる\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[87]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[145]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[87]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[145]/[4]敗北時テキスト
+You will melt even more\\i[200]
 > END STRING
 
 > BEGIN STRING
 さあ…イきなさい\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[87]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[145]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[87]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[145]/[5]敗北後発射時テキスト
+Now… cum for me\\i[201]
 > END STRING
 
 > BEGIN STRING
 うふふ…かわいい\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[87]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[145]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[87]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[145]/[6]敗北後射精後テキスト
+Ufufu… your cute\\i[201]
 > END STRING
 
 > BEGIN STRING
@@ -1269,136 +1269,136 @@
 
 > BEGIN STRING
 むふふ…♪まだまだ出るでしょ？
-> CONTEXT DB:DataBase/[20]敵テキスト/[87]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[145]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[87]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[145]/[16]追い打ち射精時_敗北後
+Uhuhuhu…♪ A bit longer until you cum right?
 > END STRING
 
 > BEGIN STRING
 人間にしては頑張ったほうかな\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[91]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[146]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[159]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[160]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[91]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[146]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[159]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[160]/[4]敗北時テキスト
+You’re trying hard for a man aren’t you?\\i[200]
 > END STRING
 
 > BEGIN STRING
 ふふ\\i[201]我慢できたら逃がしてあげる\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[91]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[146]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[159]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[160]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[91]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[146]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[159]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[160]/[5]敗北後発射時テキスト
+Fufu\\i[201]Let go of your endurance\\i[201]
 > END STRING
 
 > BEGIN STRING
 またまた私の勝ちね\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[91]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[146]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[159]/[6]敗北後射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[160]/[6]敗北後射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[91]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[146]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[159]/[6]敗北後射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[160]/[6]敗北後射精後テキスト
+Looks like this is my win again\\i[201]
 > END STRING
 
 > BEGIN STRING
 生命、どんどん削ってあげる♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[91]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[146]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[159]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[160]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[91]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[146]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[159]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[160]/[15]追い打ち射精時
+Your lifeforce is diminishing fast♪
 > END STRING
 
 > BEGIN STRING
 キミはもう私のもの…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[91]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[146]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[159]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[160]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[91]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[146]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[159]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[160]/[16]追い打ち射精時_敗北後
+You are now my plaything…♪
 > END STRING
 
 > BEGIN STRING
 さあ…終わりの時よ\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[92]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[151]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[152]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[153]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[154]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[155]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[156]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[157]/[0]発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[158]/[0]発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[92]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[151]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[152]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[153]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[154]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[155]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[156]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[157]/[0]発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[158]/[0]発射時テキスト
+Now… Your final hour\\i[200]
 > END STRING
 
 > BEGIN STRING
 ふふ…なかなかいいわよ\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[92]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[151]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[152]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[153]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[154]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[155]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[156]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[157]/[1]射精後テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[158]/[1]射精後テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[92]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[151]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[152]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[153]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[154]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[155]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[156]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[157]/[1]射精後テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[158]/[1]射精後テキスト
+Fufufu… Very good\\i[200]
 > END STRING
 
 > BEGIN STRING
 なかなか楽しかったわ\\i[200]
-> CONTEXT DB:DataBase/[20]敵テキスト/[92]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[151]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[152]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[153]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[154]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[155]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[156]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[157]/[4]敗北時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[158]/[4]敗北時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[92]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[151]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[152]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[153]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[154]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[155]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[156]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[157]/[4]敗北時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[158]/[4]敗北時テキスト
+Very enjoyable\\i[200]
 > END STRING
 
 > BEGIN STRING
 全部もらってあげる…\\i[201]
-> CONTEXT DB:DataBase/[20]敵テキスト/[92]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[151]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[152]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[153]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[154]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[155]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[156]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[157]/[5]敗北後発射時テキスト < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[158]/[5]敗北後発射時テキスト < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[92]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[151]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[152]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[153]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[154]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[155]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[156]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[157]/[5]敗北後発射時テキスト
+> CONTEXT DB:DataBase/[20]敵テキスト/[158]/[5]敗北後発射時テキスト
+I have taken it all…\\i[201]
 > END STRING
 
 > BEGIN STRING
 これからが本番よ♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[92]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[151]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[152]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[153]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[154]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[155]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[156]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[157]/[15]追い打ち射精時 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[158]/[15]追い打ち射精時 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[92]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[151]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[152]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[153]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[154]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[155]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[156]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[157]/[15]追い打ち射精時
+> CONTEXT DB:DataBase/[20]敵テキスト/[158]/[15]追い打ち射精時
+After this, will be the real thing♪
 > END STRING
 
 > BEGIN STRING
 何回もイキ続けなさい…♪
-> CONTEXT DB:DataBase/[20]敵テキスト/[92]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[151]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[152]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[153]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[154]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[155]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[156]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[157]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-> CONTEXT DB:DataBase/[20]敵テキスト/[158]/[16]追い打ち射精時_敗北後 < UNTRANSLATED
-
+> CONTEXT DB:DataBase/[20]敵テキスト/[92]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[151]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[152]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[153]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[154]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[155]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[156]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[157]/[16]追い打ち射精時_敗北後
+> CONTEXT DB:DataBase/[20]敵テキスト/[158]/[16]追い打ち射精時_敗北後
+You can cum as many times as you like…♪
 > END STRING
