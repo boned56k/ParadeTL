@@ -46,13 +46,13 @@
 > CONTEXT COMMONEVENT:776/10/Choices
 > CONTEXT COMMONEVENT:777/7/Choices
 > CONTEXT COMMONEVENT:780/7/Choices
-Don't
+No
 > END STRING
 
 > BEGIN STRING
 この機能は製品版でお楽しみいただけます。
 > CONTEXT COMMONEVENT:384/2/Message < UNTRANSLATED
-
+You can enjoy this function in the full version.
 > END STRING
 
 > BEGIN STRING
@@ -60,61 +60,61 @@ Don't
 ・このモードで敵を倒しても経験値・お金・アイテムは手に入りません。
 ・主人公がやられるとゲームオーバーになります。
 > CONTEXT COMMONEVENT:384/38/Picture
-\\f[20]\\c[2]※Caution※
-・Money, items, and experience will not be gained by defeating enemies。
-・When the hero has been defeated, the game will end。
+\\f[20]\\c[2]※Warning※
+・Exp, Items, and money will not be gained in this mode.
+・If the hero is defeated, you will get a game over.
 > END STRING
 
 > BEGIN STRING
 \\E何人と戦う？
 > CONTEXT COMMONEVENT:384/39/Picture
-\\EHow many enemies to fight？
+\\E How many people will you fight?
 > END STRING
 
 > BEGIN STRING
 1
-> CONTEXT COMMONEVENT:384/40/Choices
-> CONTEXT COMMONEVENT:611/104/Choices
-1
+> CONTEXT COMMONEVENT:384/40/Choices < UNTRANSLATED
+> CONTEXT COMMONEVENT:611/104/Choices < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 2
-> CONTEXT COMMONEVENT:384/40/Choices
-> CONTEXT COMMONEVENT:611/60/Choices
-2
+> CONTEXT COMMONEVENT:384/40/Choices < UNTRANSLATED
+> CONTEXT COMMONEVENT:611/60/Choices < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 3
-> CONTEXT COMMONEVENT:384/40/Choices
-> CONTEXT COMMONEVENT:611/60/Choices
-3
+> CONTEXT COMMONEVENT:384/40/Choices < UNTRANSLATED
+> CONTEXT COMMONEVENT:611/60/Choices < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 4
-> CONTEXT COMMONEVENT:384/40/Choices
-> CONTEXT COMMONEVENT:611/60/Choices
-4
+> CONTEXT COMMONEVENT:384/40/Choices < UNTRANSLATED
+> CONTEXT COMMONEVENT:611/60/Choices < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 5
-> CONTEXT COMMONEVENT:384/40/Choices
-5
+> CONTEXT COMMONEVENT:384/40/Choices < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 6
-> CONTEXT COMMONEVENT:384/40/Choices
-6
+> CONTEXT COMMONEVENT:384/40/Choices < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\c[3]戦う敵を選択してください
-> CONTEXT COMMONEVENT:384/115/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/115/Message
+\\c[3]Please select the enemy you wish to fight
 > END STRING
 
 > BEGIN STRING
@@ -194,14 +194,15 @@ Don't
 > BEGIN STRING
 \\c[3]敵のレベルを設定してください。
 レベルの上限はストーリーが進むほど大きくなります。\\c[0]
-> CONTEXT COMMONEVENT:384/690/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/690/Message
+\\c[3]Please select the enemy’s level.
+The level limit increases as you progress the story.\\c[0]
 > END STRING
 
 > BEGIN STRING
 \\E今のレベル上限：\\c[2]\\cself[26]\\c[0]
-> CONTEXT COMMONEVENT:384/757/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/757/Picture
+\\ECurrent max level：\\c[2]\\cself[26]\\c[0]
 > END STRING
 
 > BEGIN STRING
@@ -219,7 +220,7 @@ Lv.\\c[2]\\cself[25]\\c[0]
 > BEGIN STRING
 \\c[3]敵が無限に出現するようにしますか？\\c[0]
 > CONTEXT COMMONEVENT:384/820/Message
-\\c[3]Would you like to fight infinite enemies?\\c[0]
+\\c[3]Will the enemies be never ending?\\c[0]
 > END STRING
 
 > BEGIN STRING
@@ -231,7 +232,7 @@ Infinite
 > BEGIN STRING
 出現させない
 > CONTEXT COMMONEVENT:384/821/Choices
-No
+Not infinite
 > END STRING
 
 > BEGIN STRING
@@ -251,26 +252,27 @@ Lv.\\c[2]\\cself[25]\\c[0]
 \\cdb[18:160:1]
 \\cdb[18:161:1]
 Lv.\\c[2]\\cself[25]\\c[0]
-Infinite appearance: Yes
+Unlimited:Yes
 > END STRING
 
 > BEGIN STRING
 \\c[3]目標撃破数を設定しますか？
 （ここで設定した人数の敵を倒すとクリアになります）\\c[0]
-> CONTEXT COMMONEVENT:384/827/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/827/Message
+\\c[3]Will you set a target number to defeat?
+（The stage is cleared after defeating a certain amount.）\\c[0]
 > END STRING
 
 > BEGIN STRING
 する
-> CONTEXT COMMONEVENT:384/828/Choices < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/828/Choices
+Yes
 > END STRING
 
 > BEGIN STRING
 \\E目標撃破人数　設定
-> CONTEXT COMMONEVENT:384/830/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/830/Picture
+\\E Target defeat setting
 > END STRING
 
 > BEGIN STRING
@@ -295,8 +297,16 @@ Infinite appearance: Yes
 Lv.\\c[2]\\cself[25]\\c[0]
 無限出現:あり
 （ノルマ：\\cself[8]）
-> CONTEXT COMMONEVENT:384/860/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/860/Picture
+\\E\\cdb[18:156:1]
+\\cdb[18:157:1]
+\\cdb[18:158:1]
+\\cdb[18:159:1]
+\\cdb[18:160:1]
+\\cdb[18:161:1]
+Lv.\\c[2]\\cself[25]\\c[0]
+Unlimited:Yes
+（Task：\\cself[8]）
 > END STRING
 
 > BEGIN STRING
@@ -308,21 +318,29 @@ Lv.\\c[2]\\cself[25]\\c[0]
 \\cdb[18:161:1]
 Lv.\\c[2]\\cself[25]\\c[0]
 無限出現:なし
-> CONTEXT COMMONEVENT:384/863/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/863/Picture
+\\E\\cdb[18:156:1]
+\\cdb[18:157:1]
+\\cdb[18:158:1]
+\\cdb[18:159:1]
+\\cdb[18:160:1]
+\\cdb[18:161:1]
+Lv.\\c[2]\\cself[25]\\c[0]
+Unlimited:No
 > END STRING
 
 > BEGIN STRING
 \\c[3]ターゲットを設定しますか？
 （ここで設定した標的を倒すとクリアになります）\\c[0]
-> CONTEXT COMMONEVENT:384/866/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/866/Message
+\\c[3]Will you set a target?
+（Set a target required to clear）\\c[0]
 > END STRING
 
 > BEGIN STRING
 \\Eメインターゲット　選択
-> CONTEXT COMMONEVENT:384/869/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/869/Picture
+\\E Main target choice
 > END STRING
 
 > BEGIN STRING
@@ -423,8 +441,17 @@ Lv.\\c[2]\\cself[25]\\c[0]
 無限出現:あり
 （ノルマ：\\cself[8]）
 背景:\\cdb[18:164:1]
-> CONTEXT COMMONEVENT:384/952/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/952/Picture
+\\E\\cdb[18:156:1]
+\\cdb[18:157:1]
+\\cdb[18:158:1]
+\\cdb[18:159:1]
+\\cdb[18:160:1]
+\\cdb[18:161:1]
+Lv.\\c[2]\\cself[25]\\c[0]
+Unlimited:Yes
+（Task：\\cself[8]）
+Background:\\cdb[18:164:1]
 > END STRING
 
 > BEGIN STRING
@@ -437,20 +464,28 @@ Lv.\\c[2]\\cself[25]\\c[0]
 Lv.\\c[2]\\cself[25]\\c[0]
 無限出現:なし
 背景:\\cdb[18:164:1]
-> CONTEXT COMMONEVENT:384/955/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/955/Picture
+\\E\\cdb[18:156:1]
+\\cdb[18:157:1]
+\\cdb[18:158:1]
+\\cdb[18:159:1]
+\\cdb[18:160:1]
+\\cdb[18:161:1]
+Lv.\\c[2]\\cself[25]\\c[0]
+Unlimited:No
+Background:\\cdb[18:164:1]
 > END STRING
 
 > BEGIN STRING
 メインターゲットのみ
-> CONTEXT COMMONEVENT:384/960/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/960/SetString
+Just the main target
 > END STRING
 
 > BEGIN STRING
 \\c[3]敵の体力を表示しますか？\\c[0]
-> CONTEXT COMMONEVENT:384/967/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/967/Message
+\\c[3]Is the enemy’s HP displayed?\\c[0]
 > END STRING
 
 > BEGIN STRING
@@ -465,8 +500,18 @@ Lv.\\c[2]\\cself[25]\\c[0]
 （ノルマ：\\cself[8]）
 背景:\\cdb[18:164:1]
 \\cdb[18:167:1]
-> CONTEXT COMMONEVENT:384/993/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/993/Picture
+\\E\\cdb[18:156:1]
+\\cdb[18:157:1]
+\\cdb[18:158:1]
+\\cdb[18:159:1]
+\\cdb[18:160:1]
+\\cdb[18:161:1]
+Lv.\\c[2]\\cself[25]\\c[0]
+Unlimited:Yes
+（Task：\\cself[8]）
+Background:\\cdb[18:164:1]
+\\cdb[18:167:1]
 > END STRING
 
 > BEGIN STRING
@@ -480,52 +525,64 @@ Lv.\\c[2]\\cself[25]\\c[0]
 無限出現:なし
 背景:\\cdb[18:164:1]
 \\cdb[18:167:1]
-> CONTEXT COMMONEVENT:384/996/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/996/Picture
+\\E\\cdb[18:156:1]
+\\cdb[18:157:1]
+\\cdb[18:158:1]
+\\cdb[18:159:1]
+\\cdb[18:160:1]
+\\cdb[18:161:1]
+Lv.\\c[2]\\cself[25]\\c[0]
+Unlimited:No
+Background:\\cdb[18:164:1]
+\\cdb[18:167:1]
 > END STRING
 
 > BEGIN STRING
 敵の全滅
-> CONTEXT COMMONEVENT:384/1002/SetString < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[14]スペシャルマッチ・序盤の強敵/[2]目標 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[29]スペシャルマッチ・大回復/[2]目標 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[38]総力戦/[2]目標 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[45]スペシャルマッチ・完全防御/[2]目標 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[46]スペシャルマッチ・ふたつの爪牙/[2]目標 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[47]スペシャルマッチ・キハー大無限聖/[2]目標 < UNTRANSLATED
-> CONTEXT DB:DataBase/[22]サブクエストテーブル/[48]スペシャルマッチ・翼の幻影/[2]目標 < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/1002/SetString
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[14]スペシャルマッチ・序盤の強敵/[2]目標
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[29]スペシャルマッチ・大回復/[2]目標
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[38]総力戦/[2]目標
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[45]スペシャルマッチ・完全防御/[2]目標
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[46]スペシャルマッチ・ふたつの爪牙/[2]目標
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[47]スペシャルマッチ・キハー大無限聖/[2]目標
+> CONTEXT DB:DataBase/[22]サブクエストテーブル/[48]スペシャルマッチ・翼の幻影/[2]目標
+Enemy’s defeat
 > END STRING
 
 > BEGIN STRING
 敵を\\cdb[18:165:0]人撃破
-> CONTEXT COMMONEVENT:384/1007/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/1007/SetString
+Enemy \\cdb[18:165:0] is defeated
 > END STRING
 
 > BEGIN STRING
 「\\cdb[18:166:1]」の撃破
-> CONTEXT COMMONEVENT:384/1016/SetString < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/1016/SetString
+「\\cdb[18:166:1]」’s defeat
 > END STRING
 
 > BEGIN STRING
 
 または
 「\\cdb[18:166:1]」の撃破
-> CONTEXT COMMONEVENT:384/1019/SetString < UNTRANSLATED
+> CONTEXT COMMONEVENT:384/1019/SetString
 
+Or
+「\\cdb[18:166:1]」’s defeat
 > END STRING
 
 > BEGIN STRING
 \\c[4]勝利条件\\c[0]：
 \\cself[5]
-> CONTEXT COMMONEVENT:384/1030/Picture < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/1030/Picture
+\\c[4]Victory condition\\c[0]：
+\\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\c[3]この設定で戦闘を開始します。\\c[0]
-> CONTEXT COMMONEVENT:384/1031/Message < UNTRANSLATED
-
+> CONTEXT COMMONEVENT:384/1031/Message
+\\c[3]Start the battle with these conditions.\\c[0]
 > END STRING
