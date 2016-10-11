@@ -534,7 +534,7 @@ Normal Attack (Skills)
 > END STRING
 
 > BEGIN STRING
-
+HPを5消費してダメージ2倍の攻撃をする
 > CONTEXT DB:DataBase/[0]技能/[37]カポエラキック(技能側)/[1]説明 < UNTRANSLATED
 
 > END STRING
