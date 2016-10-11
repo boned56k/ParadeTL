@@ -6,7 +6,7 @@
 > CONTEXT DB:DataBase/[0]技能/[25]防御/[0]技能の名前 < UNTRANSLATED
 > CONTEXT DB:DataBase/[6]戦闘コマンド/[4]防御/[0]コマンド名 < UNTRANSLATED
 > CONTEXT DB:DataBase/[8]状態設定/[5]防御/[0]状態名 < UNTRANSLATED
-
+Defense
 > END STRING
 
 > BEGIN STRING
@@ -15,19 +15,19 @@
 > CONTEXT DB:DataBase/[0]技能/[29]カウンター/[0]技能の名前 < UNTRANSLATED
 > CONTEXT DB:DataBase/[6]戦闘コマンド/[7]カウンター/[0]コマンド名 < UNTRANSLATED
 > CONTEXT DB:DataBase/[8]状態設定/[11]カウンター/[0]状態名 < UNTRANSLATED
-
+Counter
 > END STRING
 
 > BEGIN STRING
 通常攻撃（技能側）
 > CONTEXT DB:DataBase/[0]技能/[0]通常攻撃（技能側）/[0]技能の名前 < UNTRANSLATED
-
+Normal Attack (Skills)
 > END STRING
 
 > BEGIN STRING
 の攻撃！
 > CONTEXT DB:DataBase/[0]技能/[0]通常攻撃（技能側）/[3]使用時文章[戦闘](人名~ < UNTRANSLATED
-
+’s attack!
 > END STRING
 
 > BEGIN STRING
@@ -38,7 +38,7 @@
 > CONTEXT DB:DataBase/[0]技能/[24]--------------------/[0]技能の名前 < UNTRANSLATED
 > CONTEXT DB:DataBase/[0]技能/[32]--------------------/[0]技能の名前 < UNTRANSLATED
 > CONTEXT DB:DataBase/[0]技能/[34]--------------------/[0]技能の名前 < UNTRANSLATED
-
+--------------------
 > END STRING
 
 > BEGIN STRING
@@ -534,7 +534,7 @@
 > END STRING
 
 > BEGIN STRING
-HPを5消費してダメージ2倍の攻撃をする
+
 > CONTEXT DB:DataBase/[0]技能/[37]カポエラキック(技能側)/[1]説明 < UNTRANSLATED
 
 > END STRING
