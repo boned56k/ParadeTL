@@ -3,13 +3,13 @@
 > BEGIN STRING
 \\f[28]ステータス
 > CONTEXT COMMONEVENT:385/2/Picture < UNTRANSLATED
-
+\\f[28]Status
 > END STRING
 
 > BEGIN STRING
 \\f[24]\\cself[5]
 > CONTEXT COMMONEVENT:385/13/Picture < UNTRANSLATED
-
+\\f[24]\\cself[5]
 > END STRING
 
 > BEGIN STRING
@@ -21,25 +21,25 @@
 > BEGIN STRING
 \\f[24]Lv \\cself[10]
 > CONTEXT COMMONEVENT:385/17/Picture < UNTRANSLATED
-
+\\f[24]Lv \\cself[10]
 > END STRING
 
 > BEGIN STRING
 \\f[20]次Lvまで　 \\cself[12] Exp
 > CONTEXT COMMONEVENT:385/31/Picture < UNTRANSLATED
-
+\\f[20]Till next Lv　 \\cself[12] Exp
 > END STRING
 
 > BEGIN STRING
 \\f[24]所持金
 > CONTEXT COMMONEVENT:385/33/Picture < UNTRANSLATED
-
+\\f[24]Gold
 > END STRING
 
 > BEGIN STRING
 \\f[20]\\cself[10] \\udb[15:0:18]
 > CONTEXT COMMONEVENT:385/34/Picture < UNTRANSLATED
-
+\\f[20]\\cself[10] \\udb[15:0:18]
 > END STRING
 
 > BEGIN STRING
@@ -53,7 +53,14 @@
 撃退した敵の数
 与えたダメージ累計
 > CONTEXT COMMONEVENT:385/35/Picture < UNTRANSLATED
+Attack:
+Defence:
+Guard stamina:
+Swiftness:
 
+Ejaculation count:
+Enemies repeled:
+Total damage dealt:
 > END STRING
 
 > BEGIN STRING
@@ -98,53 +105,58 @@
 \\f[20]武器
 　\\cself[5]
 > CONTEXT COMMONEVENT:385/78/Picture < UNTRANSLATED
-
+\\f[20]Weapon
+　\\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[20]防具
 　\\cself[5]
 > CONTEXT COMMONEVENT:385/89/Picture < UNTRANSLATED
-
+\\f[20]Armour
+　\\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[20]装飾品1
 　\\cself[5]
 > CONTEXT COMMONEVENT:385/100/Picture < UNTRANSLATED
-
+\\f[20]Decoration1
+　\\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[20]装飾品2
 　\\cself[5]
 > CONTEXT COMMONEVENT:385/111/Picture < UNTRANSLATED
-
+\\f[20]Decoration2
+　\\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[20]装飾品3
 　\\cself[5]
 > CONTEXT COMMONEVENT:385/122/Picture < UNTRANSLATED
-
+\\f[20]Decoration3
+　\\cself[5]
 > END STRING
 
 > BEGIN STRING
 \\f[16]決定・キャンセル：閉じる
 > CONTEXT COMMONEVENT:385/123/Picture < UNTRANSLATED
-
+\\f[16]Click anywhere to close.
 > END STRING
 
 > BEGIN STRING
 \\f[20]詳しく見る\>
 > CONTEXT COMMONEVENT:385/125/Picture < UNTRANSLATED
-
+\\f[20]Details\>
 > END STRING
 
 > BEGIN STRING
 攻撃力：\n
 > CONTEXT COMMONEVENT:385/135/SetString < UNTRANSLATED
-
+Attack：\n
 > END STRING
 
 > BEGIN STRING
@@ -156,25 +168,25 @@
 > BEGIN STRING
 防御力：\n
 > CONTEXT COMMONEVENT:385/138/SetString < UNTRANSLATED
-
+Defense：\n
 > END STRING
 
 > BEGIN STRING
 ガード耐久力：\n
 > CONTEXT COMMONEVENT:385/141/SetString < UNTRANSLATED
-
+Guard Durability：\n
 > END STRING
 
 > BEGIN STRING
 敏捷性：\n
 > CONTEXT COMMONEVENT:385/144/SetString < UNTRANSLATED
-
+Swiftness：\n
 > END STRING
 
 > BEGIN STRING
 気力消費量：\n
 > CONTEXT COMMONEVENT:385/147/SetString < UNTRANSLATED
-
+Energy consumption：\n
 > END STRING
 
 > BEGIN STRING
@@ -192,55 +204,55 @@
 > BEGIN STRING
 チャージ攻撃力：\n
 > CONTEXT COMMONEVENT:385/158/SetString < UNTRANSLATED
-
+Charge attack：\n
 > END STRING
 
 > BEGIN STRING
 与ダメージ：\n
 > CONTEXT COMMONEVENT:385/163/SetString < UNTRANSLATED
-
+Damage addon：\n
 > END STRING
 
 > BEGIN STRING
  \\cself[30] ％\\c[3]増加\\c[0]\n
 > CONTEXT COMMONEVENT:385/166/SetString < UNTRANSLATED
-
+ \\cself[30] ％\\c[3]Increase\\c[0]\n
 > END STRING
 
 > BEGIN STRING
  \\cself[30] ％\\c[2]減少\\c[0]\n
 > CONTEXT COMMONEVENT:385/170/SetString < UNTRANSLATED
-
+ \\cself[30] ％\\c[2]Decrease\\c[0]\n
 > END STRING
 
 > BEGIN STRING
 被物理ダメージ：\n
 > CONTEXT COMMONEVENT:385/178/SetString < UNTRANSLATED
-
+Physical damage：\n
 > END STRING
 
 > BEGIN STRING
  \\cself[30] ％\\c[3]軽減\\c[0]\n
 > CONTEXT COMMONEVENT:385/186/SetString < UNTRANSLATED
-
+ \\cself[30] ％\\c[3]Reduction\\c[0]\n
 > END STRING
 
 > BEGIN STRING
  \\cself[30] ％\\c[2]増加\\c[0]\n
 > CONTEXT COMMONEVENT:385/190/SetString < UNTRANSLATED
-
+ \\cself[30] ％\\c[2]Increase\\c[0]\n
 > END STRING
 
 > BEGIN STRING
 被Hダメージ：\n
 > CONTEXT COMMONEVENT:385/198/SetString < UNTRANSLATED
-
+H-damage：\n
 > END STRING
 
 > BEGIN STRING
 状態異常発動率：\n
 > CONTEXT COMMONEVENT:385/218/SetString < UNTRANSLATED
-
+Abnormality movement rate：\n
 > END STRING
 
 > BEGIN STRING
@@ -259,7 +271,7 @@
 
 \\c[4]チャージ高速化
 > CONTEXT COMMONEVENT:385/231/SetString < UNTRANSLATED
-
+\\c[4]Charge speed
 > END STRING
 
 > BEGIN STRING
@@ -267,6 +279,7 @@
 \\c[4]連続HITダメージ増加
 > CONTEXT COMMONEVENT:385/236/SetString < UNTRANSLATED
 
+\\c[4]Hit combo bonus
 > END STRING
 
 > BEGIN STRING
@@ -274,6 +287,7 @@
 \\c[4]連続HIT数2倍
 > CONTEXT COMMONEVENT:385/241/SetString < UNTRANSLATED
 
+\\c[4]Double damage
 > END STRING
 
 > BEGIN STRING
@@ -281,6 +295,7 @@
 \\c[4]獲得経験値2倍
 > CONTEXT COMMONEVENT:385/246/SetString < UNTRANSLATED
 
+\\c[4]Double experience
 > END STRING
 
 > BEGIN STRING
@@ -288,6 +303,7 @@
 \\c[4]獲得経験値20倍
 > CONTEXT COMMONEVENT:385/249/SetString < UNTRANSLATED
 
+\\c[4]20xp multiplier
 > END STRING
 
 > BEGIN STRING
@@ -295,6 +311,7 @@
 \\c[4]獲得経験値50倍
 > CONTEXT COMMONEVENT:385/252/SetString < UNTRANSLATED
 
+\\c[4]50xp multiplier
 > END STRING
 
 > BEGIN STRING
@@ -302,6 +319,7 @@
 \\c[4]戦闘時獲得金2倍
 > CONTEXT COMMONEVENT:385/257/SetString < UNTRANSLATED
 
+\\c[4]Double gold
 > END STRING
 
 > BEGIN STRING
@@ -309,6 +327,7 @@
 \\c[4]アイテムドロップ率3倍
 > CONTEXT COMMONEVENT:385/262/SetString < UNTRANSLATED
 
+\\c[4]Item drop rate x3 multiplier
 > END STRING
 
 > BEGIN STRING
@@ -316,6 +335,7 @@
 \\c[4]カウンターしやすくなる
 > CONTEXT COMMONEVENT:385/267/SetString < UNTRANSLATED
 
+\\c[4]Easier counter
 > END STRING
 
 > BEGIN STRING
@@ -323,6 +343,7 @@
 \\c[4]FLASHカウント＋20
 > CONTEXT COMMONEVENT:385/272/SetString < UNTRANSLATED
 
+\\c[4]FLASHCOUNT＋20
 > END STRING
 
 > BEGIN STRING
@@ -330,6 +351,7 @@
 \\c[4]射精しても解放されない
 > CONTEXT COMMONEVENT:385/277/SetString < UNTRANSLATED
 
+\\c[4]No release after ejaculation
 > END STRING
 
 > BEGIN STRING
@@ -337,6 +359,7 @@
 \\c[4]何度も射精
 > CONTEXT COMMONEVENT:385/282/SetString < UNTRANSLATED
 
+\\c[4]Multiple Ejaculations
 > END STRING
 
 > BEGIN STRING
@@ -344,6 +367,7 @@
 \\c[4]射精しやすい
 > CONTEXT COMMONEVENT:385/287/SetString < UNTRANSLATED
 
+\\c[4]Suseptible to Ejaculations
 > END STRING
 
 > BEGIN STRING
@@ -351,6 +375,7 @@
 \\c[4]ガード時HP回復
 > CONTEXT COMMONEVENT:385/292/SetString < UNTRANSLATED
 
+\\c[4]HP Recovery while guarding
 > END STRING
 
 > BEGIN STRING
