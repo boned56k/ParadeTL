@@ -121,7 +121,7 @@ Total damage dealt:
 \\f[20]装飾品1
 　\\cself[5]
 > CONTEXT COMMONEVENT:385/100/Picture < UNTRANSLATED
-\\f[20]Decoration1
+\\f[20]Accessory1
 　\\cself[5]
 > END STRING
 
@@ -129,7 +129,7 @@ Total damage dealt:
 \\f[20]装飾品2
 　\\cself[5]
 > CONTEXT COMMONEVENT:385/111/Picture < UNTRANSLATED
-\\f[20]Decoration2
+\\f[20]Accessory2
 　\\cself[5]
 > END STRING
 
@@ -137,7 +137,7 @@ Total damage dealt:
 \\f[20]装飾品3
 　\\cself[5]
 > CONTEXT COMMONEVENT:385/122/Picture < UNTRANSLATED
-\\f[20]Decoration3
+\\f[20]Accessory3
 　\\cself[5]
 > END STRING
 
