@@ -12,10 +12,7 @@ Contributing
 
 Find a .txt file that needs some translations and then do the following:
 ![Howto](http://i.imgur.com/R1JG2QZ.png)
-
-Or if you know how to use Git
-
-Clone this repository and begin modifying the translation text files. I've added an example of a before and after below. Once you have completed some translations, submit a github pull request (pull request guide: https://help.github.com/articles/creating-a-pull-request/). I will merge it into the main branch after quality checking it ASAP.
+Just do one .txt file at a time and submit your changes. Git is really great at resolving any conflicts and showing other people what has been done.
 
 
 How to translate
@@ -67,3 +64,9 @@ It is complicated.
 OR
 
 Just wait for the patched version on your favorite forums.
+
+
+Why should I contribute?
+-------------
+
+This repository is open/free as in freedom. If you don't like it's direction, you can clone/fork it and do whatever you want with it. That means anything done here will be a contribution to the end purpose of delivering a translation patch for the game. Don't worry about your effort clashing with somebody else's. That is what git is for; resolving conflicts easily and showing progress.
