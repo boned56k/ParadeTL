@@ -70,3 +70,5 @@ Why should I contribute?
 -------------
 
 This repository is open/free as in freedom. If you don't like it's direction, you can clone/fork it and do whatever you want with it. That means anything done here will be a contribution to the end purpose of delivering a translation patch for the game. Don't worry about your effort clashing with somebody else's. That is what git is for; resolving conflicts easily and showing progress.
+
+If you are the author of this game, you should consider using some of your time or income to translate your game to English. We would appreciate it.
